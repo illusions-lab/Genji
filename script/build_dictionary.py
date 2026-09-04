@@ -591,7 +591,7 @@ def _make_entity_injected_stream(xml_path: Path) -> BytesIO:
             all_entities[k] = k
 
     entity_block = "\n".join(
-        f'<!ENTITY {k} "{v.replace("&", "&amp;").replace('"', "&quot;")}">'
+        f'<!ENTITY {k} "{v.replace("&", "&amp;").replace(chr(34), "&quot;")}">'
         for k, v in all_entities.items()
     )
     doctype = f"""<!DOCTYPE JMdict [

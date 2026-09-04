@@ -251,15 +251,18 @@ def _get_tokenizer():
 class Analyzed:
     """1 語の解析結果。"""
 
-    __slots__ = ("surface", "canonical", "reading", "pos", "ctype")
+    __slots__ = ("surface", "canonical", "reading", "pos", "ctype",
+                 "reading_failure_reason")
 
     def __init__(self, surface: str, canonical: str, reading: str,
-                 pos: list[str], ctype: Optional[str]) -> None:
+                 pos: list[str], ctype: Optional[str],
+                 reading_failure_reason: Optional[str] = None) -> None:
         self.surface = surface
         self.canonical = canonical
         self.reading = reading
         self.pos = pos
         self.ctype = ctype
+        self.reading_failure_reason = reading_failure_reason
 
 
 def analyze_word(word: str) -> Optional[Analyzed]:
@@ -284,9 +287,10 @@ def analyze_word(word: str) -> Optional[Analyzed]:
         reading = _kata_to_hira("".join(m.reading_form() for m in rmorphs))
     except Exception:
         reading = ""
-    if not reading:
-        reading = _kata_to_hira("".join(m.reading_form() for m in morphs))
-    reading = reading or canonical
+    if not is_valid_reading(reading):
+        original_reading = _kata_to_hira("".join(m.reading_form() for m in morphs))
+        reading = original_reading if is_valid_reading(original_reading) else ""
+    failure_reason = None if reading else "sudachi_no_valid_reading"
 
     # 品詞は元表記先頭形態素の大分類から
     raw_pos = morphs[0].part_of_speech()
@@ -294,7 +298,7 @@ def analyze_word(word: str) -> Optional[Analyzed]:
     label = _SUDACHI_POS_MAP.get(major, major or "未分類")
     ctype = raw_pos[4] if len(raw_pos) > 4 and raw_pos[4] not in ("", "*") else None
 
-    return Analyzed(word, canonical, reading, [label], ctype)
+    return Analyzed(word, canonical, reading, [label], ctype, failure_reason)
 
 
 # ──────────────────────────────────────────────────────────
@@ -396,14 +400,16 @@ class AbsorbOp:
 class NewWord:
     """新語エントリ（canonical でグループ化）。"""
 
-    __slots__ = ("canonical", "reading", "pos", "ctype", "variants", "count")
+    __slots__ = ("canonical", "reading", "pos", "ctype", "variants", "count",
+                 "reading_failure_reason")
 
     def __init__(self, canonical: str, reading: str, pos: list[str],
-                 ctype: Optional[str]) -> None:
+                 ctype: Optional[str], reading_failure_reason: Optional[str] = None) -> None:
         self.canonical = canonical
         self.reading = reading
         self.pos = pos
         self.ctype = ctype
+        self.reading_failure_reason = reading_failure_reason
         self.variants: set[str] = set()
         self.count = 0
 
@@ -428,7 +434,8 @@ def classify(
     def _add_new(canonical: str, an: "Analyzed", word: str, count: int) -> None:
         nw = news.get(canonical)
         if nw is None:
-            nw = NewWord(canonical, an.reading, an.pos, an.ctype)
+            nw = NewWord(canonical, an.reading, an.pos, an.ctype,
+                         an.reading_failure_reason)
             news[canonical] = nw
         if word != canonical:
             nw.variants.add(word)
@@ -475,7 +482,8 @@ def classify(
             continue
         nw = news.get(canonical)
         if nw is None:
-            nw = NewWord(canonical, an.reading, an.pos, an.ctype)
+            nw = NewWord(canonical, an.reading, an.pos, an.ctype,
+                         an.reading_failure_reason)
             news[canonical] = nw
         if word != canonical:
             nw.variants.add(word)
@@ -558,6 +566,9 @@ def make_new_record(nw: NewWord, examples: list[dict], updated_at: str) -> dict:
     # Unicode 上の仮名読みとして完結しない場合は正式データへ入れず、後段で補完する。
     if not is_valid_reading(nw.reading):
         meta["needs_reading"] = True
+        meta["reading_failure_reason"] = (
+            nw.reading_failure_reason or "reading_is_not_valid_kana"
+        )
     if nw.count:
         meta["frequencies"] = {"aozora": nw.count}
     if nw.variants:

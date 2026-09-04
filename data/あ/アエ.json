@@ -604,5 +604,273 @@
         "aozora": 4
       }
     }
+  },
+  {
+    "uuid": "cdd7693b-45c9-5afd-88f9-c98600e07877",
+    "entry": "阿英",
+    "reading": {
+      "primary": "あえ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「秦さん、秦さん、阿英さんはなぜ来ないの。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「私は幼な名を阿英というのです。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿英は固くそれを止めた。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿英は矜み深くて、身をきちんとしていた。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その阿英は嫂に母のように事えた。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嫂もまた阿英をひどく可愛がった。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "は阿英をやるのが厭であったからおもしろくなかった。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿英は婢を先に帰して後からゆくことにした。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして婢が帰っていって暫くしても、阿英は坐って冗談をいって動かなかった。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "※は嫂を長く待たしてはいけないと思って、阿英を促したが阿英は笑うばかりで、どうしてもいかなかった。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朝になって阿英が身じまいをすましたところで嫂が自身で阿英をなぐさめに来た。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　阿英は微かに笑った。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "※は嫂に阿英がいっていたかいないかをたしかめたうえで阿英と対質した。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿英の言薬はつじつまが合わなかった。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿英は確かに分身していた。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と、阿英は一羽の鸚鵡になって、ひらひらと飛んでいった。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　家の者もやはりそういっても始めて阿英が旧約があるといった言葉の意味を悟ることができた。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "果してそれは阿英であった。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嫂は阿英を見て泣いた。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　阿英はそこで勧めて家へ帰そうとした。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿英は強いていった。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿英は土で戸を塞いで家の中から外へ出ないようにさした。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿英は仕方なしにいることになった。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嫂は平生阿英に新婦は美しくないからが入っていくと姜は数倍美しさを増していた。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "甘の家ではますます阿英を徳として、神のように尊敬した。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "不意に阿英は嫂にいった。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　嫂は阿英を止めてその晩は寝さしたが、夜の明けきらないうちにもういってしまった。",
+              "citation": {
+                "source": "阿英",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 41
+      }
+    }
   }
 ]

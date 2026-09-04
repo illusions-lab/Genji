@@ -585,5 +585,121 @@
         "aozora": 72
       }
     }
+  },
+  {
+    "uuid": "a16d5c14-adf2-561b-8f05-da5051beb788",
+    "entry": "嶺々",
+    "reading": {
+      "primary": "ねね",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "中央アジアの、人煙稀薄な曠野の果てに、剣のような嶺々が、万古の雪をいただいて連なっている。",
+              "citation": {
+                "source": "柿の種",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それより奥の方、甲斐境信濃境の高き嶺々重なり聳えて天の末をば限りたるは、雁坂十文字など名さえすさまじく呼ぶものなるべし。",
+              "citation": {
+                "source": "知々夫紀行",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "途中は、麗江のあたりから二万フィート級の嶺々が、約七、八百キロのあいだをぎっしりと埋めている。",
+              "citation": {
+                "source": "人外魔境",
+                "author": "天母峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "右に紅葉の嶺々を見る。",
+              "citation": {
+                "source": "碓氷峠",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "甲府を見れば、東に蜿蜒として走る大道――いわゆる甲州街道、門柱としての笹子、大菩薩の嶺々を見ないわけにはゆきますまい――　東に走る大道を見れば、自然、そこで、ついこの間まで暫くの間、数奇なる転変をつづけていたところの生活を、思い出でないという限りはありますまい。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "年魚市の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして波間に漂う落葉の色を見ると、奥の嶺々を飾っていた紅葉は、そろそろ散り始めて山肌をあらわに薄寒く、隣の谷まで忍び寄ってきた冬に慄いているさまが想えるのである。",
+              "citation": {
+                "source": "木の葉山女魚",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "反抗のどよめきは故郷の村にまで伝はり自由の歌は咸鏡の嶺々に谺したおゝ、山から山、谷から谷に溢れ出た虐げられたものらの無数の列よ！",
+              "citation": {
+                "source": "間島パルチザンの歌",
+                "author": "槇村浩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一同、勝鬨の声をあわせて、万歳を三唱した頃、長江の水は白々と明け放れ、鳳凰山、紫金山の嶺々に朝陽は映えていた。",
+              "citation": {
+                "source": "三国志",
+                "author": "草莽の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
   }
 ]

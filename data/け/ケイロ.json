@@ -946,5 +946,81 @@
         "徑路"
       ]
     }
+  },
+  {
+    "uuid": "3e70408e-ec37-5461-82a1-497d3e44c891",
+    "entry": "逕路",
+    "reading": {
+      "primary": "けいろ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "始めて君を見し時の事を今より考ふれば殆ど夢の如き感ありて、後来余の意見も趣味も君の教示によりて幾多の変遷を来し、君の生涯もまたこの時以後、前日と異なる逕路を取りしを思へばこの会合は無趣味なるが如くにしてその実前後の大関鍵たりしなり。",
+              "citation": {
+                "source": "墨汁一滴",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "千々岩は分明に叔母が心の逕路をたどりて、これよりおりおり足を運びては、たださりげなく微雨軽風の両三点を放って、その顧慮をゆるめ、その萌芽をつちかいつつ、局面の近くに発展せん時を待ちぬ。",
+              "citation": {
+                "source": "不如帰　小説",
+                "author": "徳冨蘆花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やがて、米人フィシャー氏、嘉与吉を案内として、南口から直接登って来た、氏は昨夜温泉で、我行を聞き、同一｜逕路を取らんため来たのである。",
+              "citation": {
+                "source": "穂高岳槍ヶ岳縦走記",
+                "author": "鵜殿正雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
   }
 ]

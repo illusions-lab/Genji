@@ -482,5 +482,105 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
     }
+  },
+  {
+    "uuid": "37c9e08a-da57-57fa-ae44-7c203ba3d8ed",
+    "entry": "睚眦",
+    "reading": {
+      "primary": "がいさい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "睚眦の恨は人を欺く笑の衣に包めども、解け難き胸の乱れは空吹く風の音にもざわつく。",
+              "citation": {
+                "source": "幻影の盾",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「自分は平生露西亜の新聞や雑誌を読んで論調を察するに、露西亜人の日本に対する睚眦の怨は結んでなかなか解けない。",
+              "citation": {
+                "source": "二葉亭四迷の一生",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しなやかな長い腕の動きが、彼の睚眦に震へを感じさせた。",
+              "citation": {
+                "source": "奥間巡査",
+                "author": "池宮城積宝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "表面、愚を装うて、内心｜睚眦の怨みまでも記憶していて、時を待って、極めて温柔に、しかして深刻に、その恨みをむくゆるというような執念が、この男に、微塵も存しているということを想像だもするものはないのであります。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "みちりやの巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大岡氏は政治家としては固より伊藤侯を推す可きも、山縣侯とは亦切て切れられざる關係あるに於て、其兩侯の睚眦反目を融解せむと勉むるは何ぞ怪むに足らむや。",
+              "citation": {
+                "source": "明治人物月旦（抄）",
+                "author": "鳥谷部春汀",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大岡氏は政治家としては固より伊藤侯を推す可きも、山県侯とは亦切て切れられざる関係あるに於て、其両侯の睚眦反目を融解せむと勉むるは何ぞ怪むに足らむや。",
+              "citation": {
+                "source": "明治人物月旦（抄）",
+                "author": "鳥谷部春汀",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
   }
 ]

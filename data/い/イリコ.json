@@ -966,5 +966,137 @@
         "aozora": 3
       }
     }
+  },
+  {
+    "uuid": "870f405a-f535-5472-b3d1-062d64ee54a9",
+    "entry": "炒粉",
+    "reading": {
+      "primary": "いりこ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "炒粉が思ふやうに茹らないと云つて泣き入つたまゝ氣絶して、一時は助らないと思はれたさうだ。",
+              "citation": {
+                "source": "母と子",
+                "author": "正宗白鳥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "きな粉・炒粉のように火にかけたものもまた砕けやすい。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし是もまたかつては皆はたいて粉にしていたことは、炒粉をハッタイと謂うただ一つの語からでも判る。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大豆の炒粉はキナコと謂って今も普通であるが、豆にはご汁や豆腐のために今一つの水浸けの法も行われている。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから考えていくと、滋賀県北部などで麦の炒粉をカミコと謂うのと、飛騨で焼米をカミゴメというのと、二つの言葉の似ているのは偶然でなく、双方ともに以前は儀式の食物であったことが推察せられる。",
+              "citation": {
+                "source": "木綿以前の事",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが東北では或飢饉の年に、炒粉を山畠に働いて居る父の処へ持って行く児が、中途で路草を食って居たので父は餓死してしまった。",
+              "citation": {
+                "source": "夢と文芸",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "イカシバットウといふのは之を粉に挽いたもので、此地方のハットウは多分炒粉であらう。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "コウセン即ち麥の炒粉に、このトンコを合せ練つて、甘味をつけて食べるといふ（布部郷土誌）。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "イカシバットウというのはこれを粉に挽いたもので、この地方のハットウは多分｜炒粉であろう。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "コウセンすなわち麦の炒粉に、このトンコを合せ練って、甘味をつけて食べるという（布部郷土誌）。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
   }
 ]

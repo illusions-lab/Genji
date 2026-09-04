@@ -415,5 +415,81 @@
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
       "updated_at": "2026-03-22T12:50:57Z"
     }
+  },
+  {
+    "uuid": "294db3bb-67d9-5e91-a8e7-f643bea47119",
+    "entry": "罔両",
+    "reading": {
+      "primary": "もうりょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ドイツの俚説に灰上に家鴨や鵞の足形を印すれば、罔両ありと知るという（タイラー『原始人文篇』二板、二巻一九八頁）。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鶏に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昼はまれ／＼訪ふ人々に心を動かし、或は宮守の翁、里のをのこ共入り来りて、猪の稲食ひ荒し兎の豆畑に通ふなど我聞知らぬ農談、日已に山の端にかゝれば、夜坐静に月を待てば影を伴ひ、燈を取りては罔両に是非をこらす。",
+              "citation": {
+                "source": "俳句はかく解しかく味う",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秋の日や釣する人の罔両　　　　雲水「罔両」は「カゲボウシ」とよむのであろう。",
+              "citation": {
+                "source": "古句を観る",
+                "author": "柴田宵曲",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

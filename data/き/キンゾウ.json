@@ -1,0 +1,118 @@
+[
+  {
+    "uuid": "d7efb144-60e3-53f0-a5df-992a52ef01db",
+    "entry": "謹三",
+    "reading": {
+      "primary": "きんぞう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "松野謹三、渠は去年の秋、故郷の家が焼けたにより、東京の学校を中途にして帰ったまま、学資の出途に窮するため、拳を握り、足を爪立てているのである。",
+              "citation": {
+                "source": "瓜の涙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――今朝も、その慈愛の露を吸った勢で、謹三がここへ来たのは、金石の港に何某とて、器具商があって、それにも工賃の貸がある……懸を乞いに出たのであった――　若いものの癖として、出たとこ勝負の元気に任せて、影も見ないで、日盛を、松並木の焦げるがごとき中途に来た。",
+              "citation": {
+                "source": "瓜の涙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれども人々は、ただ雲を掴んで影を視めるばかりなのを……謹三は一人その花吹く天――雲井桜を知っていた。",
+              "citation": {
+                "source": "瓜の涙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "謹三は、ハッと後退りに退った。",
+              "citation": {
+                "source": "瓜の涙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「火事だ、」謹三はほとんど無意識に叫んだ。",
+              "citation": {
+                "source": "瓜の涙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "謹三の袖に、ああ、娘が、引添う。",
+              "citation": {
+                "source": "瓜の涙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と口の裡、呼吸を引くように、胸の浪立った娘の手が、謹三の袂に縋って、「可恐い……」「…………」「どうしましょうねえ。",
+              "citation": {
+                "source": "瓜の涙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と引いて縋る、柔い細い手を、謹三は思わず、しかと取った。",
+              "citation": {
+                "source": "瓜の涙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

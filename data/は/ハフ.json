@@ -867,5 +867,113 @@
         "aozora": 17
       }
     }
+  },
+  {
+    "uuid": "8ec74067-454f-5403-a38d-1893520cdff6",
+    "entry": "搏風",
+    "reading": {
+      "primary": "はふ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その奥の、搏風だけゴチック賽に造った、ペンキ塗のがらくた普請が会堂で、仏蘭西語を習いに行く、少数の青年の外には、いつまで立っても、この中へ這入って来る人はない。",
+              "citation": {
+                "source": "青年",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して彼等の色彩に對する要求は之を以つて滿足せずに、汽船宿の搏風を赤く塗り、和洋折衷の鰹船の舷を群青で飾るのである。",
+              "citation": {
+                "source": "海郷風物記",
+                "author": "木下杢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "家の正面には搏風がある。",
+              "citation": {
+                "source": "十三時",
+                "author": "THE DEVIL IN THE BELFRY",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "家々の搏風からは、市の定色に染めた旗がひらめいている。",
+              "citation": {
+                "source": "みれん",
+                "author": "シュニッツレル　Arthur Schnitzler",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自分達も復活して、低い家の鬱陶しい間から出たり、手職や商売の平生の群を離れたり、頭の上を押さえている屋根や搏風の下を遁れたり、925肩の摩れ合うような狭い巷や礼拝堂の尊い闇から出たりして、外の明を浴びているのだから、無理は無い。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だがお前方はあの屋根の搏風を支えた梁に、黐に著いた鶇のように、並べて吊るされるのだ。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "曲がりくねった、狭い町、とんがった搏風、けちな市場、大根、菜っ葉、葱がある。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
   }
 ]

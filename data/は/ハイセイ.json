@@ -524,5 +524,105 @@
         "aozora": 1
       }
     }
+  },
+  {
+    "uuid": "4b013daf-41f1-56d9-ad26-30f44b4c4f1a",
+    "entry": "俳星",
+    "reading": {
+      "primary": "はいせい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "承知しながらもとうとう長居になって夕飯をもてなされ七時頃にいとまもうした附記是は赤木格堂が為に先生の病情を見のまま記して送れるなり明治参拾四年二月十五日明治34年３月『俳星』署名　伊藤左千夫",
+              "citation": {
+                "source": "根岸庵訪問の記",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（三月二十四日）　羽後能代の雑誌『俳星』は第二巻第一号を出せり。",
+              "citation": {
+                "source": "墨汁一滴",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "南瓜道人『俳星』の首に題して曰く風流たる蛸公子。",
+              "citation": {
+                "source": "墨汁一滴",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "月兎の「比翼蓙」につきて『俳星』に論あり。",
+              "citation": {
+                "source": "墨汁一滴",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（六月十九日）『俳星』に虚明の「お水取」といふ文があつて奈良の二月堂の水取の事が細しく書いてある。",
+              "citation": {
+                "source": "墨汁一滴",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "またこの人に次いで秋田地方では、島田五工氏なども、子規氏の俳風に同化して、俳星という雑誌まで出していたが、この頃は心機一転したものか、それを出す事もやめてしまった。",
+              "citation": {
+                "source": "鳴雪自叙伝",
+                "author": "内藤鳴雪",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
   }
 ]

@@ -665,5 +665,273 @@
         "aozora": 1083
       }
     }
+  },
+  {
+    "uuid": "2d51dc4a-5e8f-5f32-a85c-94956b73ff2e",
+    "entry": "磅",
+    "reading": {
+      "primary": "ポンド",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "渠らが十年語りて尽くすべからざる心底の磅※は、実にこの瞬息において神会黙契されけるなり。",
+              "citation": {
+                "source": "義血侠血",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こう見て来ますと、この中老の番頭には危機が危機でなく安泰が安泰でなく、何事も両極が磅※して、それでどっかに中心を取って行く、妙に粘りのある渾沌が見出されて来ます。",
+              "citation": {
+                "source": "生々流転",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして維持費として五万｜磅を添えたのであった。",
+              "citation": {
+                "source": "決闘場",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この邸には十七万｜磅ほどの保険がつけてある。",
+              "citation": {
+                "source": "バットクラス",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が文三無念で残念で口惜しくて、堪え切れぬ憤怒の気がカッとばかりに激昂したのをば無理無体に圧着けた為めに、発しこじれて内攻して胸中に磅※鬱積する、胸板が張裂ける、腸が断絶れる。",
+              "citation": {
+                "source": "浮雲",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ですから彼女は年七分の利に廻る四千五百｜磅の株券を持っていました。",
+              "citation": {
+                "source": "黄色な顔",
+                "author": "THE YELLOW FACE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は年に七八百｜磅の収入がありますから、私たちは別に不自由はしておりません。",
+              "citation": {
+                "source": "黄色な顔",
+                "author": "THE YELLOW FACE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それに私はノーブリーに年に八｜磅あがるちょっとした別荘を持っております。",
+              "citation": {
+                "source": "黄色な顔",
+                "author": "THE YELLOW FACE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――じア、私、百｜磅入要なの」　と彼女は申しました。",
+              "citation": {
+                "source": "黄色な顔",
+                "author": "THE YELLOW FACE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして私が近寄って行くと、急に、かくれてしまうのでした」「それはあなたの奥さんが、あなたに百｜磅請求してから、どのくらい後でしたか？",
+              "citation": {
+                "source": "黄色な顔",
+                "author": "THE YELLOW FACE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "で彼女は百｜磅を夫からもらって、それで彼等を追払おうとした。",
+              "citation": {
+                "source": "黄色な顔",
+                "author": "THE YELLOW FACE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は乳母に百｜磅送ってやりました。",
+              "citation": {
+                "source": "黄色な顔",
+                "author": "THE YELLOW FACE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "カラタール氏は、一｜哩について五｜志という規定の特別乗車賃の割合で、総額五十｜磅五｜志を支払うが早いか、あくあくしながら、例の連れの男を促して、まだ三十分はたっぷり間があろうというに、はや仕立てられた客車に乗込んで定めの室に席を占めた。",
+              "citation": {
+                "source": "臨時急行列車の紛失",
+                "author": "コナン・ドイル",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "英貨にすれば二十｜磅の金、それだけの金を自分はお前宛に送る。",
+              "citation": {
+                "source": "臨時急行列車の紛失",
+                "author": "コナン・ドイル",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私はコクソンの店にいる時は、一週に三ポンドもらっていましたので、それを貯金して七十｜磅持っていました。",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――給料も一週に一｜磅のぼりましたし、それでいて仕事はコクソンの店とちょうど同じようなことなんです。",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「百五｜磅から百五｜磅四分ノ一まで」「では、ニュウジーランド国庫公債は？",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「百四｜磅」「ブリティッシ・ブローラン・ヒルは？",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「七｜磅から七｜磅六まで」「素適だ！",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私たちは初任給として、あなたに五百｜磅さし上げることが出来るにすぎませんが――」「五百｜磅、一年に！",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「モウソンは私に二百｜磅くれるだけです。",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さあ、ここに百｜磅の小切手があります。",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてすみませんが、「最低俸給五百｜磅にて、フランス中部鉄器株式会社営業支配人として働くことに同意致し候」と、お書きになって下さい」　私は彼の云う通りにしました。",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――これは俸給の前払いの百｜磅です。",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一方では確実に仕事をする約束をして、百｜磅をポケットの中に持っていながら、一方では、事務所の外見、壁の上に会社の名前が出ていなかったこと、それからその他事務家の注意しないではいられない部分などが、私のその雇主の位置に対して悪印象を残しているのでした。",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "有名なる仲買店モウソン・ウィリアム会社には、常に百万｜磅以上に相当する株券、債券、あるいは保証金などのあるため、番人を常備しありたる上、支配人は用心深く、彼が負わされているそれらの重用物件のために、最新式の金庫を数個用意し、その上ビルディング内には、昼夜の別なく見張人を残しありたるなり。",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その袋の中よりは、十万｜磅に近き価格のあるアメリカの鉄道の社債やその他巨額の、炭鉱あるいは諸会社の株券などが発見せられたり。",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 886
+      }
+    }
   }
 ]

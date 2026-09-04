@@ -1,0 +1,1355 @@
+{
+  "generated_at": "2026-09-04T10:47:15Z",
+  "migrations": [
+    {
+      "entry": "乢",
+      "reading": "たわ",
+      "old_uuid": "f1dee2f5-1bdf-5c83-a89e-3ba938729f2f",
+      "new_uuid": "a3e62ab2-2264-5ba5-86e4-7f77c223d4cf",
+      "source_path": "pending/needs_reading/U+4E00-U+4EFF/乢.json",
+      "source_row": 1,
+      "target_path": "data/た/タワ.json",
+      "evidence": [
+        {
+          "reading": "たわ",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5723107:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "依山",
+      "reading": "いざん",
+      "old_uuid": "161aadaa-bac9-5676-a4b6-e2d678123ddc",
+      "new_uuid": "853bcef6-0d28-55a1-b80e-d0dc38ce84e5",
+      "source_path": "pending/needs_reading/U+4F00-U+4FFF/依山.json",
+      "source_row": 1,
+      "target_path": "data/い/イザン.json",
+      "evidence": [
+        {
+          "reading": "いざん",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5116884:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "俳星",
+      "reading": "はいせい",
+      "old_uuid": "290ef70b-67fd-522c-b5c4-73bd924b61bf",
+      "new_uuid": "4b013daf-41f1-56d9-ad26-30f44b4c4f1a",
+      "source_path": "pending/needs_reading/U+4F00-U+4FFF/俳星.json",
+      "source_row": 1,
+      "target_path": "data/は/ハイセイ.json",
+      "evidence": [
+        {
+          "reading": "はいせい",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5589219:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "厳励",
+      "reading": "げんれい",
+      "old_uuid": "a3d33e5a-c818-5b38-a19e-5b499aba9ba4",
+      "new_uuid": "bc51c61b-7ee8-5a78-a045-9975aa4fae01",
+      "source_path": "pending/needs_reading/U+5300-U+53FF/ゲン励.json",
+      "source_row": 1,
+      "target_path": "data/げ/ゲンレイ.json",
+      "evidence": [
+        {
+          "reading": "げんれい",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5253885:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "厂",
+      "reading": "がんだれ",
+      "old_uuid": "81b6697f-76d1-506c-8cdc-3a39e2e3ebe4",
+      "new_uuid": "ce4b97f7-9f36-5ad3-bc0a-343b1df83db6",
+      "source_path": "pending/needs_reading/U+5300-U+53FF/厂.json",
+      "source_row": 1,
+      "target_path": "data/が/ガンダレ.json",
+      "evidence": [
+        {
+          "reading": "がんだれ",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2175600:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "呵嘖",
+      "reading": "かしゃく",
+      "old_uuid": "3ee2f586-63ba-5fa9-9569-ba6510916236",
+      "new_uuid": "e74a9e14-1377-58a5-b643-81ffcfa5327e",
+      "source_path": "pending/needs_reading/U+5400-U+54FF/呵嘖.json",
+      "source_row": 1,
+      "target_path": "data/か/カシャク.json",
+      "evidence": [
+        {
+          "reading": "かしゃく",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1565090:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "咢堂",
+      "reading": "がくどう",
+      "old_uuid": "00325a83-24b4-5f11-b23f-49a0483ee6f4",
+      "new_uuid": "b1243316-c534-5b44-9d25-2ee7599c6fc2",
+      "source_path": "pending/needs_reading/U+5400-U+54FF/咢堂.json",
+      "source_row": 1,
+      "target_path": "data/が/ガクドウ.json",
+      "evidence": [
+        {
+          "reading": "がくどう",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5721149:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "嗜慾",
+      "reading": "しよく",
+      "old_uuid": "98b1a865-58c1-55ca-a812-6b3ea896543d",
+      "new_uuid": "7a53e53a-1459-5776-8868-fa472a0a6cc8",
+      "source_path": "pending/needs_reading/U+5500-U+55FF/嗜慾.json",
+      "source_row": 1,
+      "target_path": "data/し/シヨク.json",
+      "evidence": [
+        {
+          "reading": "しよく",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2843127:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "噛傷",
+      "reading": "かみきず",
+      "old_uuid": "6d801185-c046-5323-b8e1-a07e183d4a09",
+      "new_uuid": "75404cbe-1a1f-59f5-8db6-f54b60fb022d",
+      "source_path": "pending/needs_reading/U+5600-U+56FF/噛傷.json",
+      "source_row": 1,
+      "target_path": "data/か/カミキズ.json",
+      "evidence": [
+        {
+          "reading": "かみきず",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1761860:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "圦",
+      "reading": "ふせ",
+      "old_uuid": "6517c537-ec81-5b69-8373-294998bf768e",
+      "new_uuid": "e494ca97-59ae-56ce-b756-9dcb42b70a18",
+      "source_path": "pending/needs_reading/U+5700-U+57FF/圦.json",
+      "source_row": 1,
+      "target_path": "data/ふ/フセ.json",
+      "evidence": [
+        {
+          "reading": "ふせ",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5721804:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "如玉",
+      "reading": "ゆき",
+      "old_uuid": "6f4982c4-06c6-5193-8e7d-f6d755ce27ab",
+      "new_uuid": "79b7f36f-70b1-5519-96fd-b6188deb3ebb",
+      "source_path": "pending/needs_reading/U+5900-U+59FF/如玉.json",
+      "source_row": 1,
+      "target_path": "data/ゆ/ユキ.json",
+      "evidence": [
+        {
+          "reading": "ゆき",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5584341:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "如石",
+      "reading": "じょせき",
+      "old_uuid": "44a3b15b-3a12-5aee-aa21-9ee6acda0af4",
+      "new_uuid": "636d8b63-1986-5122-bcec-835a536219fa",
+      "source_path": "pending/needs_reading/U+5900-U+59FF/如石.json",
+      "source_row": 1,
+      "target_path": "data/じ/ジョセキ.json",
+      "evidence": [
+        {
+          "reading": "じょせき",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5584395:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "岷山",
+      "reading": "みんざん",
+      "old_uuid": "e53317fa-aee0-5e9c-b641-2f344e8c8cda",
+      "new_uuid": "180fc31c-b8ee-5c66-88e2-e0a3ab835f18",
+      "source_path": "pending/needs_reading/U+5C00-U+5CFF/岷山.json",
+      "source_row": 1,
+      "target_path": "data/み/ミンザン.json",
+      "evidence": [
+        {
+          "reading": "みんざん",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5723166:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "崢",
+      "reading": "ぜん",
+      "old_uuid": "6350f135-fb91-58f8-9226-9c1212c95148",
+      "new_uuid": "eba78a6c-af1a-5777-a498-6fa829a77562",
+      "source_path": "pending/needs_reading/U+5D00-U+5DFF/崢.json",
+      "source_row": 1,
+      "target_path": "data/ぜ/ゼン.json",
+      "evidence": [
+        {
+          "reading": "ぜん",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5723290:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "嶺々",
+      "reading": "ねね",
+      "old_uuid": "db22ca4b-d2a5-531f-941f-50cb069f17cf",
+      "new_uuid": "a16d5c14-adf2-561b-8f05-da5051beb788",
+      "source_path": "pending/needs_reading/U+5D00-U+5DFF/嶺々.json",
+      "source_row": 1,
+      "target_path": "data/ね/ネネ.json",
+      "evidence": [
+        {
+          "reading": "ねね",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5709747:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "帰趣",
+      "reading": "きしゅ",
+      "old_uuid": "dc877fee-b764-597e-b0ef-fe8b6fbcb2ba",
+      "new_uuid": "172e5e94-fb95-5fba-a56c-2e7f64c8f432",
+      "source_path": "pending/needs_reading/U+5E00-U+5EFF/帰趣.json",
+      "source_row": 1,
+      "target_path": "data/き/キシュ.json",
+      "evidence": [
+        {
+          "reading": "きしゅ",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1221400:r2"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "弗箱",
+      "reading": "ドルばこ",
+      "old_uuid": "2583989e-c26b-5ec4-a866-23941fb1c980",
+      "new_uuid": "41b4d3cf-70d9-5925-895d-9ce833fa5447",
+      "source_path": "pending/needs_reading/U+5F00-U+5FFF/弗箱.json",
+      "source_row": 1,
+      "target_path": "data/ど/ドルバコ.json",
+      "evidence": [
+        {
+          "reading": "ドルばこ",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1966470:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "忿然",
+      "reading": "ふんぜん",
+      "old_uuid": "e68382ff-cb46-5f00-8f9b-a5dd2e6e9c4b",
+      "new_uuid": "376a84cd-cde6-5a48-bf97-042e70a49309",
+      "source_path": "pending/needs_reading/U+5F00-U+5FFF/忿然.json",
+      "source_row": 1,
+      "target_path": "data/ふ/フンゼン.json",
+      "evidence": [
+        {
+          "reading": "ふんぜん",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1689570:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "戛々",
+      "reading": "かつかつ",
+      "old_uuid": "763a919c-f730-50b3-9362-01eb7cc63909",
+      "new_uuid": "79630153-bc01-5c10-b921-b8e75f520dea",
+      "source_path": "pending/needs_reading/U+6200-U+62FF/戛々.json",
+      "source_row": 1,
+      "target_path": "data/か/カツカツ.json",
+      "evidence": [
+        {
+          "reading": "かつかつ",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2067800:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "扼痕",
+      "reading": "やくこん",
+      "old_uuid": "f9725f55-39c3-5619-a113-fe842c19b01c",
+      "new_uuid": "91dbdcee-a6a9-5315-ae58-f71db0e817db",
+      "source_path": "pending/needs_reading/U+6200-U+62FF/扼痕.json",
+      "source_row": 1,
+      "target_path": "data/や/ヤクコン.json",
+      "evidence": [
+        {
+          "reading": "やくこん",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2871560:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "抽匣",
+      "reading": "ひきだし",
+      "old_uuid": "33495c75-3ebf-5fd2-8664-1836e752b236",
+      "new_uuid": "f7f72258-34e1-5e4d-ad6c-816b43014793",
+      "source_path": "pending/needs_reading/U+6200-U+62FF/抽匣.json",
+      "source_row": 1,
+      "target_path": "data/ひ/ヒキダシ.json",
+      "evidence": [
+        {
+          "reading": "ひきだし",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1601650:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "搏風",
+      "reading": "はふ",
+      "old_uuid": "93cb9316-351b-555d-8939-8acdb1a32367",
+      "new_uuid": "8ec74067-454f-5403-a38d-1893520cdff6",
+      "source_path": "pending/needs_reading/U+6400-U+64FF/搏風.json",
+      "source_row": 1,
+      "target_path": "data/は/ハフ.json",
+      "evidence": [
+        {
+          "reading": "はふ",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1681540:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "未々",
+      "reading": "みみ",
+      "old_uuid": "05946cc7-accf-5a84-975d-b27285181f26",
+      "new_uuid": "42083e7c-e059-5abe-b80f-1d44deb749df",
+      "source_path": "pending/needs_reading/U+6700-U+67FF/未々.json",
+      "source_row": 1,
+      "target_path": "data/み/ミミ.json",
+      "evidence": [
+        {
+          "reading": "みみ",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5657378:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "杆菌",
+      "reading": "かんきん",
+      "old_uuid": "0ddc4eba-3e0d-5db8-a8e1-b7b8f958f495",
+      "new_uuid": "75a5dd41-2472-532f-ae07-516d291326f4",
+      "source_path": "pending/needs_reading/U+6700-U+67FF/杆菌.json",
+      "source_row": 1,
+      "target_path": "data/か/カンキン.json",
+      "evidence": [
+        {
+          "reading": "かんきん",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1568060:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "杤",
+      "reading": "とちざき",
+      "old_uuid": "35001b5c-48b4-5774-9504-105fababad62",
+      "new_uuid": "4b14d86f-3aa7-582a-bd18-934e8f994234",
+      "source_path": "pending/needs_reading/U+6700-U+67FF/杤.json",
+      "source_row": 1,
+      "target_path": "data/と/トチザキ.json",
+      "evidence": [
+        {
+          "reading": "とちざき",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5725754:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "棄石",
+      "reading": "すていし",
+      "old_uuid": "4d9a4f81-df53-5de6-aa25-0a3f5043db75",
+      "new_uuid": "7526c684-3612-570e-b485-eef596d902d1",
+      "source_path": "pending/needs_reading/U+6800-U+68FF/棄石.json",
+      "source_row": 1,
+      "target_path": "data/す/ステイシ.json",
+      "evidence": [
+        {
+          "reading": "すていし",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1711390:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "槭樹",
+      "reading": "かえで",
+      "old_uuid": "759e53fc-d0c0-52e0-bfdc-00f9998ac72b",
+      "new_uuid": "5d399bd2-08fa-5554-907a-10e1e92e642a",
+      "source_path": "pending/needs_reading/U+6900-U+69FF/槭樹.json",
+      "source_row": 1,
+      "target_path": "data/か/カエデ.json",
+      "evidence": [
+        {
+          "reading": "かえで",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2061900:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "洒堂",
+      "reading": "しゃどう",
+      "old_uuid": "50b77776-7567-576b-9b69-fbac0794772f",
+      "new_uuid": "74daae96-4a43-5121-844d-f96121cbf056",
+      "source_path": "pending/needs_reading/U+6D00-U+6DFF/洒堂.json",
+      "source_row": 1,
+      "target_path": "data/し/シャドウ.json",
+      "evidence": [
+        {
+          "reading": "しゃどう",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5727986:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "炒粉",
+      "reading": "いりこ",
+      "old_uuid": "e06b774a-70e7-533b-9738-43647f484b02",
+      "new_uuid": "870f405a-f535-5472-b3d1-062d64ee54a9",
+      "source_path": "pending/needs_reading/U+7000-U+70FF/炒粉.json",
+      "source_row": 1,
+      "target_path": "data/い/イリコ.json",
+      "evidence": [
+        {
+          "reading": "いりこ",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2630410:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "烱眼",
+      "reading": "けいがん",
+      "old_uuid": "b2a2f2f7-b0c3-5bf7-b7c3-cd7967eb66c3",
+      "new_uuid": "fa35cace-d83b-5528-8b48-467c94612b50",
+      "source_path": "pending/needs_reading/U+7000-U+70FF/烱眼.json",
+      "source_row": 1,
+      "target_path": "data/け/ケイガン.json",
+      "evidence": [
+        {
+          "reading": "けいがん",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1795140:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "無々",
+      "reading": "むむ",
+      "old_uuid": "3e2ebdb3-b399-5fa0-9adb-bc113d61ce5c",
+      "new_uuid": "29f52424-0dfe-5ade-8c0f-ce5eddabcc2e",
+      "source_path": "pending/needs_reading/U+7100-U+71FF/無々.json",
+      "source_row": 1,
+      "target_path": "data/む/ムム.json",
+      "evidence": [
+        {
+          "reading": "むむ",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5660457:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "猾智",
+      "reading": "かっち",
+      "old_uuid": "289384ae-87bd-5ad1-9de2-1460f02188db",
+      "new_uuid": "bd8818c3-8fc6-511a-b434-72ac09805d2e",
+      "source_path": "pending/needs_reading/U+7300-U+73FF/猾智.json",
+      "source_row": 1,
+      "target_path": "data/か/カッチ.json",
+      "evidence": [
+        {
+          "reading": "かっち",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2826619:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "睚眦",
+      "reading": "がいさい",
+      "old_uuid": "ee5d0acc-b3ca-5f91-9141-9e2abc916c68",
+      "new_uuid": "37c9e08a-da57-57fa-ae44-7c203ba3d8ed",
+      "source_path": "pending/needs_reading/U+7700-U+77FF/睚眦.json",
+      "source_row": 1,
+      "target_path": "data/が/ガイサイ.json",
+      "evidence": [
+        {
+          "reading": "がいさい",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2869303:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "磅",
+      "reading": "ポンド",
+      "old_uuid": "f63217c8-30ee-5d93-a2fc-7568976daec3",
+      "new_uuid": "2d51dc4a-5e8f-5f32-a85c-94956b73ff2e",
+      "source_path": "pending/needs_reading/U+7800-U+78FF/磅.json",
+      "source_row": 1,
+      "target_path": "data/ぽ/ポンド.json",
+      "evidence": [
+        {
+          "reading": "ポンド",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1126030:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "磊嵬",
+      "reading": "らいかい",
+      "old_uuid": "368c5d05-b196-5248-b4d2-1b1b28c146d7",
+      "new_uuid": "4e1167bc-0b9c-5cf0-92a6-2fa9274fc7a9",
+      "source_path": "pending/needs_reading/U+7800-U+78FF/磊嵬.json",
+      "source_row": 1,
+      "target_path": "data/ら/ライカイ.json",
+      "evidence": [
+        {
+          "reading": "らいかい",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2686540:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "秧鶏",
+      "reading": "くいな",
+      "old_uuid": "ad783e53-b490-5608-8645-0a2f1883c7af",
+      "new_uuid": "4270a792-8b6a-5cbb-bff9-22207113d173",
+      "source_path": "pending/needs_reading/U+7900-U+79FF/秧鶏.json",
+      "source_row": 1,
+      "target_path": "data/く/クイナ.json",
+      "evidence": [
+        {
+          "reading": "くいな",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1737940:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "簔虫",
+      "reading": "みのむし",
+      "old_uuid": "761d0529-9932-5d0b-af0c-4cf946c86f80",
+      "new_uuid": "f25e6ae2-2d3a-52d8-8a15-045f128e7ad9",
+      "source_path": "pending/needs_reading/U+7C00-U+7CFF/簔虫.json",
+      "source_row": 1,
+      "target_path": "data/み/ミノムシ.json",
+      "evidence": [
+        {
+          "reading": "みのむし",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1954850:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "維貞",
+      "reading": "これさだ",
+      "old_uuid": "d0b1cbee-5b5a-50fc-b401-66c6b939076c",
+      "new_uuid": "048ed36f-f02b-59ce-a4e9-db1a2b9420cf",
+      "source_path": "pending/needs_reading/U+7D00-U+7DFF/維貞.json",
+      "source_row": 1,
+      "target_path": "data/こ/コレサダ.json",
+      "evidence": [
+        {
+          "reading": "これさだ",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5119204:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "罔両",
+      "reading": "もうりょう",
+      "old_uuid": "e72e7739-7e4e-5da6-9003-753f04305850",
+      "new_uuid": "294db3bb-67d9-5e91-a8e7-f643bea47119",
+      "source_path": "pending/needs_reading/U+7F00-U+7FFF/罔両.json",
+      "source_row": 1,
+      "target_path": "data/も/モウリョウ.json",
+      "evidence": [
+        {
+          "reading": "もうりょう",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1574760:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "萎々",
+      "reading": "しおしお",
+      "old_uuid": "bfdc4fee-2ab9-52d1-b4ed-14bf051dad3c",
+      "new_uuid": "2025de01-a1dd-5818-a465-f2484915af05",
+      "source_path": "pending/needs_reading/U+8400-U+84FF/萎々.json",
+      "source_row": 1,
+      "target_path": "data/し/シオシオ.json",
+      "evidence": [
+        {
+          "reading": "しおしお",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1005450:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "蝎座",
+      "reading": "さそりざ",
+      "old_uuid": "80049963-88ea-5e6d-a7bd-dcb56b4ab2ab",
+      "new_uuid": "560dfead-17d1-541d-8506-a8a0524a517a",
+      "source_path": "pending/needs_reading/U+8700-U+87FF/蝎座.json",
+      "source_row": 1,
+      "target_path": "data/さ/サソリザ.json",
+      "evidence": [
+        {
+          "reading": "さそりざ",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1572230:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "誣妄",
+      "reading": "ふぼう",
+      "old_uuid": "2fb71f9c-532b-5467-be79-bb2b1aef832b",
+      "new_uuid": "fef382e4-a54c-5ffe-aec8-5a6910e3bb71",
+      "source_path": "pending/needs_reading/U+8A00-U+8AFF/誣妄.json",
+      "source_row": 1,
+      "target_path": "data/ふ/フボウ.json",
+      "evidence": [
+        {
+          "reading": "ふぼう",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2826962:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "謹三",
+      "reading": "きんぞう",
+      "old_uuid": "baffb051-17ce-5b0c-b326-b2de2c001d29",
+      "new_uuid": "d7efb144-60e3-53f0-a5df-992a52ef01db",
+      "source_path": "pending/needs_reading/U+8B00-U+8BFF/謹三.json",
+      "source_row": 1,
+      "target_path": "data/き/キンゾウ.json",
+      "evidence": [
+        {
+          "reading": "きんぞう",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5228221:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "賍品",
+      "reading": "ぞうひん",
+      "old_uuid": "8ba58021-c86a-539f-b822-6efbd5b46546",
+      "new_uuid": "7f709210-5fea-5374-b12f-00c3b93b9604",
+      "source_path": "pending/needs_reading/U+8C00-U+8CFF/賍品.json",
+      "source_row": 1,
+      "target_path": "data/ぞ/ゾウヒン.json",
+      "evidence": [
+        {
+          "reading": "ぞうひん",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2831944:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "跡々",
+      "reading": "あとあと",
+      "old_uuid": "fbeb2df8-89a4-5561-ba6f-40f547e0dd02",
+      "new_uuid": "352e4bab-c750-5af8-a13e-3eb3ecba4283",
+      "source_path": "pending/needs_reading/U+8D00-U+8DFF/跡々.json",
+      "source_row": 1,
+      "target_path": "data/あ/アトアト.json",
+      "evidence": [
+        {
+          "reading": "あとあと",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1578610:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "逕路",
+      "reading": "けいろ",
+      "old_uuid": "b8849507-4025-5bef-819a-a36b5e593801",
+      "new_uuid": "3e70408e-ec37-5461-82a1-497d3e44c891",
+      "source_path": "pending/needs_reading/U+9000-U+90FF/逕路.json",
+      "source_row": 1,
+      "target_path": "data/け/ケイロ.json",
+      "evidence": [
+        {
+          "reading": "けいろ",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1251700:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "那落",
+      "reading": "ならく",
+      "old_uuid": "205efbd7-1e0b-5a81-8aaf-297abab76e10",
+      "new_uuid": "22c82914-d21a-5f89-8cdb-c5b9dac85e56",
+      "source_path": "pending/needs_reading/U+9000-U+90FF/那落.json",
+      "source_row": 1,
+      "target_path": "data/な/ナラク.json",
+      "evidence": [
+        {
+          "reading": "ならく",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1457690:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "阿呼",
+      "reading": "あこ",
+      "old_uuid": "807eecb8-34db-596d-9756-7faefd0783ed",
+      "new_uuid": "8f28ff27-b1d6-5144-bc90-cb6fa48ade78",
+      "source_path": "pending/needs_reading/U+9600-U+96FF/阿呼.json",
+      "source_row": 1,
+      "target_path": "data/あ/アコ.json",
+      "evidence": [
+        {
+          "reading": "あこ",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5100662:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "阿耶",
+      "reading": "あや",
+      "old_uuid": "e1cbf12b-ad4d-5922-9385-4b560c61aff4",
+      "new_uuid": "601ba359-1d8d-5145-83d1-3a0e42530ea2",
+      "source_path": "pending/needs_reading/U+9600-U+96FF/阿耶.json",
+      "source_row": 1,
+      "target_path": "data/あ/アヤ.json",
+      "evidence": [
+        {
+          "reading": "あや",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5102230:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "阿英",
+      "reading": "あえ",
+      "old_uuid": "2c37dab9-a6f3-5b31-88fc-14252985e1c8",
+      "new_uuid": "cdd7693b-45c9-5afd-88f9-c98600e07877",
+      "source_path": "pending/needs_reading/U+9600-U+96FF/阿英.json",
+      "source_row": 1,
+      "target_path": "data/あ/アエ.json",
+      "evidence": [
+        {
+          "reading": "あえ",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5100199:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "雪々",
+      "reading": "みゆき",
+      "old_uuid": "53628d2e-3227-55d3-b8ee-31e1c0786fde",
+      "new_uuid": "58d4bbfd-0344-5689-bdff-f42e150108cb",
+      "source_path": "pending/needs_reading/U+9600-U+96FF/雪々.json",
+      "source_row": 1,
+      "target_path": "data/み/ミユキ.json",
+      "evidence": [
+        {
+          "reading": "みゆき",
+          "sources": [
+            "jmnedict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmnedict:5458359:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "鞐",
+      "reading": "こはぜ",
+      "old_uuid": "e028a64c-5312-5231-8767-897b62fbe655",
+      "new_uuid": "6876d8ce-5bc6-5cc4-a558-716263990ad7",
+      "source_path": "pending/needs_reading/U+9700-U+97FF/鞐.json",
+      "source_row": 1,
+      "target_path": "data/こ/コハゼ.json",
+      "evidence": [
+        {
+          "reading": "こはぜ",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1957200:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "顳",
+      "reading": "こめかみ",
+      "old_uuid": "a57f159e-7a71-5daa-bdb5-8afe6c6aa9fa",
+      "new_uuid": "036411df-b52d-5114-9e28-dbfeeb6ad2c7",
+      "source_path": "pending/needs_reading/U+9800-U+98FF/顳.json",
+      "source_row": 1,
+      "target_path": "data/こ/コメカミ.json",
+      "evidence": [
+        {
+          "reading": "こめかみ",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:1572150:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    },
+    {
+      "entry": "魏々",
+      "reading": "ぎぎ",
+      "old_uuid": "269107e2-b5e5-5107-a866-85254d26630a",
+      "new_uuid": "35ee2b55-2ccc-5fd1-9033-0684c7edd2d5",
+      "source_path": "pending/needs_reading/U+9B00-U+9BFF/魏々.json",
+      "source_row": 1,
+      "target_path": "data/ぎ/ギギ.json",
+      "evidence": [
+        {
+          "reading": "ぎぎ",
+          "sources": [
+            "jmdict"
+          ],
+          "evidence_count": 1,
+          "evidence": [
+            "jmdict:2849485:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "48f7a9584058feab2c9e17d4d65bb1a25d66b865dfd21ac0153fa891a6d3b21b",
+        "jmnedict": "4834433e224a1236aaef476005331ba10bc9444dc828a24c12dc8194888d0c0f"
+      }
+    }
+  ]
+}

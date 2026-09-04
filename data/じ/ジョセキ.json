@@ -614,5 +614,113 @@
         "aozora": 3
       }
     }
+  },
+  {
+    "uuid": "636d8b63-1986-5122-bcec-835a536219fa",
+    "entry": "如石",
+    "reading": {
+      "primary": "じょせき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "恰も如石が来たので妹などゝ椽先に語り合った。",
+              "citation": {
+                "source": "小さな旅",
+                "author": "富田木歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "汽車音の若葉に籠る夕べかな　夕餉の後妹に少女雑誌を読みきかせていると如石が来た。",
+              "citation": {
+                "source": "小さな旅",
+                "author": "富田木歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "妹は今宵七松園の縁日へ行く約束があるので、躑躅を買うべき銭を姉から貰い受けて如石と共に出かけた。",
+              "citation": {
+                "source": "小さな旅",
+                "author": "富田木歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "間もなく如石と妹とが戻って来て皆で仁王丸の蜜豆をご馳走になった。",
+              "citation": {
+                "source": "小さな旅",
+                "author": "富田木歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "買って来た躑躅は如石が植えると云う、けれども土を堀る道具が何もないので妹の学校の手工用の箆で掘ることにした。",
+              "citation": {
+                "source": "小さな旅",
+                "author": "富田木歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "躑躅植ゑて夜冷えする庭を忘れけり　やがて仁王丸と如石と打連れて帰って行った。",
+              "citation": {
+                "source": "小さな旅",
+                "author": "富田木歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "コウオウソウの方は『大和本草』にも図があって「黄花形如石竹五月開花葉如野※豆」と書いてある。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
   }
 ]
