@@ -1,0 +1,202 @@
+[
+  {
+    "uuid": "5ff7c163-bf8d-59c0-9344-59afd48aea5f",
+    "entry": "声啼",
+    "reading": {
+      "primary": "こえ啼",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "時鳥に一声啼かせろ。",
+              "citation": {
+                "source": "神鑿",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "遠くほとゝぎすが二声三声啼いた。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鴉が一声啼いて森の方へ飛んで行った。",
+              "citation": {
+                "source": "青年",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その途端私達の頭の上におつ被さつてゐる竹林の空高く、急調子に一声啼いて翔け往くものがあつた。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "兩岸猿聲啼不住　　　　両岸猿声啼いて住まらず、輕舟已過萬重山　　　　軽舟已に過ぐ万重の山。",
+              "citation": {
+                "source": "閑人詩話",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と読ましてあるが、これなども、第三句はやはり「両岸の猿声啼いて住まらざるに」と読んで、呼吸をそのまま結句まで続けたいと思ふ。",
+              "citation": {
+                "source": "閑人詩話",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と、一羽のメキシコ孔雀が虹のような美しい尾をキラキラ夕陽に輝かせながら林の奥から飛んで来たが、天幕の側の低い木へ静かに止まって一声啼いた。",
+              "citation": {
+                "source": "加利福尼亜の宝島",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "産児は初めて風に触れた時、二声三声啼立てたが、その時はもうぐったりしたようになっていた。",
+              "citation": {
+                "source": "現代小説展望",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鳥は急に鋭い声で、短く一声啼いたと思ふと、忽ち机の上から飛び上つて、両脚の爪を張りながら、いきなり弟子の顔へとびかゝりました。",
+              "citation": {
+                "source": "地獄変",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だからわたくしあなたが好になつたのでございますわ」　すぐ側でルスチニア鳥が一声啼いた。",
+              "citation": {
+                "source": "パアテル・セルギウス",
+                "author": "VATER SERGIUS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "森のなかの道を車をひいて行くと、早いツグミがひと声ふた声啼いた。",
+              "citation": {
+                "source": "森の生活――ウォールデン――",
+                "author": "WALDEN, OR LIFE IN THE WOODS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お産の暁方には、一羽の鶴が、県衙の屋根にきて、四十余声啼いて西へ翔け去ったという。",
+              "citation": {
+                "source": "三国志",
+                "author": "孔明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれどそのままなんの変ったこともなく、どこかで寝ぼけ鶯が一ト声啼いたのと、そこの水屋戸がガタと鳴って、山の冷気がすうと、内へ通った気がしたにすぎなかった。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "千早帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "獄卒たちの長屋に飼われている鶏が、無残、まだ暗いのに、たかい声で、ひと声啼いた。",
+              "citation": {
+                "source": "牢獄の花嫁",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すると母が思ひ出したやうに、『曉方、どこかの一番鷄が一聲啼くと、すぐに家の鶏が閧を作つたつけ。",
+              "citation": {
+                "source": "白い雌鷄の行方",
+                "author": "水野仙子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一聲二聲啼いては所を變へる。",
+              "citation": {
+                "source": "梅雨紀行",
+                "author": "若山牧水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鳥は急に鋭い聲で、短く一聲啼いたと思ふと、忽ち机の上から飛び上つて、兩脚の爪を張りながら、いきなり弟子の顏へとびかゝりました。",
+              "citation": {
+                "source": "地獄變",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鳩白い羽根が一枚散り込んだそれから一聲啼いて聞かせた私の窓の上に鳩が一羽ゐた。",
+              "citation": {
+                "source": "佐藤春夫詩集",
+                "author": "佐藤春夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      },
+      "variant_writings": [
+        "聲啼"
+      ],
+      "needs_reading": true
+    }
+  }
+]

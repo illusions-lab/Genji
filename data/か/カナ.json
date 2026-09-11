@@ -1381,5 +1381,89 @@
         "假字"
       ]
     }
+  },
+  {
+    "uuid": "94ca2aa0-ee0e-5f6f-8e75-604207893b5a",
+    "entry": "恊",
+    "reading": {
+      "primary": "かな",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "電光艇の活動の原因となるべき十二｜種の藥液は、何時までかゝつても、此樣な孤島では製造の出來るものでなく、また、他から供給を仰ぐ事も恊はねば、吾等は爾後十｜年生存るか、二十｜年生存るか知れぬが、朝夕、世界無比の海底戰鬪艇を目前に眺めつゝも、終には、此絶島の鬼とならねばならぬのである。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "附記、ある人より舍の字は人冠に舌に非ず人冠に干に口なる由いひこされ、またある人より協議の協を恊に書くは誤れる由いひこされたり。",
+              "citation": {
+                "source": "墨汁一滴",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "午前大日本私立衛生会委員筱崎氏といへる人来りて、七月三日丸の内なる衛生会楼上にて、徃年統計恊会に関係ありし人々の追善紀念会を執行するにつき、先考の写真遺墨のたぐひをも借受けて陳列したしと語らる。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之五大正十年歳次辛酉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは初め錦江が冷泉家について和歌を学んだので、その子孫は世斎、渡辺奚疑、金子蓑香、関雪江、同礼一、宮本万里、石川確、塚本生、松岡肇、水谷亮、小川佐、円阿信、青木篤、大和恊、伊恂、同為助、竹雪夕、大森敬山、襟島、秋山棟、田村逵ナリ。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
   }
 ]

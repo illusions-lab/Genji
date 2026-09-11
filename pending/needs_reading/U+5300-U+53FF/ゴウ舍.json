@@ -1,0 +1,74 @@
+[
+  {
+    "uuid": "dbe9788d-ed4f-58af-9c7a-53cd712b3506",
+    "entry": "号舍",
+    "reading": {
+      "primary": "ごう舍",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "五百の房屋、二百九十五號筒院の一半を監視し得べく、號舍に就ける士子等の妄動を禁じ得べきものなり。",
+              "citation": {
+                "source": "貢院の春",
+                "author": "原勝郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "監視の設備の甚しく嚴重なるは、人をして近世式の監獄を聯想せしめ、狹矮なる號舍の櫛比は、曾て米國市俄古にて見物せし、ユニオン・ストック會社の家畜市場を思ひ起こさしむ。",
+              "citation": {
+                "source": "貢院の春",
+                "author": "原勝郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "號舍"
+      ],
+      "needs_reading": true
+    }
+  }
+]

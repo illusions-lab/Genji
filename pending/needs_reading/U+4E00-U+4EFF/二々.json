@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "00645613-6c31-546c-b08c-dd505e8ae76c",
+    "entry": "二々",
+    "reading": {
+      "primary": "二々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それでは貴様は宇宙に神秘なしと言うお考なのです、要之、貴様には此宇宙に寄する此人生の意義が、極く平易｜明亮なので、貴様の頭は二々が四で、一切が間に合うのです。",
+              "citation": {
+                "source": "運命論者",
+                "author": "国木田独歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "へへッとにかく、二々が四である。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "兎に角、二々が四だ。",
+              "citation": {
+                "source": "放浪記（初出）",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二々が四などということはてんで受けつけないからである。",
+              "citation": {
+                "source": "永遠の夫",
+                "author": "ドストエーフスキイ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「銀次」「へエ――」「俺は算盤は知らないが、二一天作の六で、二々が八――なんて勘定はないだらう」「？",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "茶碗割り",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

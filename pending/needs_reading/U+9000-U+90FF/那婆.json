@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "a2fdf33c-d36e-5217-b31e-eecae937cb59",
+    "entry": "那婆",
+    "reading": {
+      "primary": "那婆",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "初めに那婆の町に現ず。",
+              "citation": {
+                "source": "海上の道",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一柱の子孫は、伊賀の須知の稻置、那婆理の稻置、三野の稻置が祖なり。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次にシキツ彦の命の御子がお二方あつて、お一方の子孫は、伊賀の須知の稻置・那婆理の稻置・三野の稻置の祖先です。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

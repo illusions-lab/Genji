@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "6379fea1-cc39-5373-b6cc-ce9552c7df7d",
+    "entry": "冗々",
+    "reading": {
+      "primary": "冗々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "雜誌社に金を借りに※つたこと、下宿でも、自分が二ヶ月も彼女ひとり打ちやらかして置いて歸らないので非常に不機嫌なこと、そんなことを冗々と並べ立てた。",
+              "citation": {
+                "source": "血を吐く",
+                "author": "葛西善藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私と火鉢に向き合つて坐つたが、ほとんど三十分餘りも要領を得ないことを冗々と並べて、低能なんぢやないかしら、何を云ひ出すつもりなんだらうといゝ加減私たちをいら／＼させたところで、結局、もう一つ時計を持つてる筈だから出してほしいと云ふのだつた。",
+              "citation": {
+                "source": "不良兒",
+                "author": "葛西善藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "がここではその冗々しい取り調べの様を叙述する必要はない。",
+              "citation": {
+                "source": "撞球室の七人",
+                "author": "橋本五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

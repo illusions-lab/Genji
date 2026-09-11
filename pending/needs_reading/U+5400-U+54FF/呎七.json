@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "a44dfafb-eb5c-560e-a6e1-e5cee3830483",
+    "entry": "呎七",
+    "reading": {
+      "primary": "呎七",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼は身長約五呎七吋筋骨逞しき屈強の男で年齡三十七歳位。",
+              "citation": {
+                "source": "無法な火葬",
+                "author": "VIOLENT CREMATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「そう……ギレルモにもそう言っておいてくれるといいな」と私は言ったが、ギレルモというのは守衛代りに使っている銀行の用心棒、身の丈六｜呎七｜吋もあって鼻の潰れた拳闘選手崩れであったが、こういう見知らぬ人間との会見の時には、いつでも拳銃を持って隣りの部屋に潜ませておくことにしていたのであった。",
+              "citation": {
+                "source": "陰獣トリステサ",
+                "author": "橘外男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "61ed5ca2-041b-54ad-affd-a8ff2e7f22fd",
+    "entry": "啼石",
+    "reading": {
+      "primary": "啼石",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」「ははあ、夜啼石ですね。",
+              "citation": {
+                "source": "こま犬",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「夜啼石伝説とかいうのがあるというじゃないか。",
+              "citation": {
+                "source": "こま犬",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こんなのが夜啼石の目標になるのだろうかと僕は思った。",
+              "citation": {
+                "source": "こま犬",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "案内記には、小夜の中山｜夜啼石、西三十二｜町、菊川、西廿二町とある。",
+              "citation": {
+                "source": "小夜の中山夜啼石",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし江戸時代になつてから更にそれが有名になつたのは、夜啼石の伝説によるのである。",
+              "citation": {
+                "source": "小夜の中山夜啼石",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東海道｜名所図絵を繰つてみると、夜啼石は小夜の中山街道のまん中にあつて、それから東一町ばかりの左側に夜啼松がある。",
+              "citation": {
+                "source": "小夜の中山夜啼石",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これによつて考へると、小夜の中山に久圓寺といふ寺が建てられて、そこに観世音を祀つたのは彼の夜啼石以前のことで、夜啼石の伝説から子育観音の名が流布するやうになつたのではあるまいかと思はれる。",
+              "citation": {
+                "source": "小夜の中山夜啼石",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又しても名所図絵を引合ひに出すやうであるが、それによると、夜啼石の由来といふものを一枚｜刷にして小夜｜新田の茶店で売つてゐる。",
+              "citation": {
+                "source": "小夜の中山夜啼石",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これが名所記の大要であるが、名所記には夜啼の松のみを説いて夜啼石を語つてゐない。",
+              "citation": {
+                "source": "小夜の中山夜啼石",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夜啼石や、夜啼の松や、夜啼飴の伝説はおそらくそれから生み出されたのであらう。",
+              "citation": {
+                "source": "小夜の中山夜啼石",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "わたしはこゝで夜啼石の考証を試みようとしたのではない。",
+              "citation": {
+                "source": "小夜の中山夜啼石",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 14
+      }
+    }
+  }
+]

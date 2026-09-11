@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "1e577ace-03a4-5e58-88ba-12b32c8360e8",
+    "entry": "蜻治",
+    "reading": {
+      "primary": "蜻治",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "見るからに画家らしい二人の男は川口亜太郎とその友人の金剛蜻治、女は亜太郎の妻｜不二、やがて三人が岳陰荘の玄関に着くと、あらかじめ報のあったものと見えて山荘に留守居する年老いた夫婦の者が一行を迎え入れた。",
+              "citation": {
+                "source": "闖入者",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すると、たとい写実派の川口でも、時には写実を離れて頭だけで描くこともあろうではないか、と金剛蜻治が横槍を入れた。",
+              "citation": {
+                "source": "闖入者",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "続いてなされた金剛蜻治も別荘番の戸田夫婦も、やはり同じように前回と変りはなかった。",
+              "citation": {
+                "source": "闖入者",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "苦り切って一行に従った金剛蜻治は、警察署のある町まで来ると、昨日東京を発った時に見送ってくれた別荘主の津田白亭に、まだ礼状の出してなかったことに気がついた。",
+              "citation": {
+                "source": "闖入者",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "3fb60d5c-d898-569c-90d9-494c7b8cc1d8",
+    "entry": "懸茶",
+    "reading": {
+      "primary": "懸茶",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "折から堤防伝いに蹄の音、一人｜砂烟を立てて、斜に小さく、空を駆けるかと見る見る近づき、懸茶屋の彼方から歩を緩めて、悠然と打って来た。",
+              "citation": {
+                "source": "黒百合",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "頭髪柔かにやや乱れた額少しく汗ばんで、玉洗えるがごとき頬のあたりを、さらさらと払った葉柳の枝を、一掴み馬上に掻遣り、片手に手綱を控えながら、一蹄三歩、懸茶屋の前に来ると、件の異彩ある目に逸疾く島野を見着けた。",
+              "citation": {
+                "source": "黒百合",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "茶は一袋一斤半ずつの懸茶二十四袋が例となってあった。",
+              "citation": {
+                "source": "東山時代における一縉紳の生活",
+                "author": "原勝郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "懸茶屋には絹被の芋｜慈姑の串団子を陳ね栄螺の壼焼などをも鬻ぐ。",
+              "citation": {
+                "source": "向嶋",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

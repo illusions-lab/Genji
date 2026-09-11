@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "88b75600-c27b-5049-b2da-7e846669ca67",
+    "entry": "鉅野",
+    "reading": {
+      "primary": "鉅野",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "漢武帝の時、黄河大に漲り、瓠子を決して、鉅野に注ぎ、淮泗に通じたることあり。",
+              "citation": {
+                "source": "囲碁雑考",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この比事歌一篇は赤羽橋に住したその友｜牧野鉅野に贈ったものである。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鉅野と竹渓との交際は甚親密であったらしい。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鉅野は名を履、字を履卿といい豊前小倉の人。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "牧野鉅野は臨終の際大沼竹渓に遺嘱してその行状をつくらしめ碑銘を林｜宇の撰んだ碑文に言われている。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "竹渓はこの比事歌を贈った牧野鉅野の死に後るること二個月にして、下谷御徒町の賜邸に没した。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "8f46ba8a-05a6-558c-a2a7-54d9d6bc9c45",
+    "entry": "預証",
+    "reading": {
+      "primary": "預証",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "上酒一斗正に預り候也、――ほれ、この通りちゃんと預証をもって来ているんじゃありませんか。",
+              "citation": {
+                "source": "次郎物語",
+                "author": "第三部",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これはお酒の預証なんですよ。",
+              "citation": {
+                "source": "次郎物語",
+                "author": "第三部",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「じゃあ、この預証は、お店には関係がないというわけですね。",
+              "citation": {
+                "source": "次郎物語",
+                "author": "第三部",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あたりまえにお金をいただいての預証と、肥田さんの遊興費とは、だい一わけがちがいますし、それにこちらの事情もまるでおわかりにならんことはないでしょうからね。",
+              "citation": {
+                "source": "次郎物語",
+                "author": "第三部",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "預証はもうこれでおしまいなんだから、いっそさっぱりなすっちゃ。",
+              "citation": {
+                "source": "次郎物語",
+                "author": "第三部",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、量り終って、女の手から預証を受取ると、それをその場でずたすたに裂いた。",
+              "citation": {
+                "source": "次郎物語",
+                "author": "第三部",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お酒の預証なんかで遊んでもらっちゃあ、だいいち、こちらが迷惑しますし、およしになったらいかがですかって、あたし何度もにがいことを申しあげたくらいですからね。",
+              "citation": {
+                "source": "次郎物語",
+                "author": "第三部",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

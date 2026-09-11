@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "9e4deba5-f6ad-5ec7-a1db-3b7ef894df8e",
+    "entry": "耙",
+    "reading": {
+      "primary": "耙",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "収穫時に落ちる種子で翌年には十分であり、そして春に一度｜耙で均らす必要があるだけである。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アイルランド人の教化は一種の道徳的開墾用｜耙をもってくわだてらるべき手ごわい事業だ。",
+              "citation": {
+                "source": "森の生活――ウォールデン――",
+                "author": "WALDEN, OR LIFE IN THE WOODS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かれらはただちに仕事にかかり、見事な順序で、耕し、耙をかけ、転子で均し、畝をたてて、ここを模範農場にせずにはおかぬ意気ごみのようであった。",
+              "citation": {
+                "source": "森の生活――ウォールデン――",
+                "author": "WALDEN, OR LIFE IN THE WOODS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "畑の中を、畦から畦へ、土くれから土くれへと、踏みつけ踏みつけ、耙のように、固め、平らして行く。",
+              "citation": {
+                "source": "にんじん",
+                "author": "POIL DE CAROTTE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "門の前の野原には三つの耙がころがっていて、その間から入り交じって種々な五月の花が咲き出ていた。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは耙をつけた馬が一匹、気違いのように逃げて行くのを、農夫が止めようとしているのであった。",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今や田には水が満ちているので、耙がはね上っては、泥と水とを農夫にあびせかける有様は、実に抱腹絶倒であった。",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "──犂、種蒔、耙、玉転がし、竹馬。",
+              "citation": {
+                "source": "希臘十字",
+                "author": "高祖保",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――犂、種蒔、耙、玉転がし、竹馬。",
+              "citation": {
+                "source": "希臘十字",
+                "author": "高祖保",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

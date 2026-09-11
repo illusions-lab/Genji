@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "dab0f06c-a3ec-5e71-96ac-fbbdd0418c58",
+    "entry": "遁口",
+    "reading": {
+      "primary": "遁口",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それにも拘らず人類は些も神の国に近づかうとしない、などと遁口上を言つてはならない。",
+              "citation": {
+                "source": "工場の窓より",
+                "author": "葉山嘉樹",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "疾くその遁口から母屋に抜けよう。",
+              "citation": {
+                "source": "星女郎",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "遁口上だか知れねえが庄さんがいふのには錢を貰つた方が本人は上機嫌だし、こつちには惡くもねえし、却つて兩爲めだから預つて置くといふんですが、さうはいふものゝ庄さんは惡い人間にや見えませんね。",
+              "citation": {
+                "source": "おふさ",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それが貴方は何か巧い遁口上を有仰らうとなさるから、急に御考も無いので、貴方に対する私、その私が満足致すやうな一言と申したら、間さん、外には有りは致しませんわ」「いや、それなら解つてゐます……」「解つてゐらつしやるなら些と有仰つて下さいましな」「それは解つてゐますけれど、貴方の言れるのはかうでせう。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

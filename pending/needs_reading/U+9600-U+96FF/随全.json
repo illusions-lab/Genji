@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "407fd9b5-6d5a-556d-b43d-c13ac1b73baa",
+    "entry": "随全",
+    "reading": {
+      "primary": "随全",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "随全寺という法華宗の檀那寺の古石垣が、河原のように崩れたままになっている草叢のあたりに、見廻すまでもなく、おびただしい烏の群が一｜集まりになって降りて宿無犬が十匹余りも遠巻きに吠え立てている。",
+              "citation": {
+                "source": "釘抜藤吉捕物覚書",
+                "author": "梅雨に咲く花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "手頃の礫を拾い集めた彦兵衛は、露草を踏んで近づきながら石を抛って烏と犬とを一緒に追い、随全寺の石垣下へ検分に行った。",
+              "citation": {
+                "source": "釘抜藤吉捕物覚書",
+                "author": "梅雨に咲く花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、次の瞬間には、申し合せたように石垣を越えて随全寺の瓦屋根へ視線を送った。",
+              "citation": {
+                "source": "釘抜藤吉捕物覚書",
+                "author": "梅雨に咲く花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と、藤吉は飛鳥のごとくやにわに随全寺の崩れ石垣を攀登った。",
+              "citation": {
+                "source": "釘抜藤吉捕物覚書",
+                "author": "梅雨に咲く花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "心得た提灯屋が、飛んで行ったと思う間もなく、猫の仔みたいにひきずり出して来た小柄の老爺、言うまでもなく随全寺の寺男佐平であった。",
+              "citation": {
+                "source": "釘抜藤吉捕物覚書",
+                "author": "梅雨に咲く花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その男が、今日このごろはいっそう兇暴になって、随全寺の一件なぞを嫉妬出し、毎日のように付け廻しては同棲を迫るが、自分はもうあんな男にはこりごりだと、いつかも寝物語に所化へ洩したとのこと。",
+              "citation": {
+                "source": "釘抜藤吉捕物覚書",
+                "author": "梅雨に咲く花",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

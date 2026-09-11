@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "781cd859-36ab-5092-b489-822755ba884b",
+    "entry": "圜丘",
+    "reading": {
+      "primary": "圜丘",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ところで、北京に遊んで、天壇の圜丘の上に立った時、ふと私の胸中に右の歌が浮んできた。",
+              "citation": {
+                "source": "文学以前",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "圜丘は天壇の主体であって、毎年冬至の未明に、天子斎戒して昊天上帝を祭られた所であり、壇上には、昊天上帝に配して祖宗の神位を奉祀し、日月星辰風雲雷雨の諸神を従祀されたのである。",
+              "citation": {
+                "source": "文学以前",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天壇のうちでも殊にその圜丘は現代人の心をも打つ魅力を持っている。",
+              "citation": {
+                "source": "北支点描",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それらのことが、ただ圜丘のみで他に何の建造物もないこの壇上で、おのずから感ぜらるるほど、簡素な豪華さを具えてるのである。",
+              "citation": {
+                "source": "北支点描",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

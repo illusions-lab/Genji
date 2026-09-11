@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "664aa068-b8e6-530b-92d8-fadf98438d50",
+    "entry": "尖衝",
+    "reading": {
+      "primary": "尖衝",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "第十五回　電光艇鼕々たる浪の音――投鎗に似た形――三尖衝角――新式魚形水雷――明鏡に映る海上海底の光景――空氣製造器――鐵舟先生の詩　武村兵曹は腰なる大鍵を索つて、鐵門の扉と開いた。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "物の數にも足らぬ海獸なれど、あれを敵國の艦隊に譬ふれば如何にと、電光艇は矢庭に三尖衝角を運轉して、疾風電雷の如く突進すれば、あはれ、海の王なる巨鯨の五頭七頭は微塵となつて、浪を血汐に染めた。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其鋭利なる三尖衝角は空に閃く電光の如く賊船の右舷に霹靂萬雷の響あり、極惡無道の海蛇丸は遂に水煙を揚げて海底に沒し去つた。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "341de33b-84be-5b9d-948d-a843cfbf79cb",
+    "entry": "蹴押",
+    "reading": {
+      "primary": "蹴押",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「なにしろあたしたちは、銭のかかる贅沢はできないからね」「おとっさん、なぜこれを、店に出さないんだ」「冗談いっちゃ、いけない、これを出した日にゃ、他の鮨が蹴押されて売れなくなっちまわ。",
+              "citation": {
+                "source": "鮨",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "更に或る時は、人がよく実際の河流で観察し得るように、中流に近い水の速力の為めに蹴押されて逆流することさえある。",
+              "citation": {
+                "source": "惜みなく愛は奪う",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自らを五月の山の精としも思ふ卯つ木は思はせておけ　毒うつぎともいはれる卯つ木が紅白とりどりに初夏の山に咲き誇る勢ひは大したもので、藤にしろ躑躅にしろ蹴押され気味である。",
+              "citation": {
+                "source": "晶子鑑賞",
+                "author": "平野萬里",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "uuid": "c22489b9-3d82-5388-a17a-a36fa0e5c0ed",
+    "entry": "来矣",
+    "reading": {
+      "primary": "らい矣",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": []
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "來矣"
+      ],
+      "needs_reading": true
+    }
+  }
+]

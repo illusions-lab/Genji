@@ -1,0 +1,74 @@
+[
+  {
+    "uuid": "39b452bf-2881-5c75-973f-781824ef94fe",
+    "entry": "将励",
+    "reading": {
+      "primary": "しょう励",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "＊直ちに苦痛和げて、重き疵より溢れくる黒き血潮を乾かしつ、心に勇氣吹き込めば、これを感ずるグローコス、かく速かにアポローン、彼の祈りを聽きたるを知りて心に歡喜滿ち、　530起ちて四方を驅けめぐり、リキエー諸將勵まして、サルペードーンのなきがらを※り戰はしめんとす。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかく宣んしてクロニオーン黒き眉垂れうなづきて、武具ヘクト，ルに適はしむ、更にアレース勇猛の神靈彼に加はれば、威力と猛氣其四肢に　210飽く迄滿てるヘクトール、雄叫び高く奮然と、譽れの高き援軍の中に進みてアキリュウス・ペーレーデースの燦爛の武具を穿てる姿見せ、陣中遍く經※りて説きて衆將勵ましむ。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "將勵"
+      ],
+      "needs_reading": true
+    }
+  }
+]

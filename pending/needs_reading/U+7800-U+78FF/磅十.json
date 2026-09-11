@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "a9556577-1992-54a1-847b-64a8b5250728",
+    "entry": "磅十",
+    "reading": {
+      "primary": "磅十",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そしてテーブルの上には、十｜磅の紙幣二枚と、金銀貨併せて十七｜磅十｜志の金が、それぞれ違った額に整頓されて、小さな堆に積まれてある。",
+              "citation": {
+                "source": "空家の冒険",
+                "author": "コナン・ドイル",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "Ａ　は四｜磅十四｜志六｜片Ｂ　は五磅五志Ｃ　は五磅十五志六片　で、ＡＢＣと出発の時間が違い、各機の大小、新旧、速力、設備、二エンジンか三エンジンかによって運賃にも保険的性質の差異をきたすわけ。",
+              "citation": {
+                "source": "踊る地平線",
+                "author": "虹を渡る日",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

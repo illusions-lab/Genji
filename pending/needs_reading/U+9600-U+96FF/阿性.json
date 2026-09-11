@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "39fc7138-4a59-57ea-847d-80d0ce43395a",
+    "entry": "阿性",
+    "reading": {
+      "primary": "阿性",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "進士入道阿性房等の人々が一緒に行ったが、このことを見聞して驚いて了った。",
+              "citation": {
+                "source": "法然行伝",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この人は法然の弟子阿性房が知っていた処から法然は華厳宗の不審を尋ね問わんとして阿性房を引き連れて訪問した処が、法橋がまず無雑作に云いだすことには、「弘法大師の十住心は華厳宗によって作ったものである。",
+              "citation": {
+                "source": "法然行伝",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第十の秘密荘厳心は真言宗でございます」と云って弘法大師の十住心論のはじめ異生羝羊心から終りの秘密荘厳心まで一々その偈を誦して道理を述べ、弘法大師の主意と自分の解釈のしようを細かに申し述べると、法橋がそれを聴いて、縁にいた阿性房を呼んで、「どうだ、お前これを聞いたか。",
+              "citation": {
+                "source": "法然行伝",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

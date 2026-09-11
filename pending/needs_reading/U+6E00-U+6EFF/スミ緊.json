@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "898b1b87-28c2-5483-a995-f43d03e643ed",
+    "entry": "済緊",
+    "reading": {
+      "primary": "すみ緊",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "つづいて六月十一日に八項目から成る「経済緊急対策」を発表、同十九日に業種別平均賃銀千八百円ベースを公表した。",
+              "citation": {
+                "source": "今日の日本の文化問題",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:58:42Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "濟緊"
+      ],
+      "needs_reading": true
+    }
+  }
+]

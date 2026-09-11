@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "e9c0553a-3bca-5004-a0cf-aae5479595ce",
+    "entry": "馴養",
+    "reading": {
+      "primary": "馴養",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『史記』の匈奴列伝に、匈奴の先祖が、馬と驢のほかに、多少の野生種を馴養した記事あるは上に引いた。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "して見ると、馬と驢のほかにも、随分物になる種もあるに、馬と驢で事足る上はとて、別段力をその馴養に竭さなんだので、その上野驢や花驢の諸種は、専らその肉を食いその皮を剥がんため、斟酌なく狩り殺さるるから、人さえ見れば疾走し去るのだ。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人知によって馴養され類別され冷やかに定列された世界の傍らにもち出すと、それは粗野な動物界であり、自由な音響の世界である。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その動物性は、幾世紀もの文明によって馴養され、檻の中のみじめな獅子ほどに愚鈍にされてはいるが、それでもやはり餌食にあこがれている。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN-CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――クリストフは勝手に馴養されるような人間ではなかった。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN-CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そういう生活の実例は彼を馴養していった。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN-CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しからざれば決してその性をして馴養せしむることあたわざるなり。",
+              "citation": {
+                "source": "将来の日本",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故に彼は慰撫｜馴養、あたかも驕児を遇する如く、その厄介をなさしめざらんと欲せり。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

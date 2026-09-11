@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "d4d776eb-4dc0-5877-8ad1-b647922dae0a",
+    "entry": "藹山",
+    "reading": {
+      "primary": "藹山",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "南画と娘９・27（夕）　貫名海屋の系統を伝へた谷口｜藹山が、まだ京都の下長者町に居た頃、南画好きのある男が態々大阪から訪ねて往つて弟子入りをした。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "藹山は娘と二人で其処に住んでゐたが、その日は娘に留守番でも言ひつかつたと見えて、皺くちやな藹山は、「今日は誰も居ぬでの……」と断つて薄茶一服立てようともしなかつた。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "南画を習はない先に、南画は迚も習へないものだと知つたその男は、折を見て帰らうとすると、藹山は押へるやうな手つきをして引留めた。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「これが俺の娘や、不束者での……」といふ藹山の言葉に、初めて気が附いたやうに、その男は鄭寧にお辞儀をした。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その頃藹山はもう七十の上を越してゐたらしかつたから、五十｜近い娘があつたところで、別段腹を立てる程の事でも無かつた。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして二度と藹山の門を潜らうともしなかつた。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

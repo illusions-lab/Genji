@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "598136b9-895e-5b0b-80ff-c9e5693b26d5",
+    "entry": "奔々",
+    "reading": {
+      "primary": "奔々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "狐｜綏々として蕩たることあり、鶉奔々として良なし、悪貫已に盈つ。",
+              "citation": {
+                "source": "牡丹燈記",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "花柳の間に奔々して青楼の酒に酔い、別荘｜妾宅の会宴に出入の芸妓を召すが如きは通常の人事にして、甚だしきは大切なる用談も、酒を飲み妓に戯るるの傍らにあらざれば、談者相互の歓心を結ぶに由なしという。",
+              "citation": {
+                "source": "日本男子論",
+                "author": "福沢諭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "むらがりあう馬と馬、兵と兵とのあいだから、奔々と閃く川水は前方に見えるが、柿崎隊の大蕪菁の馬簾や、中軍の中之丸旗、毘沙門旗のいたずらに啾々と嘯くばかりで、いつまで経っても馬すすまず兵渉らず、ただ後から後からと来る兵馬がここに万余の影を重ねて、見るまに真っ黒な大集団を霧の中に肥らせてくるばかりだった。",
+              "citation": {
+                "source": "上杉謙信",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "本能寺以来、まったく特殊な位置に拠って、この時流奔々たる外にあった彼の意志ばかりは、白眼、今日をどう観ているのか、誰にも皆目、推し測る材料がなかった。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第八分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前にはなかった河が幾筋もできて小さな人力を嗤うが如く、奔々と、その大石や小石を弄んでいた。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "空の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また、先を争って、公卿百官の車馬や、後宮の女子たちの輿や、内官どもの馬や財産を積んだ車や、あらゆる人々が――その一人も後に停まることなく――雪崩れあって、奔々と洛陽の外へ吐き出されて行った。",
+              "citation": {
+                "source": "三国志",
+                "author": "群星の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人馬を高い所へ移すいとまもなく、遥か上流のほうから、真っ黒な水煙をあげて、奔々の激浪が押してきた。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

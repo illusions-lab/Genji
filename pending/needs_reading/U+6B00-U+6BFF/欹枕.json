@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "c4ab430e-e540-596e-b3bd-6a1b2ad5a040",
+    "entry": "欹枕",
+    "reading": {
+      "primary": "欹枕",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "○平野秀吉氏の唐詩選全釈には、「後、張継、再び此に来り、重泊楓橋と題して、白髪重来一夢中、青山不改旧時容、烏啼月落江村寺、欹枕猶聴夜半鐘と詠じたが、詩品も劣り、且つ全唐詩にも載せざるを見れば、或は後人の偽作か」としてある（簡野道明氏著『唐詩選詳説』にも之と同じことが書いてある）。",
+              "citation": {
+                "source": "放翁鑑賞",
+                "author": "その七　――放翁詩話三十章――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "近ごろ孫仲益の楓橋寺を過ぎる詩を読むに、云ふ、白首重来一夢中、青山不改旧時容、烏啼月落橋辺寺、欹枕猶聞夜半鐘と。",
+              "citation": {
+                "source": "放翁鑑賞",
+                "author": "その七　――放翁詩話三十章――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

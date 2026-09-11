@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "398bd682-85c5-57a4-85c5-93ee64a3a51a",
+    "entry": "已百",
+    "reading": {
+      "primary": "已百",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "已百支國　　吉田氏は之を伊爾敷と訓み、薩摩國麑島郡伊敷村に當てたり。",
+              "citation": {
+                "source": "卑彌呼考",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "建国以来已百秋、月将日進不曾休、自由島上自由燭、照遍共和五十州。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

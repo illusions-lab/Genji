@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "4dc27dbe-c562-56a0-b3f1-bfe31ba0e33e",
+    "entry": "冉々",
+    "reading": {
+      "primary": "冉々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "女婢其の後に續いて、こはいかに、掃帚に跨り、ハツオウと云つて前後して冉々として雲に昇り去つて姿を隱す。",
+              "citation": {
+                "source": "唐模樣",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼が宮を追ひて転び落ちたりし谷間の深さは、正にこの天辺の高きより投じたらんやうに、冉々として虚空を舞下る危惧の堪難かりしを想へるなり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五月二十五日おろかなる女｜※恋き恋き生別の御方様まゐる第二章　隣に養へる薔薇の香の烈く薫じて、颯と座に入る風の、この読尽されし長き文の上に落つると見れば、紙は冉々と舞延びて貫一の身をきたり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "成敗を度外において、白雲の自然に岫を出でて冉々たるごとき心持ちで一局を了してこそ、個中の味はわかるものだよ」「また来たね。",
+              "citation": {
+                "source": "吾輩は猫である",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "翌日細君が柩にとりすがって泣いていると、朱が冉々として外から入って来た。",
+              "citation": {
+                "source": "陸判",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嗚呼墳墓、汝の冷々たる舌、汝の常に餓ゑたる口、何者をか噬まざらん、何物をか呑まざらん、而して墳墓よ、汝も亦た遂に空々漠々たり、水流滔々として洋海に趣けど、洋海は終に溢れて大地を包まず、冉々として行暮する人世、遂に新なるを知らず、又た故なるを知らず。",
+              "citation": {
+                "source": "富嶽の詩神を思ふ",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嗚呼天地味ひなきこと久し、花にあこがるゝもの誰ぞ、月に嘯くもの誰ぞ、人世の冉々として減毀するを嗟し、惆として命運の私しがたきを慨す。",
+              "citation": {
+                "source": "哀詞序",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朝夕に天体の運行を仰いでいた人々には、いわゆるニルヤ照りがありカナヤ望月が、冉々として東の水平を離れて行くのを見て、その行く先になお一つのより貴い霊地の有ることを認め、人間の至願のそこに徹しそこに知られることを期したのは、或いは天の神格を認めるよりは前であったろう。",
+              "citation": {
+                "source": "海上の道",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

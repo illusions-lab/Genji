@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "22e1e6b4-c2cd-5268-911d-51e962df12e7",
+    "entry": "挈",
+    "reading": {
+      "primary": "挈",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "挈げ持ちて旅するものは知らず。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お庄はその少し手前で俥から降りて、途中で買った手土産を挈げながら入って行った。",
+              "citation": {
+                "source": "足迹",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし書巻を尊崇して、提挈をその中に求めていたことを思えば、留守居中｜稀有の人物であったのを知ることが出来る。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山陽は「素愛嵐峡山水、就其最清絶処縛屋、挈弟倶居、嚢硯壺酒、蕭然自適」と云つてゐる。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "惟長の事は、山陽も「挈弟」と云ひ、月江も「携令弟」と云つてゐる。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "茶山は蘭軒の此遊に二児の提挈あるを羨んで云つた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "渋江抽斎の挈へて往つた妻は比良野氏｜威能で、前年己丑に帰いで、次年辛卯には死ぬる女である。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」わたくしは此辺の文を省いたが、「二人つれにて」は復醇の二子を挈へて往つたのである。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "足の踏所も覚束無げに酔ひて、帽は落ちなんばかりに打傾き、ハンカチイフに裹みたる折を左に挈げて、山車人形のやうに揺々と立てるは貫一なり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "徳富蘇峰は『将来之日本』を挈げて故山から上って帝都の論壇に突入し、続いて『国民之友』を創刊して文名隆々天下を圧する勢いがあった。",
+              "citation": {
+                "source": "二葉亭四迷の一生",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（四）　洋々たる奏楽の音起ると共に、外相は有栖川宮妃殿下を扶け、有栖川宮殿下はエリサベツト夫人と相挈へ、其の他やんごとなき方々香水のかをりを四方に薫じつゝ、舞踏室に入りたまひぬ。",
+              "citation": {
+                "source": "燕尾服着初の記",
+                "author": "徳富盧花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」〔去年正月君ヲ尋ネシ時／手ニ挈グ杉田ノ梅一枝／今年春又君我ヲ問フ／門ニ衝ヒテ先ヅ覚ユ香風ノ吹クヲ／担ギ来ル繁蕊人ノ白キガ如シ／一堂照映シテ坐ラ窄シト為ス〕云々。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "野口、北村、沼尻ノ三権少属ハ各家累ヲ挈ゲテ後継ト為ル。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "中ニ妻孥ヲ挈ル者アリ。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

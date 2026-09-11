@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "71fd727b-227a-5739-9a56-74a0fda5201c",
+    "entry": "棠園",
+    "reading": {
+      "primary": "棠園",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　秋の詩の中に蘭軒が旧友西脇棠園といふものに訪はれた七律がある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "詩の引には「中秋前一日雨、草堂小集、時棠園西脇翁過訪、余与翁不相見、十余年於此、故詩中及之」と云つてある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "棠園、名は簡、通称は総右衛門、此年五十七歳であつた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "薪斎と棠園との縁故ありや否を知らない。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次で置鹽棠園さんの手紙が來て、わたくしは※堂の事を一層｜精しく知ることが出來た。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蘆庵は棠園さんの五世の祖である。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "以上の事實は棠園さんの手書中より抄出したものである。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "棠園さんは置鹽氏、名は維裕、字は季餘、通稱は藤四郎である。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "わたくしの舊知内田｜魯庵さんは棠園さんの妻の姪夫ださうである。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "わたくしは壽阿彌の手紙に由つて棠園さんと相識になつたのを喜んだ。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二　壽阿彌の手紙の宛名桑原※堂が何人かと云ふことを、二宮孤松さんに由つて略知ることが出來、置鹽棠園さんに由つて委く知ることが出來たので、わたくしは正誤文を新聞に出した。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大下の岳母が何人かと云ふことは、棠園さんに問うて知ることが出來た。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此清右衞門と云ふ人の事蹟は、棠園さんの手許でも猶不明の廉があるさうである。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其中に「小右衞門殿へも宜しく」と特筆してあるから、試に棠園さんに小右衞門の誰なるかを問うて見たが、これはわからなかつた。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

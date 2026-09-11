@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "0e1caeea-3202-5d9d-a6c3-7dc630ae44ce",
+    "entry": "裟子",
+    "reading": {
+      "primary": "裟子",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　緋裟子さんは、返事をしない。",
+              "citation": {
+                "source": "キャラコさん",
+                "author": "ぬすびと",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　緋娑子さんは、やり切れないというふうに、露骨に眉をひそめて、「あたし、緋裟子よ。",
+              "citation": {
+                "source": "キャラコさん",
+                "author": "ぬすびと",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……それも、まるっきり、あなたなんかご存知のない緋裟子なの。",
+              "citation": {
+                "source": "キャラコさん",
+                "author": "ぬすびと",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……だから、もう、タフさんなんて呼ばれるわけはないと思うの」　急に堰が切れたようになって、緋裟子さんの言葉は美しい抑揚に乗って、とめどもなく流れ出す。",
+              "citation": {
+                "source": "キャラコさん",
+                "author": "ぬすびと",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "緋裟子さんは、つづけ打ちといった工合に、「……うるさい思いをするのはいやだから、あらかじめお断わりして置きますけど、あたし、このごろ女学校時代の友達になど、ひとりも逢っていないの。",
+              "citation": {
+                "source": "キャラコさん",
+                "author": "ぬすびと",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "緋裟子さんが、自分がすっかり変わってしまったというのは、どうやら、その辺のことを指すらしい。",
+              "citation": {
+                "source": "キャラコさん",
+                "author": "ぬすびと",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ええ、盗んで来て、ちょうだい」「よくわかってもらって、持って来るのではいけませんの」　緋裟子さんは、冷笑をうかべながら、「あなたのような同情屋さんに、そんなこと、できるかしら」　なるほど、それにちがいない。",
+              "citation": {
+                "source": "キャラコさん",
+                "author": "ぬすびと",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

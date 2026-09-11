@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "c354a572-ab46-5f62-ac94-b5f29e99e727",
+    "entry": "憶得",
+    "reading": {
+      "primary": "憶得",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（毅堂は後に湖山の需によってその著『火後憶得詩』の賛評を書いた時、弘化丙午の年には二十一であったと言い、慶応二年には四十一歳となしているが、その生れた文政八年より数うれば丙午には二十二歳のはずである。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『火後憶得詩』を見るに、湖山は去年乙巳の八月に麹町平川町に卜居し、この年丙午の三月に至って某処の谷町に移り更にまた俎橋に転居したのである。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鷲津毅堂はこの夕武州金沢の旅亭総宜楼（東屋）にあったので、枕山の会に赴くことを得なかった事が『火後憶得詩』の評語にしるされている。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "横山湖山の『火後憶得詩』の中「墨水看花歌」に「丁巳三月念一日鷲津重光、井上公道、松岡欲訥、田中君山、福岡藤二ト墨水ニ遊ブ。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その集『火後憶得詩』の序を見るに、「余ノ吟咏ヲ好ムヤ二十年来作ル所千余首ヲ下ラズ。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "因テホゞ前後ヲ整理シ題シテ『火後憶得詩』トイフ。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二月十五日の夜に毅堂は横山湖山が『火後憶得詩』を読んでその賛評を書した。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『憶得詩』は安政戊午の冬湖山が神田お玉ヶ池の家を燬かれた後｜躬ら編成した詩集である。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "9c01d7b9-b09e-5886-9e69-46034935c5a0",
+    "entry": "垤",
+    "reading": {
+      "primary": "垤",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この蟻は地下きわめて深く巣をうがち発掘せる土をもって垤を造る。",
+              "citation": {
+                "source": "貧乏物語",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それとも、波羅葦僧垤利阿利の絵をあげますか。",
+              "citation": {
+                "source": "煙草と悪魔",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "麒麟の走獣に於ける、鳳凰の飛鳥に於ける、泰山の丘垤に於ける、河海の行潦に於けるは類なり。",
+              "citation": {
+                "source": "孔子",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

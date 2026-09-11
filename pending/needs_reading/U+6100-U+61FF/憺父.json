@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "b536f344-eb60-5ee7-b700-4b77f3785f4c",
+    "entry": "憺父",
+    "reading": {
+      "primary": "憺父",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "わたくしの検した所を以てすれば、黄葉夕陽村舎詩に蘭軒に言及した処が凡そ十箇所あつて、其中澹父と書したものが四箇所、憺父と書したものが一箇所、蘭軒と書したものが二箇所、都梁と書したものが二箇所、辞安と書したものが一箇所ある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「七月看小西湖荷花、帰路訪伊沢憺父、余与憺父狩谷卿雲諸子、曾作此賞、距今十一年矣、憺夫有詩、次韻以答。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "5cb16463-32dc-5211-9f23-191e81bb51d4",
+    "entry": "眩々",
+    "reading": {
+      "primary": "眩々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "三　二人の寄寓して居る塩町の湯屋の二階、其処に間もなく自分は行くやうになつた、二階は十二畳敷｜二間で、階段を上つたところの一間の右の一隅には、欅の眩々した長火鉢が据ゑられてあつて、鉄の五徳に南部の錆びた鉄瓶が二箇懸つて、その後にしつかりした錠前の附いた総桐の箪笥がさも物々しく置かれてある。",
+              "citation": {
+                "source": "重右衛門の最後",
+                "author": "田山花袋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "途端に私は、眼の前が眩々っとした。",
+              "citation": {
+                "source": "陰獣トリステサ",
+                "author": "橘外男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そんな汚らわしい真似をしていると考えると、眼の前が真っ暗になったような気持がして、思わず私は眩々っとした。",
+              "citation": {
+                "source": "陰獣トリステサ",
+                "author": "橘外男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こんなことたあ知らなかったんで」　武松は半ば眩々としたまま、ぷいと戸外へ飛び出してしまった。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

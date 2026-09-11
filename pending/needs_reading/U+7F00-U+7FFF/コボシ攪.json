@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "c779881c-c1d8-55db-97d6-af3ada4e1003",
+    "entry": "翻攪",
+    "reading": {
+      "primary": "こぼし攪",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "粗放なる柏軒をして案辺の物を飜攪せしむるは、蘭軒の耐ふること能はざる所であつた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "飜攪"
+      ],
+      "needs_reading": true
+    }
+  }
+]

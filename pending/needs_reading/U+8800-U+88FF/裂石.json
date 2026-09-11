@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "d14a6005-72e2-516a-bc53-e43b27e9332d",
+    "entry": "裂石",
+    "reading": {
+      "primary": "裂石",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ここは塩山を去ること三里、大菩薩峠のふもとなる裂石の雲峰寺でもその噂であります。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "みちりやの巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その言うところによると、この間、一人の武者修行の者があって、武州から大菩薩を越え、この裂石の雲峰寺へ一泊を求めた時に、雲衲が集まっての炉辺の物語――　音に聞えた音無の名残りを見んとて、沢井の道場を尋ねてみたが、竹刀の音はなくして、藁を打つ男の槌の音があった。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "みちりやの巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おそらく、過日の武者修行が、裂石の雲峰寺で、炉辺の物語の種としたのは、途中、このお松の蛇の目姿にであって、それに潤色と、誇張とを加えたのかも知れません。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "みちりやの巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "裂石の雲峰寺の石段の前に通りかかった時分、紳士もあれば商人も、学生もある一行が現われて、いつか、その旅人の馬をからんで峠路を登りながら話なじみになる。",
+              "citation": {
+                "source": "山道",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「知っていますとも――現にこの峠を越した多摩川の岸で船頭か粉挽をやっているはずです」「そうですか――それはどうも意外でした」　そこで裂石の雲峰寺を出た紳士青年商人学生取り交ぜの一行が改めて馬上の人に注意することになりました。",
+              "citation": {
+                "source": "山道",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "青梅街道を辿って柳沢峠に向う途中、裂石の山門に休んでいると、一陣の南風が甲府盆地から吹き上げて来て、濃い霧のようなものが僅に開けている視界を遮ったと思う間もなく、紛々として大雪が襲って来た。",
+              "citation": {
+                "source": "初旅の大菩薩連嶺",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「わしは知らぬが、伝うところによれば、父君は天目山にて討死したと見せかけて、じつは裂石山の古寺にのがれて姿をかえ、京都へ落ちられたといううわさ……」「さ。",
+              "citation": {
+                "source": "神州天馬侠",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

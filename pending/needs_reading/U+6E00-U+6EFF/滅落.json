@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "00028caf-1197-5579-80a1-b9fff3b95be0",
+    "entry": "滅落",
+    "reading": {
+      "primary": "滅落",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　これは私も今度聞いたが、バルチザン滅落後も北樺太の赤派は極端に不良で、白系の良民に対して脅迫掠奪残虐至らざるなしということであった。",
+              "citation": {
+                "source": "フレップ・トリップ",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ガルタンよ、爾は爾の醜き慣習のために滅落するであらう。",
+              "citation": {
+                "source": "碑文",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれ共、今は老来して滅落の底に沈んでゐる。",
+              "citation": {
+                "source": "「ケルトの薄明」より",
+                "author": "THE CELTIC TWILIGHT",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしそれは他の者らの滅落を早め、もしくはその気勢をくじく。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN-CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人の盛時において、執拗なる非難者でなかった者は、その滅落の前に黙すべきである。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "有史いらい、かつて見なかった最高の勇武の、その惑乱、その恐慌、その滅落、それはゆえなくして起こったことであろうか？",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "歯を磨くことは滅落の淵に臨むことである。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼らの滅落は、史上に陰惨なる感動を残す壮大な消滅の一つではなかった。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして滅落や至福かの板ばさみは、いかなる場合よりも恋愛において最もよく迫ってくる。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いま中国において、お味方の精鋭が、一敗地にまみるるならば――ここ鳴りをひそめている近畿、四国の敵ども、また本願寺一類の悉くも、それ、織田どの躓きが見えたぞ、右大臣の滅落今にありと、呪いの鐘をつき鳴らして、北国東国も一度に蜂起いたしましょう」「知っておる。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第五分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人は知らず内蔵助利三ごときは、あとも短き老い骨、一夜たりとも、己が主君を、天下様と仰ぎ、ひいてはお怨み積る右府信長公の滅落をこの目に見たら、もう死んでも思いのこりはない。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第七分冊",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

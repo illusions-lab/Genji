@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "41849b03-2910-56e3-9058-c3f481f362ae",
+    "entry": "决定",
+    "reading": {
+      "primary": "决定",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この夏もお互に旅先や何かで久しく顏を合せなかつた二人、さて新秋になると、向うは熱海で勉強して大に強くなつたと自｜信を持ち、僕は僕で名人｜决定｜戰の觀戰記を書き棋力に相當加ふるものありとうぬ惚れて、共に張り切つてゐるのだからたまらない。",
+              "citation": {
+                "source": "下手の横好き",
+                "author": "―將棋いろいろ―",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "＝２＝痛まし專門棋士　名人｜决定｜戰の金、花田｜兩八｜段の對局、相踵いで大崎、木見｜兩八｜段の對局を觀戰して、僕は專門｜的な棋戰の如何に苦しく辛きものであるかをつくづく思ひやつた。",
+              "citation": {
+                "source": "下手の横好き",
+                "author": "―將棋いろいろ―",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "愈織物が出來上つて、或祭日を期して其召初めがあるといふことに决定した。",
+              "citation": {
+                "source": "懷疑思潮に付て",
+                "author": "朝永三十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の歐洲を崇拜し、恐怖し、之を中心として萬事を决定せんとする者の痴愚なる、固より云ふを要せず。",
+              "citation": {
+                "source": "世界の日本乎、亞細亞の日本乎",
+                "author": "竹越三叉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "寛は亡妻の病めるや既に不治にして必死たるべきを决定するを以て、死去後には憂いとは思わざるのみならず、亦忘れんと欲するも、如何せん精神上に於ける言うべからざるの欝を以てし、且つ全身は次第に衰弱して喰料を※じ、動作困難にして、耳鳴｜眩暈して読書するにも更に何の感も無く、亦｜喰物に味無く、只恍惚たるのみ。",
+              "citation": {
+                "source": "関牧塲創業記事",
+                "author": "関寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此疑問の解答は、少しく後に譲りて、其何れに决定するも、編述者の意志の誠実にして、伝承の真を失わざらんことを勉めしは疑なきに似たり。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今先ずはじめに、决定す可きは、島子の趣きし処なる可し。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "氣候の寒暖は衣服の有無を决定するものに非ず。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

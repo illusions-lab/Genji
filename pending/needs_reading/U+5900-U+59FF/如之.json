@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "1fb20aaa-753a-59d0-9632-6bb674fe4da8",
+    "entry": "如之",
+    "reading": {
+      "primary": "如之",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "如之ならず、神近や野枝さんとの自由恋愛を大杉自身の口から早く聞かされたが、常から放縦な恋愛を顰蹙する自分は大杉のかなりに打明けた正直な告白に苦虫を潰さないまでも余り同感しなかったのを気拙く思ったと見えて、家が遠くなると同時に足が遠のいてしまった。",
+              "citation": {
+                "source": "最後の大杉",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人力、無如之何而己。",
+              "citation": {
+                "source": "靈魂一元論",
+                "author": "西周",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唯々雲如之世間狭く相成る可く気の毒の儀に御座候。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天下之恥何事如之哉。",
+              "citation": {
+                "source": "奥州における御館藤原氏",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "罪過之甚、何事如之哉。",
+              "citation": {
+                "source": "俗法師考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

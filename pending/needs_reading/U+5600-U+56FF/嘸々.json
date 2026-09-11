@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "7b9617fc-6dc4-581c-85c8-407461fea725",
+    "entry": "嘸々",
+    "reading": {
+      "primary": "嘸々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "此前東京の友達への手紙に妹の病気のことを言ひ、本人も周囲の人々も今は只だ死を待つのみだと書き添へてやつたら、返事｜旁々見舞の手紙をよこしたが、其中に、「……令妹御重病の趣き嘸々御憂慮のことと察します。",
+              "citation": {
+                "source": "厄年",
+                "author": "加能作次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれども一國な我儘者の圭一郎に傅いて嘸々氣苦勞の多いことであらうとの慰めの言葉を一言千登世宛に書き送つて貰ひたいといふことだけはいつものやうに冗く、二伸としてまで書き加へた。",
+              "citation": {
+                "source": "業苦",
+                "author": "嘉村礒多",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "猶ほあなた様方も御留守｜者嘸々御配意と存じ申候。",
+              "citation": {
+                "source": "鴎外の思い出",
+                "author": "小金井喜美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嘸々私のお母様が墓の中で泣いて居る事で御座りませうよ。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嘸々御｜愁傷も遊ばさるべく拝察｜仕り候。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「しかしお宜しい方で結構ですね」「はあ一時は随分心配しましたのよ」「然うでしょうとも」　と新太郎君も嘸々と察し入った。",
+              "citation": {
+                "source": "脱線息子",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 18
+      }
+    }
+  }
+]

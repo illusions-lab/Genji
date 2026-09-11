@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "39faac3b-7287-5daa-9637-c1e39a9210da",
+    "entry": "溯閣",
+    "reading": {
+      "primary": "溯閣",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その中の文溯閣には有名な四庫全書参万六千冊が蔵められてゐる。",
+              "citation": {
+                "source": "満蒙遊記",
+                "author": "附　満蒙の歌",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "北方四閣中、自分の見たるは奉天文溯閣なるが、四閣とも構造は同一なるに相違なし。",
+              "citation": {
+                "source": "文溯閣の四庫全書",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "文溯閣の函數は下層經部その他にて一千五百六十八函、中層史部は一千五百八十四函、上層子、集部は三千六百函あり。",
+              "citation": {
+                "source": "文溯閣の四庫全書",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この文溯閣の管理人は主任一人、兼任二三人のみにして、能く自在に書籍の出納を處辨せり。",
+              "citation": {
+                "source": "文溯閣の四庫全書",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

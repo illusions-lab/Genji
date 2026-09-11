@@ -328,5 +328,89 @@
         "aozora": 291
       }
     }
+  },
+  {
+    "uuid": "883d57fe-6e5a-55e6-8fb4-9095eacdb88e",
+    "entry": "麁忽",
+    "reading": {
+      "primary": "そこつ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（先晩の麁忽は、不残手前でございます。",
+              "citation": {
+                "source": "式部小路",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "されどかく揃ひて好き容量は未だ見ずと、静緒は心に驚きつつ、蹈外せし麁忽ははや忘れて、見据うる流盻はその物を奪はんと覘ふが如く、吾を失へる顔は間抜けて、常は顧らるる貌ありながら、草の花の匂無きやうに、この貴婦人の傍には見劣せらるること夥かり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "不思議にも無難に踏留りし車夫は、この麁忽に気を奪れて立ちたりしが、面倒なる相手と見たりけん、そのまま轅を回して逃れんとするを、俥の上なる黒綾の吾妻コオト着て、素鼠縮緬の頭巾被れる婦人は樺色無地の絹臘虎の膝掛を推除けて、駐めよ、返せと悶ゆるを、猶聴かで曳々と挽き行く後より、「待て、こら！",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秀郷が、竜宮から得た巻絹や俵米は尽きなんだが、一朝｜麁忽な扱いしてから出やんだちゅう談に似た事も、諸邦に多い。",
+              "citation": {
+                "source": "十二支考",
+                "author": "田原藤太竜宮入りの話",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 20
+      }
+    }
   }
 ]

@@ -900,5 +900,105 @@
         "aozora": 3
       }
     }
+  },
+  {
+    "uuid": "ddbfeeb5-191c-5352-8ae6-ce7119892bfe",
+    "entry": "襤縷",
+    "reading": {
+      "primary": "ぼろ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "蝋や襤縷の部分はすっかり燃えて了って、針金の断片と、犬の骨とが残っているのを、娘の骨として拾い、勿論、何等の疑いも受けずにその場は済んだ。",
+              "citation": {
+                "source": "三稜鏡",
+                "author": "佐左木俊郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして襤縷に包み、更に油紙に包んで八つの小包にしてリヤーカーの箱の底に詰め、その上へ三尺ばかりの高さの四体の人形を積んで掩隠した。",
+              "citation": {
+                "source": "三稜鏡",
+                "author": "佐左木俊郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "両側の狭い浅い溝には、襤縷片や葫蘿蔔の切端などがユラユラした※泥に沈んで、黝黒い水に毒茸の様な濁つた泡が、プクプク浮んで流れた。",
+              "citation": {
+                "source": "赤痢",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その男は二人とも、同じやうな襤縷々々の着物を着てゐた。",
+              "citation": {
+                "source": "寒山拾得",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もしも舞踊劇の舞台でのように、乞食が絹の襤縷を着て、破れたレースをつけて出て来て、優雅な踊りをしながら報謝を乞うのだったら、まだしも見物していられるよ。",
+              "citation": {
+                "source": "カラマゾフの兄弟",
+                "author": "上",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは襤縷を着た不具の老乞食が、車にうずくまっているのを、同様にぞっとするような、もう一人の乞食が、引いている所を見せていた。",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
   }
 ]

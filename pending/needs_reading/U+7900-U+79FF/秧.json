@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "796d716f-746f-5c13-9f95-f5003eb2430d",
+    "entry": "秧",
+    "reading": {
+      "primary": "秧",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "農業は植福の精神や作業を體現したかの觀あるものであるが、實に其の種を播き、秧を※むの勞苦は、福神の權に化して人と現はれて、其の福の道を傳へんが爲に勞作する、と云つても宜い程のものである。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "筑波の山われをおくりて、翠黛の眉濃かに插秧既に終りて日をふること旬日、朝風露をわたりて更に一段の緑を添ふ。",
+              "citation": {
+                "source": "草津行",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "左側は秧を植えたばかりの水田になって、その水は黒い中にどろどろしたぬめりを見せていた。",
+              "citation": {
+                "source": "雀が森の怪異",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "※秧いそがはしき頃なれば、舟の往來、殊にしげし。",
+              "citation": {
+                "source": "鹿島詣",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "庄内川には鮎が群れ、郊外の早苗田では乙女達が、※秧の業にいそしむようになった。",
+              "citation": {
+                "source": "天主閣の音",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "比叡の峰つゞきの裾山が比良岳の方に向つて走つてゐる山麓の村里を過ぎ插秧のをはつたばかりの水田や青蘆の生ひ茂つた汀つたひの街道を走つていつた。",
+              "citation": {
+                "source": "湖光島影",
+                "author": "琵琶湖めぐり",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "苗代の水に映る青空に漣が立ち、二寸ばかりの緑秧が一本一本｜涼しく靡いて居る。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "屋後の水田を望むに農婦三※秧にいそがはし。",
+              "citation": {
+                "source": "荷風戰後日歴　第一",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "※秧の時節人々雨なきを憂ふ。",
+              "citation": {
+                "source": "荷風戰後日歴　第一",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○橇○秧馬、諸書に散見す。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "恐らく不死の老翁は、半ば形を水に変じて、かの緑秧にそそぎ、昇っては雲霧と化し、やがて名残りの山肌に、霜と置き雪と積み、かくしてめぐりくる年の春の陽に、又そのめでたい姿をあらわすのであろう。",
+              "citation": {
+                "source": "ある偃松の独白",
+                "author": "中村清太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

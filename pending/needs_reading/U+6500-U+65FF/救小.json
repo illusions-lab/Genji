@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "bed72ce9-d860-5958-ac1f-1b0d30ac7129",
+    "entry": "救小",
+    "reading": {
+      "primary": "救小",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "こゝへ立つたお救小屋へ、やみの夜は、わあツと言ふ泣聲、たすけて――と言ふ悲鳴が、地の底からきこえて、幽靈が顯はれる。",
+              "citation": {
+                "source": "間引菜",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幕府の設けた救小屋は、幸橋外に一カ所、上野に二カ所、浅草に一カ所、深川に二カ所であった。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "非人の話は前にちよつとしたやうですが、非人小屋といふものは寛文以來ずつとある稱へで、文化三年頃の記録には御救小屋と書いてある。",
+              "citation": {
+                "source": "物貰ひの話",
+                "author": "三田村鳶魚",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "奉行所では三条大詰河原に救小屋を建てて行倒れを収容したが、施米したいにも、ものがなく、救小屋に入ったものは、暮までに、大方、餓死した。",
+              "citation": {
+                "source": "奥の海",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "千住を出離れたが、いよいよ数は増すばかり、難民の群れは奥州街道を埋めつくす勢いで、草加の近くまで切れ目もなくつづき、新宿、品川のお救小屋をあてにし、道端に足を投げだして待っている。",
+              "citation": {
+                "source": "奥の海",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

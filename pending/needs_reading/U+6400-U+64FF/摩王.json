@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "617a3b24-0532-5670-b8ea-3b53bf99a9d8",
+    "entry": "摩王",
+    "reading": {
+      "primary": "摩王",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "さて羅摩王久しぶりで恋女房を難苦中より救い出し、伴うて帰国した後、一夜微服して城内を歩くと、ある洗濯師の家で夫妻詈り合う。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猴に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "亭主妻に向いわれは一度でも他男に穢された妻を家に置かぬ、薄のろい羅摩王と大違いだぞと言うた。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猴に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "羅摩王、宮に還って馬牲をやり直さんとし、隣国諸王と国内高徳の諸梵士を招待す。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猴に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『垂加文集』に〈庚申縁起、帝釈猿を天王寺に来たらしむ云々、これ浮屠通家説を窃みこれを造るのみ〉とあれど、遠く三国時代に訳された『六度集経』に、羅摩王物語を出して猴王（スグリヴァ、上出）衆を率い海に臨み、以て渡るなきを憂う。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猴に関する伝説",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

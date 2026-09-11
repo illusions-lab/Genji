@@ -1,0 +1,175 @@
+[
+  {
+    "uuid": "74e89e36-2d0c-5811-8f34-efa68fc17839",
+    "entry": "穉子",
+    "reading": {
+      "primary": "穉子",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "いかなれば耶蘇の穉子は一たびもこの群に來て、われ等と共に遊ばざるといひき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "むべなり、耶蘇の穉子は十字架にかゝりたればといひき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まことに我が如き穉子をかゝるところに伴ひ入りしは、いとおろかなる業なりき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "母上の物語り給ふを聞けば、かれが故郷にては聖母をも耶蘇の穉子をも知らずとぞ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "わが帆木綿の上なる穉子をゆすぶる傍にて、媼は苧うみつゝ、我に新しき祈祷を教へ、まだ聞かぬ聖の上を語り、またこの野邊に出づる劫盜の事を話せり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "目の美しく光ある穉子なり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "他の二人は本所｜三目の上屋敷にゐた井上｜栄三の母と穉子とであつた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "忽ち穉子の笑う声がしたので、わたくしは振り向いて見た。",
+              "citation": {
+                "source": "細木香以",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」抱かれている穉子はわたくしを見て、頻に笑って跳り上がった。",
+              "citation": {
+                "source": "細木香以",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "巨勢は唯母に引かるる穉子の如く従ひゆきぬ。",
+              "citation": {
+                "source": "うたかたの記",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "優しい胸に温い性命の満ちている穉子がここにいたのだ。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）あたゝけき風の戦緑に囲はれたる野に満てるとき、4635黄昏は甘き香を霧の衣を降り来させ、楽しき平和を低く囁き、穉子を寐さするごとく心を揺りて眠らしむ。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さて自由の風に心｜霽して、かの烟｜罩め靄鎖せる谷間深く棲み、5835「我も生けり」とのどかに思へる男、女、穉子等を嘲み笑はんとす。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若夫れ思うて君の私に及べば、君が往年鼓盆の興ありしより、門庭寂寞、中饋人なく、父子相依り、懽少なくして苦多く、晨米暮鹽、君の料理に歸し、弱息穉子、君が撫育を待てり。",
+              "citation": {
+                "source": "祭原教授文",
+                "author": "狩野直喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人住むところ行くところ嘆と死とのあるところ歌と樂とのあるところ涙、悲み、憂きなやみ笑、喜び、たのしみと互に移りゆくところ、都大路の花のかげ白雲深き鄙の里白波寄する荒磯邊、無心の穉子の耳にしも無聲の塚の床にしも等しく響く暮の鐘。",
+              "citation": {
+                "source": "天地有情",
+                "author": "土井晩翠",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 18
+      }
+    }
+  }
+]

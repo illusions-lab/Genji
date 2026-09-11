@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "e3df3186-4fb4-56c4-ae54-d9c9c5109db6",
+    "entry": "屈静",
+    "reading": {
+      "primary": "屈静",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "趙再思は仕方なしに俟っていると、暮方になって漸く季は出て来て、余怒なお色にあるばかりで、「自分に方鼎を売付けた王廷珸という奴めは人を馬鹿にした憎い奴、南科の屈静源は自分が取立てたのですから、今書面を静源に遣わしました。",
+              "citation": {
+                "source": "骨董",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "果して屈静源は有司に属して追理しようとしたから、王廷珸は大しくじりで、一目散に姿を匿してしまって、人をたのんで詫を入れ、別に偽物などを贈って、やっと牢獄へ打込まれるのを免れた。",
+              "citation": {
+                "source": "骨董",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "趙再思は仕方無しに俟つてゐると、暮方になつて漸く季は出て来て、余怒猶ほ色に在るばかりで、「自分に方鼎を売付けた王廷珸といふ奴めは人を馬鹿にした憎い奴、南科の屈静源は自分が取立てたのですから、今書面を静源に遣はしました。",
+              "citation": {
+                "source": "骨董",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "果して屈静源は有司に属して追理しようとしたから、王廷珸は大しくじりで、一目散に姿を匿して仕舞つて、人をたのんで詫を入れ、別に偽物などを贈つて、やつと牢獄へ打込まれるのを免れた。",
+              "citation": {
+                "source": "骨董",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

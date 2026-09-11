@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "4cc1a728-2559-5282-babd-22cedd1f89f9",
+    "entry": "索々",
+    "reading": {
+      "primary": "索々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "渚のいさご索々として、あしたの日の色を朗じ、滝の水冷々として、夜の月あざやかに浮かんだり。",
+              "citation": {
+                "source": "よくぞ能の家に",
+                "author": "二十四世　観世左近",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "索々と鳴る、その翅音。",
+              "citation": {
+                "source": "雪",
+                "author": "高祖保",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "葦は葦の仲間を呼び、揚子江の“三覇”一｜荘に会すること潯陽江頭　夜　客を送る楓葉　荻花　秋索々――　これは白楽天の詩「琵琶行」のはじめの句だが、いまの宋江の身は、そんな哀婉なる旅情の懐古に浸りうるどころではなかった。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "潯陽江頭　夜　客を送れば楓葉　荻花　秋索々たり主人は馬より下り　客は船にあり酒をあげて飲まんとするに管絃なし酔うて歓をなさず　惨として将に別れんとす別るるとき　茫々　江は月を浸せり忽ち聞く水上琵琶の声「……ああ」宋江は、ついに涙をたれた。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は感性の豊饒と思索の過度のなかで、索々不安を生きていたのである。",
+              "citation": {
+                "source": "啄木とデカルト命題",
+                "author": "三枝博音",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

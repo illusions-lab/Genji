@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "fc395c9b-bc73-51e3-b21a-788f58eef4a9",
+    "entry": "柘枝",
+    "reading": {
+      "primary": "柘枝",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "書物よりの影響は勿論、日本の文人を動して、奈良朝に出入して、既に浦島子傳・柘枝傳に辿々しい模倣の筆つきで、我が國固有の神女・人間婚合の物語を書かしめた。",
+              "citation": {
+                "source": "國文學の發生（第三稿）",
+                "author": "まれびとの意義",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "万葉集・懐風藻等を見ても、柘枝の仙女伝説がある。",
+              "citation": {
+                "source": "花の話",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "柘枝の仙女は、柘枝で作つた杖の信仰である。",
+              "citation": {
+                "source": "花の話",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本小説の源流は、黒川真頼にも注意せられて、浦島子伝・柘枝伝が挙げられた。",
+              "citation": {
+                "source": "相聞の発達",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次の二つは、所謂吉野仙媛に関する者にして、之に題して、「仙柘枝歌」と云い、之に註して、柘枝仙媛云々と云えるは、吉野神女を仙に取なししなり。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "da183786-03b2-5582-b0bd-b744426fc331",
+    "entry": "怕々",
+    "reading": {
+      "primary": "怕々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "で、母が来いと云うから、跟に随いて怕々奥へ行って見ると、父は未だ居る医者と何か話をしていたが、私の面を見るより、何処へ行って居た。",
+              "citation": {
+                "source": "平凡",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかも金水引に熨斗をつけた見事なその菓子折を差出しておくと、奇怪なあの目を空に見開いたまま、ふるえふるえあとずさりして、物をも言わずに怕々とそのまま消えるように立ち去りました。",
+              "citation": {
+                "source": "旗本退屈男　第十話",
+                "author": "幽霊を買った退屈男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いや、覗いたかと思うと、ふいっと消えまして、それと一緒にバタリと表の雨の中で何やら倒れた音が厶りましたゆえ、さすが気丈の赤堀先生もぎょっとなりまして怕々すかして見ましたところ、子按摩はやはりいたので厶りました。",
+              "citation": {
+                "source": "十万石の怪談",
+                "author": "佐々木味津三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は、微かに震へる指先きで盃を撮んで怕々に唇を近づけた。",
+              "citation": {
+                "source": "熱い風",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "愛ちやんは頗る失望して誰かに助けて貰はうと思つてた矢先でしたから兎が傍へ來たのを幸ひ、低い怕々した聲で、『萬望、貴方――』と云ひかけました。",
+              "citation": {
+                "source": "愛ちやんの夢物語",
+                "author": "ALICE'S ADVENTURES IN WONDERLAND.",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

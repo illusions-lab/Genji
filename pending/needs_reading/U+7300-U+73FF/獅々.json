@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "088497db-613d-5e4b-b111-41d835c8683b",
+    "entry": "獅々",
+    "reading": {
+      "primary": "獅々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ようかわいがったげるさかいな、精だしてお稼ぎや」　桃龍が、笑いもせずもう一遍、「え――、里栄はんの姉妹御ゲン里はんでござい……」　章子は、獅々舞いが子供を嚇すように胸を拳でたたきたたき笑いこけている小婢の方へじりじりよって行った。",
+              "citation": {
+                "source": "高台寺",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アートレ，デースこなたには艶冶のパリス探すべく、　450獅々奮迅の勇なして諸軍の間巡り行く。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "清原流の先生が、お寺に四年も懸人になっていたことがありましたから」「では大したものだ、獅々とか、吉簡とかいう秘曲もふけるのじゃろ」「とんでもない――」「まあ、何でも好きなもの……いや自分の胸に鬱しているものを、その七つの孔から、吹き散じてしまうつもりで吹いてごらん」「ええ。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "地の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

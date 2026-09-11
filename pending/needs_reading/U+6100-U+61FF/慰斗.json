@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "f9e7fd6b-8ddd-594d-ba83-e305e6844d44",
+    "entry": "慰斗",
+    "reading": {
+      "primary": "慰斗",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――夏目漱石を博士呼ばはりをすると、博士号なぞ慰斗つきの儘送り返したのだと言つて、胃病患者につき物の苦い顔をするかも知れないが、まあさ、辛抱して貰ひたい。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正八（一九一九）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おしまさん　　（鏡台の抽斗をかきまはし）こんな処に、慰斗がはひつてら……。",
+              "citation": {
+                "source": "留守（一幕）",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "諸君の胸を張り裂くように、いま壁の向う側に苦しい咳をしているのは、火慰斗かけの女であるとか。",
+              "citation": {
+                "source": "青年に訴う",
+                "author": "AUX JEUNES GENS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "わたしがお前なら、慰斗をくわえて、飛んで行くが」と、義弟の無慾を罵倒した。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吉田親分さんのお志、ありがたく頂戴いたして置きます」「こら、金さん、そんな汚れた銭、受け取んな」「まあ、おれに委せとけ」　金五郎は、そういって、君香から、「御見舞」と、表に、太く墨書された、部厚な慰斗袋を受けとった。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "水引と慰斗とをかけた桶の中には、青笹を蒲団に、巨大な赤鯛が二尾、イセエビが一匹、鯛の肌のうえには、「祝儀」の二字を太い筆でかいた奉書包み、それには、少からぬ紙幣束が入っているらしく、厚くふくらんでいる。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

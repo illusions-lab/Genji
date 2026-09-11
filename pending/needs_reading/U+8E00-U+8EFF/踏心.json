@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "3ecacad8-9c0d-58b8-a3a6-2c3f42e7859c",
+    "entry": "踏心",
+    "reading": {
+      "primary": "踏心",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "踏心地柔かく小石ひとつあらずなりぬ。",
+              "citation": {
+                "source": "竜潭譚",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東より西の此方に、二ならび両側の家軒暗く、小さき月に霜｜凍てて、冷たき銀敷き詰めたらむ、踏心地堅く、細く長きこの小路の中を横截りて、廂より軒にわたりたる、わが青楓眼前にあり。",
+              "citation": {
+                "source": "照葉狂言",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それで今朝汽車が出てしまって改札口へ引返すと同時に、なんだか気抜けがしたように、プラットフォームの踏心も軽く停車場を出ると空はよく晴れて快い日影を隠す雲もない。",
+              "citation": {
+                "source": "障子の落書",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "台場の停車場から半道ばかり、今朝此原へかゝつた時は、脚絆の紐も緊乎と、草鞋もさツ／＼と新しい踏心地、一面に霧のかゝつたのも、味方の狼煙のやうに勇しく踏込むと、さあ、一ツ一ツ、萱にも尾花にも心を置いて、葉末に目をつけ、根を窺ひ、まるで、美しい蕈でも捜す形。",
+              "citation": {
+                "source": "二世の契",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "下生を奇麗に払った自然の築山、砂地の踏心地もよく、公園の名はあっても、あまり人巧の入って居ないのがありがたい。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "下生を奇麗に拂つた自然の築山、砂地の踏心地もよく、公園の名はあつても、あまり人巧の入つて居ないのがありがたい。",
+              "citation": {
+                "source": "熊の足跡",
+                "author": "徳冨蘆花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "曽て高青邱の詩を読みし時、『中秋翫月』の篇中※蛇亂踏心膽悸、怪影走石皆楓楠、の句に到りて、はからずも悽愴の気に触れたり。",
+              "citation": {
+                "source": "『二十五絃』を読む",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夜露の降りた叢の踏心地は、決して気味のよいものではなかった。",
+              "citation": {
+                "source": "妖虫",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

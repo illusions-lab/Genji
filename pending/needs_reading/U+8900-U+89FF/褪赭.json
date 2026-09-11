@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "ae979ed2-a90e-5fe5-a39f-c810a40a42f7",
+    "entry": "褪赭",
+    "reading": {
+      "primary": "褪赭",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そして青田のなかに褪赭の煉瓦の煙突。",
+              "citation": {
+                "source": "城のある町にて",
+                "author": "梶井基次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "建物の後ろは深いどんぐり林で、建物の前方に拡がる芝生には桜の花が咲き乱れ、二階建の新しい褪赭色の建物が芝生を越えて見られた。",
+              "citation": {
+                "source": "地上",
+                "author": "地に潜むもの",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "凍れる朝を長野にいって、Ｋを驚かし、やまやという感心もせぬ旅宿に昼餐したため、白馬山におくられ、犀川よぎり、小諸のあたり浅間山を飽かず眺め、八ヶ岳、立科山をそれよと指し、落葉松の赤きに興じ、碓氷もこゆれば、曾遊の榛名、赤城の山々は、夕の空に褪赭色ににじんでいた。",
+              "citation": {
+                "source": "雪の武石峠",
+                "author": "別所梅之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それが脂と埃に交つて、地色の褪赭を紫色に仕上げて居るのです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "御落胤殺し",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それが脂と埃に交って、地色の褪赭を紫色に仕上げているのです。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "御落胤殺し",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

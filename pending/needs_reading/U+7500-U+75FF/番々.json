@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "38425519-2af3-5f3c-aca2-4f50f275e492",
+    "entry": "番々",
+    "reading": {
+      "primary": "番々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "お秀は嘆息ついて、そして淋びしそうな笑を顔に浮かべ、「ほんに左様ですよ、人様のお話の取次をして何番々々と言って居るうちに日が立ちますからねエ」と言って「おほほほほ」と軽く笑う。",
+              "citation": {
+                "source": "二少女",
+                "author": "国木田独歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宗右衛門は一番々頭の清之助や親類の男達に衛られながら葬列の中ほどを練つて歩いた。",
+              "citation": {
+                "source": "老主の一時期",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今や彼は衆を圧し、老練な一番々頭をまで抜いて店の主権をかち得ようとした。",
+              "citation": {
+                "source": "老主の一時期",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "主人が独り遺した娘のお辻は、自然と彼の手中に来て、彼の妻となり、老齢で隠居した一番々頭の外に、主人の得意を譲りうけるものはなかつたので、その結果も自然と彼の処へ来た。",
+              "citation": {
+                "source": "老主の一時期",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一番々頭が持参する日々の出納帳もあまり身にしみては見なかつた。",
+              "citation": {
+                "source": "老主の一時期",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十右衛　一番々頭の伝兵衛という者でございます。",
+              "citation": {
+                "source": "勘平の死",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その時には山門寺門の学者達を召されて、番々に「往生要集」を講じ、各々の所存を述べさせられたが、法然も仰せに従って披講をした。",
+              "citation": {
+                "source": "法然行伝",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一番々々｜番へられる相手方の詩句は、漢詩としては類型式なり、断篇風な物であつても、此先進文学の持つよい態度が、敷き写しに伝へられてゐた。",
+              "citation": {
+                "source": "女房文学から隠者文学へ",
+                "author": "後期王朝文学史",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大番頭の半兵衞は年のせゐでこの一二年は名ばかりの位に備はり、二番々頭の要助は、まだ三十四五の若盛り乍ら、先々代からの知遇を得て、近頃はもう一手に店を切り廻して居るのでした。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "地獄から來た男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから二番々頭の伊之助さん、時松さん、丁稚、小僧さんから若い衆まで、一人も家を空けた者がないとは堅いことだね。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "濡れた千兩箱",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

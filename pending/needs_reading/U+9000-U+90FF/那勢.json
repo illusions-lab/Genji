@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "3b598619-93b8-5049-9ca5-a93b681a5566",
+    "entry": "那勢",
+    "reading": {
+      "primary": "那勢",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "然れども愛しき我｜那勢命入り来ますことの恐ければ、まづ具に黄泉神と諭はん、我をな視たまひそ。",
+              "citation": {
+                "source": "神州纐纈城",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それが本性を発揮し私の夢の裡でまで彼那勢いで駈け出したのかと思ったら、ひとりでににやにやした。",
+              "citation": {
+                "source": "静かな日曜",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宣長が古事記の「……登許曾、我那勢之命為如此登詔雖直、猶其悪態不止而転」を「……とこそ、あがなせのみことかくしつらめ、とのりなほしたまへども、なほ、そのあしきさまやまずて、うたてあり」と古訓したのは、時代を錯誤した様に思はれる。",
+              "citation": {
+                "source": "副詞表情の発生",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "支那勢力を一掃せば即ち足る。",
+              "citation": {
+                "source": "深憂大患",
+                "author": "竹越三叉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "乃ち千引石を其黄泉比良坂に引塞えて、其｜石を中に置きて、相｜対立して、事戸を渡す時に、伊邪那美命申し給わく、愛しき我が那勢の命、かくし給わば、汝の国の人草、一日に千頭絞り殺さなと申し給いき。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

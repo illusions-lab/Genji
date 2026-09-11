@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "1bcb6333-4a28-57dd-9e06-bed00dbf9632",
+    "entry": "奔河",
+    "reading": {
+      "primary": "奔河",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "だが、私は、私に対して近頃珍らしい同信者と見て奔河の流れのように自己を語る青年の満足さを見ては、押しても彼の言葉を妨げることは出来なかった。",
+              "citation": {
+                "source": "褐色の求道",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さほどの不器用者なら失うも悔いとはせぬ）　と、奔河のなかへ、子を投じた。",
+              "citation": {
+                "source": "梅里先生行状記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "別働隊の加藤次景廉や甲斐源氏の輩は、駿河国で出会い、いよいよ奔河の勢いを加えた。",
+              "citation": {
+                "source": "源頼朝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "丹波六十万石を下され、惟任の姓をも賜わって、一門なに不足なく、かくある御恩をも思いたまえば」　この語は、それまで、井の水のようであった光秀を、いちどに奔河の形相にさせた。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第七分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "当然、築土の内側には、すでに門側の衛門小屋や厩の辺りから駈けつけた織田のさむらい達が、得物を選ばず押っ取って、奔河の決潰をふせぎに当ったが、まさに切れた堤を手で支えんとする業にも似ていた。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第七分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "全軍また奔河のごとく急ぎに急いでいる。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第八分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "府中城の大手に向って、奔河の羽柴勢は、鶴翼のひらきを示した。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第九分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "根来へ、根来へ、とそれは奔河をなして行く。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第十一分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三　曹操は審配の計を観破していたので、数万の飢民が城門から押出されてくると、すぐ大兵を諸所に伏せて、飢民のあとをついて奔河の如く出てきた城兵を直ちに挟撃してこれに完全なる殲滅を加えた。",
+              "citation": {
+                "source": "三国志",
+                "author": "孔明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ひとたび敗れんか、魏や呉は、手を打って、奔河の堤を切るように蜀へなだれ込むだろう。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

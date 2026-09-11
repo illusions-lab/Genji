@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "095615f0-1d03-5572-a5e0-149108e77688",
+    "entry": "亮々",
+    "reading": {
+      "primary": "亮々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "いわんやまたこの時金風｜淅々として天に亮々たる琴声を聞き、細雨｜霏々として袂に滴々たる翠露のかかるをや。",
+              "citation": {
+                "source": "突貫紀行",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "でもたとえ小さな旅でも、二日の外房州のあの亮々たる風景は、私の魂も体も汚れのとれた美しいものにしてしまった。",
+              "citation": {
+                "source": "放浪記（初出）",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何と云う冷たいこうまんちきな女だろう、私は、どこへ行っても砂っ原のように亮々とした思いがするので、厭になってしまった。",
+              "citation": {
+                "source": "放浪記（初出）",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お雪は、その尺八の音に気を揉みましたけれど、尺八の音は、お雪の苦心に頓着なく、冷々亮々として響き渡ります。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "鈴慕の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "e0920468-b0a2-584e-aa7c-531fc492745b",
+    "entry": "臉児",
+    "reading": {
+      "primary": "臉児",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そうだ、そこへおいでなさるのは、たしかあだ名を病関索とおっしゃる牢頭さんじゃございませんか」　彼を呼びとめたのは、中山府の人で、片目の醜いところから、鬼臉児と異名のある、杜興という人間だった。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こいつア妙な所で会ったもんだな」「へえ、その鬼臉児の杜興ですよ。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これなん、楊雄とは親しく、また楊雄を恩人ともしている、李家の食客、鬼臉児の杜興だった。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

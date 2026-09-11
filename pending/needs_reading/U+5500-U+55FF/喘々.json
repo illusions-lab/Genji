@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "66b3a5fb-bafe-5bdd-a3bb-0efbdcc1ab00",
+    "entry": "喘々",
+    "reading": {
+      "primary": "喘々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "私もこんな年齡に成りながら、遂そんな心配もあるまいと、迂濶に油斷をした許に取り返しのつかないあなたの娘さんへ傷をつけまして、懲せと申されゝば野郎は手でも足でも打ち折りますが、どうか此から娘さんの方もお氣をつけなすつてと彼は呼吸も喘々として冷たい汗を流しました。",
+              "citation": {
+                "source": "白瓜と青瓜",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "即ち心臟鼓動し、呼吸喘々として僅かに頂に達す。",
+              "citation": {
+                "source": "草津行",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "終ひには息を切らして喘々するのであるが、私は態と捉まつてやつて可いのであるけれど、其處は子供心で、飽迄も／＼身を飜して意地惡く遁げ※る。",
+              "citation": {
+                "source": "二筋の血",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "終ひには息を切らして喘々するのであるが、私は態と捉まつてやつて可いのであるけれど、其処は子供心で、飽迄も／＼身を翻して意地悪く遁げ廻る。",
+              "citation": {
+                "source": "二筋の血",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "氣息喘々、纔かに山樹空濛たる間を過ぐれば、やがてわが前には、渺々たる小笹原、限りもなく顯れ出づ。",
+              "citation": {
+                "source": "日光山の奧",
+                "author": "田山花袋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それさえ、受け太刀ぎみで喘々いっていると、そこへ、「お嬢さま、一匹はひきうけましたぞ」　欒廷玉が、加勢に飛んで来たのである。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幸か不幸か、待乳の多市は、お十夜の妖刀に二ヵ所の傷を負わされながら、川長の者に救われてここに療治をうけ、今なお気息｜喘々と苦患の枕に昏睡している。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "上方の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

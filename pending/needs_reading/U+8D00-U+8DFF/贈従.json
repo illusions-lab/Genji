@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "abcb1130-6483-54dd-93f7-e5127519ec36",
+    "entry": "贈従",
+    "reading": {
+      "primary": "贈従",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "定基は大江｜斉光の子で、斉光は参議｜左大弁正三位までに至った人で、贈従二位大江｜維時の子であった。",
+              "citation": {
+                "source": "連環記",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その上、為世の女（贈従三位｜為子）は後醍醐天皇の側近に侍し、その腹に尊良親王・宗良親王のような英邁の皇子がお生れになっている。",
+              "citation": {
+                "source": "中世の文学伝統",
+                "author": "風巻景次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "為世の女贈従三位｜為子腹の宗良親王は『新葉集』の撰者、吉野朝の柱石であられるが、それに親近して吉野朝の右大臣まで昇った花山院長親の『耕雲口伝』に次の一文がある、肝要はたゞ数寄の志一つなり。",
+              "citation": {
+                "source": "中世の文学伝統",
+                "author": "風巻景次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の子為道・為藤・為冬・贈従三位為子みなこの世の人でなく、孫の為定もすでに五十一、為明は四十四、為重は十四であった。",
+              "citation": {
+                "source": "中世の文学伝統",
+                "author": "風巻景次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さて宗良親王は後醍醐天皇第五皇子、為世の女遊義門院権大納言｜典侍、いわゆる贈従三位為子の腹で、後村上天皇よりは兄君である。",
+              "citation": {
+                "source": "中世の文学伝統",
+                "author": "風巻景次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

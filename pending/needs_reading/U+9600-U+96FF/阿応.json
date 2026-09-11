@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "816d3370-c788-5507-97e0-b0c317f9b9a5",
+    "entry": "阿応",
+    "reading": {
+      "primary": "阿応",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "君と祝とは、女官御双紙を見ても知れるやうに、琉球の女官と言ふ考へには、普通の后妃・嬪・夫人以下の女官と聞得大君・島尻の佐司笠按司・国頭の阿応理恵按司などの神職を等しく女官として登録してゐる。",
+              "citation": {
+                "source": "琉球の宗教",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唯形式だけでも、いまだに、独身を原則として居るのは、国頭の巫女たちで、今帰仁の阿応理恵は独身、辺土のろは表面独身で、私生の子を育てゝゐる。",
+              "citation": {
+                "source": "琉球の宗教",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "琉球本島を分けどつてゐた、昔の北山・南山・中山の三国は、各大同であつて小異を含んだ神道を持つてゐて、中山は聞得大君、南山は佐司笠按司、北山は阿応理恵按司を最高の巫女としてゐたものであらう、と柳田先生も、伊波氏も言うてゐられる。",
+              "citation": {
+                "source": "琉球の宗教",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "佐司笠・阿応理恵は、実力から自然に、游離して来る事になつたのである。",
+              "citation": {
+                "source": "琉球の宗教",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また国頭郡｜今帰仁村今泊で見た旧按司家｜阿応理恵所伝の佩玉は、二十二個のいわゆる曲玉と、多数の水晶製丸玉とを交えて、きわめて見事なものであるが、これを納めた袋に、玉かはら一連。",
+              "citation": {
+                "source": "八坂瓊之曲玉考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿応理恵家では今もその一連の玉全体を玉ガハラと呼んでいるのである。",
+              "citation": {
+                "source": "八坂瓊之曲玉考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

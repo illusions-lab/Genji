@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "ce7f4dff-5f07-526f-ad1c-ed0b76c441e9",
+    "entry": "如前",
+    "reading": {
+      "primary": "如前",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ですから、この図を宇宙自然界の法則と対称することが出来るとすれば、当然、そこに抽象されるものがなけりゃならん訳でしょう」と法水が、突如前人未踏とでも云いたいところの、超経験的な推理領域に踏み込んでしまったのには、さすがの検事も唖然となってしまった。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これまで背後から投げかけてきていた光は、向きが変って、突如前からまばゆいばかりにさしてきた。",
+              "citation": {
+                "source": "審判",
+                "author": "DER PROZESS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "佐古源丞植田助左衛門吉原算左衛門大忍弥平兵衛同　助五郎右五人衆山崎算所に相添、如前前之十二月廿日より、同廿七日迄香宗様へ御普請に可罷出也。",
+              "citation": {
+                "source": "俗法師考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "香美郡之内算所取前其外之儀、如前前之たるへく候条、如此候、以上。",
+              "citation": {
+                "source": "俗法師考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あきの郡之内さん所やくの事、如前前無相違可申付、為其如此候、以上。",
+              "citation": {
+                "source": "俗法師考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二月七日　　　　　　　　　　　　　　　山内又左衛門算所　　　　　　　　　　　　　　　　判　　足田七五三太夫かたへ　　　　　　　―――――――――――――――――――――――――――――口上其方事一豊様如御判形物部川東甲浦限、算所神子くし等之事可為如前候也。",
+              "citation": {
+                "source": "俗法師考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

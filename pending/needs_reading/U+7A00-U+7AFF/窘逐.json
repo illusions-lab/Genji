@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "3c43057a-97f0-57a9-bff7-b93819d449ad",
+    "entry": "窘逐",
+    "reading": {
+      "primary": "窘逐",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼は人が自分を窘逐すると云ふ事を苦にしてゐる瘋癲患者、常に寐臺の上に丸くなつて寐てゐたり、或は運動の爲かのやうに、室を隅から隅へと歩いて見たり、坐つてゐる事は殆ど稀で、始終興奮して、燥氣して、曖いた心を、鏡に寫したやうに現はしてゐるのに。",
+              "citation": {
+                "source": "六號室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『私は人並の生活を好みます、實に、私は恁云ふ窘逐狂に罹つてゐて、始終苦しい恐怖に襲はれてゐますが、或時は生活の渇望に心を燃やされるです、非常に人並の生活を望みます、非常に、其れは非常に。",
+              "citation": {
+                "source": "六號室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は人が自分を窘逐すると云うことを苦にしている瘋癲患者、常に寐台の上に丸くなって寐ていたり、或は運動の為かのように、室を隅から隅へと歩いて見たり、坐っていることは殆ど稀で、始終興奮して、燥気して、瞹眛なある待つことで気が張っている様子。",
+              "citation": {
+                "source": "六号室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『私は人並の生活を好みます、実に、私はこう云う窘逐狂に罹っていて、始終苦しい恐怖に襲われていますが、或時は生活の渇望に心を燃やされるです、非常に人並の生活を望みます、非常に、それは非常に。",
+              "citation": {
+                "source": "六号室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

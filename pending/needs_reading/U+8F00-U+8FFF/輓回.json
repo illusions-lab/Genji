@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "f8301cd9-368c-56db-bac9-389bbc66c7c6",
+    "entry": "輓回",
+    "reading": {
+      "primary": "輓回",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「これは今夜はじめて諸君にかぎり発表する最高の機密であるが、実は、わがイギリス軍は、最早如何ともすべからざる頽勢を一挙に輓回せんがために、ここに極秘の作戦を研究しようとしている。",
+              "citation": {
+                "source": "独本土上陸作戦",
+                "author": "――金博士シリーズ・３――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは今日において何らか然るべき輓回の策を講じなくてはならない、と、こう考え及んだのであります。",
+              "citation": {
+                "source": "幕末維新懐古談",
+                "author": "竜池会の起ったはなし",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "といって気には止めませんが、私はじめ、高橋、田中両氏も何んとか景気を輓回したいものと考えている中に残暑が来て佐竹の原は焼け附く暑さで、見世物どころの騒ぎではなくなりました。",
+              "citation": {
+                "source": "幕末維新懐古談",
+                "author": "大仏の末路のあわれなはなし",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "木彫りの世界はこういうあわれむべき有様でありましたので、私は、どうかしてこの衰頽の状態を輓回したいものだと思い立ちました。",
+              "citation": {
+                "source": "幕末維新懐古談",
+                "author": "門人を置いたことについて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、困ってはおっても身の皮を剥いでも、弟子を取り立てたいという希望は充分にあったことで、これが私の木彫り輓回策実行の第一歩というようなわけでありました。",
+              "citation": {
+                "source": "幕末維新懐古談",
+                "author": "門人を置いたことについて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "事態は急を要する、黒藤ら一味の謀略が完成するまえに、事を輓回しなければならない。",
+              "citation": {
+                "source": "日日平安",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

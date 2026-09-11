@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "3e8a3d3a-d916-5816-a00d-65301888fa73",
+    "entry": "将已",
+    "reading": {
+      "primary": "しょう已",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "若有復爲此事、涜進章奏、欲將已定地方人民仍存明制不隨本朝制度者。",
+              "citation": {
+                "source": "支那人辮髮の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "將已"
+      ],
+      "needs_reading": true
+    }
+  }
+]

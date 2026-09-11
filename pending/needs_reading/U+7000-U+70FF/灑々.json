@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "0772169b-a65f-5b9e-b5ae-7b88b131e9ea",
+    "entry": "灑々",
+    "reading": {
+      "primary": "灑々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "千万謝言の後、架上の書を抽いて読んだと云ふ、その灑々たる風度が、洵に愛すべきである。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "獨り奔然一瀉し來る溪泉の水灑々として所在に簾を垂るゝもの、夜色を得て凄凉の氣更らに深きを多とするのみ。",
+              "citation": {
+                "source": "草津行",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古人曰、「大丈夫胸中｜灑々落落。",
+              "citation": {
+                "source": "遺訓",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

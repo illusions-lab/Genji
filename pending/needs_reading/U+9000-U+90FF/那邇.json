@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "9044ac5a-baf2-51e0-b60a-6c8446a669e4",
+    "entry": "那邇",
+    "reading": {
+      "primary": "那邇",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "爾ち殿騰戸より出で迎えます時、伊邪奈岐命語りたまはく、愛しき我那邇妹命、吾汝と作れりし国未だ作り竟らず、故れ還りたまふべしと。",
+              "citation": {
+                "source": "神州纐纈城",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天益人の如きも黄泉津平坂のことゞわたしの時に、汝国之人草一日絞殺千頭愛我那邇妹命汝為然者吾一日立千五百産屋是以一日必千人死一日必千五百人生也とあるのにかまけて、大祓の「国中成出天之益人等」とある語をみな死ぬるよりも生るゝ数のます意だとといて居るがどうもおちつかぬ。",
+              "citation": {
+                "source": "用言の発展",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "爾に、伊邪那岐命｜詔給わく、愛しき我が那邇妹の命や、子の一木に易えつるかもと詔給いて、御枕方に匍匐い、御足方に匍匐いて、哭給う。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "乃ち殿騰戸より出で向えます時に、伊邪那岐命語らい給わく、愛しき我が那邇妹の命、吾と汝と作れりし国、未だ作り竟えずあれば、還りまさねと詔給りき。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然れども、愛しき我が那邇勢の命、入り来ませる事、かしこければ、還りなんを、先ず具らかに黄泉神と相論わん、我をな見給いそ。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "爾に伊邪那岐命詔給わく、愛しき我が那邇妹の命、汝しかし給わば、吾はや一日に千五百産屋立てなと詔給いき。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

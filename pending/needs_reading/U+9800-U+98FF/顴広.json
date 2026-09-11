@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "4a27ae17-9b3d-5234-8eba-bac68aa371e7",
+    "entry": "顴広",
+    "reading": {
+      "primary": "顴広",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "高顴広額　エレベーター事件以来、私達秘書役は慎んで勤務している。",
+              "citation": {
+                "source": "ガラマサどん",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "高顴広額という註文だ」「何だって？",
+              "citation": {
+                "source": "ガラマサどん",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「熊野君」「はあ」「高顴広額の章は何うなったね？",
+              "citation": {
+                "source": "ガラマサどん",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "高顴広額はよって来る所以があります」「一寸面白い観察だね」「広く英雄伝を読み漁って聊か得るところがございました」「しかし熊野君、それは世の中に通用しない大掴みの書生論だよ」「はゝあ」「英雄を天才と定めてしまったんじゃ学問も修養もあったものじゃない」「いや。",
+              "citation": {
+                "source": "ガラマサどん",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "顔は矢張り高顴広額だよ」「はゝあ」「英雄の定義が立ちどころに出来た。",
+              "citation": {
+                "source": "ガラマサどん",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

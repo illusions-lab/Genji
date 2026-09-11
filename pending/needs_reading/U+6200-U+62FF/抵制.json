@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "62f57d9e-67c1-58f6-97a9-41014a8fbbfd",
+    "entry": "抵制",
+    "reading": {
+      "primary": "抵制",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "故郷の親元に送るらしい写真は大抵制帽を冠るので、顔付きが似なくて困ると写真屋が云うが、鳥打帽のはどんな処に送るのやら……。",
+              "citation": {
+                "source": "街頭から見た新東京の裏面",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "実際、道であちこちでＭに注意されたように、「抵制日貨」という、日本の商品に対するボイコットの張札がいたるところの壁にはりつけられてあった。",
+              "citation": {
+                "source": "日本脱出記",
+                "author": "大杉栄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "父母舅姑の爲に、自己の肉を性に富む支那人のこととて、その流弊憂ふべきに至り、支那官憲も幾分之を抵制する必要を感じて來た。",
+              "citation": {
+                "source": "支那人間に於ける食人肉の風習",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "されど其後ち流弊憂慮すべきものがあつて、元時代から政府は之を抵制し始めた。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一面弊害を認めて、割股を抵制若くば禁約しながら、一面股を割く者に旌表を加へるのは、割股の動機が孝情に本づくと認めるからである。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "元明時代に割肝行孝の弊害を認めて、禁約又は抵制しても、遂に永續せなかつたのは、之と同樣の事情に本づくことと思ふ。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "知ればこそ、之に抵制を試み、之に禁戒を加へたのである。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かくてさきの抵制や禁戒も、何時となく弛緩して、結局は復讎が公認に近くなり、割股が旌表を例とするに至るので、支那官憲の不徹底を非難する前に、一應はその孝道を尊重する衷情を諒とせなければならぬ。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殊に、稽古の日数は大抵制限されてゐるのだから、それだけ、工夫も積めるし、心持に余裕もでき、舞台に立つて不安を感じることも少く、勢ひ、演技に力と熱がはひる。",
+              "citation": {
+                "source": "俳優の素質",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いつも学校の制服姿を見馴れて居る私は、（岡村君は家に居る時も大抵制服を着て居たようです。",
+              "citation": {
+                "source": "金色の死",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "uuid": "937a53dd-020b-5e4c-b079-1a2b8dfbe6d8",
+    "entry": "迂儒",
+    "reading": {
+      "primary": "うじゅ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その私情なりとする罵詈、辨難にも國家をおもひて奸民を罵詈し、學術を唱へて迂儒を辨難するが如く公なるものあるが如く、その公情なりとする哀悼、戀愛にも個人に對して動くときは到底私を免れざるものあるべし。",
+              "citation": {
+                "source": "柵草紙の山房論文",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "真に迂儒が後世に井田を復せんとし、渡天の律僧がインドより支那に帰りて雪中裸かで水で肛門を浄むるに等しき愚説なり。",
+              "citation": {
+                "source": "神社合祀に関する意見",
+                "author": "南方熊楠",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さればかの迂儒の眼中より見ればほとんど理由もなく因縁もなく、他人の疝気を頭痛に病むの類たるがごとく、実に咄々怪事のごとしといえども、決してしからず。",
+              "citation": {
+                "source": "将来の日本",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は迂儒たるをまぬがれなかつた人といえる。",
+              "citation": {
+                "source": "天皇",
+                "author": "誰が日本民族の主人であるか",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本の迂儒は、孔子の教えを守ることを怠つた。",
+              "citation": {
+                "source": "天皇",
+                "author": "誰が日本民族の主人であるか",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "eba724a8-5f14-580b-a080-5680f3b18d3f",
+    "entry": "孕独",
+    "reading": {
+      "primary": "孕独",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これより妾の使いまする独楽は、その四国太夫の製法にかかわる、直径一尺の孕独楽、用うる紐は一丈と八尺、麻に絹に女の髪を、綯い交ぜにしたものにござります。",
+              "citation": {
+                "source": "仇討姉妹笠",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……紐を放れた孕独楽が、さながら生ける魂あって、自在に動く神妙の働き、お眼とめてご覧じ下さりませ！",
+              "citation": {
+                "source": "仇討姉妹笠",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それも孕独楽一揃いとして、普通に買入れたのに過ぎなかった。",
+              "citation": {
+                "source": "仇討姉妹笠",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すると、或日一人の武士が、飛田林覚兵衛と宣りながら、彼女の許へ訪ねて来て、孕独楽を譲ってくれるようにと云った。",
+              "citation": {
+                "source": "仇討姉妹笠",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それにその子独楽一つだけを譲れば、孕独楽は後家独楽になってしまう。",
+              "citation": {
+                "source": "仇討姉妹笠",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "舞台で孕独楽を使っていると、間近の桟敷で美貌の若武士が――すなわち山岸主税なのであるが、熱心に芸当を見物していた。",
+              "citation": {
+                "source": "仇討姉妹笠",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（孕独楽が後家独楽になろうとままよ、妾にはあんな子独楽用はない。",
+              "citation": {
+                "source": "仇討姉妹笠",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

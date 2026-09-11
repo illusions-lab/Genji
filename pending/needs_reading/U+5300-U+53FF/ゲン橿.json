@@ -1,0 +1,106 @@
+[
+  {
+    "uuid": "78692538-37a5-5d86-bf28-49038a6c8688",
+    "entry": "厳橿",
+    "reading": {
+      "primary": "げん橿",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "あれ（幣）に対して、いち・うた（歌）があり、いつ何と言ふ用語例も、厳橿・厳さかきなどになると、神出現の木と言ふ義を持つのかも知れぬ。",
+              "citation": {
+                "source": "若水の話",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○紀の国の山越えて行け吾が背子がい立たせりけむ厳橿がもと　〔巻一・九〕　額田王　紀の国の温泉に行幸（斉明）の時、額田王の詠んだ歌である。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで評釈する時に、一首として味うことが出来ないから回避するのであるが、私は、下半の、「吾が背子がい立たせりけむ厳橿が本」に執着があるので、この歌を選んで仮りに真淵の訓に従って置いた。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "厳橿は厳かな橿の樹で、神のいます橿の森をいったものであろう。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古義では、「三室の大相土見乍湯家吾が背子がい立たしけむ厳橿が本」と訓み、奠器｜円隣でミモロと訓み、神祇を安置し奉る室の義とし、古事記の美母呂能伊都加斯賀母登を参考とした。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この事は、万葉の秀歌に随処に見あたるので、「その草深野」、「棚無し小舟」、「印南国原」、「厳橿が本」という種類でも、「月かたぶきぬ」、「加古の島見ゆ」、「家のあたり見ず」でも、また、詠歎の入っている、「見れど飽かぬかも」、「見れば悲しも」、「隠さふべしや」等でも、結局は同一に帰するのである。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      },
+      "variant_writings": [
+        "嚴橿"
+      ],
+      "needs_reading": true
+    }
+  }
+]

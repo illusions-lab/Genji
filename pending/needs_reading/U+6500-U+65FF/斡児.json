@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "052364c8-cda7-593e-b430-3ce6d78b892d",
+    "entry": "斡児",
+    "reading": {
+      "primary": "斡児",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "第一幕　第一場斡児桓河に沿い、抗愛山脈に分け入らんとする麓。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "眼下はるかに塔米児、斡児桓両河の三角洲。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もう斡児桓河を渡ったな。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "塔米児、斡児桓の両河の合する三角洲に設けられた、成吉思汗の大｜天幕の前。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "銀の鱗と騒ぐ斡児桓と塔米児の川波が、知っているばかりだ。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今まで一望の砂原と見えたあたりに、斡児桓の川水が光って見えはじめる。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同時に、兵卒ら多勢走り廻って、ばたばたと天幕を畳めば、斡児桓河の向うに、抗愛山脈が旭に光り、舞台一面の広場となる。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

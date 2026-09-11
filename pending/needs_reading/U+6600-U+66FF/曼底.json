@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "5802f4c0-3372-5dc3-93d9-4aee39ba76c3",
+    "entry": "曼底",
+    "reading": {
+      "primary": "曼底",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "もとより Watteau の羅曼底、Corot の叙情詩は唯微かにそのおぼろげなる記憶に残れるのみ。",
+              "citation": {
+                "source": "邪宗門",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "青き花南紀旅行の紀念として且はわが羅曼底時代のあえかなる思出のために、この幼き一章を過ぎし日の友にささぐ。",
+              "citation": {
+                "source": "邪宗門",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "羅曼底の瞳この少女はわが稚きロマンチツクの幻象也、仮にソフィヤと呼びまゐらす。",
+              "citation": {
+                "source": "邪宗門",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "３わが友よ、わがわかき羅曼底の友よ、日は暮れて薔薇いろの光薄き弧燈のしめり、水の面と空気とにしみじみとにほひいでたる。",
+              "citation": {
+                "source": "浅草哀歌",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "瞳の青い羅曼底は忘れた故郷の香を捜して居る。",
+              "citation": {
+                "source": "北原白秋氏の肖像",
+                "author": "木下杢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "將又この羅曼底が實生活にも働くのである。",
+              "citation": {
+                "source": "海郷風物記",
+                "author": "木下杢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して又一方には此種の羅曼底と結合して、變り易き天候に支配せらるる其日其日の生活が著しく彼等を現世的にし、而して冬も尚鮮かなる雜木山の代赭、海の緑、橘の實の黄色――是等の自然の色彩が彼等の心、服裝、實用的工藝品にけばけばしい原始的の grotesque を賦與する。",
+              "citation": {
+                "source": "海郷風物記",
+                "author": "木下杢太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

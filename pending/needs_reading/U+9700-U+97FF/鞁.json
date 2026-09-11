@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "77ebea3e-ed63-5d5b-8b2c-e23bec06be3d",
+    "entry": "鞁",
+    "reading": {
+      "primary": "鞁",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "恩地孝四郎氏の装幀で、鼠色の薬嚢絨布で、表紙は無地、背の上部に白の鞁を当て、之に金文字を捺しただけであつた。",
+              "citation": {
+                "source": "文庫版『雀の卵』覚書",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "再版後の分は、表は同じ鼠の無地であるが、背の鞁の金文字は自身のものに換へ大扉と小扉も同じく之に準つた。",
+              "citation": {
+                "source": "文庫版『雀の卵』覚書",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鞁鳥打帽の下で外套の襟を深く立て、物がつまりすぎてパチンも満足にかからない書類入鞄を小脇にかかえ、わき目もふらずポケットへ手をつっこんで歩いて行く男や女――これは至極ありふれた文明国の恰好だ。",
+              "citation": {
+                "source": "砂遊場からの同志",
+                "author": "――ソヴェト同盟の共学について――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その上、台湾銀行の Bank note が置いて行った黒鞁のカバンにある筈なのがない、見なかったかと云われるには困った。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二四年（大正十三年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○Ｙ、鞁外套を買う、なおし、月曜。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二八年（昭和三年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "午後六時―七時、茶色のカバンを下げた男、肱の折れ目に手提カバンの鞁ひもをかけてぶら下げた若い娘たち。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二九年（昭和四年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二十留のタタールの鞁クッション。",
+              "citation": {
+                "source": "日記",
+                "author": "一九三〇年（昭和五年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「そうです」「あの、黒い鞁天幕は？",
+              "citation": {
+                "source": "古き小画",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "d7768ee6-65a7-5a9e-92c2-0f3c407ea240",
+    "entry": "阿仙",
+    "reading": {
+      "primary": "阿仙",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "このほど死んだワレス氏が六十年前シンガポールに寓した時常に近所を彷徨く虎若干ありて、新開の阿仙薬園に働く支那人を平均日に一人ずつ殺したと『巫来群島篇』第二章に言われた。",
+              "citation": {
+                "source": "十二支考",
+                "author": "虎に関する史話と伝説民俗",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "某新聞の記者某なる者、先日来屡来りて、笠森阿仙建碑の事を説き、碑文を草せよといふ。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之三大正八年歳次己未",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "笠森阿仙碑文女ならでは夜の明けぬ日の本の名物、五大洲に知れ渡るもの錦絵と吉原なり。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之三大正八年歳次己未",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "笠森の茶屋かぎやの阿仙春信の錦絵に面影をとゞめて百五十有余年、嬌名今に高し。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之三大正八年歳次己未",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "本年都門の粋人春信が忌日を選びて阿仙の碑を建つ。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之三大正八年歳次己未",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

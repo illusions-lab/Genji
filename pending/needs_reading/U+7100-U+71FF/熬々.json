@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "d0d5b275-1a8f-5e3a-82e9-e7d43261e584",
+    "entry": "熬々",
+    "reading": {
+      "primary": "熬々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "間もなく相見た時は、君もやゝ心解けて居たが、茶色の眼鋭く眉嶮しく、熬々した其顔は、一見不安の念を余に起さした。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "画帖の画も、狸が亀を押しころがしてジッと前足で押さえて居たり、蛇が羽たく雀をわんぐりと啣えて居たり、大きな猫が寝そべりながら凄い眼をしてまだ眼の明かぬ子鼠の群を睨んで居たり、要するに熬々した頭の状態が紙の一枚毎にまざ／＼と出て居た。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して相変らず医を業としつゝ、其｜熬々を漏す為に「浜ゆふ」なぞ云う文学雑誌を出したり、俳句に凝ったりして居た。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

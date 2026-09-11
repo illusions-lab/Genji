@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "89ede6ab-bf92-5bcd-b835-fba71ef3a1ec",
+    "entry": "阿鶴",
+    "reading": {
+      "primary": "阿鶴",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "脊中に阿鶴はと見れば浮世絵の式に蹴出した真っ赤な下着の間から婀娜っぽく白い脛を突き出し、月に向ったその顔は眼元を皺ませてさながら笑っている風。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "時刻も時刻なり、こういう味な小径を夜目にもしない嬌態纒綿たる盛装の美人を引っ脊負って行くのだから、知らぬ者が見たら粋気筋だと思ってずいぶん羨ましがらぬでもないが、実を明せば脊中なる阿鶴はその時すでに絶命しているので。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "加十はそれが、急げ急げと阿鶴が合図するのだと思うからいよいよもって周章狼狽き、「ああ、苦しいですか、もっともですもっともです、ざっと見積っても三十尺以上も墜落したのですから、多少苦しいぐらいのことはありましょう。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "加十は鶴子の帯をゆるめたり胸元をくつろげたりして、常識の及ぶ限りの手を尽しながら、絶えず、阿鶴さん阿鶴さんと連呼するがもとより阿鶴は答えよう筈はない。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

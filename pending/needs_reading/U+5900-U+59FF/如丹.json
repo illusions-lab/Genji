@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "37e33079-5960-5520-bad1-ebb325030eb6",
+    "entry": "如丹",
+    "reading": {
+      "primary": "如丹",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "三人の友だちとは、俳人の露柴、洋画家の風中、蒔画師の如丹、――三人とも本名は明さないが、その道では知られた腕っ扱きである。",
+              "citation": {
+                "source": "魚河岸",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もっとも風中と保吉とは下戸、如丹は名代の酒豪だったから、三人はふだんと変らなかった。",
+              "citation": {
+                "source": "魚河岸",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如丹は静かに笑い笑い、話の相槌を打っていた。",
+              "citation": {
+                "source": "魚河岸",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如丹はナイフの切れるのに、大いに敬意を表していた。",
+              "citation": {
+                "source": "魚河岸",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、鳥打帽を阿弥陀にしたまま、如丹と献酬を重ねては、不相変快活にしゃべっていた。",
+              "citation": {
+                "source": "魚河岸",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから一言の挨拶もせず、如丹と若い衆との間の席へ、大きい体を割りこませた。",
+              "citation": {
+                "source": "魚河岸",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "保吉はやむを得ず風中や如丹と、食物の事などを話し合った。",
+              "citation": {
+                "source": "魚河岸",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

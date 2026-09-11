@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "b4f095b4-2200-5dad-b8f3-5fd0bd1ac3ea",
+    "entry": "杳々",
+    "reading": {
+      "primary": "杳々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　前後左右どちらを見ても、ただ杳々茫々、脚下を覗いてもやはり際限なく薄みどり色のほの明るさが続いてゐるばかりで、上を仰いでも、これまた蒼穹に非ざる洸洋たる大洞、ふたりの話声の他には、物音一つ無く、春風に似て春風よりも少しねばつこいやうな風が浦島の耳朶をくすぐつてゐるだけである。",
+              "citation": {
+                "source": "お伽草紙",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　前後左右どちらを見ても、ただ杳々茫々、脚下を覗いてもやはり際限なく薄みどり色のほの明るさが續いてゐるばかりで、上を仰いでも、これまた蒼穹に非ざる洸洋たる大洞、ふたりの話聲の他には、物音一つ無く、春風に似て春風よりも少しねばつこいやうな風が浦島の耳朶をくすぐつてゐるだけである。",
+              "citation": {
+                "source": "お伽草紙",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一望蒼々たる水田より、一群の白鷺とびたち、杳々として、去つて暮色の中に沒す。",
+              "citation": {
+                "source": "飛鳥山遠足",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――元気で頼む」　かつて知らなかった男の杳々とした思いが、どんなに私を涙っぽく愛しくした事であろう。",
+              "citation": {
+                "source": "清貧の書",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "杳々とした野が続いて、まるで陸の海です。",
+              "citation": {
+                "source": "シベリヤの三等列車",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "博士は、ギゼーの此附近で、金字塔に関する考古資料を、発掘蒐集するために、地中海を通って杳々と、英国から渡って来たのであって、篤学の博士はその途中でも、モーソラスの霊廟や、ローズ島の立像や、アレキサンドリアの燈台などで、多少の発掘はしたものの、その本当の目的はギゼーの金字塔にあるのであった。",
+              "citation": {
+                "source": "木乃伊の耳飾",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

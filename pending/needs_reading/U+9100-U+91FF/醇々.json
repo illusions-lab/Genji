@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "ac75c338-d36d-57e0-9c53-ccb07a56b87b",
+    "entry": "醇々",
+    "reading": {
+      "primary": "醇々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "君は少しも顧慮する気色も見えず醇々として頭の悪い事を説かれた。",
+              "citation": {
+                "source": "長谷川君と余",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "倉一杯に溢れる醇々たる酒の靄は、享ければあわや潸々として滴らんばかりの味覚に充ち澱んでいた。",
+              "citation": {
+                "source": "鬼涙村",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "倉一杯に溢れる醇々たる酒の靄は、享ければあはや潸々として滴らんばかりの味覚に充ち澱んでゐた。",
+              "citation": {
+                "source": "鬼涙村",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして閣下をまた元のようにテーブルの前に坐らせると、醇々と国策問題を述べだしたのであった。",
+              "citation": {
+                "source": "十八時の音楽浴",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かつて初めて向陵の人となり今村先生に醇々として飲酒の戒を聞いたその夜、紛々たる酒気と囂々たる騒擾とをもって眠りを驚かす一群を見て嫌悪の念に堪えなかった。",
+              "citation": {
+                "source": "霊的本能主義",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ともすると、その草雲にさえ、斬ってかかりそうな眼をしている十一名を前に並べて、彼は、醇々と説きだした。",
+              "citation": {
+                "source": "田崎草雲とその子",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "0e13f115-682c-56f1-bce4-b81d9a8c8f41",
+    "entry": "迦畢",
+    "reading": {
+      "primary": "迦畢",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "般若三藏は北印度｜迦畢試の人で――『性靈集』に、中天竺國般若三藏とあるのは、想ふに、この三藏が主として中天竺で修業した故であらう。",
+              "citation": {
+                "source": "大師の入唐",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『宋高僧傳』の卷二に、迦畢試の智慧を收め、卷三に※賓の般若を收めてあるが、之は何れも同一の般若三藏を指したものかと疑はれる――天竺を歴游した後ち、海路から廣州に來り、徳宗の建中三四年（西暦七八二―七八三）の頃に長安に到着した。",
+              "citation": {
+                "source": "大師の入唐",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また同じ年に今のアフガニスタン地方に當る迦畢試（Kapisa）國の政府からも、天文に關する文獻を唐の朝廷に送呈して居る。",
+              "citation": {
+                "source": "東西交通史上より觀たる日本の開發",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "北天竺迦畢試國人也。",
+              "citation": {
+                "source": "弘法大師と景教との關係",
+                "author": "イー、エー、ゴルドン",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

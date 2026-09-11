@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "9bc2109b-54b0-5b1a-b05b-672c97429941",
+    "entry": "而得",
+    "reading": {
+      "primary": "而得",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "生けるとき、行うところの善悪、みな報応あり」と）（『漢郊祀志』）又同編云、魏収撰仏老志、略曰生生之類三世神識常不滅也、凡為善悪必有報応、漸積勝業陶冶粗鄙、経無数形澡錬神明、乃至無生而得仏道。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "四五　以天而得者固。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのうちで、仏教的ならぬものは、ただ「浦島子暫昇雲漢、而得長生、吉野女眇通上天而来且去等像」［浦島の子が暫く雲漢に昇り、而して長生を得しこと、吉野の女が眇かに上天に通り、而して来りて且つ去ること等の像］を作ったことのみであった。",
+              "citation": {
+                "source": "日本精神史研究",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "0cbfa7df-84dd-52d0-98e8-97daa1eb6a59",
+    "entry": "陋醜",
+    "reading": {
+      "primary": "陋醜",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "東　せに腹はかへられぬ西　雪隠で饅頭　東のは、親は疎に代ふる能はざるを云ひ、西のは自利の念の甚しきや陋醜唾棄すべきの事を敢てするに至るを嘲れるなり。",
+              "citation": {
+                "source": "東西伊呂波短歌評釈",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "当時の時代、豈作者の筆頭を借りて、其｜陋醜を遺存せしものにあらずとせんや。",
+              "citation": {
+                "source": "徳川氏時代の平民的理想",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "啻に白頭の故老のみならず、青年以上有為の士人中にも、一切万事有形も無形も文明主義の一以て之を貫くと敢て公言して又実際に之を実行しながら、独り男女両性の関係に就ては旧儒教流の陋醜を利用して、自から婬猥不倫の罪を免れんとする者あるこそ可笑しけれ。",
+              "citation": {
+                "source": "新女大学",
+                "author": "福沢諭吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

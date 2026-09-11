@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "7de11b01-7ada-5425-aba3-f79c8464638b",
+    "entry": "崩岩",
+    "reading": {
+      "primary": "崩岩",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "後で聞くとこれは赤岩沢というのだそうで、その名のごとく赭色の崩岩が河原にごろごろしていた。",
+              "citation": {
+                "source": "皇海山紀行",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東から東南に転向して利根川と越後沢とを分っている枝尾根なども、二百米近く下った所から両側に崩岩の頽れを押し下した薄ぺらな鎌尾根と変って、縦走の意外に困難なるべきを偲ばせるものがある。",
+              "citation": {
+                "source": "利根川水源地の山々",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "更に其右には小窓の谷底から躍り上ったような嶄岩の列が、執念の手を伸して追い縋ろうとする雪の前に、美しい緑草の斜面を展開したり、恐る可き崩岩の礫を投げ下したりして、威しつ賺しつ、後ろさまに身を退きながら、爪立ちになって一斉に覗き込んでいる。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "スバリ岳針木岳が崩岩の頽れをドッと押し出して、この大波を再び黒部の谷へ向けて揺り落している。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "小名古池ト云ル巽ノ方ナル麓ヨリ崩岩ノ山径ヲ蹈ミ、又ハ盤岩ノ曲径ヲ登ルコト廿五町ヲ経テ頂ニ至レバ、僅ノ平地アリテ猪狩明神ノ小祠ヲ安ス。",
+              "citation": {
+                "source": "二、三の山名について",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

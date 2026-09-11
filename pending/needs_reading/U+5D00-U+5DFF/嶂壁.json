@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "6ebb4c60-acc5-5e2a-a46e-8b8a7985f013",
+    "entry": "嶂壁",
+    "reading": {
+      "primary": "嶂壁",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "後ろより右へかけたる嶂壁を禊岩といふ。",
+              "citation": {
+                "source": "妙義山の五日",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "後ろを顧みれば、禊岩も見え、それの上の同じ方向に、一大嶂壁あり。",
+              "citation": {
+                "source": "妙義山の五日",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前を見れば、嶂壁の間、巨巖ありて、勢、飛ばむと欲す。",
+              "citation": {
+                "source": "妙義山の五日",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "八合目ぐらゐより嶂壁突つ立ちて、前より上るに由なし。",
+              "citation": {
+                "source": "妙義山の五日",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "約二千六百四十米突の辺から、三丁余の残雪、雪上では道がはかどらねば、左ん手の嶂壁の下に沿うて登る、この雪が終ると、峡谷が四岐する、向って左から二番目がよい、午前十時五十分、約二千八百四十米突の山脊つく。",
+              "citation": {
+                "source": "穂高岳槍ヶ岳縦走記",
+                "author": "鵜殿正雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "先ずこの右側を廻り、次に左側に向って大嶂壁の下を通り抜ける、今度は「廻れ右」して、この嶂壁の中間にある幾条かの割目を探り、岩角に咬りついて登るのだ。",
+              "citation": {
+                "source": "穂高岳槍ヶ岳縦走記",
+                "author": "鵜殿正雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "右手嶂壁の下には、数丁にわたる残雪、本年は焼岳の火山灰が、東北地方に降下したから、穂槍及び常念山塊の残雪は、例年に比し、甚だ少ないとの事だ、よく見ると鼠黒い灰が一面にある。",
+              "citation": {
+                "source": "穂高岳槍ヶ岳縦走記",
+                "author": "鵜殿正雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "流れの末には、黒部の大深谷を隔てて、滝倉から劔、立山の列嶂壁が、ずらりと立ち並ぶ。",
+              "citation": {
+                "source": "ある偃松の独白",
+                "author": "中村清太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

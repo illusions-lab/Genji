@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "1007fce6-ffd4-5977-bcb7-5a62252f60f6",
+    "entry": "帰署",
+    "reading": {
+      "primary": "帰署",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そして、たった一人｜全くおかしな奴がいるんです……」　一行の帰署を待ち構えていたもののように報告する一人の刑事の言葉を聞いて、赤羽主任はおっ冠せて云った。",
+              "citation": {
+                "source": "電気風呂の怪死事件",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "石子は帰署して手に入れた写真を大島司法主任に差出すと、牛込細工町の自宅に帰った。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "帰署して委細を司法主任に報告すると、主任は口惜しそうに云った。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "外へ出た彼はそのまゝ帰署して根岸刑事に相談しようかと思ったが、思いついて、一度支倉の留守宅を訪ねて、彼の妻に会って問い質して見ようと云う気になった。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二人は直ぐに帰署して司法主任に事の次第を報告した。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "力なく／＼帰署する石子の頭には、支倉の失踪を中心として起ったいろ／＼の奇怪な事件が渦を捲いていた。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鑑識課に白骨を置くと石子刑事は鑑識がすむまで残る事にして、他の一行は再び自動車を駆って一先ず帰署する事になった。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "で、鑑識の結果はいつ分るのだね」「石子が残っていますから判明次第帰署して報告する事になっています」　折柄｜扉をコツ／＼叩く者があった。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し、私は職責上お尋ねするので、此まゝあなたから少しも要領を得ないで帰署する事は甚だ困るのですが」　石子の落胆したようた様子を見た神戸牧師は、気の毒になったか少し言葉を和げながら、「職責上と云われると私も知っているだけの事は云わなければなりますまい。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "帰署いたしまして、早速手続きをいたします」　石子刑事は直接神戸牧師から支倉の事に関する有力な手懸りを得られなかったのは残念だったけれども、牧師自身が警察の呼び出しに応じて、署長の面前で話しても好いと云った言葉で稍勢いを得て神楽坂署に引上げた。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "石子が帰署したのはもう夕方近くだった。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

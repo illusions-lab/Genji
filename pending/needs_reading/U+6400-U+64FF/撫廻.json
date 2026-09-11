@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "7afbcce5-e951-5f3b-b0ac-1e92ffc43bca",
+    "entry": "撫廻",
+    "reading": {
+      "primary": "撫廻",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」と身体を反返り、涎をなすりて逸物を撫廻し撫廻し、ほうほうの体にて遁出しつ。",
+              "citation": {
+                "source": "妖僧記",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "貴女お恥かしいのかえ、と舐めるがごとく撫廻せば、お藤は身体を固うして、頭を掉るのみ答えは無し。",
+              "citation": {
+                "source": "活人形",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "奥様から頂いた華美な縞の着古しに毛繻子の襟を掛けて、半纏には襟垢の附くのを気にし、帯は撫廻し、豆腐買に出るにも小風呂敷を被けねば物恥しく、酢の罎は袖に隠し、酸漿鳴して、ぴらしゃらして歩きました。",
+              "citation": {
+                "source": "旧主人",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "黒々と生延びた腮の鬚を撫廻しながら、「とかく、若い方の傍へは寄りたいものと見えるね」　と、ちらちらした目付で、娘を嬲りにかかる。",
+              "citation": {
+                "source": "藁草履",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが、寺田は、その声を聞いても、まだ返事が出来ずに、それでも不甲斐なくガタガタ顫える手で、周章て壁を撫廻すと、やっとスイッチを見つけて、力一杯に捻った。",
+              "citation": {
+                "source": "魔像",
+                "author": "蘭郁二郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「はッくしょイ」　宗匠は又坊主頭を蘆の穂先で撫廻されて。",
+              "citation": {
+                "source": "悪因縁の怨",
+                "author": "江見水蔭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」といって皺の寄った顔と凹んだ眼のあたりを枯れた血の気のない手で撫廻した。",
+              "citation": {
+                "source": "老婆",
+                "author": "小川未明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "亡霊の消えたのは其処である、――博士は跼みこんで、根気よく二十分あまりも煖炉の周囲を撫廻していたが、やがて指先が、煖炉棚の一角に触ったと思うと、火床が音もなく滑って、人一人が抜けられるほどの穴が、其処にぽっかりと口を明けた。",
+              "citation": {
+                "source": "亡霊ホテル",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 14
+      }
+    }
+  }
+]

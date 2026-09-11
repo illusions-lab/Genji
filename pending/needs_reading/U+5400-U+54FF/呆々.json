@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "735ec346-d835-5df0-802f-c1527adbb063",
+    "entry": "呆々",
+    "reading": {
+      "primary": "呆々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "魂を奪われた専斎が家人を引き連れ呆々の態で、自分の邸へ引き上げたのは、まさにもっともの事であるがその後ろ姿を見送ると、さすがに気の毒に思ったか、ニヤリ紋太郎は苦笑した。",
+              "citation": {
+                "source": "大鵬のゆくえ",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あまりにもあでやかな眺めに、門之丞はしばし、その血管内に荒れ狂う意馬心猿もうちわすれ、呆々然として見｜惚れたのでした。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "こけ猿の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は呆々の態で飛び出して了い、氏の家から一町も離れ、どんなに哄笑してももう氏へは聞えまいと思った所で大声で笑った。",
+              "citation": {
+                "source": "名古屋の小酒井不木氏",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一同、麦酒の酔も醒果てゝ、やゝ暫くは呆々然としてゐたが、そのうち怖は怖は小半次が、「ねえさん……あの……この滝の水……どうして……こんなに色が変つて……」　と茶屋の娘に訊ねたら、とたんに娘の答がいい。",
+              "citation": {
+                "source": "落語家温泉録",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

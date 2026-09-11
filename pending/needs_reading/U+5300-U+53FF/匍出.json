@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "0d436989-c2e4-559e-a0a2-e18667f8c990",
+    "entry": "匍出",
+    "reading": {
+      "primary": "匍出",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼は漸く機の下から匍出す。",
+              "citation": {
+                "source": "名人傳",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼はようやく機の下から匍出す。",
+              "citation": {
+                "source": "名人伝",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "絶頂に達した山の上の寒さもいくらかゆるんで来た頃には、高瀬も漸く虫のような眠から匍出して、復た周囲を見廻すようになった。",
+              "citation": {
+                "source": "岩石の間",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "春先き少し暖気になると羽織の襟に匍出すことがある。",
+              "citation": {
+                "source": "福翁自伝",
+                "author": "福翁自伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "土の中に籠っていた虫と同じように、彼の生命は復た眠から匍出した。",
+              "citation": {
+                "source": "刺繍",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "水戸はその影線を選びつつ、しずかに匍出した。",
+              "citation": {
+                "source": "地球発狂事件",
+                "author": "海野十三（丘丘十郎）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "安は連れて来た職人と二人して、鉈で割った井戸側へ、その日の落葉枯枝を集めて火をつけ高箒でのたうち廻って匍出す蛇、蟲けらを掻寄せて燃した。",
+              "citation": {
+                "source": "狐",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

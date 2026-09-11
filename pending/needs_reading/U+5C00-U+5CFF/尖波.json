@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "039a8992-b944-546c-a992-9f36baf32c99",
+    "entry": "尖波",
+    "reading": {
+      "primary": "尖波",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "次に雪の面は、必ずしも板のように平面でなく、風の吹き荒れたままに漣波状をして、湖水のおもてに尖波が立ったような状能になり、そのまま凝っているのがある、また円い輪が幾つも列なって、同心円が出来ているのもある。",
+              "citation": {
+                "source": "高山の雪",
+                "author": "小島烏水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「藍諚の大空を横さまに尖波を打ち合って鋭い白冷の光を放射する雪の山」、夫も此処からは見られない。",
+              "citation": {
+                "source": "奥秩父の山旅日記",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

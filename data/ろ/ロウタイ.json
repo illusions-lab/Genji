@@ -367,5 +367,105 @@
         "aozora": 261
       }
     }
+  },
+  {
+    "uuid": "dcc2befb-d3e5-5245-a8a1-853c517dce19",
+    "entry": "陋態",
+    "reading": {
+      "primary": "ろうたい",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼は今や黙示の深きに接し、信仰の絶巓に登りて、遥か下に友の陋態を眺むるの余裕を抱いている。",
+              "citation": {
+                "source": "ヨブ記講演",
+                "author": "内村鑑三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東　なきつらに蜂西　なす時の閻魔顔　禍は単り到らず、悲を破るの勇気無きものは復新に悲を得るを云へるは東、人情嶮峻にして金を借る時は仏顔をなし、返す時は閻魔顔をなすの陋態を罵れるは西のなり。",
+              "citation": {
+                "source": "東西伊呂波短歌評釈",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……文壇の覇権手に唾して取るべしなぞと意気込んでね……いやはや、陋態を極めて居たんだ。",
+              "citation": {
+                "source": "予が半生の懺悔",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ただ今日においては、人みな自己の生活に忙わしく、他を顧みるのいとまなしといえども、進歩せる将来の社会において、人みな生活の余裕を生じ、人と人と競争し、家と家と相隔つるの陋態を脱するをえば、自然の人情はここに油然としてわき起こり、余力多き婦人は必ず走って多産婦人を助くべきは想像に難からざるべし。",
+              "citation": {
+                "source": "婦人の天職",
+                "author": "堺利彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本国民は、一時も早くそんな陋態から蝉脱して、一歩一歩向上の生きた仕事に従わねばならぬ。",
+              "citation": {
+                "source": "霊訓",
+                "author": "SPIRIT TEACHINGS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "英米人の前には「ジヤパン」と稱し、佛人に逢へば「ジヤポン」と唱へ、獨人に對しては「ヤパン」といふは何たる陋態ぞや。",
+              "citation": {
+                "source": "國語尊重",
+                "author": "伊東忠太",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
   }
 ]

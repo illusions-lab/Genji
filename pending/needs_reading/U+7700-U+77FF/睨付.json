@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "d29c0607-1e28-538b-b2d6-c8813e78e6d5",
+    "entry": "睨付",
+    "reading": {
+      "primary": "睨付",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　と睨付くれば、火事はどこだという顔色。",
+              "citation": {
+                "source": "貧民倶楽部",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何をじたばたする、其のお仙人と汝は行くのだ、と睨付けて申すのです。",
+              "citation": {
+                "source": "みつ柏",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唯心ばかりは主とも親とも思ッて善く事えるが、気が利かぬと言ッては睨付けられる事何時も何時も、その度ごとに親の難有サが身に染み骨に耐えて、袖に露を置くことは有りながら、常に自ら叱ッてジット辛抱、使歩行きをする暇には近辺の私塾へ通学して、暫らく悲しい月日を送ッている。",
+              "citation": {
+                "source": "浮雲",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それが睨付られるより文三には辛い。",
+              "citation": {
+                "source": "浮雲",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それで其の飛出した眼球が風早を睨付けてゐるやうに見える。",
+              "citation": {
+                "source": "解剖室",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　遊佐は陰に切歯をなしてその横顔を睨付けたり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此方からも怪しい奴と睨付けると、向ふからも睨付けて。",
+              "citation": {
+                "source": "探檢實記　地中の秘密",
+                "author": "深大寺の打石斧",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

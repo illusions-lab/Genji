@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "7da00c94-e893-58df-bca4-b79f624e310e",
+    "entry": "芬子",
+    "reading": {
+      "primary": "芬子",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "危くまた引っくり返るところであったが、そのうちに、ようようの思いで気を取り直して、どうしてここに……と抱き上げながら、その少女を頭のテッペンから、爪の先までヨクヨク見上げ見下してみると、何の事だ……それは黛夫人の妹で、双生児の片われの芬子嬢であった」「ナアンダ。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこでヤット仔細がわかりかけた呉青秀は、芬子さんを取り落したまま、開いた口が閉がらずにいると、その膝に両手を支えた芬子さん、真赤になっての物語に曰く……ほんとに済まない事を致しました。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……その前にその芬子という妹は、何だってソンナ奇怪な真似をしたんでしょうか。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "依然として芬子嬢の顔を見下したまま唖然放神の体でいると、やがて涙を拭いた芬子嬢は、幾度もうなずきながら又｜曰く……御もっともで御座います。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……というのは呉青秀先生、自分の全部を投げ出してかかった仕事がテンからペケだった事が、芬子の説明で初めて解ったのだ。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……そいつを見ると芬子さんイヨイヨ気の毒になって、天を白眼んで安禄山の奸を悪んだね。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから芬子さんの涙ながらの物語りで詳しい事情を聞いた船中の者は、勃海使を初め皆、満腔の同情を寄せた。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

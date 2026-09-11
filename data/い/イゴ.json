@@ -1761,5 +1761,97 @@
         "醫御"
       ]
     }
+  },
+  {
+    "uuid": "030ead76-d38f-56d4-89b0-d59a88fdca2e",
+    "entry": "唔",
+    "reading": {
+      "primary": "いご",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "今や我が国｜都鄙到る処として庠序の設けあらざるはなく、寒村僻地といえどもなお※唔の声を聴くことを得、特に女子教育の如きも近来｜長足の進歩をなし、女子の品位を高め、婦人の本性を発揮するに至れるは、妾らの大いに欣ぶ所なり。",
+              "citation": {
+                "source": "妾の半生涯",
+                "author": "福田英子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "独り我慶應義塾の社中は、偶然の発意にして断じて世事に関せず、都下の東南芝新銭座の塾舎に相集りて眠食常に異ならず、弾丸｜雨飛の下、※唔の声を絶たざること殆ど半年、社中自称して戦場中の一小桃源と云いしは蓋しこの時なりき。",
+              "citation": {
+                "source": "故社員の一言今尚精神",
+                "author": "福澤諭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二月｜余経った頃には塾生の数も八十人を越し、※唔の声道に響き行人の足を止める程であった。",
+              "citation": {
+                "source": "国事犯の行方",
+                "author": "―破獄の志士赤井景韶―",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "烏兎唔の声に化せり、襁褓中の襄は長じて童子となれり、教育は始められたり。",
+              "citation": {
+                "source": "頼襄を論ず",
+                "author": "山路愛山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」〔唔※｜纔カニ断テバ玉絃鳴ル／一帳ノ梅花月正ニ横ナリ／妓ヲ後堂ニ蓄フハ我ガ分ニ非ズ／佗ノ隣女ニ付シテ春声ヲ譜セシム〕の如き絶句を賦した。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
   }
 ]

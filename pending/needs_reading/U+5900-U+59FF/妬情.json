@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "1a5f1d3e-0b24-5ffc-834b-d36783ed2f75",
+    "entry": "妬情",
+    "reading": {
+      "primary": "妬情",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "また、男女間の妬情に氏は殆ど白痴かと思われる位です。",
+              "citation": {
+                "source": "岡本一平論",
+                "author": "――親の前で祈祷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "異様な火のひらめきに刺戟され、その夜の就寝前、女の激しい妬情が、発作的によみがえったのである。",
+              "citation": {
+                "source": "窓",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「俺のあそびは仕事のひとつだ」　始終これを聞かされている夫人にとっては、このあそびの相手へ妬情を抱くということは、いわば、良人の仕事へ妬情を抱くと同じようなものである。",
+              "citation": {
+                "source": "女心拾遺",
+                "author": "矢田津世子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金で自由になるという玄人の世界を縁遠いものに考えて、これまで妬情を諦めていた夫人は、おつねさんを前にして不意に胸の疼くような嫉妬を感じた。",
+              "citation": {
+                "source": "女心拾遺",
+                "author": "矢田津世子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――　忘れていたその時の妬情が、今、老夫人の裡に頭をもたげてくるのである。",
+              "citation": {
+                "source": "女心拾遺",
+                "author": "矢田津世子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まるで、激しい妬情が病み窶れた夫人の肉体を蘇らせていくようなものである。",
+              "citation": {
+                "source": "女心拾遺",
+                "author": "矢田津世子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "妬情をかきたててみる。",
+              "citation": {
+                "source": "女心拾遺",
+                "author": "矢田津世子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、愛情で繋っていた以前よりも、今は、憎悪と妬情からおしもの存在と離れがたいものになってくる。",
+              "citation": {
+                "source": "女心拾遺",
+                "author": "矢田津世子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俄かに、胸中に、妬情めいた、疑心暗鬼が生じた。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 15
+      }
+    }
+  }
+]

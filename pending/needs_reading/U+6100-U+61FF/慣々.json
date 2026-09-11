@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "6f7aa974-e9a8-53b6-947a-00b7dd9e2c13",
+    "entry": "慣々",
+    "reading": {
+      "primary": "慣々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "』　恁う静子は慣々しく言つてみた。",
+              "citation": {
+                "source": "鳥影",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』　恁う靜子は慣々しく言つてみた。",
+              "citation": {
+                "source": "鳥影",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこには炬燵が有つて、先客一人、五十あまりの坊主、直に慣々しく声を掛けたところを見ると、かねて懇意の仲ででも有らう。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』　と慣々しい調子で話し出した。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "柿田は家のもの皆なから好かれて、田舎出らしい女中ばかりでなく、店のものからも慣々しく言葉を掛けられた。",
+              "citation": {
+                "source": "死の床",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "無教養の故に、下らぬ事を喋って、慣々しくするだけの女を、喜ぶ位、又、男自身の価値を下げることも無い（私の気位の高さ、何んなもんや）。",
+              "citation": {
+                "source": "大阪を歩く",
+                "author": "直木三十五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "初めのうちは彼達の対談をはたの女達も不思議さうに眺めたが、今では逆に慣々しくなつてゐた。",
+              "citation": {
+                "source": "父を売る子",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "慣々しく私の傍へ来て、鍋の浸けてある水中を覗いて見たり、土塀から垂下っていた柿の枝振を眺めたり、その葉裏から秋の光を見上げたりして、何でもない主家の周囲を、さも面白そうに歩くのが癖でした。",
+              "citation": {
+                "source": "旧主人",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こうした父子の再会にも、そう慣々しく言葉をかわすことはまだ周囲の事情が許さなかった。",
+              "citation": {
+                "source": "新生",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一方の友人はこの見なれぬ粗末な服装の女にさも慣々しく言葉をかけられたので、一方ならず吃驚してあわてながら、「あなたは！",
+              "citation": {
+                "source": "頸飾り",
+                "author": "モウパンサン",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 16
+      }
+    }
+  }
+]

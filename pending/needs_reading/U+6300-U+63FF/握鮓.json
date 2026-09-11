@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "a4eeb186-e4b8-5eb8-b5f6-5471774324cc",
+    "entry": "握鮓",
+    "reading": {
+      "primary": "握鮓",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "私と同様出京して正則英語学校に通っていた従弟が、ある日日本橋を歩いていて握鮓の屋台に入り、三つばかり食ってから、蝦蟇口に二銭しかなくて苦しんだ話をしたことがある。",
+              "citation": {
+                "source": "三筋町界隈",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今のような握鮓の句でないことはいうまでもあるまい。",
+              "citation": {
+                "source": "古句を観る",
+                "author": "柴田宵曲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この鮓は今の握鮓のようなものではない。",
+              "citation": {
+                "source": "古句を観る",
+                "author": "柴田宵曲",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "10287591-38ef-561b-a55c-2e29638ac40e",
+    "entry": "恬又",
+    "reading": {
+      "primary": "恬又",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "跋の後に更に数行の識語を著けて、「信恬又識」と再署してある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "個人としての伊藤侯と大隈伯とは夫れ斯の如し大隈伯の隆準豺目にして唇端の緊合せる、自然に難を排し紛を釋くの膽智あるを示し、伊藤侯の象眼豐面にして垂髯の鬆疎たる、自然に無事を喜び恬又以て此の二大政治家の個性を諒す可し。",
+              "citation": {
+                "source": "明治人物月旦（抄）",
+                "author": "鳥谷部春汀",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "個人としての伊藤侯と大隈伯とは夫れ斯の如し大隈伯の隆準豺目にして唇端の緊合せる、自然に難を排し紛を釈くの胆智あるを示し、伊藤侯の象眼豊面にして垂髯の鬆疎たる、自然に無事を喜び恬又以て此の二大政治家の個性を諒す可し。",
+              "citation": {
+                "source": "明治人物月旦（抄）",
+                "author": "鳥谷部春汀",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "b6712823-ba5c-52f7-8df1-1a0b44563bea",
+    "entry": "依稀",
+    "reading": {
+      "primary": "依稀",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "風景依稀トシテ去年ニ似タリ。",
+              "citation": {
+                "source": "月の詩情",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かくして太織の蒲團を離れたる余は、顫へつゝ窓を開けば、依稀たる細雨は、濃かに糺の森を罩めて、糺の森はわが家を遶りて、わが家の寂然たる十二疊は、われを封じて、余は幾重ともなく寒いものに取り圍まれてゐた。",
+              "citation": {
+                "source": "京に着ける夕",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "静かなる事｜定って、静かなるうちに、わが一脈の命を託すると知った時、この大乾坤のいずくにか通う、わが血潮は、粛々と動くにもかかわらず、音なくして寂定裏に形骸を土木視して、しかも依稀たる活気を帯ぶ。",
+              "citation": {
+                "source": "虞美人草",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かくして太織の蒲団を離れたる余は、顫えつつ窓を開けば、依稀たる細雨は、濃かに糺の森を罩めて、糺の森はわが家を遶りて、わが家の寂然たる十二畳は、われを封じて、余は幾重ともなく寒いものに取り囲まれていた。",
+              "citation": {
+                "source": "京に着ける夕",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鹽釜祠の林丘、曉靄の外に依稀として、我を送れり。",
+              "citation": {
+                "source": "金華山",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同來翫月人何處　　　　同く来りて月を翫ぶの人何れの処ぞ、風景依稀似去年　　　　風景依稀として去年に似たり。",
+              "citation": {
+                "source": "閑人詩話",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人易老山川不老　　人老い易く山川老いず、依稀山紫水明郷　　依稀たり山紫水明の郷。",
+              "citation": {
+                "source": "閉戸閑詠",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

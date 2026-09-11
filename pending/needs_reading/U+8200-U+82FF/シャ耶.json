@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "35c2b367-1efb-5e17-bac9-b52b379b2b9b",
+    "entry": "舎耶",
+    "reading": {
+      "primary": "しゃ耶",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "然るに稍※遲れて出來ました貞元録には金剛智三藏は中天竺刹利王｜伊舍耶靺摩（〔i_c,a_na-varman〕）の第三子と云ふことになつて居ります。",
+              "citation": {
+                "source": "金剛智三藏と將軍米准那",
+                "author": "榊亮三郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:58:42Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "舍耶"
+      ],
+      "needs_reading": true
+    }
+  }
+]

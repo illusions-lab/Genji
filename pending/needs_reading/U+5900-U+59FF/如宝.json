@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "651858a6-a844-5863-9bf6-bcd8b4e1bb19",
+    "entry": "如宝",
+    "reading": {
+      "primary": "如宝",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ところがそのころの日本にだって、天平六年に、唐招提寺を興した鑑真などという中国の坊さんは、如宝という建築彫刻の名人の西域人や、印度人や、中国人を二十四人もつれて帰化して来たものだから、イラン文化も同時に伝ってしまったのだ。",
+              "citation": {
+                "source": "旅愁",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『東征伝』によれば、随行の弟子は、揚州白塔寺僧法進、泉州超功寺僧曇静、台州開元寺僧思託、揚州興雲寺僧義静、衢州霊耀寺僧法載、竇州開元寺僧法成、その他八人の僧と、藤州通善寺尼智首、その他二人の尼と、揚州｜優婆塞潘仙童、胡国人安如宝、崑崙国人軍法力、瞻波国人善聴、その他を合わせてすべて二十四人であった。",
+              "citation": {
+                "source": "古寺巡礼",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "右のうち胡国人如宝は招提寺金堂の建築家と伝えられている。",
+              "citation": {
+                "source": "古寺巡礼",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金堂建立の時代も未詳であるが、『招提千載伝記』を信ずるとすれば如宝二十五六歳のころである。",
+              "citation": {
+                "source": "古寺巡礼",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "またある学者の説くごとく鑑真｜遷化後の建立とすれば、如宝はすでに三十歳を超え、日本に十年以上の年月を送っている。",
+              "citation": {
+                "source": "古寺巡礼",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もし如宝に建築の天才があったとすれば、それはどの時代に哺育せられたのであろうか。",
+              "citation": {
+                "source": "古寺巡礼",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かく見れば東大寺造営の騒ぎが天才如宝を哺育したと考えられなくもないのである。",
+              "citation": {
+                "source": "古寺巡礼",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鑑真遷化の時如宝はわずか三十歳ぐらいであったが、先輩法載・義静の二人と共に大和尚から後事を託せられた。",
+              "citation": {
+                "source": "古寺巡礼",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

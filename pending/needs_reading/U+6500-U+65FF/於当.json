@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "38b8ae40-0fd0-5762-809f-15dbf3456307",
+    "entry": "於当",
+    "reading": {
+      "primary": "於当",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "弘前侯より岡田総督始、人夫迄之御祈祷、於当所上林中林下林三所被仰付。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「薬師脇立不動之儀、正徳歳中山内監物殿御盗被成候所、於当村不思議之事出来仕、是ハ不動尊無御座故ト申、迎帰、薬師一同奉修覆畢」　と云う文句があった。",
+              "citation": {
+                "source": "不動像の行方",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "去ル四月鞆津御談判之節、世界之公法ニより処置可致御定約仕候通、於当地早※御決着可被遣候筈之処、先夜之御議論ニ者世界之公法トハ幕府之御処置相願い候上の事ト被仰聞候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応三年五月中下旬頃　高柳楠之助あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "且於当方所ニハ未御談判ニても明白ニ御座候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応三年五月中下旬頃　高柳楠之助あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "田楽人於当座被殺害、坂者被疵云云。",
+              "citation": {
+                "source": "サンカ者名義考",
+                "author": "――サンカモノは坂の者",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其間於当寺領之諸国諸庄者、可令停‐止乞場之由、衆議事切了。",
+              "citation": {
+                "source": "俗法師考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "有若亡申状歟、都彼坂当長吏法師任貪欲之心、召‐集宿之非人等、下‐遣於当国中真土宿、欲押‐領彼宿之刻、彼宿長吏、真土宿之長吏近江法師兄弟二人之処、弟法仏法師申云、不背本寺云云。",
+              "citation": {
+                "source": "俗法師考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

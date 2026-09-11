@@ -1,0 +1,159 @@
+[
+  {
+    "uuid": "1723c585-a9b7-5e65-87e8-460c4532c3ca",
+    "entry": "毋",
+    "reading": {
+      "primary": "毋",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "急に宣しく過を悔い、歳事を勤修し、誅戮を取りて四｜夷の笑となる毋れ。",
+              "citation": {
+                "source": "岷山の隠士",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "毋我」（子罕篇）とある通り、孔子は決して我見を固執せぬ。",
+              "citation": {
+                "source": "支那史上の偉人（孔子と孔明）",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今から千七百年ほども前ですが、後漢の世に毋丘長と云ふ者が、母に連れられ歩いて居た時に、或る醉漢に逢つて、母に非常な無禮を加へられた。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "毋丘長は怒心頭より發して此醉漢を殺しました。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人を殺したのですから、毋丘長は直ちに捕へられた。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "毋丘長を牢屋に入れたが、辱かしめられんとした親を救はんが爲に殺したのでありますから、非常に毋丘長に同情しました。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それで毋丘長を愈毋丘長は死刑を執行される時に、まことに自分も安心した、是で幾分祖先に對して申譯が立つ、祖先の祀が絶たれると云ふことがひたすら心配であつたが、是で安心したと云ふので、生れた子は呉祐のお※で生れたのでありますから之を呉生と云ふ名を付けて、然る後刑に就いたと云ふことであります。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この開元の時の目録作製に關係したものには學者が多いが、その主なる一人に毋が省略して古今書録四十卷とした。",
+              "citation": {
+                "source": "支那目録學",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "舊唐書經籍志は五代の時に出來たが、五代の現在の書籍には關係なく、開元の盛時、毋は序文として書いたらしい。",
+              "citation": {
+                "source": "支那目録學",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "舊唐書經籍志も之を作つた時の現存ではないが、毋※の時の現存書目である。",
+              "citation": {
+                "source": "支那目録學",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "確か雅叙園の局票には、隅に毋忘国恥と、排日の気焔を挙げていたが、此処のには幸いそんな句は見えない。",
+              "citation": {
+                "source": "上海游記",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "脚の下の青苔の間から顕れている岩は、研きをかけたように白く滑かで、黒雲毋が散点しているのが誠に美しい。",
+              "citation": {
+                "source": "奥秩父の山旅日記",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "有るぞ有るぞ、古生層、黒雲毋花崗岩、絹雲毋片岩、角蛮岩。",
+              "citation": {
+                "source": "奥秩父の山旅日記",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

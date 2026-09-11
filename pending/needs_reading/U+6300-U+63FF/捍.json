@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "7d627e56-3f68-5bc1-81ff-1133435a7d26",
+    "entry": "捍",
+    "reading": {
+      "primary": "捍",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "途上の買物、――麦捍帽子特価二十五銭、茶碗二個十銭。",
+              "citation": {
+                "source": "行乞記",
+                "author": "室積行乞",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その後天魔に乗ぜられて犬鬱憤を生じ、われは一切家外の難件に当り、家を衛り盗を捍ぎ、風雨に苦しんで残食と骨ばかり享け、時としては何一つ食わず、それに猫は常に飽食して竈辺に安居するは不公平ならずやと怒る。",
+              "citation": {
+                "source": "十二支考",
+                "author": "犬に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "及對捍制使と云ふのは、天子の勅使に對して抵抗したり、暴力を用ゐるのを對捍と云ふのであります。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "或は賊徒を容隠して猥に野心を同じうし、或は詔使に対捍して朝威を忘るるが如し。",
+              "citation": {
+                "source": "奥州における御館藤原氏",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その学生は現在の北大の理学部長｜小熊捍博士である。",
+              "citation": {
+                "source": "千里眼その他",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

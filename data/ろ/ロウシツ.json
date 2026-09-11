@@ -1,0 +1,86 @@
+[
+  {
+    "uuid": "a76e86a2-b673-522c-9add-6b4788418be2",
+    "entry": "陋室",
+    "reading": {
+      "primary": "ろうしつ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ただ道也先生がこの一点の温気なき陋室に、晏如として筆硯を呵するの勇気あるは、外部より見て争うべからざる事実である。",
+              "citation": {
+                "source": "野分",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "貰ひものなれども余の陋室に灯す術もなからむ。",
+              "citation": {
+                "source": "サフランの花",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今は下宿の陋室にくすぶっているが、やがては二人の恋愛から……。",
+              "citation": {
+                "source": "叔父",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "翌朝太平の陋室で目覚めた庄吉は、学生時代によみがへつた若々しさで、目を細くして殺風景な部屋の隅々まで見廻して一つ一つ頭に書入れてゐるやうな様子であつたが、その様はなつかしさに溢れてゐた。",
+              "citation": {
+                "source": "外套と青空",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

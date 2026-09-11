@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "f875e2fe-59aa-571f-8962-b9fc820ee0fa",
+    "entry": "睨視",
+    "reading": {
+      "primary": "睨視",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」そして肩をそびやかして睨視めつけました。",
+              "citation": {
+                "source": "ちるちる・みちる",
+                "author": "山村暮鳥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何とも云えぬ物凄い睨視！",
+              "citation": {
+                "source": "赤格子九郎右衛門の娘",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何とも云えぬ殺伐な睨視！",
+              "citation": {
+                "source": "赤格子九郎右衛門の娘",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

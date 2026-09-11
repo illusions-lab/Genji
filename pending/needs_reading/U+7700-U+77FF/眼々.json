@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "9645e395-a20c-5891-a57f-341f36c016ce",
+    "entry": "眼々",
+    "reading": {
+      "primary": "眼々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "二人が眼々相看た視線の箭は其｜鏃と鏃とが正に空中に突当った。",
+              "citation": {
+                "source": "雪たたき",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ネ……ホラ……お眼々があって、お鼻があって……お口も……ネ……ネ……ソウシテお帽子も……」「……マア……気味のわるい……。",
+              "citation": {
+                "source": "人の顔",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "サ……早く行きましょう」「デモ……アレ……あんなによく肖ててよ……ホラ……お眼々のところの星が一番よく光っててよ」　母親はだまって、チエ子の手をグングン引いてあるき出した。",
+              "citation": {
+                "source": "人の顔",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "可愛いお眼々がひイらいた。",
+              "citation": {
+                "source": "白髪小僧",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "可愛いお眼々もうとうとと、　夢の中へと閉んだ」　　　　　二十二　白木の寝台　翌る朝まだ夜が明け切らぬうちに王宮の表門が左右に開いて二人の騎兵が駈け出しましたが、門を出ると二ツにわかれて、一ツは青眼先生の方へ駈け出し、一ツは紅木大臣の家の方に飛んで行きました。",
+              "citation": {
+                "source": "白髪小僧",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まアお前は、何て綺麗なお眼々をしているんでしょう。",
+              "citation": {
+                "source": "小公女",
+                "author": "A LITTLE PRINCESS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「わたしの眼々で、ちいさな眼々で、わたしがみつけた、その死骸みつけた」「だァれがとったぞ、その血をとったぞ」「そォれはわたしよ」魚がそういった。",
+              "citation": {
+                "source": "まざあ・ぐうす",
+                "author": "北原白秋訳",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

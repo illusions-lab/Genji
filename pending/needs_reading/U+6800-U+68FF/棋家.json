@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "640e6e1f-3ac5-5439-a3b4-efcaae4c4ed8",
+    "entry": "棋家",
+    "reading": {
+      "primary": "棋家",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "棊有つてより以来、言を立て道を論ずる、これに過ぐる者有る無し、目して棋家の孫子と為すも、誰か敢て当らずとせんや。",
+              "citation": {
+                "source": "囲碁雑考",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此皆棋家の幽微、知らざる可からざる也。",
+              "citation": {
+                "source": "囲碁雑考",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此人は将棋家元大橋家の最後の人たる大橋｜宗金から、初段の免状を貰つてゐると云ふ珍らしい人だつた。",
+              "citation": {
+                "source": "将棋",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ほかの参観人は将棋の専門家、又は、好棋家で、棋譜をたのしむ人たちであるから、控室で指手を研究して愉んでゐるが、私は将棋はヘタクソだから、さうは、いかない。",
+              "citation": {
+                "source": "勝負師",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "時事新報の将棋欄の解説者が、木村名人を評して、彼は何でも出来る人物だから、参議院議員となったらよかろう、と云っていたが、まことにバカげたことで、将棋家は将棋を一生の業とすべく、軍人が政治に口をだしたりすると国が亡びる。",
+              "citation": {
+                "source": "戦後新人論",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "政治は本来の政治専門家がやるべきこと、将棋家に政治をやられては、こまるのである。",
+              "citation": {
+                "source": "戦後新人論",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あつは……」　木堂は、政界に於ける有名な棋家であつたのは誰も知つてゐる。",
+              "citation": {
+                "source": "呉清源",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夕方、長箭や温井里や元山津の愛棋家が三、四十人集まって、我々の歓迎会を開いてくれた。",
+              "citation": {
+                "source": "淡紫裳",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "棋家の文章とお相撲さんの解説、二つのものが、今夕灯下に私の連想にのぼつたのは、偶然であつたが、両者にどこやら、うまくはいひにくい共通点がありさうな風にも思はれる。",
+              "citation": {
+                "source": "棋家の文章など",
+                "author": "三好達治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この棋家は、詰碁作者として稀世の著想家とか聞く。",
+              "citation": {
+                "source": "棋家の文章など",
+                "author": "三好達治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

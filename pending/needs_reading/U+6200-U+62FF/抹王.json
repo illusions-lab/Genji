@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "3b7934e9-d73a-508f-a6aa-4cf9b141b8d8",
+    "entry": "抹王",
+    "reading": {
+      "primary": "抹王",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "やがて丁抹王城の場になる。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "勉強の監視人は丁抹王シャルル九世の皇女ドグマール（ヴィクトリア女王の孫）だった母のマリア・フェオドロオウナそれ自身で、四六時中、ひとときも眼を離さぬような手きびしい躾を受けたうえ、父の武断的な練成が加わるというわけで、疲労困憊のすえ、脅えきってオドオドし、なにかやればかならずみじめな失策をした。",
+              "citation": {
+                "source": "淪落の皇女の覚書",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "丁抹王室があるぞう！",
+              "citation": {
+                "source": "グリュックスブルグ王室異聞",
+                "author": "橘外男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

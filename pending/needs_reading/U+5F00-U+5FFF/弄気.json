@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "31c81fdd-ad8d-517d-b8d8-3ac2a839a009",
+    "entry": "弄気",
+    "reading": {
+      "primary": "弄気",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」と調弄気味に京訛を一寸｜模てみせて、「だけどさ、京都にはこの景色が描ける画家はたんと有るまいて。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と当て附けがましく言ふので、誰よりも若い積りの大久保夫人は一寸｜調弄気味になつた。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "皇帝はジプシイの女がてきぱきと返事をするので、幾らか調弄気味になつて訊いた。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正六（一九一七）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして次ぎの瞬間には何だか嘘らしく思つたので、調弄気味に訊いてみた。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正六（一九一七）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして恐る／＼卓子の下を覗き込んで見ると、自分が調弄気味にそつと触つたのは、おとなしい姉娘のと思ひの外、お侠な妹娘の足であつた。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正七（一九一八）年",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "uuid": "3900978f-f503-5dfa-9158-7dcea815f990",
+    "entry": "冊載",
+    "reading": {
+      "primary": "さつ載",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そうすると鎧の上に本が一冊載っている。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其の小机には半紙を二枚折にした横綴の帳面を数冊載せてあった。",
+              "citation": {
+                "source": "海神に祈る",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "机の上には尺八の譜本のようなものが一二冊載っていたが、ハヒハヒチレツロ……などと、啓吉にはさっぱり面白くない。",
+              "citation": {
+                "source": "泣虫小僧",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　さう言へば、彼女の机の上には何時でも聖書が一冊載せられてあつた。",
+              "citation": {
+                "source": "鬼神",
+                "author": "北條民雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二階は三畳の間が二間、四畳半が一間、それから八畳か十畳ほどの広い座敷には、寝台、椅子、卓子を据え、壁には壁紙、窓には窓掛、畳には敷物を敷き、天井の電燈にも装飾を施し、テーブルの上にはマッチ灰皿の外に、『スタア』という雑誌のよごれたのが一冊載せてあった。",
+              "citation": {
+                "source": "寺じまの記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さうして今度は戸の外へは捨てないで机の上へ乗せ、それからその上へ厚い古雑誌を一冊載せて置いた。",
+              "citation": {
+                "source": "田園の憂欝",
+                "author": "或は病める薔薇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "數日續いた暴風雨のあとで、今朝屆いた雜誌を一册載せたばかりの机の上には冷たい濕氣が浸みてゐた。",
+              "citation": {
+                "source": "樹木とその葉",
+                "author": "虻と蟻と蝉と",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "册載"
+      ],
+      "needs_reading": true
+    }
+  }
+]

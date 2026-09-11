@@ -1,0 +1,114 @@
+[
+  {
+    "uuid": "f259f31e-cc6f-578f-b254-b79e10069ff8",
+    "entry": "薬貼",
+    "reading": {
+      "primary": "くすり貼",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "技倆の未熟も恐ろしいが、掛替えさえも一つしかない、それでもう四度もパンクした、継ぎはぎだらけの膏薬貼りのタイヤの、このぼろぼろ自動車に乗った者こそ災難だろう。",
+              "citation": {
+                "source": "フレップ・トリップ",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鼻の欠けたのや、目のクシャクシャや、跛足や、膝行や、膏薬貼が、おのおの盛装を凝らして持つべきものを持ち、哀れっぽい声を振絞って、江戸へ向って繰込むことの体が世の常ではありません。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "禹門三級の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "薪の煤で真ッくろに燻っている天井から、笠の焦げているのや、ホヤに膏薬貼りのしてあるランプが、卓の上に添うて七、八個ほど吊りさげてある。",
+              "citation": {
+                "source": "かんかん虫は唄う",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「俺ら白え藥貼つたんだぞ」與吉は先刻から油を塗つた卯平の瘡痍に目を注いで居てかう突然にいつた。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おつぎは其の時ちらと出した卯平の手を始めて氣がついたやうに「爺は手も痛くしてんだつけな、そんぢや先刻藥貼つて貰あとこだつけな」おつぎは卯平の手先を手にして見た。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「うむ、さうだ、此の蒲團は返さなくつちやなんねえから」勘次は獨語して「どうしたおとつゝあ、藥貼つてちつたよかねえけ」彼は復白い曝木綿を見ていつた。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』アガメムノーン・＊クレーオーン其時彼に答へ曰ふ、『しかあれかしと我念ず、あゝ友愛のメネラオス、さはれ負傷を調べ見て上に良藥貼すべく、辛き苦痛を救ふべく今一人の醫を呼ばむ』　190しかく宣んして傳令のタルチュビオスに向ひ曰ふ、187　「權威あるもの」。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      },
+      "variant_writings": [
+        "藥貼"
+      ],
+      "needs_reading": true
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "6dd14bbd-332a-5481-808a-bbfbe9dce982",
+    "entry": "採要",
+    "reading": {
+      "primary": "採要",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "枕山がかくの如く三春の行楽を賦している時、鷲津毅堂は辺海の武備を憂い『聖武記採要』と題する三巻の書を板刻した。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『採要』の巻首に掲げた毅堂の自序を見るに、「孫子ハ火攻ヲ以テ下策ト為ス。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "予乃チ抄シテコレヲ梓ニ付シ題シテ『聖武記採要』トイヒ以テ世ニ問フ。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "毅堂は『聖武記採要』を刊行したために町奉行所の詮議するところとなった。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金森慎徳なる者の手録した『温古新聞記』というものに、毅堂の『聖武記採要』に関する町奉行所の申渡しが載録されている。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『温古新聞記』の録する所嘉永四年辛亥二月二十四日の条に曰く「同月二十四日落着『聖武記採要』一件。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "毅堂が『聖武記採要』の事を述べたについて、わたくしはここに嶺田士徳の『海外新話』なる著述についてもまた一言して置きたい。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あたかもこの時江戸においては正月より二月の末に至る間、北の町奉行所では『聖武記採要』の件についてその著者なる毅堂を召喚すること再三に及んだが、その行衛がわからぬので遂に同書の板刻をなした者を過料に処した事は前章に述べた如くである。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "06ee2477-bf84-5ff4-9e44-43582866f361",
+    "entry": "依其",
+    "reading": {
+      "primary": "依其",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "十二月十日に白書院で開いた閣老の会議では、酒井｜讃岐守忠勝が浪人江戸払のことを発議し、阿部豊後守忠秋の反対論でその詮議は熄んだが、その翌日に養子法改正に関する法令を発し、五十歳以下の者の末期養子は「依其筋目」または「依其品」これを許し、跡式を立てしめることとした。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "とにかく、慶安以後の法令には「依其筋目」とか「依其品」とか「吟味之上」とかいう語があって、絶対の禁を弛べたのみならず、その実これを許さなかった例は極めて稀であったのである。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

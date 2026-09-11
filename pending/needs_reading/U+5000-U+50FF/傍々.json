@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "4adda2ae-63ad-5180-ae63-670df264e10d",
+    "entry": "傍々",
+    "reading": {
+      "primary": "傍々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "父がこのごろ天気続きの為めか、身体がだいぶよろしゅうございますので、お茶一つ差上げたいと申しますが、明日あたりお昼飯あがり傍々、いらして頂けないでございましょうか、お相客はどなたもございません。",
+              "citation": {
+                "source": "河明り",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが又その記事の中に、虹野ミギワなぞいう呉虹汀に因んだ名前が出て来たりしたので、傍々以てこの調査書の中に取入れたものとも考えられるようでもある。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の妻は彼等のことを、少々体が弱いので転地傍々の保養に来てゐるのだ、と吹聴してゐるが、おそらく誰の目にも彼等が病弱な身であるとは映るまい。",
+              "citation": {
+                "source": "円卓子での話",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秋になつたら、御身の新居を訪れ傍々、芝居見物の為に上京したいからその節はよろしく案内を頼む――そんな文面もあつた。",
+              "citation": {
+                "source": "鏡地獄",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "新刊とは云えないが、世間には必ずしも広く知られていないので、紹介傍々問題にして見たいと思う。",
+              "citation": {
+                "source": "読書法",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大学を出なくたって、どこかの医専でも出てすぐ大学の研究室の研究生になって、ドイツ語の勉強傍々やって行けば、非常に早く医学博士になれる。",
+              "citation": {
+                "source": "社会時評",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お父さんはスッカリうれしく、久し振りの運動傍々殆ど特権的な（上野では先に乗り込む）楽なたのしい旅行をした。",
+              "citation": {
+                "source": "獄中通信",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "近いうちおせいの問題傍々出かけて行つて、見て來ようかな……」斯んなことを思つたりしては、一日々々と散歩區域を擴げることに、努めた。",
+              "citation": {
+                "source": "蠢く者",
+                "author": "葛西善藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「此邊へ商賣用で來ました、序と言つちや濟みませんが、昨夜は親分の御世話になりましたのでお禮｜傍々伺ひました――」　そんな事を言つて、笹屋の主人源助が手土産を持つて顏を出しました。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "平次女難",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今日は友人の依頼を伝える傍々、一寸別れを惜しみに来た。",
+              "citation": {
+                "source": "二人のセルヴィヤ人",
+                "author": "辰野隆",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

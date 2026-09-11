@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "3994cc22-8158-50d1-92d4-6c9cba4cd7e0",
+    "entry": "泅",
+    "reading": {
+      "primary": "泅",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "我馬の尾に縋りて泅がんこともたやすからねば、鞍の半を分けて參らすべし。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一軒の角屋敷の前には、焚火して、泅袴に扣鈕一つ掛けし中單着たる男二人、對ひ居て骨牌を弄べり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若し舟中の人にして、或は浪に打ち揚げられ、或は自ら泅ぎ着きて、巖のはざまなどにあらんには、人に知られで飢渇の苦艱を受けもやせん。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我は覺えず聲を放ちて魔穴と呼びしに、舟人打ち微笑みて、そは昔の名なり、三とせ前の事なりしが、獨逸の畫工二人ありて泅ぎて穴の内に入り、始てその景色の美を語りぬ、その畫工はフリイスとコオピツシユとの二人なりきと云ひぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その頃露伴が予に謂うには、君は好んで人と議論を闘わして、ほとんど百戦百勝という有様であるが、善く泅ぐものは水に溺れ、善く騎るものは馬より墜つる訣で、早晩一の大議論家が出て、君をして一敗地に塗れしむるであろうと云った。",
+              "citation": {
+                "source": "鴎外漁史とは誰ぞ",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "中にも利安は伊丹の町の銀屋をかたらつて、闇夜に番兵を欺き、牢屋の背後の溜池を泅いで牢屋に入り、孝高に面會した。",
+              "citation": {
+                "source": "栗山大膳",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

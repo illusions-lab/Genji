@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "763786df-073f-5a4c-8af0-65a3d0e7ee13",
+    "entry": "奉頼",
+    "reading": {
+      "primary": "奉頼",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "去年か御伝言被下候御礼も奉頼上候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして活板字がたり不申ざれバ、其不足の字ハ御手許より御頼か、又ハ伏水ニて御相談、以前の板木師ニ御申付可被成下奉頼候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応三年五月十一日　秋山某あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "八月五日楳拝謙吉様右件直次郎ニ御伝奉頼候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応三年八月五日　長岡謙吉あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今日は三四郎も病気に候得バ、たれでも代人つかハし候間、御同行奉頼候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応三年九月十三日　陸奥宗光あて",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

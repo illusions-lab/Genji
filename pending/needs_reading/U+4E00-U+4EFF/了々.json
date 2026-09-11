@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "a59d4792-1c63-5cb9-b8aa-809ee065fbb1",
+    "entry": "了々",
+    "reading": {
+      "primary": "了々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "このとき、つまらない末梢神経は尾をたたんでどこかの隅に消え隠れてしまい、ただ大きく頷く了々たる月のようなものが心の一角に引きかかっています。",
+              "citation": {
+                "source": "仏教人生読本",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "菩提樹下の見証や、ハルラ山洞の光耀や、今一々｜煩はしく挙証せざるも、真の見神の、偉大なる信念の根柢たり、又根柢たるべきは了々火よりも燎かなり。",
+              "citation": {
+                "source": "予が見神の実験",
+                "author": "綱島梁川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "演題は『街頭歌二曲』、最初は野尻雪情氏作『銀座の霧』、次は南原黒春氏作『赤い帽子』、デタラメ・レコード会社専属鬚野房吉氏作曲、自演……了々軒ストーブ前から中継放送……誰だい手をタタク奴は。",
+              "citation": {
+                "source": "超人鬚野博士",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その精神があれば日本は亡びてもこの了々亭だけは残るよ」「そんな事どうでもいいじゃありませんか先生。",
+              "citation": {
+                "source": "超人鬚野博士",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その文に引いてある僧の空海著「性靈集」にあると云ふ寒林獨座草堂曉　　三寳之聲聞一鳥一鳥有聲人有心　　性心雲水倶了々といふ詩偈もさすがに大師の凡人ならぬ心境を傳へ、清淨の氣自ら迫る心地を覺えたのであつた。",
+              "citation": {
+                "source": "佛法僧",
+                "author": "今井邦子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

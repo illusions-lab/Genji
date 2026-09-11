@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "ca340a96-c111-5576-b046-a242057eb771",
+    "entry": "搴",
+    "reading": {
+      "primary": "搴",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "準平は平素県令｜国貞廉平の施設に慊なかったが、宴｜闌なる時、国貞の前に進んで杯を献じ、さて「お※は」と呼びつつ、国貞に背いて立ち、衣を搴げて尻を露したそうである。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この時権十郎の紀伊国屋文左衛門が暖簾を搴げて出る。",
+              "citation": {
+                "source": "細木香以",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿宝は車の中から孫を見つけて、しんなりした手で簾を搴げて、目もはなさずに見つめた。",
+              "citation": {
+                "source": "阿宝",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "薄暗くて狭い、曲つた石の階段の泥靴で汚れたのを踏んで、混合ふ見物人に交りながら裾を搴げて登る厭な気持の後で、幾多の囚人の深い怨みを千古に留めた題壁の文字や絵を頂上の室に眺めた時は、今も猶どこかの隅で嗚咽の声が聞える感がして自分の雨に濡れた冷たい裾にも血の滴るのかと戦かれるのであつた。",
+              "citation": {
+                "source": "巴里より",
+                "author": "與謝野寛、與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "出門日已遠　不受徒旅欺　骨肉恩豈断　手中挑青糸　捷下万仞岡　俯身試搴旗　これは更にずつと古い杜甫の「前出塞」の詩の結末――ではない一首である。",
+              "citation": {
+                "source": "文芸的な、余りに文芸的な",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "未だかつて搴げられたことのない秘密の垂衣の背後に一つ一つの奇蹟が己達の窺うのを待っている。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（手にて寝台の帷の一ひらを搴ぐ。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "メフィストフェレスが手に帷を搴げて顧みるとき、古風なる臥床に横はれるファウストの姿、見物に見ゆ。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "王建の詞に盤巾結帶分兩邊と云ひ周復俊の咏に翠帶雙飃翠葉搴と云ひ元の道士馬臻は繍帶斜飛亭際柳と云ひ明の蔡羽は葡萄結束相思帶と云ふのはこれだ。",
+              "citation": {
+                "source": "鞦韆考",
+                "author": "原勝郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "曰ふ、將を斬り旗を搴るは、氣盛なる者之を能くす、而かも眞勇に非ざるなり。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "uuid": "a50a287d-51ec-5ea9-b2fd-8f072c149c45",
+    "entry": "闘祭",
+    "reading": {
+      "primary": "闘祭",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "もつとも、戯鬪祭の方は、個人同士の立合でなく、何百、多い時は千餘の武士が、實戰の試合をやるのであるが、これは戯刀ではなく、眞劍で鬪ひ合ふので、双方とも、車輛に何臺も載せて引くやうな負傷者を出してしまふ。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてこの戯鬪祭は、佛蘭西から起つて獨逸、英國にまで流行したといふから、いかに西歐武士も亦、棧敷の婦女子へ自分の鮮血を誇らしく鬪つたかが想像される。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      },
+      "variant_writings": [
+        "鬪祭"
+      ]
+    }
+  }
+]

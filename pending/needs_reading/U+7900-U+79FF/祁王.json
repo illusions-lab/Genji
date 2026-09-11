@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "cf7d9737-7d3f-5d99-9848-53ed78219e92",
+    "entry": "祁王",
+    "reading": {
+      "primary": "祁王",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "四　忍歯王には意富祁王、袁祁王というお二人のお子さまがいらっしゃいました。",
+              "citation": {
+                "source": "古事記物語",
+                "author": "鈴木三重吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あるとき袁祁王は、歌がきといって、男や女がおおぜいいっしょに集まって、歌を歌いかわす催しへおでかけになりました。",
+              "citation": {
+                "source": "古事記物語",
+                "author": "鈴木三重吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "するとそのころ、臣下の中でおそろしく幅をきかせていた志毘臣というものが、その大魚の手を取りながら、袁祁王にあてつけて、「ああ、おかしやおかしや、お宮の屋根がゆがんでしまった」と歌いだし、そのあとの歌のむすびを王にさし向けました。",
+              "citation": {
+                "source": "古事記物語",
+                "author": "鈴木三重吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、お宮へお帰りになるとすぐに、お兄上の意富祁王とご相談なさいました。",
+              "citation": {
+                "source": "古事記物語",
+                "author": "鈴木三重吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三　お二人はもはや、お年の上でも十分おひとり立ちで天下をお治めになることがおできになるので、順序からいって、お兄上の意富祁王が、まず第一にご即位になるのがほんとうでした。",
+              "citation": {
+                "source": "古事記物語",
+                "author": "鈴木三重吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "袁祁王はそのことだけはどこまでもご辞退になりましたが、お兄上がどうしてもお聞きいれにならないので、とうとうしかたなしに、第一にお位におつきになりました。",
+              "citation": {
+                "source": "古事記物語",
+                "author": "鈴木三重吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "するとお兄上の意富祁王が、「天皇のみささぎをこわすためなら、ほかのものをやってはいけません。",
+              "citation": {
+                "source": "古事記物語",
+                "author": "鈴木三重吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "意富祁王は急いでお出かけになりました。",
+              "citation": {
+                "source": "古事記物語",
+                "author": "鈴木三重吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それでおあとにはお兄上の意富祁王が仁賢天皇としてご即位になりました。",
+              "citation": {
+                "source": "古事記物語",
+                "author": "鈴木三重吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

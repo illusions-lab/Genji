@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "883667a7-7517-584d-877a-051ea432769a",
+    "entry": "悒然",
+    "reading": {
+      "primary": "悒然",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "官邸の玄関に設えられた桟敷の上に、モナコやモロッロの王様と並んで、何時の年の巴里祭に見ても、常に悒然たる面持で佇んでいる、日本名を宗方竜太郎というあの黒髭の美紳士がつまり宗皇帝なのだ。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "真名古は悒然たる面持で立ち上ると、ちょっとといってゆっくりした足どりで部屋を出て行ったが、五分ほどするとまた戻って来て、花と向き合って掛けると、「どうだね、何かも一つ読んでやろうか」　といって本を取り上げる。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "竜太郎は、悒然とした顔つきで椅子から立ち上ると、部屋の端のほうまで歩いて行き、壁に貼りつけられた地図をしみじみと眺める。",
+              "citation": {
+                "source": "墓地展望亭",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「また、始めからやり直さなくてはならない」　竜太郎は、悒然とした面持でじぶんの部屋の扉の前に帰りついた。",
+              "citation": {
+                "source": "墓地展望亭",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ふた側の垣根の暗が悒然と覆うているかげを、童子はすたすた歩いていた。",
+              "citation": {
+                "source": "後の日の童子",
+                "author": "室生犀星",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

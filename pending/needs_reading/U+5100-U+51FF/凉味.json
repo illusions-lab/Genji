@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "7ced2401-e9f6-5542-8e94-2e3270de1c67",
+    "entry": "凉味",
+    "reading": {
+      "primary": "凉味",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "まったく文字通りに、凉味骨に透るのであった。",
+              "citation": {
+                "source": "御堀端三題",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかも日が暮れてから帰宅するので、この柳のかげに休息して凉風に浴するの機会がなく、年ごとに繁ってゆく青い蔭をながめて、昔年の凉味を忍ぶに過ぎなかったが、我国に帝国議会というものが初めて開かれても、ここの柳は伐られなかった。",
+              "citation": {
+                "source": "御堀端三題",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昔の凉風は今もその街路樹の梢に音づれているのであろうが、私に凉味を思い起させるのは、やはり昔の柳の風である。",
+              "citation": {
+                "source": "御堀端三題",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "河鹿わが爲に歌ひ、清流天上の凉味を傳ふ。",
+              "citation": {
+                "source": "遊羽雜感",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "船に乘る少し前に、知合となりたるにて、夫は下室に殘し、凉味を取らむとて、己れ一人甲板に上りたるにて、所謂怪しき女にてもなし。",
+              "citation": {
+                "source": "月の東京灣",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この凉味と快味とは、少なくとも裸男の二三年以來には知らざりし所也。",
+              "citation": {
+                "source": "月の東京灣",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "見渡すかぎり、恰も一幅の墨繪の如く、三伏のあつさもこの一雨に洗はれて、萬斛の凉味、乾坤に溢る。",
+              "citation": {
+                "source": "八鹽のいでゆ",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "録音集豊島与志雄　八月の中旬、立秋後、朝夕の微風にかすかな凉味が乗り初める頃、夜の明け方に、よく雨が降る。",
+              "citation": {
+                "source": "録音集",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その音が燒けた石を磨り合せるやうにきこえて、僅かに湧いて來る夜の凉味をすつかり掻き消してしまふ。",
+              "citation": {
+                "source": "旱天實景",
+                "author": "下村千秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "英泉の浅間高原の荒凉味などは、また独特の感がある。",
+              "citation": {
+                "source": "ある偃松の独白",
+                "author": "中村清太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

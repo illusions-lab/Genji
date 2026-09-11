@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "84f92460-e103-5b2c-adfc-2cb9c145cae5",
+    "entry": "褓母",
+    "reading": {
+      "primary": "褓母",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "小さいロザリーは、三度の御飯も皆と一緒に食べるし、褓母や家庭教師と云うものも持っていません。",
+              "citation": {
+                "source": "「母の膝の上に」（紹介並短評）",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "乳母車は大抵長い外套を着て頭から裾迄大幅のリボンを二筋垂れた一定の服装の褓母が押して居る。",
+              "citation": {
+                "source": "巴里より",
+                "author": "與謝野寛、與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "費用　十二円　　子供　二十人　　お母さん達　七八人　褓母は歩いて、水着をきせた。",
+              "citation": {
+                "source": "「乳房」創作メモ",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "屑やのお父さんがこの前、褓母を迎えに行った。",
+              "citation": {
+                "source": "「乳房」創作メモ",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一、褓母を早くかえしてほしい　　一、托児所のところへスパイが来ておどしたり、ものをもって行ったりしてくれるな。",
+              "citation": {
+                "source": "「乳房」創作メモ",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は褓母をさがし　おっかさんがかわり番こに世話をすることにする。",
+              "citation": {
+                "source": "「乳房」創作メモ",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「じゃ褓母の人はどうしますかね」「サア　どうしましょう」「二階の六畳をすっかりあけて、先生たち二人に泊って貰おう」　七八人。",
+              "citation": {
+                "source": "「乳房」創作メモ",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○褓母の具体的な闘争と人とについて。",
+              "citation": {
+                "source": "「乳房」創作メモ",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若者の姉はそこの褓母になっている。",
+              "citation": {
+                "source": "ドナウ源流行",
+                "author": "齋藤茂吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

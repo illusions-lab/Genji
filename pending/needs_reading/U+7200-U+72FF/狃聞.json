@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "eb7d45fa-1817-5fbb-8543-357875b482a1",
+    "entry": "狃聞",
+    "reading": {
+      "primary": "狃聞",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "平凡之議似公、世安其狃聞。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "平凡の議は公に似る、世其の狃聞に安んず。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "狃聞に苟安することなくんば可なり。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "d3da50f3-1639-5f24-b32d-a18717bdbb4e",
+    "entry": "毘留",
+    "reading": {
+      "primary": "毘留",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そこで、牛商人は、毘留善麻利耶の加護を願ひながら、思ひ切つて、予、もくろんで置いた計画を、実行した。",
+              "citation": {
+                "source": "煙草と悪魔",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大名と呼ばれた封建時代の貴族たちが、黄金の十字架を胸に懸けて、パアテル・ノステルを口にした日本を、――貴族の夫人たちが、珊瑚の念珠を爪繰って、毘留善麻利耶の前に跪いた日本を、その彼が訪れなかったと云う筈はない。",
+              "citation": {
+                "source": "さまよえる猶太人",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

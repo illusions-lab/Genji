@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "e35d8716-3c86-5db9-ad95-def525877a3d",
+    "entry": "嬌音",
+    "reading": {
+      "primary": "嬌音",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "多分｜件の嬌音と倶に寢入て了つたらしいとの噂、それより其女をハーヱーの某樣と崇め、新婦の典型と仰がれ居た。",
+              "citation": {
+                "source": "蓮の花開く音を聽く事",
+                "author": "南方熊楠",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ことに宛転たる嬌音をもって、乾燥なる講筵に一点の艶味を添えられたのは実に望外の幸福であります。",
+              "citation": {
+                "source": "吾輩は猫である",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お座敷から帰る者、これから出掛ける者、客を送って行く者、往来で立話している者、アスファルトの舗道の上をちょこちょこ歩きの高い下駄の音に交って「今程は」「左様なら」など呼び交す艶めかしい嬌音が方々から聞えた。",
+              "citation": {
+                "source": "早稲田神楽坂",
+                "author": "加能作次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "去春は毎朝窓ちかくへ来て鳴いてくれたあの声、鶯は日中は遠く近くをゆきかえりして円転と嬌音をまろばした。",
+              "citation": {
+                "source": "豊竹呂昇",
+                "author": "長谷川時雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼女のあの嬌音はもう昔のものとなってしまうのかと、その折は特別に贔屓というほどでないものでさえおしんだ。",
+              "citation": {
+                "source": "豊竹呂昇",
+                "author": "長谷川時雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いつも聽き惚れる嬌音は相變らず身に入むやうに覺えるが、其上今宵は一種不思議な心持がする。",
+              "citation": {
+                "source": "俳諧師",
+                "author": "高濱虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「嬌音が洩れるね」「鴨緑江節だよ」　とお父さんと団さんが耳を澄ました。",
+              "citation": {
+                "source": "ぐうたら道中記",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "7b46faad-f850-58d3-a0a3-993d6e127211",
+    "entry": "懸出",
+    "reading": {
+      "primary": "懸出",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この城の一方が天龍川に臨んでいるので、飲料その他、城兵の生命とする水は、城壁の一端から懸出してある井楼に車をかけ、井戸水を汲むように川から上げていたものである。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第四分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "谷間へ懸出してあるこの小屋は、つまり彼らの罠なのである。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "空の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "武蔵も、そこへ横になると、快い薬草のにおいに、眠りを誘われて、手足の先にまで、腫れぼったい疲れが出て来たが、山で生れ、山で育った武蔵には、この谷間の懸出し小屋に、一応、頷けないものがあった。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "空の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして簡単な寝小屋はまた、次の日のうちに、絶壁へ懸出して組むのであった。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "空の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

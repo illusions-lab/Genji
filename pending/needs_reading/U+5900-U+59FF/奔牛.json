@@ -1,0 +1,175 @@
+[
+  {
+    "uuid": "d8ae4139-c10c-57e5-a5a7-01a1a7e27bb9",
+    "entry": "奔牛",
+    "reading": {
+      "primary": "奔牛",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "大陸序曲跳躍跳躍する跳躍する奔牛は是れ、厳たる意志力、陀々羅踏む肉塊の黒旋風、響き搏つ角、響き搏つ角、角は見よ、蒼き兜の大前立。",
+              "citation": {
+                "source": "新頌",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "跳躍する、跳躍する奔牛の意志に乗つて、思ひもかけぬとどろきが来る。",
+              "citation": {
+                "source": "新頌",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と、この時行く手にあたって、一つの人影が現われたが、これも何物かに怯やかされたかのように、奔牛のような速さで走って来た。",
+              "citation": {
+                "source": "娘煙術師",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人殺しだアーッ」　二人の距離が近よって、すれ違おうとした時に、奔牛のように走って来た男が、こう叫ぶと嘉門へしがみ付いた。",
+              "citation": {
+                "source": "娘煙術師",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "六　火に狂った奔牛は、三、四町ほど駈けて行って、忽然と横に仆れてしまった。",
+              "citation": {
+                "source": "親鸞",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "奔牛一　道は、月ヶ瀬の渓流に沿って行くのである。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "円明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「何ッ」　口惜しげに、一つの顔が止まって振向いたが、「小僧は後にしろ」　と、連れがまた、同じ言葉を繰返して、ひたむきに先へ跳んで行く奔牛へ、足幅を跳ばし続けた。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "円明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "奔牛は、瞬く間に、柳生ノ庄に近く――いや柳生よりも奈良に近い街道まで、息もつかずに来てしまった。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "円明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "止まる所を知らない奔牛の勢いであった。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "円明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "当然盲目的に進んで来た奔牛の鼻づらと、下郎の体とは、恐ろしい勢いで打つかったように見えた。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "円明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが、奔牛の角に掛けられたと思ったのは、路傍の人たちの錯覚だった。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "円明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――けれど今度は、十尺とも進まぬうちに、奔牛の足は、ぴたと止まってしまった。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "円明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――その片足が奔牛の手綱を踏んでいたからであった。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "円明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "手脚に縄を縛りつけて、二頭の奔牛にしばりつけ、東西へ向けて鞭打つのである。",
+              "citation": {
+                "source": "三国志",
+                "author": "桃園の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "奔牛悍馬は、止まる所を知らず、西涼軍の中へ駈けこんで暴れまわった。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 15
+      }
+    }
+  }
+]

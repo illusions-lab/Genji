@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "8272230e-4c79-5ba9-9845-4a856d7bc72c",
+    "entry": "芬香",
+    "reading": {
+      "primary": "芬香",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "金と銀との花の盞から静かにこぼれ落ちる金と銀との花の芬香は、大気の動きにつれて、音もなくあたりに浸み透り、また揺曳する。",
+              "citation": {
+                "source": "水仙の幻想",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は水仙の冷え冷えとした高い芬香に、行ひ澄ました若い尼僧の清らかな生涯を感じる。",
+              "citation": {
+                "source": "水仙の幻想",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "清浄身の持主であるこの尼僧は、そんなものには見向きもしないで、その眼はひたすら純白な自らの姿を見つめ、そしてわれとわが清浄心のむせるやうな芬香に酔つゐいる。",
+              "citation": {
+                "source": "水仙の幻想",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この清浄心の芬香こそは、持前の大きな球根の髄から盛り上げてくる水仙の生命そのものなのである。",
+              "citation": {
+                "source": "水仙の幻想",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……動物上の現象　また春が来ますと、今までは蕭条として常磐木のほかの万木千草はことごとく枯れ果てたかと思われていた中に、その一つの枯木の枝頭に忽として芬香を吐くところの白いものを見出します。",
+              "citation": {
+                "source": "俳句とはどんなものか",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

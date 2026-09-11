@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "a84c2abd-348d-5e3c-9367-ac5a3b941d3c",
+    "entry": "陀夷",
+    "reading": {
+      "primary": "陀夷",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "……　浄飯王が狩の道にて――天竺、天臂城なる豪貴の長者、善覚の妹姫が、姉君｜矯曇弥とともに、はじめて見ゆる処より、優陀夷が結納の使者に立つ処、のちに、矯曇弥が嫉妬の処。",
+              "citation": {
+                "source": "夫人利生記",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "釈迦の弟子の中で迦留陀夷というのが、教壇の上で穢語を放って今に遺り伝わっているが、迦留陀夷のはただ阿房げているので、増賀のは其時既に衰老の年であったが、ふたたび宮※などに召出されぬよう斬釘截鉄的に狂叫したのだとも云えば云えよう。",
+              "citation": {
+                "source": "連環記",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『根本説一切有部毘奈耶』に、仏の弟子｜陀夷曰く姑の過ちでない、彼の両乳の間および隠密処に黒黶と赤黶と旋毛、この三の暴悪相があるからだと教え食を受けて去った。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ほど経て姑と陀夷が言った通りの相あり。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "陀夷から聞いたと答え、大徳何に因ってことさらに我らを悩ませるぞと憤る。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこへ老いた比丘が托鉢に来たので、※陀夷はどんな人と問うと、大臣の家に生まれたが出家したと答う。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

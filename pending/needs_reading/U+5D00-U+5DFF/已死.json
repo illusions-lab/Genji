@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "701c6948-42ea-5358-aa18-2f818e93e40a",
+    "entry": "已死",
+    "reading": {
+      "primary": "已死",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "径万里兮度沙幕為君将兮奮匈奴路窮絶兮矢刃摧士衆滅兮名已※老母已死雖欲報恩将安帰　歌っているうちに、声が顫え涙が頬を伝わった。",
+              "citation": {
+                "source": "李陵",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蒼天已死｜黄夫当立｜歳在甲子天下大吉　　○大賢良師張角「大方ご覧なさい。",
+              "citation": {
+                "source": "三国志",
+                "author": "桃園の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五　また、黄巾軍の徒党は、全軍の旗もすべて黄色を用い、その大旆には、蒼天已死｜黄夫当立｜歳在甲子天下大吉　という宣文を書き、党の楽謡部は、その宣文に、童歌風のやさしい作曲をつけて、党兵に唄わせ、部落や村々の地方から郡、県、市、都へと熱病のようにうたい流行らせた。",
+              "citation": {
+                "source": "三国志",
+                "author": "桃園の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）と、憂えているところへ、地方に蜂起した黄巾賊の口々から、　――蒼天已死　の童歌が流行ってきて、後漢の末世を暗示する声は、洛陽の城下にまで、満ちていた。",
+              "citation": {
+                "source": "三国志",
+                "author": "桃園の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

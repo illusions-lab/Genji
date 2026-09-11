@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "80902b2d-a9ba-5520-80e7-456c461e714e",
+    "entry": "欠壌",
+    "reading": {
+      "primary": "けつ壌",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "然し染退川が年々五十町歩も百町歩も、渠等の集積土質の良田を缺壤して行く爲め、その度毎に村人の戸數が減じて行くのは殘念なことだ。",
+              "citation": {
+                "source": "日高十勝の記憶",
+                "author": "岩野泡鳴",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "缺壤"
+      ],
+      "needs_reading": true
+    }
+  }
+]

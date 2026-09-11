@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "c52b7d97-79dd-53a2-adf4-4880fef5f882",
+    "entry": "旋囘",
+    "reading": {
+      "primary": "旋囘",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "秋日歸郷　　　　　　　―妹にあたふる言葉―秋は鉛筆削のうららかな旋囘に暮れてゆく。",
+              "citation": {
+                "source": "散文詩・詩的散文",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "木馬はまはる、光はまはる、兄の肉體は疾風のやうに旋囘する、兄の左に少女がじつと立つて居る、白い前かけをした娘だ、娘のくちびるが、あかいくちびるが、林檎が、しだいに、あざやかに、私のくちびるを追ひかける。",
+              "citation": {
+                "source": "散文詩・詩的散文",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ただ聞えるのは、静かな黄昏どきに、鏡のやうな水面を旋囘しながら、銀いろの柳の枝を水ぎはへ吹きなびかせて、サーッと吹き過ぎる夕風の音に似た騒音であつた。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　後篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "無數の小蜂を舞ひ込めて襲ふ花の匂ひの隙間から、突如として閃くやうに旋囘して來る熊蜂の鋭い風。",
+              "citation": {
+                "source": "榛名",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……　しかし、今日では形勢がすでに大旋囘をしてしまつた。",
+              "citation": {
+                "source": "大戰脱出記",
+                "author": "野上豐一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "列車が旋囘を始めだしたのだ。",
+              "citation": {
+                "source": "大戰脱出記",
+                "author": "野上豐一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして僕たちのまはりで、一塊りになつて、くるくると旋囘してゐる。",
+              "citation": {
+                "source": "山日記　その二",
+                "author": "堀辰雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ほど近い枯萱山の傾斜を滑つて、彼等の影もまた靜かに旋囘してゐた。",
+              "citation": {
+                "source": "霾",
+                "author": "三好達治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

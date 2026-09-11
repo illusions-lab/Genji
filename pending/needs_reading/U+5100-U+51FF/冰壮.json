@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "9d39ee86-2226-5450-a88d-bb4cfb6c2177",
+    "entry": "冰壮",
+    "reading": {
+      "primary": "冰壮",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "其は火袁理命の目無堅間・熊野大神の八目荒籠・秋山下冰壮夫の形代を容れたといふ川島のいくみ竹の荒籠などぼつ／＼見えてゐるのが其で、どうやら供物容れが神の在処であつたことを暗示してゐる様である。",
+              "citation": {
+                "source": "髯籠の話",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秋山下冰壮夫に対する春山霞壮夫の御母の採つた方法などは、此例のとこひの著しい例である。",
+              "citation": {
+                "source": "「ほ」・「うら」から「ほがひ」へ",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人をかしる為に、様々の物を用ゐてゐる中、秋山下冰壮夫のかたみ（身代り）として、出石川の河の石を塩にまぶし、出石川の竹の葉に包み、其竹で造つた八目の荒籠に入れて、此竹葉の萎むが如青みしぼめ。",
+              "citation": {
+                "source": "「ほ」・「うら」から「ほがひ」へ",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "兄を秋山之｜下冰壮夫と云う。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して下冰壮夫が咒阻せられて、乾き萎みみしと云うも亦た、秋の人格化として、始めて意義あり。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前に述べし、秋山之｜下冰壮夫と春山之霞壮夫と兄弟二神、妻争いの説話の末段に曰く。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

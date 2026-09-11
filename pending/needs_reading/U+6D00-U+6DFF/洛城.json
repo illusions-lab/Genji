@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "ac8fc0aa-6849-5885-9f39-ba58f5afc193",
+    "entry": "洛城",
+    "reading": {
+      "primary": "洛城",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "游藁の詩に、「知君昨自洛城西」の句がある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "枕山が「六月十六日作」に謂く、「洛城纔下便江城。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」〔洛城｜纔カニ下レバ便チ江城／火船輪ヲ転ジテ紫焔明ラカナリ／二百年来曠典ヲ修メ／両三日ノ裏ニ遐程ヲ了ヘリ／海神護送シテ海波穏ヤカ／天日照臨シテ天気晴ル／駕ヲ税キテ今｜自リ庶政ヲ親ル／小儒｜私カニ擬ス昇平ヲ頌ヘント〕　六月二十二日大沼又三郎が横浜に没した。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

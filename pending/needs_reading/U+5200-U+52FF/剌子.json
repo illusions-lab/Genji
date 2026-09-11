@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "ab34e7f9-8c35-5452-89f7-f020304df57d",
+    "entry": "剌子",
+    "reading": {
+      "primary": "剌子",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "札木合　　札荅蘭族藩公　　　　　　　　　三十歳合爾合姫　札木合の室　　　　　　　　　　二十歳台察児　　札木合の弟　　　　　　　　　　二十八歳札荅蘭族の参謀、合爾合姫の侍女、伝令、支那（金の国）の交易商、その従者、花剌子模国の回々教伝道師、札荅蘭城下の避難民男女、その他城兵多勢。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同じく上手の扉から、花剌子模国より蒙古教化に派遣されている回々教僧侶、よろぼいいず。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人物才幹、この蒙古はおろか、東は遠く金の国、西は花剌子模の果てまで、並ぶ者ない名将と聞いているが、古い恋の意趣遺恨を根に、この孤立無援の山寨を包囲して、あくまで陥さねば気が済まぬとは、噂ほどにもない成吉思汗だ。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "入れ違いに城門より、従者に荷物を担がせた金の商人、および、花剌子模の回々教伝道師、転がるように走り出て来る。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それですから花剌子模といふ國の舊都であつた所の玉龍傑赤では二百四十萬の人を殺したと言ひます。",
+              "citation": {
+                "source": "元時代の蒙古人",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

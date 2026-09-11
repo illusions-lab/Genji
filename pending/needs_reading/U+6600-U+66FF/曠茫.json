@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "d00a11bf-6587-5eca-85dc-09a1ba119f56",
+    "entry": "曠茫",
+    "reading": {
+      "primary": "曠茫",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――郷土望景詩――虎虎なり曠茫として巨像の如く百貨店上屋階の檻に眠れど汝はもと機械に非ず牙齒もて肉を食ひ裂くともいかんぞ人間の物理を知らむ。",
+              "citation": {
+                "source": "氷島",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あるいは下りあるいは登り、道なき道を突き進み、一｜刻あまり進んだ時、忽ち曠茫たる芒の原、星の下辺に見え渡り、一群色濃き森の中よりわずかに見える灯の光。",
+              "citation": {
+                "source": "蔦葛木曽棧",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが、あたりは依然として、人家さえ視界から取払われた、曠茫とした荒野にとりかこまれていた。",
+              "citation": {
+                "source": "自殺",
+                "author": "蘭郁二郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "駒ヶ岳に至りては実に奇中の奇にして、景象の跌宕眺望の雄大、真に人の意表に出づるものあり、平常多くは曠茫たる裾野を有する火山をのみ看熟せるもの、忽ちこの奇秀に接す、その特に之を激賞する故なしとせんや。",
+              "citation": {
+                "source": "木曾駒と甲斐駒",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "折しも、秋の半ば、帝と皇后の輦は長い戟を揃えた御林軍の残兵に守られて、長安の廃墟を後に、曠茫たる山野の空へと行幸せられた。",
+              "citation": {
+                "source": "三国志",
+                "author": "草莽の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

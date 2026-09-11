@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "dde8aacb-61ba-5554-99fe-3fd9d5e4eccd",
+    "entry": "椈倉",
+    "reading": {
+      "primary": "椈倉",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "是に至って私達は雲の領を脱したのであろう、眼の前がパッと開けて、脚の下に椈倉峠の頂上が草原らしい緑を展げる、雪田も間近に光っている。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吉沢君や中村君に拠ると、椈倉峠から小黒部に下る谷は、中ノ谷と呼ばれているとのことである。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山稜は更に東の方へ延びて、中ノ谷と椈倉谷とを分つ尾根となって、小黒部谷へ低下している。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昨日猫又山から下る途中「明日は楽だな」と喜んだ立派な切明けは、椈倉峠の草原やだぶだぶの水と同じく、何かに付けて楽をしたがるさもしい根性から、血迷った網膜が勝手に映して見せた幻影に過ぎなかった。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "真中の窪い処は一面の雪田で、盛り上った雪は縁から溢れて、小黒部の椈倉谷へなだれ落ちている。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "不意に頭の上が明るくなって、行手に白いものがチラチラ見え出したと思ったら、小黒部の椈倉谷に落ち込む雪渓の一つに突き当った。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "立山々麓や黒部の猟師たちの話では、元は遠近から浴客が、山を越え谷を伝って訪ねて来たものだそうで、ある時などは、片貝谷の島尻という村の某々らが、椈倉谷からこの小黒部へ越える、立派な山道をひらいて、牛なども通い、温泉には宿屋が建って、石畳みの浴槽までできていたほどだという。",
+              "citation": {
+                "source": "ある偃松の独白",
+                "author": "中村清太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

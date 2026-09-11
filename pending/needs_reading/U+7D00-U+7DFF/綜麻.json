@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "8645ce17-64a2-51c4-b549-2bd64fcccaed",
+    "entry": "綜麻",
+    "reading": {
+      "primary": "綜麻",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "わたしは、へそくりは綜麻繰りで、家族の私有の利得は、其辺から得たものと信じてゐるので、しがいせんも、しんがい・しがいなど言ふ、糸鞋を作つて、めい／＼の小遣ひ銭を作つた為と考へる。",
+              "citation": {
+                "source": "方言",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "土佐国風土記云、神河訓三輪河云々、多氏古事記曰、崇神天皇之世、倭迹迹媛皇女為大三輪大神婦、毎夜有一壮士、密来暁去、皇女思奇、以綜麻貫針、及壮士之暁出也、以針貫欄、及旦見之、唯有三輪遺器、　此両個の神婚説話は、共に同じ神に就て物語るのみならず、其結構に於て、また全く同一なり。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然れども云々の隣と書しからは、遠き国は本よりいはず、近きをいふなる中に、一国をさゝでは此哥にかなはず、次下に、三輪山の事を綜麻形と書なせし事など相似たるに依ても、猶上の訓を取るべし」とあり、なお真淵は、「こは荷田大人のひめ哥也。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ヌハリ綜麻形乃　林始乃　狭野榛能　衣爾著成　目爾都久和我勢　ヌハリは野榛で野に生えているハリすなわちハンノキをいったものだ。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "麻を古言にそといひしは綜麻のるゐ也。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

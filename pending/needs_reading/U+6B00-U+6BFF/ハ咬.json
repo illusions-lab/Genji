@@ -1,0 +1,186 @@
+[
+  {
+    "uuid": "4f852d1b-2c4f-552b-a5dc-619ae66ba61a",
+    "entry": "歯咬",
+    "reading": {
+      "primary": "は咬",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "俺がこの病でてっきり死ぬものと決めて掛かって、もう勝手な真似を始めたのだなと歯咬みをしながら、叔孫は豎牛に命ずる。",
+              "citation": {
+                "source": "牛人",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三郎は本堂の戸を睨んで歯咬みをした。",
+              "citation": {
+                "source": "山椒大夫",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「引く足があれば、わしも奥へはいるが」と、又七郎は苦々しげに言って歯咬みをした。",
+              "citation": {
+                "source": "阿部一族",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今さら歯咬みをしても、地団太をふんでも、取り返しの付かないことになった。",
+              "citation": {
+                "source": "半七捕物帳",
+                "author": "仮面",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "とかつは驚き、かつは憤り、はたと睨めて動かざる眼には見る見る涙を湛へて、唯｜一攫にもせまほしく肉の躍るを推怺へつつ、窃に歯咬をなしたり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "歯咬を作して貫一は後を追ひぬ。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　男は歯咬しつつ苦しげに嗤笑せり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "己はどうも為方がないから、心中では歯咬みをしながら、おとなしく話した。",
+              "citation": {
+                "source": "鰐",
+                "author": "ドストエウスキー　Fyodor Mikhailovich Dostoevski",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "竜之助は右の男を斬り殺そうとまでは思わなかったが、斬ろうと思うた程度よりも斬り得なかったことが、よほど心外であるらしく、歯咬みをして我家の方をさして行くと、邸のあたりが非常に混雑して提灯が右往左往に飛びます。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "甲源一刀流の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お銀様は歯咬をして彼等を押し退けて避けようとすると、折助たちは、ゾロゾロと後をついて来るのであります。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "如法闇夜の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俺は頭を三ツ四ツ続けざまに、あの棒で殴られたと言って歯咬みをしているものもありました。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "如法闇夜の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "役人に附いて来た下人どもは、もう手出しをする勇気もありませんでしたが、今まで役人どものなすところを歯咬みをして口惜しがっていた望月方の者でさえも、これには青くなってしまいました。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "市中騒動の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昨夕この坂の中程で転んだお角が、焦れったがって歯咬をしながら、鼻緒の切れたその下駄をポンと仕置場の藪の中へ投げ込んだ時に、米友は怪訝な面をして見ていました。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "お銀様の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "真暗闇だし、転げて逃げるうちには、木の幹にぶつかったり、溝へ落ちたりして、怪我した者もありました……残念です、警官や憲兵の邪魔さえなかったら、一万人以上がここへきたはずです」　野口は言葉を切って無念そうに歯咬みした。",
+              "citation": {
+                "source": "渡良瀬川",
+                "author": "大鹿卓",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "手前の話に釣られて、とうとう年貢を納めさせられるよ」　房吉は口惜しそうに歯咬みをします。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "平次女難",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "手前の話に釣られて、到頭｜年貢を納めさせられるよ」　房吉は口惜しさうに齒咬みをします。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "平次女難",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "齒咬"
+      ],
+      "needs_reading": true
+    }
+  }
+]

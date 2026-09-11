@@ -1,0 +1,130 @@
+[
+  {
+    "uuid": "cf5d9a71-abe6-54f3-913f-9abf4e39f7e3",
+    "entry": "来懸",
+    "reading": {
+      "primary": "らい懸",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「其の時来懸つたのは、何うも、此の原の、向ふの取着であつたらしい。",
+              "citation": {
+                "source": "神鑿",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』と向ふ廊下から早足で、すた／＼来懸つた女中が一人、雪枝を見て立停まつた。",
+              "citation": {
+                "source": "神鑿",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と気軽に飛出し、表門の前を足早に行懸れば、前途より年｜少き好男子の此方に来懸るにはたと行逢いけり。",
+              "citation": {
+                "source": "活人形",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "最初の裡くねくねと体を蠢めかして居た妻も、軈ては気力尽きてぐったり動かなくなったのを見済まして、私は悠然と落ちた帽子を拾い着崩れた着物の襟を合わせ、是でいいんだ、ふん、是でいいんだ、と呟き乍ら、一歩一歩念を押す気持で石段を下り、来懸る円タクを留めようと至極呑気な気持で待って居りました。",
+              "citation": {
+                "source": "陳情書",
+                "author": "西尾正",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その夕月の光の下に、おのが淡い影を踏みながら、言葉のあやも面白おかしく、舞いつ踊りつ来懸ったのは、この春頃から江戸中を、隈なく歩き廻っている飴売土平。",
+              "citation": {
+                "source": "おせん",
+                "author": "邦枝完二",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一軒、煮染屋の前に立ちて、買物をして居た中年増の大丸髷、紙あまた積んだる腕車を推して、小僧三人向うより來懸りしが、私語して曰く、見ねえ、年明だと。",
+              "citation": {
+                "source": "彌次行",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "旦那お相乘參りませう、と折よく來懸つた二人乘に這ふやうにして二人乘込み、淺草まで急いでくんな。",
+              "citation": {
+                "source": "彌次行",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が――あゝ、之を元來懸念した。",
+              "citation": {
+                "source": "雨ふり",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此處へ筒袖の片手ゆつたりと懷に、左手に山牛蒡を提げて、頬被したる六十ばかりの親仁、ぶらりと來懸るに路を問ふことよろしくあり。",
+              "citation": {
+                "source": "城の石垣",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      },
+      "variant_writings": [
+        "來懸"
+      ],
+      "needs_reading": true
+    }
+  }
+]

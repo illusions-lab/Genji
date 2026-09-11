@@ -1,0 +1,63 @@
+[
+  {
+    "uuid": "86cff985-bf90-5e41-a5bf-1e08be2b467e",
+    "entry": "如元",
+    "reading": {
+      "primary": "如元",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "詫入申一｜札之事一｜我等今度下向候処其方に対し不束之筋有之馬附之荷物積所出来申候に付逸々談志之旨尤之次第大きに及迷惑申候依て御本陣衆を以詫入酒代差出申候仍而件如元禄十四年巳九月大高源吾国蔵どの「成程、子葉先生余程口惜しかったと見えて相手の名を酷く低いところへ書きましたな」　とお父さんが言った。",
+              "citation": {
+                "source": "ぐうたら道中記",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

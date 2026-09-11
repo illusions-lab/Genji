@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "8b4e430a-93dc-5718-87d7-78b1158a86f8",
+    "entry": "購得",
+    "reading": {
+      "primary": "購得",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「余蔵白氏集活字版本、旧年売却、頃書肆英平吉携来一本、即旧架物也、購得記喜。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "友人狩谷卿雲為余購得之於書賈英平吉。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかるを近き頃、村田｜春海大人右の書を京都にて購得てのち、享和三年の春｜創て板本となし、世の重宝となりてより后の学者の机上に置は、実に春海大人の賜なりけり。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

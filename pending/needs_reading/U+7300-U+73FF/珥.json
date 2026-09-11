@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "733254f3-a2ce-584f-a053-a71ca5d83ff5",
+    "entry": "珥",
+    "reading": {
+      "primary": "珥",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "室宇宏麗、後房數百人の舞妓、皆綺※を飾り、金翠を珥む。",
+              "citation": {
+                "source": "唐模樣",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "海潮の氣を潮氣といひ、山岳の氣を山氣といふやうに、河氣といひ、澤氣といひ、野氣といひ、泉氣といひ、虹氣といひ、暈氣といひ、塵氣といひ、雲氣といひ、日輪の兩傍に現はるゝものを珥氣といふ類は、實に數限りも無いことであるが、此等も亦皆其の物より發する其の微分子の如きものを稱すると解して差支無い。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "海潮の気を潮気といい、山岳の気を山気というように、河気といい、沢気といい、野気といい、泉気といい、虹気といい、暈気といい、塵気といい、雲気といい、日輪の両傍に現われるものを珥気という類で、実に数限りもないが、これ等もまた皆その物より発するその微分子のようなものを称すると理解して差支えない。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "中には衣衾釵珥があるのみであった。",
+              "citation": {
+                "source": "緑衣人伝",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此「あなに」に更に「ゑ」のついて、「あなにゑ」の形が出来、その間に或は、あなにや（神武紀、「妍哉」此云鞅奈珥（恵ナシ）夜）となつたらしいものもあり、「や」がついて、「あなにゑや」にもなつた。",
+              "citation": {
+                "source": "形容詞の論",
+                "author": "――語尾「し」の発生――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唐書東夷列傳には、此時の事を記して、蝦夷使者鬚の長さ四尺ばかり、箭を首に珥み、人をして瓠を載せて數十歩に立たしめ、射て中らざるなし。",
+              "citation": {
+                "source": "蝦夷とコロボツクルとの異同を論ず之に潜みて",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我国でも上代に子供をアキと呼んだ例は、応神天皇が大鷦鷯尊に日向の髪長媛を賜う時に伊弉阿芸、怒珥比蘆菟弥珥、比蘆菟弥珥、云々。",
+              "citation": {
+                "source": "マル及ムレについて",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

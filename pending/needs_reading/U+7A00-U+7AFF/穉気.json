@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "bb268343-0495-5de8-8fca-e229c1a886f8",
+    "entry": "穉気",
+    "reading": {
+      "primary": "穉気",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "甲陽鎮撫隊で大名格にしてもらひ、故郷へ錦を飾つた積りの穉気振りなど、往年の近藤勇とは別人の観がある。",
+              "citation": {
+                "source": "大衆維新史読本",
+                "author": "池田屋襲撃",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『万葉集』の歌は文学的に作為せしものに非れども、穉気ありて俗気なき処かへつて文学的なる者多し。",
+              "citation": {
+                "source": "俳諧大要",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "洗練と優美、穉気純度の溢れる藤村を見つけたのも、ずっと後の日の驚きだった。",
+              "citation": {
+                "source": "我が愛する詩人の伝記",
+                "author": "室生犀星",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "6ff09e9c-dba6-5692-aed5-8b71f34a251a",
+    "entry": "如亭",
+    "reading": {
+      "primary": "如亭",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "菊池五山は堂は詩を以て梁川星巖、柏木如亭及五山と交つた。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "木母寺の植半は旅宿をかねたる酒楼にてその頃は芸者を連れし泊込みの客多かりしが二、三年を出でずして或会社のこれを買ひ取りて倶楽部とやらになせしより木母寺の境内再び紅裙のひらめくを見ず、梅若冢の柳を見ても黄昏一片麋蕪雨と柏如亭が名吟を思ふべき人もなくなりたり。",
+              "citation": {
+                "source": "桑中喜語",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "雲如の一生は寛政詩学の四大家中に数えられた柏木如亭に酷似している。",
+              "citation": {
+                "source": "向嶋",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如亭も江戸の人で生涯家なく山水の間に放吟し、文政の初に平安の客寓に死したのである。",
+              "citation": {
+                "source": "向嶋",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "詩仏五山の二人は市河寛斎、柏木如亭と相並んで詩学の四大家と称せられたものである。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "寛斎如亭の相ついで文政の初に世を去るや、江戸の詩界は天保の初｜梁川星巌の東遊を待つの日までこの二老を仰いで師表となした。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "当時の詩風を代表すべきものは寛斎の門より出でた柏木如亭、大窪詩仏、菊池五山である。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "寛斎の門人柏木如亭もまた既に京師に没していたが、同門の大窪詩仏、菊池五山の二家はなお健在であった。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

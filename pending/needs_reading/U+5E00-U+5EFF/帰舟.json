@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "3a86e392-7a14-518b-a9b7-34a7e3f7bb99",
+    "entry": "帰舟",
+    "reading": {
+      "primary": "帰舟",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "）弟　桐城　張祖翼　逖先未定艸風雨共帰舟、言従海外遊、鐙明孤塔遠、風圧片帆遒、海水平如砥、客心間似鴎、他年応相済、莫漫説欧洲。",
+              "citation": {
+                "source": "欧米各国　政教日記",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "帰舟已入太平洋、仰望天涯只渺茫、峡雨嶺雲何処去、万波一碧染吟膓。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）　　十一、本邦帰航太平洋上路、万里就帰舟、看過巴南峡、行吟墨士州、米山雲裏隠、布島浪間浮、挙首家郷近、灯台先入眸。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

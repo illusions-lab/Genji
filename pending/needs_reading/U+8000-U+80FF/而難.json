@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "be0b586a-4a6e-5704-9c92-10474f2110f6",
+    "entry": "而難",
+    "reading": {
+      "primary": "而難",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "同じ書に「御姉様よりめづらしき御茶碗御恵被下、私かねて望候物、別而難有奉存候」と云ひ、又「下著御仕たて被下、奥方様へ御世話の御礼宜御申可被下候」と云つてある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「文化十二年乙亥五月七日、私儀是迄外宅仕罷在候所、去六月中より疝積、其上足痛相煩、引込罷在、種々療治仕候得共、兎角聢と不仕、兼而難渋之上、久々不相勝、別而物入多に而、此上取続無覚束奉存候間、何卒御長屋拝借仕度奉存候得共、病気引込中奉願上候も奉恐入候、依而仲間共一統奉顧上候所、願之通被仰付候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「然るに当人乗船致候得者、兼而眩暈之気味に而難儀致候得共、乗船御供被仰付候と申候者、格別之儀と奉存候間、中々御断之願者難申出｜黙止居候得共、先月末当月初両度之｜乗様しに、御医師中に者指而難儀之者も無御坐候得共、御小姓御納戸之中に者、船中眩暈｜嘔逆に而難儀之人も有之候様承及候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "去る先月廿九日石清水参詣致、別而難有感信致、別而家内之事大｜安心候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "易辞によると、それは「剛柔始交而難生。",
+              "citation": {
+                "source": "馬車",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

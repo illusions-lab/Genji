@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "8d2b7ca9-2cea-50fb-b634-27298a529468",
+    "entry": "洩聞",
+    "reading": {
+      "primary": "洩聞",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　と、所好な貸本の講談を読みながら、梁山泊の扈三娘、お孝が清葉を詈る、と洩聞いて、「その気だから、あの妓は、（そんけん）さ。",
+              "citation": {
+                "source": "日本橋",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "旧を洗ってみた日には、余り大きな顔をして表を歩けた義理でもないじゃないか」　養蚕室にあてた例の薄暗い八畳で、給桑に働いていたお島は、甲高なその声を洩聞くと、胸がどきりとするようであった。",
+              "citation": {
+                "source": "あらくれ",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "植源のおゆうが、鶴さんの迹を追って、家を出たりなどして、あの古い植木屋の家にも、紛紜の絶えなかった一頃の事情は、お島もこの頃姉の口などから洩聞いたが、その鶴さんにも、いつか何処かで逢う機会があるような気がしていた。",
+              "citation": {
+                "source": "あらくれ",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "貫一は心陰に女の成効を祝し、かつ雅之たる者のこれが為に如何に幸ならんかを想ひて、あたかも妙なる楽の音の計らず洩聞えけんやうに、憂かる己をも忘れんとしつ。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その談話を苦しい間にも病人が洩聞をした。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此咄を洩聞いて雀躍したは御園草四郎君だ。",
+              "citation": {
+                "source": "犬物語",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "浮舟を恋いしている男子どもが、彼女の覚悟を洩聞いたなら、いかに心を傷ましめるであろうか。",
+              "citation": {
+                "source": "軽井沢にて",
+                "author": "正宗白鳥",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

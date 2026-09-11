@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "42733a40-28c0-539f-9e67-994495d25706",
+    "entry": "迂論",
+    "reading": {
+      "primary": "迂論",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　妻は、迂論な眼差しで私を屹と睨めた。",
+              "citation": {
+                "source": "鱗雲",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかるに当局および老政治家らの意見は、三蔵を死に処して露国に謝するに非ざれば、国難忽ちに来らん、国家ありての後の法律なり、煦々たる法文に拘泥して国家の重きを忘るるは学究の迂論なり、宜しく法律を活用して帝国を危急の時に救うべしというにあった。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「れぷろぼす」はこれを聞いて、迂論げに又問ひ返したは、「なれど今『あんちおきや』の帝は、天が下に並びない大剛の大将と承つた。",
+              "citation": {
+                "source": "きりしとほろ上人伝",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "之に就て人権云々と論ずる人もあるが、斯かる論は足の先が壊疽に罹つて腐り始めたときに細胞権を云々して患部を切断することを躊躇するのと同様な迂論である。",
+              "citation": {
+                "source": "人類の将来",
+                "author": "丘浅次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "四　斷じて姓名を逆列するな　わが輩のこの所見に對して、或人はこれを學究の過敏なる迂論であると評し、齒牙にかくるに足らぬ些細な問題だといつたが、自分にはさう考へられぬ。",
+              "citation": {
+                "source": "誤まれる姓名の逆列",
+                "author": "伊東忠太",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "閨門は正家の本に候えば、犯姪の迂論に及ばずして人々講究の事とは存じ奉り候えども、訣語申上げ候なり。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

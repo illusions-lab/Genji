@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "ec60b801-0590-59aa-8547-a0fb5a227710",
+    "entry": "送候",
+    "reading": {
+      "primary": "送候",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "右は不容易御事柄、私體の議論可仕義には無御座、恐多奉存候え共、當時指迫指急候御場合に付、忌憚をも不奉憚不取敢申上候義、何卒御覽被成下、其の上可然被思召候はゞ、御在所表えも被仰送候樣仕度奉願上候。",
+              "citation": {
+                "source": "御時務の儀に付申上候書付",
+                "author": "福澤諭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此地の一件ハ石清ニ申送候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応三年八月五日　長岡謙吉あて",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "cbb2e63e-ea10-572f-81d2-6cd9b387e719",
+    "entry": "呆返",
+    "reading": {
+      "primary": "呆返",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "周三は自分ながら自分の腕の鈍なのに呆返ツた。",
+              "citation": {
+                "source": "平民の娘",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "で何うかすると呆返つたやうに、『何だつて其様なことを氣にする………清淨であつたツて無いたツて、何でもありやしない。",
+              "citation": {
+                "source": "平民の娘",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ソレに和蘭の学問とは何たる心得違いか、呆返った話だとか何とか叱られたその言葉の中に、叔父が私を冷かして、貴様のような奴は負角力の瘠錣と云うものじゃと苦々しく睨み付けたのは、身の程知らずと云う意味でしょう。",
+              "citation": {
+                "source": "福翁自伝",
+                "author": "福翁自伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如何だ、マア呆返たな、丸で安達ヶ｜原に行たような訳けだと、斯う思うた。",
+              "citation": {
+                "source": "福翁自伝",
+                "author": "福翁自伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何をするのか気狂共が、呆返た話じゃないかと云うと、村田が眼に角を立て、「何だと、遣たら如何だ。",
+              "citation": {
+                "source": "福翁自伝",
+                "author": "福翁自伝",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

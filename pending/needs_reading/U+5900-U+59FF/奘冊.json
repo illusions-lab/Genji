@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "eaa28bc8-250e-53d1-a13c-ffd931efc64b",
+    "entry": "奘冊",
+    "reading": {
+      "primary": "奘冊",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "御神は伊奘諾伊奘冊二柱の神にましませば申すもかしこし、御狗とは狼をさしていう。",
+              "citation": {
+                "source": "知々夫紀行",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我が日本において、国常立尊の如きは独化の神にして、伊奘諾尊、伊奘冊尊は則ち夫婦の神なり。",
+              "citation": {
+                "source": "日本男子論",
+                "author": "福沢諭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我輩｜窃かに案ずるに、かの伊奘諾尊、伊奘冊尊、またはアダム、イーブの如きも、必ずこの夫婦の徳義を修めて幸福円満なりしことならんと信ずるのみ。",
+              "citation": {
+                "source": "日本男子論",
+                "author": "福沢諭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今日吾々日本国民の形体は、伊奘諾・伊奘冊｜二尊の遺体にして、吾々の依って以て社会を維持する私徳公徳もまた、その起源を求むれば、二尊夫婦の間に行われたる親愛恭敬の遺徳なりと知るべし。",
+              "citation": {
+                "source": "日本男子論",
+                "author": "福沢諭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古事記にはまた伊奘諾・伊奘冊二尊の御子に、山の神・野の神などと並んで、木の神｜久久能智神というのがある。",
+              "citation": {
+                "source": "くぐつ名義考",
+                "author": "古代社会組織の研究",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ことに古伝説によりますと、農業五穀の神様は、伊奘冊尊の糞尿から生れ給うたという様な風にまで伝えております。",
+              "citation": {
+                "source": "特殊部落の成立沿革を略叙してその解放に及ぶ",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

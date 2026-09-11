@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "6acaa025-cadb-59da-abff-24e8b751800e",
+    "entry": "描冩",
+    "reading": {
+      "primary": "描冩",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ことに彼の舊稿「通信」といふ短篇は、さきにも言つたやうに、謂はば新作家の出世物語なのであるから、第一の通信を受けとるまでの描冩は、そつくり舊稿を書きうつしてもいいくらゐなのであつた。",
+              "citation": {
+                "source": "猿面冠者",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ことにこの小説の末尾には、毛をむしられた鶴のばさばさした羽ばたきの音を描冩してゐるのであるが、作者は或ひはこの描冩に依つて、讀者に完璧の印象を與へ、傑作の眩惑を感じさせやうとしたらしいが、私たちは、ただ、この畸形的な鶴の醜さに顏をそむける許りである。",
+              "citation": {
+                "source": "猿面冠者",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "老人が十八歳で始めて小説といふものを書いたとき、臨終の老人が、あづきかゆ、を食べたいと呟くところの描冩をなしたことがある。",
+              "citation": {
+                "source": "逆行",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "想像による情景描冩は益々生彩を加へて來る。",
+              "citation": {
+                "source": "狐憑",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と云ふのは、その話題や論旨が、相變らず、傍觀的態度とか、客觀的描冩とか、小主觀の排斥とかばかりだ。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "憑き物",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "などと、そんなことは義雄等が主張した醜美論、苦痛美學だけにも觸れてゐないことばかりで、すべてその暗黒、耽溺、不道徳などを描冩もしくは批判するうちに、どんな充實した内容や思想が這入つてゐるか、そこまで窮める力がないもの等の説だ。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "憑き物",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

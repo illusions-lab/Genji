@@ -842,5 +842,137 @@
         "覽記"
       ]
     }
+  },
+  {
+    "uuid": "1c368898-6375-57b6-8163-e191ed0d025e",
+    "entry": "巒気",
+    "reading": {
+      "primary": "らんき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "深山の巒気が立ちのぼるようだ。",
+              "citation": {
+                "source": "黄村先生言行録",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "巒気か、冷気か、雲が迅いか、日がかげるか、自動車の捲き起す疾風か、私たちの胴ぶるいこそは繁くなると、　ああ、古蒼なさるおがせが椴松の高い枝にかかっている。",
+              "citation": {
+                "source": "フレップ・トリップ",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "雲は白く綿々として去来し、巒気はふりしきる蝉の声々にひとしおに澄みわたる、その峡中に白いボートを漕ぐ白シャツの三、五｜子がいる。",
+              "citation": {
+                "source": "木曾川",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "巒気と水光と変幻する雲、雲、雲。",
+              "citation": {
+                "source": "木曾川",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "洗われた肌には爽昧の巒気が浸みとおった。",
+              "citation": {
+                "source": "石狩川",
+                "author": "本庄陸男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しんしんと冷えて来た夜半の巒気のなかで、勢いのおとろえた焚火を見つめながら、彼は何ということなしに、泣きたくなった。",
+              "citation": {
+                "source": "石狩川",
+                "author": "本庄陸男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "御山は春日の三笠山と同じような山一つ、樹木がこんもりとして、朝の巒気が神々しく立ちこめております。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "三輪の神杉の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "七　机竜之助も、ふとこの朝、植田の邸を出て、爽やかな夏の朝の巒気を充分に吸いながら、長者屋敷の方を廻って、何の気もなくこの二本杉のところまで来かかったのでありました。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "三輪の神杉の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "牛や巒気と交わりながら、しばらく悠々とやってみようじゃないか。",
+              "citation": {
+                "source": "金狼",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夜が明けたら汽車に乗りましょう〉　そして、山へゆく、牛や巒気と交わりながら、憂いのない素朴な日をおくる。",
+              "citation": {
+                "source": "金狼",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
   }
 ]

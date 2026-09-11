@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "4467410b-5a39-57d1-acfa-430fd4f24b5b",
+    "entry": "歌々",
+    "reading": {
+      "primary": "歌々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "細くしなやかな銀笛は赤い詩人の唇によせられました、白いペンをもつよりほかにしらないきゃしゃな十の指はその夕やみの中に動いて小さい金具の歌々からはゆるいなつかしい夕暮の空にふさわしい音がふるえながらわき出しました。",
+              "citation": {
+                "source": "無題（一）",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "併し、枕のたまと人間の霊魂とは、深い関係にあるらしい事が、前の歌々を見ると考へられて来ます。",
+              "citation": {
+                "source": "万葉集に現れた古代信仰",
+                "author": "――たまの問題――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "処が、歌々の小序も多くはやはり其で、作者が明らかに書き添へたものと見える外は、後からの「追ひ書き」である。",
+              "citation": {
+                "source": "相聞の発達",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "海人部曲の伝承するものとして、海丈部の「ことの語りごと」なる大国主の物語、これに関聯した「天語歌」なる雄略朝の歌々があり、又海の流離譚に縁を持つ、軽太子・軽大郎女の天田振の如きも、其らしいし、万葉・日本紀・常陸風土記に痕を止めた麻績王の海人歌（仮りに命ける）などが其だ。",
+              "citation": {
+                "source": "日本文学の発生",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その最古代の人ごゝろを泣き覆らしめたものは、「天田振」と言はれた歌群と、其から其等と起原が一つだとして伝へられてゐる歌々である。",
+              "citation": {
+                "source": "日本文学の発生",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又支那・満洲の無限につづく連作とも言うべき歌々。",
+              "citation": {
+                "source": "民族の感歎",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

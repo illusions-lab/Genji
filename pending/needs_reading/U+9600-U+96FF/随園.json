@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "970d3363-5140-5f39-a1ce-e4367e039a45",
+    "entry": "随園",
+    "reading": {
+      "primary": "随園",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「わたくしは随園戯編と題する『子不語』についてお話し申します。",
+              "citation": {
+                "source": "中国怪奇小説集",
+                "author": "子不語",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この作者は清の袁枚で、字を子才といい、号を簡斎といいまして、銭塘の人、乾隆年間の進士で、各地方の知県をつとめて評判のよかった人でありますが、年四十にして官途を辞し、江寧の小倉山下に山荘を作って小倉山房といい、その庭園を随園と名づけましたので、世の人は随園先生と呼んで居りました。",
+              "citation": {
+                "source": "中国怪奇小説集",
+                "author": "子不語",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "清の袁随園の「詩話」に「説書人」とあるのも此の説書生と同じ軍談師である事が解つた。",
+              "citation": {
+                "source": "満蒙遊記",
+                "author": "附　満蒙の歌",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "料理書の標題には「随園食箪」とあるが、白雲はよほど、この料理書の張出しには驚異を感じたと見えて、お手のものの絵筆で、そのある部分に朱を加えたり、評語を書きつけたりしたのが、今でもそのままに残っている。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "みちりやの巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その壁間にかかぐるところ、支那料理法の憲法なる「随園食箪」には何と書いてある。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "みちりやの巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一　清の名家｜袁随園が『詩話』巻四に「詩ハ淡雅ヲ貴ブトイヘドモマタ郷野ノ気有ルベカラズ。",
+              "citation": {
+                "source": "小説作法",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "漢文にては入蜀記、菜根譚、紅楼夢、西廂記、随園詩話等。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之一大正六年丁巳九月起筆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "枕上随園詩話を繙いて眠る。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "袁随園の全集には料理の法を論じた食単なるものがある。",
+              "citation": {
+                "source": "砂糖",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "随園詩を論じて大巧の朴と濃後の淡とを以ってよしとなす。",
+              "citation": {
+                "source": "偏奇館漫録",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "庖丁の力は四であり、購買の力は六であるというようなことを中国の随園という人が言っているくらいで、美食は裏表ともに食品材料の鑑識が必要であり、またその食品鑑定ができるようでなくては、料理はできないと言うことにもなるのである。",
+              "citation": {
+                "source": "昆布とろ",
+                "author": "北大路魯山人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "確か中国の『随園食単』かなにかに、洞窟の蟾は美味であるとあったと思うが、私はこの穴を見て、「ハハア、これだな」　と、思った。",
+              "citation": {
+                "source": "蝦蟇を食べた話",
+                "author": "北大路魯山人",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 14
+      }
+    }
+  }
+]

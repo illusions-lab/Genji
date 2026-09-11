@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "396e6890-661d-50fc-8e09-28e779bef838",
+    "entry": "還有",
+    "reading": {
+      "primary": "還有",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "東坡之を用ひて云ふ、割愁｜還有剣鋩山と。",
+              "citation": {
+                "source": "放翁鑑賞",
+                "author": "その七　――放翁詩話三十章――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "問題の句は、繋悶豈無羅帯水、割愁還有剣鋩山といふ一聯を成せるもの。",
+              "citation": {
+                "source": "放翁鑑賞",
+                "author": "その七　――放翁詩話三十章――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "狗子還有仏性也無［狗子にまた仏性有りや無や］の問答についても同様の事が言える。",
+              "citation": {
+                "source": "日本精神史研究",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "09a270b2-a414-5290-b1c4-6f77b26bd414",
+    "entry": "熔鉄",
+    "reading": {
+      "primary": "熔鉄",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それとも、熔鉄剤でしょうか。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕は午前九時になると、いつものように職工服に身を固め、亜細亜製鉄所の門をくぐり、常の如く真紅にたぎった熔鉄を、インゴットの中に流しこむ仕事に従事した。",
+              "citation": {
+                "source": "人造人間殺害事件",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "キューポラは爆発して熔鉄が五百｜米四方にとび散ったということです。",
+              "citation": {
+                "source": "人造人間殺害事件",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鍛冶屋が鉄床の上でハンマアで叩いてたやすく形を造る事が出来るやうに、鉄を柔かにするには、熔鉄炉のありつたけの熱が要るのだ。",
+              "citation": {
+                "source": "科学の不思議",
+                "author": "STORY-BOOK OF SCIENCE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五味を超越した、無味の味は、このヴェールという無限表情を持った婦人の唇から、私の唇へ熔鉄のように捺されたのです。",
+              "citation": {
+                "source": "法悦クラブ",
+                "author": "野村胡堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "少し無理に駈けたので、その脚は、まるで熔鉄の中へ踏みこんだように、かっかと熱を持って、一歩ごとに、激痛が足の裏から眼へ突き抜けて来る。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "火の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "籠城側は新手の戦術に出て、城壁にたかる寄手の兵に沸えたぎった熔鉄をふりまいた。",
+              "citation": {
+                "source": "三国志",
+                "author": "草莽の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし大軍である、この二万余騎の軍馬が、すべて博多の巷を出切るまでには、重たい熔鉄の流れに似て、勢いかなりな時をついやした。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "筑紫帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "86290ff1-0a1f-537c-91a4-b2fda7e7727e",
+    "entry": "旆騎",
+    "reading": {
+      "primary": "旆騎",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "二人共陸軍騎兵中尉で、一人は竜騎兵、一人は旆騎兵に属している。",
+              "citation": {
+                "source": "世界漫遊",
+                "author": "ダウィット　Jacob Julius David",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "門口に出ると、旆騎兵中尉が云った。",
+              "citation": {
+                "source": "世界漫遊",
+                "author": "ダウィット　Jacob Julius David",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」旆騎兵中尉は、「気が違ったかい」と附け加えたかったのを、我慢して呑み込んだ。",
+              "citation": {
+                "source": "世界漫遊",
+                "author": "ダウィット　Jacob Julius David",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "友達の旆騎兵中尉は、「なに、色文だろう」と、自ら慰めるように、跡で独言を言っていたが、色文なんぞではなかった。",
+              "citation": {
+                "source": "世界漫遊",
+                "author": "ダウィット　Jacob Julius David",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "0d3f7dff-8bc7-592f-a92e-40483106e8ee",
+    "entry": "敞",
+    "reading": {
+      "primary": "敞",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "我は廣闊にして敞明なる一室に臥せり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）佐美津川崎屋にて昼食、酒旨魚鮮、風光朗敞、風涼最多。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "即ち孫詒讓の周禮正義には劉敞、陳祥道、薛季宣等の説に從ひ、九巫の巫を字の如く讀み、巫更以下を皆古への筮に精しき者九人の名とし、又その中の巫咸と巫易とを特に指摘して、巫咸は世本に見える作筮の巫咸であり、巫易は巫昜の誤で即ち楚辭招魂に見える巫陽であると考へたのである。",
+              "citation": {
+                "source": "易疑",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "平生『敞衣褞袍、興衣狐狢立、而不恥者、其申也歟』など言うて、いささか誇りにしてゐた予も、人情の不意討を喰うて不覺の涙さへ禁じ得なんだ」　當時の私の状態がいかに哀れなものに見えたかが想像せられます。",
+              "citation": {
+                "source": "浪",
+                "author": "石川三四郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あんまり度々のことでそのままに放って置きましたが、ツイ一と月ばかり前、その犬も番木敞か何んかを食わされて、殺されてしまいました。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "恋患い",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "弘化元年、藩主斉昭が幕府の譴責にあって隠居謹慎を命ぜられ、その帷幄の士たる藤田彪（東湖）、戸田忠敞ら一派が罪せられた。",
+              "citation": {
+                "source": "新潮記",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "28376a80-94ad-53c4-ad97-3bfca41f2e58",
+    "entry": "嶮坂",
+    "reading": {
+      "primary": "嶮坂",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "石ごろ／＼の嶮坂も、いと心安くすた／＼歩きて京宿に來れば、村の人々、村はづれに焚火して一行を迎へ、一休憩店に導き、一行の勞を謝し、茶と力餅とを饗し、いづれ御禮參の期あるべし、その節には、大に祝ひて、酒を饗し申さむといふ。",
+              "citation": {
+                "source": "箱根神社祈願の記",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第十六回　高雪峰の嶮坂雪山の旅立　私はその旅行券を示し「これは日本という国の政府から受けて来た旅行券である。",
+              "citation": {
+                "source": "チベット旅行記",
+                "author": "河口慧海",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "雪山の嶮坂を攀じ登る　暫く休んで北に登ること一里にして西に折れ一方に千仞の谷間を望みつつ崖道の恐ろしい牟伽羅坂という坂を登って参りましたが、その坂路の嶮峻なることはなんとも形容のしようがございません。",
+              "citation": {
+                "source": "チベット旅行記",
+                "author": "河口慧海",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "のみならず坂は非常な嶮坂でなかなか降るに困難である。",
+              "citation": {
+                "source": "チベット旅行記",
+                "author": "河口慧海",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "駒鳴峠の嶮坂を越ゆれば、松浦川の支流なる波多川の沿岸に下るをうべし、われは新開の別路を択べり。",
+              "citation": {
+                "source": "松浦あがた",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

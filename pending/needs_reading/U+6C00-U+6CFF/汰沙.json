@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "b2c71608-8028-5b6a-b2be-5c9afbceaccb",
+    "entry": "汰沙",
+    "reading": {
+      "primary": "汰沙",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "何卒平生の心事御了解被成下大納言様御手筋を以乍恐朝廷へ御取成寛大の御汰沙｜只管奉歎願誠恐誠惶　謹言酒井孫八郎吉村又右衛門沢｜采女三輪権右衛門大関五兵衛服部｜石見松平｜帯刀成瀬｜隼人正様　次いで、同月十八日、官軍の先鋒が鈴鹿を越えたという報をきくと、同文の嘆願書を隣藩亀山藩へ送った。",
+              "citation": {
+                "source": "乱世",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二十一日、鎮撫使から御汰沙の手控えが、亀山藩の手を通して、桑名藩にいたされた。",
+              "citation": {
+                "source": "乱世",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鎮撫使からの御汰沙によって、彼らがその本営に召し出される以上、彼らの運命は決ったといってもよかった。",
+              "citation": {
+                "source": "乱世",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「いや、錢形の親分さん、これは内證で濟まされることでないから、いづれお屆けしようと思つて居りましたが、肝心の香之助が表汰沙にするのを嫌がるので、ツイ愚圖々々して居りました」　五郎次は首筋などを掻くのです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "五つの壺",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "丸吉は相變ず頑丈さうで、平常通り少しの變化もなく、何にか掴まうとして來た平次も、手持無汰沙に立ち縮んだ程です。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "艶妻傳",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "世上の取汰沙もいかゞ、早速糸は親許へ返すやうにと、再三伜にも申し聽けたが、何分一人つ子の我儘で、母親の申すことも聽かない。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "美しき人質",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

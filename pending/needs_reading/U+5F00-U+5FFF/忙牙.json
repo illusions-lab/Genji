@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "fb4a8840-f462-506c-a81f-f17031e19e90",
+    "entry": "忙牙",
+    "reading": {
+      "primary": "忙牙",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――やい、忙牙長、あいつを圧し潰せ」　と彼は振り向いて、部下の一将へ頤をさした。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "忙牙長はおうっと吠えて、またがっている怪獣の尻をぴしっと革でなぐった。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "忙牙長はたちまちにして追い立てられた。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "木像め、――忙牙長を呼べ、忙牙長を」　これは蛮将中でも異様な槍を使う猛力無双な男である。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「三千ばかり引きつれて、夾山にいる馬岱の首を持ってこい」「行ってきます」　忙牙長は、颯爽として、一軍の先に立って向って行ったが、程なく、その手下だけが、列を乱して逃げ帰ってきた。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「忙牙長は敵の馬岱と渡り合って、ただ一刀に斬られてしまいました。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と孟獲は疑ったが、夜になると土人が、忙牙長の首を拾って届けてきた。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "忙牙長に代って、馬岱の首を討ってくる奴はいないか」「行きましょう、てまえが」「董荼奴か。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それともなお、戦うとあらば、これへ出よ、汝もさきの忙牙長の如く首にして帰してやらん」　と、大声で諭した。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

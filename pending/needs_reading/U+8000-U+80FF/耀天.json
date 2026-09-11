@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "d5b228d9-05e8-563b-b6e6-f5e5ed033e8c",
+    "entry": "耀天",
+    "reading": {
+      "primary": "耀天",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『仏像図彙』に見る通り観音二十八部衆の満善車王も槌を持ち、日本でも叡山の鼠禿倉の本地毘沙門といい（『耀天記』）、横尾明神は本地毘沙門で盗を顕わすために祝き奉るという（『醍醐寺雑事記』）などその痕跡を留むる。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鼠に関する民俗と信念",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "恒世は田中明神、宇志丸は山末明神となつた（耀天記・山王利生記参照）とある外、耀天記には、神の杖が化生した（ち′）と言ふ形を伝へて居る。",
+              "citation": {
+                "source": "愛護若",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若の挿した松の枝が、唐崎の一つ松に化生したといふのは「女筆始」のついて来た松が枝の杖をさしたと言ふ方が、古い形を詳しく伝へたのもので、琴御館家の祖先が、日吉の神の残された杖を立てたのが、化生したと言ふ（耀天記）伝へと直接関係があり、又、北野の一夜松原・息松原などの系をも加へてゐる。",
+              "citation": {
+                "source": "愛護若",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "0e534646-8662-578f-856f-c43ffa7b5bbe",
+    "entry": "而引",
+    "reading": {
+      "primary": "而引",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "戦場ニ而引取り而は又かけ引取り而ハまたかけ仕時、刀を心掛候人ハ銃を捨るものにて、つひにハ惣人数の銃が少くなり申ものにて候間、譬侍馬廻りと申ても銃にて働く者ハ、刀ハなくても可然存候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応二年十二月四日　坂本権平、一同あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "惣而引用の書に據て編す。",
+              "citation": {
+                "source": "他計甚※（竹島）雜誌",
+                "author": "松浦武四郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "050f45ee-71c2-55f7-9d0d-fad458bd1bf0",
+    "entry": "云合",
+    "reading": {
+      "primary": "云合",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この様な仕向けが白川の処世の上に不利益であり、又松村の為にも残念なことであると云つて、白川の幼な友達で松村の腹心の使用人となつてる桑野は屡々白川と云合つた。",
+              "citation": {
+                "source": "瘢痕",
+                "author": "平出修",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鳥の音も時節に連れて哀れに聞える、淋しい……ソラ風が吹通る、一重桜は戦栗をして病葉を震い落し、芝生の上に散布いた落葉は魂の有る如くに立上りて、友葉を追って舞い歩き、フトまた云合せたように一斉にパラパラと伏ッてしまう。",
+              "citation": {
+                "source": "浮雲",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』　若子さんと私が異口同音に斯う云って、云合せた様に其処を去ろうとしますと、先刻入口の処で見掛けた彼の可哀相な女の人が、其処に来合せたのでした。",
+              "citation": {
+                "source": "昇降場",
+                "author": "広津柳浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "小笠原壱岐守ソレ等の人が極秘密に云合せた事と見えて、五月の初旬、十日前後と思いますが、愈よ今日と云う日に、前日まで大病だと云て寝て居た小笠原壹岐守がヒョイとその朝起きて、日本の軍艦に乗て品川沖を出て行く。",
+              "citation": {
+                "source": "福翁自伝",
+                "author": "福翁自伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "下手な事を云うとどんな間違いになるか知れぬから、暫く別ものにして置くが宜いと、箕作と私と二人｜云合して、夫れから外の朋友にも、村田は変だ、滅多な事を云うな、何をするか知れないからと気を付けた。",
+              "citation": {
+                "source": "福翁自伝",
+                "author": "福翁自伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "岩丈な樫の扉は深緑色褐色と、幾度か塗替えられたが、扉の中央に取付けられた鋳物の獅子の首と、その下に垂下った撞金は、昔も今も変らず云合したように手ずれがして黒く光っていた。",
+              "citation": {
+                "source": "Ｐ丘の殺人事件",
+                "author": "松本泰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と云つた有名な格言をば二人は云合はしたやうに感嘆して繰返した。",
+              "citation": {
+                "source": "新歸朝者日記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "兎に角この場合面と向って愚図愚図云合おうよりは勢を示して一先外へ出た上、何とか適宜の処置を取ろうと思い定めたのである。",
+              "citation": {
+                "source": "夏すがた",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

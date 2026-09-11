@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "64f2d6ef-29d1-52fc-af23-a1a0b30124c0",
+    "entry": "随明",
+    "reading": {
+      "primary": "随明",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "相手にもよりけりだろうが、随明寺なら申分あるまい？",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "随明寺の総領娘｜錦子さんはナカ／＼綺麗な子だった。",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「随明寺へ行けば、矢っ張りお寺を継ぐんでしょう？",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お前も承知の通り、家は貧乏寺だから」「…………」「随明寺へ養子に行けば、大学へやって貰える。",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「よし、随明寺へ婿養子に行って、名僧智識になってやろう」と。",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "兄貴を頼んで、随明寺の方を断って貰った。",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "随明寺へ養子に行くんだ」　と報告した。",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "随明寺の方を断るのではなかったのにと後悔した。",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "尾崎君は偶※随明寺の檀家だった。",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "頓狂者だから、事を共にすると、飛んでもないことになる」「そんな風で随明寺が継げるだろうかな？",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第一は随明寺の錦子さんだ。",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "因みに正覚君も無事で随明寺を継いでいる。",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

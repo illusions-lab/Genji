@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "5a02e488-50cc-5e3d-833b-0626c4ace3b4",
+    "entry": "採蜂",
+    "reading": {
+      "primary": "採蜂",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "採蜂ハイキングがよかろう、と言う。",
+              "citation": {
+                "source": "採峰徘菌愚",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "採蜂ハイキングというのは一体どんなことをやるのかと問うて斜酣が説明するところを聞くと、一見は百聞に勝るというから、細かなことは現地において実演してみせるが、要するに蜂の子を採って、それを酒の肴にすることだ。",
+              "citation": {
+                "source": "採峰徘菌愚",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何れにしても、その採蜂ハイキングというのは、一日を何も忘れて山、野、林、畑のなかを駆けまわり、へとへとになって我が家へ帰ってくるところが、甚だ健康的なスポーツであって費用もかからず、勝負という邪念も伴わず、おまけにお土産もあってそれが素敵に営養的だから、釣りとほとんど同じ遊びである。",
+              "citation": {
+                "source": "採峰徘菌愚",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "以上が、斜酣の採蜂スポーツに対する結論だ。",
+              "citation": {
+                "source": "採峰徘菌愚",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

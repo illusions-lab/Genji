@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "5d47b934-4ef0-5f71-b6ba-21855395466f",
+    "entry": "拘々",
+    "reading": {
+      "primary": "拘々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "今代芸術の一大｜弊竇は、いわゆる文明の潮流が、いたずらに芸術の士を駆って、拘々として随処に齷齪たらしむるにある。",
+              "citation": {
+                "source": "草枕",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "政治上の罪は世人の羨むところと聞けど我は之を喜ばず、一瞬時の利害に拘々して、空しく抗する事は、余の為す能はざるところなればなり。",
+              "citation": {
+                "source": "我牢獄",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然れども文法に拘々たる後世の歌人皆此文法違犯を襲用して却て平常の事とするはさすがに此便利なる語を棄つるに忍びざるなるべし。",
+              "citation": {
+                "source": "萬葉集を讀む",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "形骸に拘々せず、小智に区々せず、清濁のまに／＼呑み尽し、始めて如来禅を覚了すれば万行体中に円かなり。",
+              "citation": {
+                "source": "唯心的、凡神的傾向に就て（承前）",
+                "author": "山路愛山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "拘々たる理義、如何ぞ菅公が是の本心を説明し得べき。",
+              "citation": {
+                "source": "美的生活を論ず",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夫の道學先生の説く所を聞かずや、何ぞ其の拘々として缺々たる。",
+              "citation": {
+                "source": "美的生活を論ず",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "国史を論ずといふかこれまことに在来国史の間に拘々たるもののよくなす所ならんや。",
+              "citation": {
+                "source": "史論の流行",
+                "author": "津田左右吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

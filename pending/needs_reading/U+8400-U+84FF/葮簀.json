@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "772c82f3-922f-5be3-85cf-f84adbb1017b",
+    "entry": "葮簀",
+    "reading": {
+      "primary": "葮簀",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "破れた葮簀の衝立が立ってあり、看板を見ると御休所煮染酒と書いてありまするのは、いかさま一膳飯ぐらいは売るのでござりまする。",
+              "citation": {
+                "source": "真景累ヶ淵",
+                "author": "三遊亭圓朝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其の内もう日はとっぷりと暮れましたが、葮簀張もしまい川端の葦の繁った中へ新吉お賤は身を隠して待って居ると、向から三藏が作藏の馬に乗って参りました。",
+              "citation": {
+                "source": "真景累ヶ淵",
+                "author": "三遊亭圓朝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "是れでお瀧は茂之助へ面当ヶ｜間しく、わざとつい一里と隔たぬ猿田村の取附きに山王さまの森が有ります、其の鎮守の正面に空家が有りましたからこれを借り、葮簀張の掛茶店を出し、片傍へ草履草鞋を吊して商い、村上松五郎は八木八名田辺へ参っては天下御禁制の賭博を致してぶら／＼暮して居ります。",
+              "citation": {
+                "source": "霧陰伊香保湯煙",
+                "author": "三遊亭圓朝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其の藤野屋の裏手の板塀に差掛け葮簀張を出す聾婆さんの店があります。",
+              "citation": {
+                "source": "鹽原多助一代記",
+                "author": "三遊亭圓朝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山三郎は其の話を聞きながし、心ともなく今小兼の出て来た葮簀張の中を見ますると十八九の綺麗な娘、思わず驚きまして、山「美しい娘だのう」兼「旦那あれは私の旧の御主人様ですから、お願いで、何うぞ休んで沢山お茶代を置いてッて下さい」　と半治と二人を家の中へ突込む様にして、馬作を連れて出て往って仕舞いました。",
+              "citation": {
+                "source": "松の操美人の生埋",
+                "author": "侠骨今に馨く賊胆猶お腥し",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

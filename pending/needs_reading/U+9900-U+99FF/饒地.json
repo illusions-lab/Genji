@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "6f9044c9-1bdd-5883-979a-190b1a5970b4",
+    "entry": "饒地",
+    "reading": {
+      "primary": "饒地",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "○吾が郡中にて小千谷といふ所は人家千戸にあまる饒地なり、それゆゑに斎の神の斎あるひは幸ともまつりも盛大なり。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かの源内は江戸の饒地に火浣布を織しゆゑ其｜聞え高く、この両人は越後の辟境に火浣布をおりしゆゑ其名｜低し、ゆゑにこゝにしるして好事家の一話に供す。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

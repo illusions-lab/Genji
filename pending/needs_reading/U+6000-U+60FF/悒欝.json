@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "235355f0-45c2-575f-be63-45867bca1396",
+    "entry": "悒欝",
+    "reading": {
+      "primary": "悒欝",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "こんなことを考へて居るうちに、俺は段段｜悒欝な気分になつて来た。",
+              "citation": {
+                "source": "公判",
+                "author": "平出修",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吾輩は第二期の政論派すなわち民権論派を区別して四種となせり、その中に悒欝的論派とも言うべき慷慨民権派は実に薩摩なる西郷氏を欽慕するものに係る、しかして快活的論派とも言うべきはすなわち土佐の板垣氏に連絡ありてその根拠を大阪の立志社連に有せり。",
+              "citation": {
+                "source": "近時政論考",
+                "author": "陸羯南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕は四宮理学士が先刻言った言葉を思い出して、悒欝になった。",
+              "citation": {
+                "source": "階段",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "忌わしい翳が、又黒吉を悒欝の底に押戻した。",
+              "citation": {
+                "source": "夢鬼",
+                "author": "蘭郁二郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれど、梅雨のころの田舎は悒欝しくって、とても長くは辛抱していられないので、京都の女のいる二階座敷の八畳の間が、広い世界にそこくらい住み好いところはないような気がするので、いずれ夏には紀州の方の山の上に行くつもりではあるが、一週間ばかりして、またそこへ舞い戻って来た。",
+              "citation": {
+                "source": "狂乱",
+                "author": "近松秋江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "〔無題〕悒欝の日がつづく、わが思ひは暗し。",
+              "citation": {
+                "source": "晶子詩篇全集拾遺",
+                "author": "與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "門を覗きて斜めに人も、我も横穴の悒欝を思ふ。",
+              "citation": {
+                "source": "晶子詩篇全集拾遺",
+                "author": "與謝野晶子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

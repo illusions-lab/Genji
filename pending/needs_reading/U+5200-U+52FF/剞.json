@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "f78000e6-9cbd-5ca4-be28-b68cd911763d",
+    "entry": "剞",
+    "reading": {
+      "primary": "剞",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "おこうさんの妹おりゅうさんはかつて剞※氏某に嫁し、後未亡人となって、浅草｜聖天横町の基督教会堂のコンシェルジェになっていた。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "校閲は庚辰に終り、序文は辛巳に成り、剞※は癸未に終つた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アトにも先きにも相を見て貰つたのは前後に一回ぎりだから、ヨソの人相見はドウいふ風に見るか知らないが、此の剞※堂先生は天眼鏡を片手に顔を押しつけぬばかりに眼を近寄せて鋭どい眼を光らしてヒタと看入つた。",
+              "citation": {
+                "source": "人相見",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又聞く、近年この種の翻案を密に剞※に附せしものありと。",
+              "citation": {
+                "source": "骨董羹",
+                "author": "―寿陵余子の仮名のもとに筆を執れる戯文―",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "托氏宗教小説は、西暦千九百有七年、支那では光緒三十三年、香港の礼賢会（Rhenish Missionary Society）が、剞※に付した本である。",
+              "citation": {
+                "source": "点心",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "コレ鄙稿ヲ篋底ニ探リ出シテ新ニ剞※氏ニ託スル所以ナリトイフ。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "明治二十六年十二月に至って枕山の女｜嘉禰が亡父晩年の作を編成し『枕山先生遺稿』と題してこれを剞際ナシ。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幼児の眼を剞り抜き、足を断ち、手を縛つて、これを曝物に、憐愍を乞ふ悪人どもが世間にある。",
+              "citation": {
+                "source": "浮浪学生の話",
+                "author": "RECIT DU GOLIARD",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

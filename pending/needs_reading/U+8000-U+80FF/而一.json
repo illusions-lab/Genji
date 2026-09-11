@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "78226b30-effa-5168-8381-a37298787e2e",
+    "entry": "而一",
+    "reading": {
+      "primary": "而一",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "孔先生は言う、「学んで時に之を習ねる、亦説ばしからず乎」『論語（学而一）』と、ここでの学ぶという語の本意は、雑芸｜小技などを学ぶことを指したものでは無い。",
+              "citation": {
+                "source": "悦楽（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孔先生は「新しいことを加えず昔の訓を好むこと、密かに殷の賢太夫だった老彭に比べている」『論語（述而一）』と言われて、古来の聖賢の訓を伝えられたが、先生の恩恵の後への影響は、老彭の及べるものでは無い。",
+              "citation": {
+                "source": "悦楽（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次年に蘭軒に与へた書に、「君公御入国に而一度めされ候時病気に而御断申上候、其のち又めされ御居間にて御酒頂戴、かへりには御盃、筆墨箋、たばこ入をいただき候、十二月廿二日也」と云つてある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "浦田長民曰、以幽為宅、以顕為寓者魂也、魂出幽而来於顕則身生、去顕而帰於幽則身死、幽顕分域而一魂居之、生死殊途而一魂渉之。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "塩尻云、人之初生以七日為臘、人之初死以七日為忌、一臘而一魄成、故七七四十九日而七魄具矣、一忌而一魄散、故七七四十九日而七魄散矣。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "浦田氏の『大道本義』に曰く、「以幽為宅、以顕為寓者、魂也、魂出幽而来於顕、則身生、魂去顕而帰於幽、則身死、幽顕分域而一魂居之、生死殊途而一魂渉之。",
+              "citation": {
+                "source": "迷信と宗教",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "則知行、是二而一、一而二。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "万一にも御恩を忘れ候節は此証文を取引所前にて御公表も不苦、依而一｜札如件。",
+              "citation": {
+                "source": "勝ち運負け運",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

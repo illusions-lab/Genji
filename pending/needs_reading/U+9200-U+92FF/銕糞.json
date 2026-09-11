@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "83024d84-d245-5c0e-ad37-64e842e68d27",
+    "entry": "銕糞",
+    "reading": {
+      "primary": "銕糞",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その一は出雲・相模・下野などの地名に銕糞塚というもの多くまた塚の附近もしくは土中より銕糞を出すことあり、今も鋳掛屋と称する徒には野外の一地に仮住してその業を営み、往々銕糞を残して行くことである。",
+              "citation": {
+                "source": "地名の研究",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『人類学会雑誌』二二六号に、高山青嶂氏は、屋久島永田神社の祠官古市熊護氏の報告を引いて、この島｜涅歯の風習を述べて曰く「古来未染の女子もし懐姙するときは、鍛冶屋神に詣で賽銭を奉納し、銕糞を申し請けて帰り、これに唐竹の葉と柳の葉とを混じて器に入れ水を注ぎて煎じその女に飲ましむ。",
+              "citation": {
+                "source": "地名の研究",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

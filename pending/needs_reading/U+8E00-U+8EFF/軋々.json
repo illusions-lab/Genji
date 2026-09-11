@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "37ff9e72-9013-5cc1-82df-61c0ba5a6d2d",
+    "entry": "軋々",
+    "reading": {
+      "primary": "軋々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "……　私はな、丸官はんに、軋々と……四角な天窓乗せられて、鶉の仕切も拷問の柱とやら、膝も骨も砕けるほど、辛い苦しい堪え難い、石を抱く責苦に逢うような中でも、身節も弛んで、恍惚するまで視めていた。",
+              "citation": {
+                "source": "南地心中",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "白日も夢見る村の一人の遊び人が、ある日樫の木の下の草地に腰を下して、水車の軋々と廻るを見つゝ聞きつゝ、例の睡るともなく寤むるともなく、此様な問答を聞いた。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "言分があるなら、聞こうじゃないか」　云い終って、口角沫を飛ばす様に、水車は水沫を飛ばして、響も高々と軋々と一廻り廻った。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "船頭は軋々と櫓の響をさせて、ほゞ山形に宇治川を渡す。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "愉快という愉快は世に数あれど、つつがなく長の旅より帰りて、旅衣を平生服の着心地よきにかえ、窓外にほゆる夜あらしの音を聞きつつ居間の暖炉に足さしのべて、聞きなれし時計の軋々を聞くは、まったき愉快の一なるべし。",
+              "citation": {
+                "source": "不如帰　小説",
+                "author": "徳冨蘆花",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

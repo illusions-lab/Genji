@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "f35c2029-18b1-505f-8262-00864b0ee2b7",
+    "entry": "爍",
+    "reading": {
+      "primary": "爍",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それを察しているから、お勢がこのような危い境に身を処きながら、それには少しも心附かず、私欲と淫欲とが爍して出来した、軽く、浮いた、汚わしい家内の調子に乗せられて、何心なく物を言っては高笑をする、その様子を見ると、手を束ねて安座していられなくなる。",
+              "citation": {
+                "source": "浮雲",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それからは長い間誰も通らないで、太陽はやや傾き、なほも爍々として、岩層、橋梁、樹木、雜艸、空低く飛ぶ鴎の羽を照らした。",
+              "citation": {
+                "source": "少年の死",
+                "author": "木下杢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "寧ろハンケチに汗をふいたり、夏帽子を扇の代りにしたり、爍金の暑と闘ふ為に心力を費してゐたからである。",
+              "citation": {
+                "source": "鷺と鴛鴦",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金を爍かす日影椎の梢に残り、芝生はすでに蔭に入り、蜩の声何処からともなく流れて来ると、成人も子供も嬉々として青芝の上の晩餐の席に就くのである。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と見て居る中に忽ち五六十｜両の金子を鵜呑にしたから堪らない、悶掻怛那、耶、婆慮羯諦爍鉢羅耶、菩提薩※婆耶。",
+              "citation": {
+                "source": "黄金餅",
+                "author": "三遊亭円朝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "申字の甲文の六つの変形を見れば、それが「左右定無」く「電光の閃爍して、急に伸び忽ち屈するの状に象」ったことがわかる。",
+              "citation": {
+                "source": "露伴先生と科学",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また、かのアラビア人のごとく熱天爍地、一木一草もその自由豊美なる生長をなすあたわず、駝鳥の伴侶となり、駱駝の主人となり、沙漠より出でて沙漠に入るにもあらず。",
+              "citation": {
+                "source": "将来の日本",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

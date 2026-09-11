@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "aa470bc7-576c-5430-b2f7-bc1a6ea0e9a6",
+    "entry": "曳戸",
+    "reading": {
+      "primary": "曳戸",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そっと、裏口の曳戸があいて、忍ぶようにひょろりと入って来たのが、ひょろ松。",
+              "citation": {
+                "source": "顎十郎捕物帳",
+                "author": "三人目",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ソロソロと駕籠部屋のあるほうへ進んで行って、長いあいだ、軒下の闇の中へしゃがんでいたが、あたりにひとの気配のないのを見さだめると、ツと曳戸のそばへ行く。",
+              "citation": {
+                "source": "顎十郎捕物帳",
+                "author": "御代参の乗物",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "曳戸に手をかけてひきあけようとすると、いないはずの闇の中から、ふたりの中間が飛びだして、むんずと藤波の襟がみをつかんだ。",
+              "citation": {
+                "source": "顎十郎捕物帳",
+                "author": "御代参の乗物",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "曳戸を開けた脱衣場の棚へ衣物を投げ込み、浴槽のなかへ静かに入った。",
+              "citation": {
+                "source": "岩魚",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

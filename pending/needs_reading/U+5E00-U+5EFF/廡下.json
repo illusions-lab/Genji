@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "08691736-a8c1-5aa9-9248-25f999be1996",
+    "entry": "廡下",
+    "reading": {
+      "primary": "廡下",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "われ若し富人ならば、われ若し人の廡下に寄るものならずば、人々の旗色は忽ちにして變ずべきならん。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "生を微賤の家に稟けしにも因るべく、最初に受けし教育にも因るべく、又恆に人の廡下に倚る境遇にも因るなるべし。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五百は人の廡下に倚ることを甘んずる女ではなかった。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "哲學者は人の廡下に倚ること能はざるものなり。",
+              "citation": {
+                "source": "柵草紙の山房論文",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "眞志屋は自ら支ふること能はざるがために、人の廡下に倚つた。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "祠の左右の廡下に並んだ諸司にはそれぞれ燈火が点いて、参詣の人びとはその前へ跪いて思い思いに祈願をこめていた。",
+              "citation": {
+                "source": "富貴発跡司志",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "李生は気味が悪いが他にどうすることもできないので、廡下へ腰をおろし、手にしていた弓を傍へ置いて、四辺に注意しながら休んでいた。",
+              "citation": {
+                "source": "申陽洞記",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "実を云ふと僕にしても、他人の廡下には立たぬ位な、一人前の自惚れは持たぬではない。",
+              "citation": {
+                "source": "点心",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "著書「冥途」一巻、他人の廡下に立たざる特色あり。",
+              "citation": {
+                "source": "内田百間氏",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "城隍が廡下に一夜を明かした書生の運勢を開いてやると、判官は町中を荒し廻った泥坊を驚死させてしまう。",
+              "citation": {
+                "source": "上海游記",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかたなしに廡下をうろうろしていると、一軒の家の扉を左右に開けて一人の老人が出て来た。",
+              "citation": {
+                "source": "阿繊",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

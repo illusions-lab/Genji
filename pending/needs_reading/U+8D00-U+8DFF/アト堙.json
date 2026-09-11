@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "03c14612-3ff9-5698-81e2-f67cc624856e",
+    "entry": "跡堙",
+    "reading": {
+      "primary": "あと堙",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その文に據れば、白河の關の蹟堙沒して、何處をそれと判じ兼ねたりしが、公は歴史、繪圖、詠歌に考へ、地形、老農の言に徴して、此處を關蹟と決定したる也。",
+              "citation": {
+                "source": "白河の關",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "蹟堙"
+      ],
+      "needs_reading": true
+    }
+  }
+]

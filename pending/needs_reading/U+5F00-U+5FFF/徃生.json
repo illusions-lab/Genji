@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "5aca7acb-9c0e-5007-a435-3d7bef899790",
+    "entry": "徃生",
+    "reading": {
+      "primary": "徃生",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "どうせ畳の上では徃生のできない山頭火ですね、と私は時々自問自答する、それが私の性情で、そして私の宿命かも知れない！",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ちよつと街まで出かける、心臓の弱さがハツキリ解る、ぽつくり徃生こそ望ましい。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "現在の私に望ましいものがあるとするならば、それはころり徃生だ。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "□頓死――ころり徃生。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "午後、また出かけて駅までゆく、いろ／＼の用事を思ひだして山口へ、そして鈴木さんを訪ねる、頼む事は頼んで、御馳走を頂戴した、帰途湯田で入浴、温泉にひたつてゐる心持は徃生安楽国だ！",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アルコール中毒、そして狭心症、どうもこれが私の死病らしい、脳溢血でころり徃生したいのが私の念願であるが、それを強要するのは我儘だ、あまり贅沢は申さぬものである。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "去年は肺炎、今年は狭心症、来年は脳溢血か、――希くはころり徃生であらんことを。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天下泰平、徃生安楽国、ムニヤムニヤアーメン。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "臥床、しみ／″＼死をおもふ、ねがふところはたゞそれころり徃生である。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――私の念願は二つ、たゞ二つある、ほんたうの自分の句を作りあげることがその一つ、そして他の一つはころり徃生である、病んでも長く苦しまないで、あれこれと厄介をかけないで、めでたい死を遂げたいのである（私は心臓麻痺か脳溢血で無造作に徃生すると信じてゐる）。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 14
+      }
+    }
+  }
+]

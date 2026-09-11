@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "f0a3d5f2-e30e-5d00-bb8a-404bb7dc12ff",
+    "entry": "維因",
+    "reading": {
+      "primary": "維因",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それによって屍体は、維因納の相当大きな毛皮商の妻で、大戦の前年に、二千磅ばかりの現金と、ありったけの宝石を持って、何処の何者とも知れない中年男と駈落ちして以来行方不明になっている女と判明した。",
+              "citation": {
+                "source": "生きている戦死者",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一度ブダペストから維因納の友達へ手紙が来たきりで、毛皮商のほうでも実家でも内々捜しているところだった。",
+              "citation": {
+                "source": "生きている戦死者",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "交霊学に凝っていたのが、一九一三年の七月、維因納で行方不明になったとある。",
+              "citation": {
+                "source": "生きている戦死者",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一度リットマンが駈落者の消息を伝えると、キスはこともなげに、「維因納で幸福にやっているそうですね。",
+              "citation": {
+                "source": "生きている戦死者",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "家宅捜索をすると、キスの書斎の机の抽斗から、維因納とブダペストの有力な新聞に出した個人欄広告の代金の受取りが沢山出て来た。",
+              "citation": {
+                "source": "生きている戦死者",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "維因納の新聞にはこんなのが出ていた。",
+              "citation": {
+                "source": "生きている戦死者",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "このほうの宛名は維因納局私書函になっている。",
+              "citation": {
+                "source": "生きている戦死者",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "早速調べてみると、ブダペスト局の私書函には「淋しき独身者ドュ・コレル」宛の「優雅なる女性」からの返事が五十三通未開封のまま溜っていたし、維因納局のほうには、運勢判断を乞う婦人の手紙が、「ホフマン教授」あてに二十三本抛り込まれた儘になっていた。",
+              "citation": {
+                "source": "生きている戦死者",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第一の桶に這入っていたのは、一九一三年の十一月に失踪したツインコタ・ホテルの娘でエミリア・リイス、第二は不明、第三のは維因納の女、他はブダペストの相当いいところの娘だった。",
+              "citation": {
+                "source": "生きている戦死者",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

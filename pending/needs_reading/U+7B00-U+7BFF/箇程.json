@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "003a2241-2893-5e67-b599-f8898b91435b",
+    "entry": "箇程",
+    "reading": {
+      "primary": "箇程",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼の美しさを以てして纔に箇程の資産を嗣ぎ、類多き学士｜風情を夫に有たんは、決して彼が所望の絶頂にはあらざりき。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "国学者としての元義は知らず、少くとも歌につきて箇程の卓見を有せる元義が一人の同感者を持たざりしを思ひ、その境遇の箇程に不幸なりしを思ひ、その不平の如何に大なりしやを思ひ、その不平を漏らす所なきを思ひ、而して後に婦女に対するその熱情を思はば時に彼の狂態を演ずる者むしろ憐むべく悲しむべきにあらずや。",
+              "citation": {
+                "source": "墨汁一滴",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これがまたペルー式で、上部の二十四箇程は実に美事でありましたが、下は上中下様々で到底都会に出し得る商品価値がありませんので、私が提言して青森から技師を招き、林檎の栽培法を改良すると同時に、その販売法をも改めさせることに致しました。",
+              "citation": {
+                "source": "私の小売商道",
+                "author": "相馬愛蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その中を、一人でもあることか、女連れの上に、普通の自動車には積み切れぬ程の大荷物を持って、（玉虫厨子は上下二つに分けても、極大トランク二箇程の容積は充分ある筈だ。",
+              "citation": {
+                "source": "黄金仮面",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

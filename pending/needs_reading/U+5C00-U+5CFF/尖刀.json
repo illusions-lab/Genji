@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "5d0915e0-62e4-5e53-bb7b-bba1e7cf44b6",
+    "entry": "尖刀",
+    "reading": {
+      "primary": "尖刀",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "時を移さず跳びはずして、逆に、円陣の一部をつきくずした泰軒の尖刀が即座に色づいて、泰軒先生、今は余儀なく真近のひとりを血祭りにあげた。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "乾雲坤竜の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "不思議と云えばもう一つ、博士を殺した短刀は、欧羅巴のどこを探がしても見つけることの出来ないような、古代埃及の武士の使った、鋭い鋭い月刀であって、しかも尖刀には大麻から取った死毒が塗りつけてあったそうである。",
+              "citation": {
+                "source": "木乃伊の耳飾",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "狭い舞台にせゝこましく槍をしごいたり眉尖刀を振ったり刀を振り廻したりする人形が入り乱れた。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三尖刀と称して四ツの孔に八つの環がさがっている大刀に血のしたたりをみせ、千里駿足の黄花馬をせかせながら、「ざまを見さらせ！",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "汝もまた、わざわざ骨を埋めに来たか」　云いつつ馬上から鋭い三｜尖刀をさしのべた。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

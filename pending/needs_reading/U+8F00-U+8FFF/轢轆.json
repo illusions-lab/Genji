@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "9d40dbfa-99e5-58e2-952c-7354f78f6f2b",
+    "entry": "轢轆",
+    "reading": {
+      "primary": "轢轆",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「馬鹿だなあ」「僕もう知りませんよ」　かの女が、ともすれば何事かを空想しながら、車馬轢轆たる往還を、サインに関らずふらりふらり横切ったり、車道に斜にはみ出したりする迂闊に対して、むす子は、こんな荒い言葉で叱りながら、両手は絶えず軟くかの女の肩を持ち抱え、幼稚園のこどもにするような労り方をした。",
+              "citation": {
+                "source": "母子叙情",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "遠くのほうから、早駆する馬の蹄の音と、轢轆とした轍の音が聞えてきた。",
+              "citation": {
+                "source": "墓地展望亭",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "轟々、轢轆、プープー、ポーポー。",
+              "citation": {
+                "source": "聚樂廻り",
+                "author": "羽田亨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "外で皆がふざけたり笑ったりしながら、馬車に乗り込むのや、馬車が次々に国道を軋ませながら動き出して、轢轆と走り去るのが聞こえた。",
+              "citation": {
+                "source": "トニオ・クレエゲル",
+                "author": "TONIO KROGER",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

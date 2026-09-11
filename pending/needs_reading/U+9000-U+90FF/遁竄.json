@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "cdbae979-4b56-56ed-b4f1-2e530d60fbdf",
+    "entry": "遁竄",
+    "reading": {
+      "primary": "遁竄",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "混沌忽ち拆けて、天地遽に開け、魑魅遁竄して、翔走皆欣ぶの勢が現はれるところの、所謂『水門開』の有樣を示す。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうして幕軍大いに潰え、六日夜慶喜は回陽丸に乗じ、海路江戸へ遁竄した。",
+              "citation": {
+                "source": "大捕物仙人壺",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殊に、英艦によって舵機を砕かれ、前部砲塔を白煙に包まれながら、薄暮に紛れて遁竄してしまったあたりの条を、今一度読み直しておいていただく必要がある。",
+              "citation": {
+                "source": "ウニデス潮流の彼方",
+                "author": "橘外男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「いや、恩着せがましく申しては、ご不快かも知れぬが、あの折、敗亡｜遁竄の果て、ご一身を容るる所もなき皇叔に、愍れみをかけた御方は、天下わが主おひとりであった。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この延元元年の二月二十九日は、さきに西国へ遁竄していた尊氏が、敗残の兵をのせて、長門の赤間ヶ関をはなれ、海上一日の航路をへて、たそがれ、筑前の芦屋ノ浦へただよい着いた日にあたっていた。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "筑紫帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

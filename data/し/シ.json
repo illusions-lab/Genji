@@ -14496,5 +14496,153 @@
         "aozora": 1
       }
     }
+  },
+  {
+    "uuid": "f86f03cf-90cc-5162-a340-17409a9dfe9f",
+    "entry": "貲",
+    "reading": {
+      "primary": "し",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "渋江家は代々学医であったから、父祖の手沢を存じている書籍が少くなかっただろうが、現に『経籍訪古志』に載っている書目を見ても抽斎が書を買うために貲を惜まなかったことは想い遣られる。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宜く現に甲冑を有せざるものには、金十八両を貸与してこれが貲に充てしめ、年賦に依って還納せしむべきである。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」大抵詩を刻するものは自ら貲を投ずるを例とする。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「癸酉終歳臥病、家貲頗乏、数人為結義社、仮与金若干、記喜。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霞亭の門人｜井達夫等は嘗て貲を捐てゝ霞亭の薇山三観を刻して知友に貽つた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若し貲を投じ盟に加はつてゐたら、立どころに希覯の書万巻を致さむことも、或は難きことを必とせぬであらう。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "榛軒は幾もあらぬに、これに貲を与へて人に嫁せしめた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して又東京の基督教徒ハ芝区芝口に病室を設けて多数の患者を収容し、牛込大久保の慈愛館を開きて沿岸数十名の児童を養育し、各貲財を投じて救護の事に尽くせり。",
+              "citation": {
+                "source": "非常歎願書",
+                "author": "田中正造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又多くの犯罪は徒刑又は罰金に處することになつて居れども、かくては貲に饒かなるものは法を輕んずるに至るべく、貨財を重んじて禮儀を輕んずるの風を生ぜん。",
+              "citation": {
+                "source": "支那近世の國粹主義",
+                "author": "狩野直喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その頃文学小説の出版としいへば殆ど春陽堂一手の専門にて作家は紅葉露伴の門下たるにあらずんば殆どその述作を公にするの道なかりしかば、義侠の巴山人奮然意を決してまづわれら木曜会の気勢を揚げしめんがために貲を投じ美育社なるものを興し月刊雑誌『饒舌』を発行したり。",
+              "citation": {
+                "source": "書かでもの記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕今芸者の長襦袢を購はんがために、わが生涯の醜事を叙し出して通俗小説に代へ以て売文の貲を貪らんとす。",
+              "citation": {
+                "source": "桑中喜語",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これ南岳の句にして小波巌谷先生書する所、石もまた巌谷翁の貲を捐てて建てられしものなり。",
+              "citation": {
+                "source": "礫川記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
   }
 ]

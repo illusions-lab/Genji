@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "4b3481e6-730b-5308-8b29-ad0f5f3ac990",
+    "entry": "攝生",
+    "reading": {
+      "primary": "攝生",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "不攝生はよろしくないが、甜瓜位は飽くことを知らずに食ふ。",
+              "citation": {
+                "source": "旅行に就いて",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "燒酎の不攝生に人々の胃を犯すのもこの時である。",
+              "citation": {
+                "source": "思ひ出　抒情小曲集",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "適度の攝生さへやつてゐれや肺病なんて怖いもんぢやないつて、其奴が言つてるぜ。",
+              "citation": {
+                "source": "我等の一團と彼",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "老人は不攝生の爲めに眼の下の腫れ上つた白い眼をむき出して「うん」と生返事をして、寒さうに心配でまつ青になつて溜息をついた。",
+              "citation": {
+                "source": "自分は見た",
+                "author": "千家元麿",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "例へば鄭景岫の南中四時攝生論などは、名を見れば分るものを崇文總目は解釋してゐる。",
+              "citation": {
+                "source": "支那目録學",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "賢人は攝生病を愼む人の如し。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さうしてこの状態を脱却するまでには、自分としては堪へ難いほどの忍耐と攝生とを積まなければならなかつた。",
+              "citation": {
+                "source": "三太郎の日記　第三",
+                "author": "阿部次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "背が低くて青黒くて、不攝生な生活と酒毒にやられたブヨブヨした身體、昔はいくらか良かつたであらうと思はれる眼鼻立も、この不健康に害ねられて、まともに見る影もありません。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "用心棒",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "長く遊里に暮したもの――酒と不眠と不攝生に神經を荒された者には、決して珍しいことではありません。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "三つの死",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して又一方には、學生ならば目的の課目を勉強し、興に乘りたる時は夜更かしをもして勉強し、食慾が進めば食物の攝生などにも拘泥せず、食慾がなければ一回拔きにし、講演會、演藝等にも行く事を許す。",
+              "citation": {
+                "source": "神經質に對する余の特殊療法",
+                "author": "森田正馬",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

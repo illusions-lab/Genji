@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "8186359d-7198-5d0e-a3b1-05c2613c0959",
+    "entry": "吠面",
+    "reading": {
+      "primary": "吠面",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その代り一分一厘間違い無しに証拠不充分になって見せるから、その時に吠面かくな……。",
+              "citation": {
+                "source": "冗談に殺す",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その肝玉を踏み潰し、吠面かゝし呉れむと意気込みて、いよ／＼腕を磨きければ二十一歳の冬に入りて指南役甲賀昧心斎より柳生流の皆伝を受くるに到りぬ。",
+              "citation": {
+                "source": "白くれない",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "よーし、今にみていろ、吠面をかかしてやるからな」　いいながら又立ち上ろうとする。",
+              "citation": {
+                "source": "太平洋魔城",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ぶち込まれてから吠面掻くな……。",
+              "citation": {
+                "source": "眼",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その吠面にベソ掻くな」　遂に彼は司馬懿の戒めもわすれて、木門道の谷まで駈け込んでしまった。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だから、あわよくば、彼のこの隠険な不正行為をあばいて、吠面をかかせてやりたいものだとさえ思っていた。",
+              "citation": {
+                "source": "陰獣",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「この豆蔵｜奴、今に、吠面かくな」　彼はそんな威嚇の言葉を怒鳴りながら追っかけた。",
+              "citation": {
+                "source": "踊る一寸法師",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

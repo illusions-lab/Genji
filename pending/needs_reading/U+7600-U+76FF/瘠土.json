@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "58869bea-ff02-5a9e-ab4a-75d76841e3bb",
+    "entry": "瘠土",
+    "reading": {
+      "primary": "瘠土",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "頭がようやく冴えて来た、足許の岩では、偃松が近くは緑に、遠くは黯くなって、蜿ねっている、天外絶域の、荒れはてた瘠土にまで、漂って来た、緑の垂直的終点を、私は今踏んでいるのだ。",
+              "citation": {
+                "source": "白峰山脈縦断記",
+                "author": "小島烏水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "瘠土に樹を移しても、其の小枝繁葉を除去すること夥しければ、樹はなほ葱色を保つて、しかも新に葉を出し枝を生じ、勢少しく張るが如き觀を呈する。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "瘠土に樹を移してその小枝の繁葉を除くこと夥しければ、樹は葱色を保って新に葉を出して、枝を生じ勢い少し張るような様相を現わす。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "旧の地から肥沃の地に移してその勢いの張るのは自然であるが、瘠土に移して勢いが少し張るのは人為がさせたことだから、その樹の中に蓄積していた養分が消費され尽すと、終に勢いが弛み威は衰えるのである。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "烈しき日に燒かれたるカムパニアの瘠土に比ぶるときは、この園の涼しさ、香しさ奈何ぞや。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "気候、雑草、荒廃、瘠土などを相手に、秋の一日の烈しい労働が今は最早始まるのでした。",
+              "citation": {
+                "source": "千曲川のスケッチ",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、汎濫した欧化の洪水が文化的に不毛の瘠土に注いで肥饒の美田となり、新たに植樹した文明の苗木が成長して美果を結んだのは争えない。",
+              "citation": {
+                "source": "四十年前",
+                "author": "――新文学の曙光――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "即ち仏堂を毀ち、学校を興し、瘠土を開拓して膏腴の地となし、暗礁を除いて航路を開き、農兵を置き、薬草を植え、蜜蜂を飼い、蛤蜊を養殖するなど、鋭意新政を行って四民を裨益したことは頗る多かった。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "清水却て魚棲まず、草一本もない土は見るに気もちがよくとも、或は生命なき瘠土になるかも知れぬ。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

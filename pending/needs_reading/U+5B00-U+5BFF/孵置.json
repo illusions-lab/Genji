@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "1909eeee-b4f2-5f1b-9dc4-7356b1f6b4a2",
+    "entry": "孵置",
+    "reading": {
+      "primary": "孵置",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これは、潜伏または孵置の期間が観察されることであり、多くの場合に不健康な地域を訪ねてから病気が起きるまでの間に見られる。",
+              "citation": {
+                "source": "コレラの伝染様式について",
+                "author": "ON THE MODE OF COMMUNICATION OF CHOLERA (1854)",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アスクラピオスの宗派で孵置睡眠がもっとも重要だったからである。",
+              "citation": {
+                "source": "近代医学の興隆",
+                "author": "イェール大学で1913年に行った一連の講義",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孵置睡眠がどのようにキリスト教会で行われ、聖コスマスや聖ダミアンその他の聖人に関係があり、中世のあいだ行われ、現代にまで続いていることについては、ミス・ハミルトンの注意深い研究(18)から読むことができよう。",
+              "citation": {
+                "source": "近代医学の興隆",
+                "author": "イェール大学で1913年に行った一連の講義",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今でもギリシアの一部や小アジアで孵置を定期的に行っている寺院があり、エピダウロスのときのように成功していることはこの報告から判断できるだろう。",
+              "citation": {
+                "source": "近代医学の興隆",
+                "author": "イェール大学で1913年に行った一連の講義",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ブリテンの１箇所、モンマスシャー州（ウェールズ）のクライストチャーチで19世紀始めまで孵置が行われていた。",
+              "citation": {
+                "source": "近代医学の興隆",
+                "author": "イェール大学で1913年に行った一連の講義",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孵置睡眠についてはあまり述べられて居らず、お守り、呪文、占星学、についての言及は稀である。",
+              "citation": {
+                "source": "近代医学の興隆",
+                "author": "イェール大学で1913年に行った一連の講義",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

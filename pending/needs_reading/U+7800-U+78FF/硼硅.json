@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "e61079bf-8a5b-51d4-8beb-2aa3a30d690f",
+    "entry": "硼硅",
+    "reading": {
+      "primary": "硼硅",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ファラデーがこの際作った鉛の硼硅酸塩ガラスがある。",
+              "citation": {
+                "source": "ファラデーの伝",
+                "author": "電気学の泰斗",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これも第一番に、前の重ガラスで発見したので、ファラデーの手帳に書いてあるのにも、「鉛の硼硅酸塩、すなわち重ガラスの棒を取った。",
+              "citation": {
+                "source": "ファラデーの伝",
+                "author": "電気学の泰斗",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ボログナ（地）Bologna.（イタリア）硼硅酸塩ガラス Boro-silicate glass.ママンチエスター・スクエーア Manchester Square.マーガレット・ハスウエル（人）Margaret Hastwell.マルセット（人）Marcet. ジャン・ハルジモンド。",
+              "citation": {
+                "source": "ファラデーの伝",
+                "author": "電気学の泰斗",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "94ab34cc-319f-5b22-9b0b-7422a3e63c08",
+    "entry": "辧",
+    "reading": {
+      "primary": "辧",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "何か氣に障つたら勘辧して呉れ給へ。",
+              "citation": {
+                "source": "受驗生の手記",
+                "author": "久米正雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いづれか我は辧へず。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "平次も日頃『檢屍辧疑』位は讀んで居りますが、その中の毒死の幾項かは、この死骸にはつきり現れて居るやうな氣がするのです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "血潮と糠",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あのお神樂の野郎、あつしの鼻へ指を突つ込みあがつて、勘辧ならねえ野郎だ」「ウ、フ、お前の鼻を見ると、指位突つ込みたくなるだらうよ。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "血潮と糠",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "踵でなくて仕合せだ、まア、勘辧してやれ」「ね、親分、せめてあの娘の家だけでも判りア」「その位のことならわけはないよ。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "血潮と糠",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

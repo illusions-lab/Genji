@@ -1,0 +1,86 @@
+[
+  {
+    "uuid": "3808dbfb-a31b-517c-a196-2fe75f1370ff",
+    "entry": "贖主",
+    "reading": {
+      "primary": "あがないぬし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "第十五講　ヨブ終に贖主を認む第十九章の研究◯論理整然たるビルダデの攻撃に会してヨブ答うるに語なく、その悲寥は絶頂に達して、遂に友の憐みを乞うに至る。",
+              "citation": {
+                "source": "ヨブ記講演",
+                "author": "内村鑑三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "耶蘇はおそらく旧約を読み、また永きユダヤの伝説から、自分をキリストである、すなわち人間とは本来｜品を異にせる神の独り子なる贖主と信じたのであろう。",
+              "citation": {
+                "source": "愛と認識との出発",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道造」――その贈り物というのは二枚のレコオドで、その一つはフランス旧教会ラ・クロア・ド・ボア教会小聖歌隊の合唱したヴィットリアの「アヴェ・マリア」とパレストリイナの「贖主の聖母よ」。",
+              "citation": {
+                "source": "木の十字架",
+                "author": "堀辰雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "フランスから分離したつもりでいる地方、脱走した連隊、焼かれた県庁、憲兵隊の先頭に立って馬に乗ってる収税吏、自由思想家らが自由の名においてこわそうとしてる教会堂を保護せんため、釜に湯を煮たて手に鎌をもってる農夫、アルコール地方にたいして反抗した葡萄酒地方へ話しかけるため、木の上に登っている民衆の贖主。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN-CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

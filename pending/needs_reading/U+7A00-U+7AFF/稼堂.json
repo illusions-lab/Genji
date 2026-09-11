@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "b59d6492-32b4-58cd-96cb-d0ac18f78aea",
+    "entry": "稼堂",
+    "reading": {
+      "primary": "稼堂",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その日｜招れた賓客は当時の列侯中博学を以て推重せられた冠山松平定常、土岐八十郎、幕府の奥儒者｜成島東岳の養子｜稼堂、主人述斎の六男林復斎、佐藤一斎の門人｜安積艮斎及び大沼竹渓その他合せて九人であった。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また最年少なのは成島稼堂であった。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幕府の奥儒者｜成島東岳とその養子｜稼堂とに就いて学んだことは『枕山同人集』所載の作に見えている。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "成島稼堂の死後その子｜柳北は初晴潭について詩を学んだようである。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "成島氏の家はもと同朋であったが、錦江が八代将軍｜吉宗に寵せられて奥儒者に挙げられてから、これを世襲の職となし、伝えて竜州、衡山、東岳、稼堂より確堂に至った。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

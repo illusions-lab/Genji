@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "10583f3c-9a55-5c76-a3a7-8c12a86b2b62",
+    "entry": "鶇",
+    "reading": {
+      "primary": "鶇",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ごめん遊ばせと、年増の女中が、ここへ朱塗の吸物膳に、胡桃と、鶇、蒲鉾のつまみもので。",
+              "citation": {
+                "source": "菊あわせ",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朝おきて戸を開けると、葉の黄ばんだ向ふの林に鳥の群が来て囀づりかはしてゐたり、又は遠くの方で鶇の声が聞えたりした。",
+              "citation": {
+                "source": "閾",
+                "author": "徳田秋聲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "くい／＼と啼く鶇の啼声が、殊にも彼に故郷を思ひ出させた。",
+              "citation": {
+                "source": "閾",
+                "author": "徳田秋聲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鵙が木の枝で叫んでいるかと思うと、鶇が藪でさえずっている。",
+              "citation": {
+                "source": "生死卍巴",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かなたの森に鳴くは鶇か。",
+              "citation": {
+                "source": "書記官",
+                "author": "川上眉山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "林の中で拾ったと云って、弾痕ある鶇を一｜羽持て来た。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だがお前方はあの屋根の搏風を支えた梁に、黐に著いた鶇のように、並べて吊るされるのだ。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "肥った子供と瘠せた子供　公園の同じ並木道、鳩と鶇が親しげに入りみだれている、その中に、二人の婦人が隣り合って腰をおろしていた。",
+              "citation": {
+                "source": "ぶどう畑のぶどう作り",
+                "author": "LE VIGNERON DANS SA VIGNE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鳥の中でも、鵲とか、かけすとか、鶇とか、まちょうとか、腕に覚えのある猟師なら相手にしない鳥がある。",
+              "citation": {
+                "source": "ぶどう畑のぶどう作り",
+                "author": "LE VIGNERON DANS SA VIGNE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日の入り方に一羽の鶇が樹の孔の上に垂れているほそ枝に来て、いさましい軽い歌をうたった。",
+              "citation": {
+                "source": "精",
+                "author": "CATHAL OF THE WOOD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あたりを占めるものは、すべての密林に於るが如く、完全な沈黙で、それを破るものは只蝉の声と、鶇（？",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "つまり犬は兎を、かますはうぐいを、燕は蝉を、隼は鶇または雲雀を、追っかけている。",
+              "citation": {
+                "source": "モンテーニュ随想録",
+                "author": "ESSAIS DE MONTAIGNE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 16
+      }
+    }
+  }
+]

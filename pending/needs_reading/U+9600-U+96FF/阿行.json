@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "921e10bf-480c-58b6-9a2e-9a28c6dac4bd",
+    "entry": "阿行",
+    "reading": {
+      "primary": "阿行",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "其の響かないのを發音的に書くならば、誰が書いても「つくえ」と阿行の「え」を書いて居る筈であります。",
+              "citation": {
+                "source": "假名遣意見",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "併し實際人の書いたのを見ましても、机の「ゑ」は阿行の「え」を書いたり、和行の「ゑ」を書いたり、波行の「へ」を書いたり、有ゆる假名を使つて居ります。",
+              "citation": {
+                "source": "假名遣意見",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで若し文部省に於て新しく發音的に訂して行きまして、阿行の「え」を書けと云ふ新道を開きますと云ふと、さうすると今度は道が二條出來ます。",
+              "citation": {
+                "source": "假名遣意見",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "是れが名詞になつて、例之ば坐に居る「位」、「圓居」、「芝居」と云ふ假名になると阿行の「い」になるやうに思はれる。",
+              "citation": {
+                "source": "假名遣意見",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「つきすゑ」の「つくゑ」又「いしずゑ」の「ゑ」になると、是れは阿行になつてしまふ。",
+              "citation": {
+                "source": "假名遣意見",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古い催馬樂などに阿行の母音を後へ添へて書いたやうな例があるかと思ふ。",
+              "citation": {
+                "source": "假名遣意見",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "是れなどは寧ろ發音的で書くと云ふ側からは「こう」と書かずに、阿行の「お」を使つて「こお」と書いた方が宜しいやうに思ひます。",
+              "citation": {
+                "source": "假名遣意見",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "リヴィングストーンの『南阿行記』七章に、マシュエ附近に鼠多く、その穴地下に充満して人歩むごとに足を陥るとある。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鼠に関する民俗と信念",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "リヴィングストーンの『南阿行記』十八章には、ムグラモチと小鼠のほか食うべき肉ない地を記す。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鼠に関する民俗と信念",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）　　五、南阿行去濠向何処、前路白雲封、竺海四時夏、阿山六月冬、狂風吹不歇、激浪怒相衝、認港舟将入、依然喜望峰。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（五、南｜阿行　　豪州を去っていずこに向かうのか、前路は白雲にとじこめられている。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "e606e994-3d5e-52d2-ad63-6dcf613dbb78",
+    "entry": "聯携",
+    "reading": {
+      "primary": "聯携",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "織田の実力を、この程度と計られることは、せっかく結び得た織田松平｜聯携の盟約をふたたび危うくしない限りもない。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第三分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてその機先を制し、かれらに何の聯携もつかないうちに、びしびしと叩いてしまうべきだと考えた。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第四分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "遠く聯携して、腹背からたえず信長を苦しめていた反信長派の一環、武田信玄が忽然と死去したことも、本願寺にとっては、片翼をもがれたようなものだったし、つづいて越前の朝倉、江州の浅井、伊勢の長嶋門派の殄滅をうけたことなど――満身｜創痍の傷手だったといっていい。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第六分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかのみならず毛利家との聯携の越後上杉、甲州武田、叡山、本願寺などの盟国もみな亡び去って、それらの与国も毛利家も一つの名分として謳っていた旧幕府の形態も、公方という人物も、もう昨日のものとなって、その存在は地にないものではありませぬか。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第七分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こんな時こそ聯携して、侵略の賊を打たねばならん」「ああ。",
+              "citation": {
+                "source": "三国志",
+                "author": "草莽の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "愚臣の観るところでは、荊州の劉表と、襄城（河南省・許昌西南）の張繍とは、ひそかに聯携して、あえて、朝廷にさえ不遜な態度を示しています。",
+              "citation": {
+                "source": "三国志",
+                "author": "臣道の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "翌日になると雍※は城を出て、味方の高定と固く聯携し、しきりに、蛮鼓貝鉦を打ち鳴らして、戦いを挑んできたが、孔明は笑って見ているのみで、「しばらく傍観しておれ」　と三日戦わず、四日も出撃せず、およそ七日ほどは、柵の内に鎮まり返っていた。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

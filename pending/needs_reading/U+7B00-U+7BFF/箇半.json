@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "927ea73f-f2fb-5bd3-80d3-4d6abb0a2be2",
+    "entry": "箇半",
+    "reading": {
+      "primary": "箇半",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――一箇半箇――捨猫がうろついてゐる、彼女は時々いら／＼した声で鳴く、自分の運命を呪ふやうな、自分の不幸を人天に訴へるやうに鳴く、そして食べるものがないので、夜蝉を捕へる、その夜蝉がまた鳴く、断末魔の悲鳴をあげる。",
+              "citation": {
+                "source": "行乞記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "□禅宗の師家が全心全身を傾到して一箇半箇を打出する如く、私は私の一切を尽して、一句半句を打出したい、しないではゐられない、――これが私の唯一の念願であり覚悟である。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "たとへ一箇半箇でも、私は私の句を打出したい。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『朝倉敏景十七箇条』は、「入道一箇半身にて不思議に国をとりしより以来、昼夜目をつながず工夫致し、ある時は諸方の名人をあつめ、そのかたるを耳にはさみ、今かくの如くに候」といっているごとく、彼の体験より出たものであるが、その中で最も目につくのは、伝統や因襲からの解放である。",
+              "citation": {
+                "source": "埋もれた日本",
+                "author": "――キリシタン渡来文化前後における日本の思想的情況――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

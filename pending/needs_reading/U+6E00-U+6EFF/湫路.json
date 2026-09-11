@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "17c37733-3482-545d-a6f2-6b9ff1b9db50",
+    "entry": "湫路",
+    "reading": {
+      "primary": "湫路",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "わたくしはこの湫路の傍に芭蕉庵の址は神社となって保存せられ、柾木稲荷の祠はその筋向いに新しい石の華表をそびやかしているのを見て、東京の生活はいかにいそがしくなっても、まだまだ伝統的な好事家の跡を絶つまでには至らないのかと、むしろ意外な思いをなした。",
+              "citation": {
+                "source": "深川の散歩",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大都の康荘は年々面目を新にするに反して窮巷屋後の湫路は幾星霜を経るも依然として旧観を革めず。",
+              "citation": {
+                "source": "礫川記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然るに独吾輩の如き世間無用の間人にあつては、あたかも陋巷の湫路今なほ車井戸と総後架とを保存せるが如く、七夕には妓女と彩紙を截つて狂歌を吟じ、中秋には月見団子を食つて泰平を皷腹するも、また人のこれを咎むることなし。",
+              "citation": {
+                "source": "礫川記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "安藤坂も金剛寺坂もその傾斜は勿論現在よりも急激であつたので、この坂と坂とのあひだに通ずる湫路には馬車はおろか、人力車を見ることさへ稀であつた。",
+              "citation": {
+                "source": "冬の夜がたり",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

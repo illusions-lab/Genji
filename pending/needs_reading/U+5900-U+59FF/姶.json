@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "545112ef-3bbe-5003-9886-91ba6a61ee58",
+    "entry": "姶",
+    "reading": {
+      "primary": "姶",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "廿八日、壬午、晴、姶めて御本尊を御持仏堂に安置す、即ち供養の儀有り。",
+              "citation": {
+                "source": "右大臣実朝",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われは光まばゆき洞窟の中に醒めしを姶とし、目しひたる少女を載せ來し翁に遭へるに至るまで、そのおほよそを語りしに、人々笑ひて、そは熱ある人の寒き夜風に觸れ、半醒半夢の間にありて妄想せるならんといへり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "わたくしは此試験を行ふに当つて、前に渋江抽斎より姶め、今又次ぐに伊沢蘭軒を以てした。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」といつて立ち上つた一人の男、海老のやうに腰を屈め、海老のやうに真赤になつて、「自分は姶良郡｜帖佐の住人で臍の緒切つて以来演説などいふ下らぬ事をやつた事もなし、またやらうとも思はなかつたが、一生に一度の積りで今日は喋舌らして貰ひたい」といふ冒頭で、徐々皮肉つた一条。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吉田氏は串伎、即ち今の大隅國姶羅郡加治木郷なりとす。",
+              "citation": {
+                "source": "卑彌呼考",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其れが気楽かと云ふと反対に何だか心細い様な不安な感が姶終附いて廻る。",
+              "citation": {
+                "source": "巴里より",
+                "author": "與謝野寛、與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "挨拶がすむと宗匠は、くるりと背を向けて、机の上の俳書に目を注ぎ姶めました。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "庚申横町",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その二三の例を示せば、日向｜西臼杵郡｜椎葉村大字上福良大隅姶良郡牧園村字中福良豊後直入郡｜菅生村大字戸上字福良ヶ谷摂津｜有馬郡山口村大字船坂字大フクラ越前大野郡｜五箇村大字上打波字福倉等である。",
+              "citation": {
+                "source": "地名の研究",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今、日本で一番大きい木といへば鹿兒島縣姶良郡蒲生村にある大樟です。",
+              "citation": {
+                "source": "森林と樹木と動物",
+                "author": "本多靜六",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

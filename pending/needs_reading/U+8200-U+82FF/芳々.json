@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "70cb301f-b01c-594f-aa45-5f01f4e100cc",
+    "entry": "芳々",
+    "reading": {
+      "primary": "芳々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "銀座裏の飲食店街にある中華料理芳々亭の隅のテーブルにただ一人、今しもワンタンメンを食べ終ったのは西江葉子であった。",
+              "citation": {
+                "source": "左近の怒り",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "芳々亭へはいってきた洋装の美人があった。",
+              "citation": {
+                "source": "左近の怒り",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "背の高い青年が芳々亭へ現れた。",
+              "citation": {
+                "source": "左近の怒り",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼のキャバレーから芳々亨まで歩いても五分ぐらいの距離しかない。",
+              "citation": {
+                "source": "左近の怒り",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "芳々亭の扉を排して現れた左近は店の中を見まわした。",
+              "citation": {
+                "source": "左近の怒り",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "単身敵地へ乗りこんできて芳々亭から葉子を連れ去るよりは、その方がむしろ安全のはずだ。",
+              "citation": {
+                "source": "左近の怒り",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "b0dede0c-f1c7-5d2e-8fad-aad637f9468d",
+    "entry": "餽",
+    "reading": {
+      "primary": "餽",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "叡山筑波山の如きは無くもがなのものだといふ評さへ聞くが、こゝのは蓋し出來れば出來た方が婦女老幼のために甚大の利を餽ることにならう。",
+              "citation": {
+                "source": "華嚴瀧",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "李が別に臨んで、衣食に窮せぬだけの財を餽ったので、玄機は安んじて観内で暮らすことが出来た。",
+              "citation": {
+                "source": "魚玄機",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "抽斎は子婦糸の父田口儀三郎の窮を憫んで、百両余の金を餽り、糸をば有馬宗智というものに再嫁せしめた。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "成善はこの金を得て、半は留めて母に餽り、半はこれを旅費と学資とに充てた。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "榛軒が金を餽つて賀し、寿海が必ず来り観むことを請ふを見れば、此興行は廉ある興行でなくてはならない。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "竜池は急に諸役人に金を餽って弥縫し、妾に暇を遣し、別宅を売り、遊所通を止めた。",
+              "citation": {
+                "source": "細木香以",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この類の事まだ夥しくあるが、今度はこれで打ち切りとして、もし私人がこの文を読むに起因して大儲けをしたら、お富も三十七まで仲居奉公に飽きてこの上娘が承知せぬというから、なるべく大金を餽って片付けやってくれ。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シシリーではかかる牝鶏は売りも餽りもせず、主婦が食うべしという由。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鶏に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "犬がどうして人に金の皿を餽るものか、犬が人に遣った物の代金を我が受けらりょうか、いかに貧すれば鈍するとて上帝に誓うて爪の端も汝よりは受けられぬ。",
+              "citation": {
+                "source": "十二支考",
+                "author": "犬に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "趙はその日から宋家の親属となって、往来餽遺、音問を絶たなかった。",
+              "citation": {
+                "source": "愛卿伝",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "晋国の巡撫から十人の女の楽人を餽ってきた。",
+              "citation": {
+                "source": "続黄梁",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "因餽酒遣千手及工藤祐經佐之。",
+              "citation": {
+                "source": "太政官",
+                "author": "上司小劍",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

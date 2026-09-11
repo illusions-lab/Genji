@@ -1,0 +1,295 @@
+[
+  {
+    "uuid": "5cc1e22d-dcf4-58b2-a79a-9e1208136a51",
+    "entry": "拿破",
+    "reading": {
+      "primary": "拿破",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "拿破里に近き聖ヤヌアリウスの「カタコンバ」には聖像をも文字をも彫りつけたるあれど、これも技術上の價あるにあらず。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "拿破里の王は手づから濃紫の袍を取りて、彼が背に被せき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "頃日は拿破里に往きて、客に題をたまはりて、即座に歌作りて謳はんと志したり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "拿破里の旅稼は、その後の事とし給はんも妨あらじ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さはあれ強ひて直ちに拿破里に往かんとならば、あぶなげなく彊を越させ申さんことも、亦我等の手中に在り。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "媼はその血に筆を染めて我にわたし、「往拿破里」と書して名を署せしめて云ふ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "媼はわれに往拿破里と書かしめき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "されど封傳なくして、いかにして拿破里には往かるべきぞ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "英吉利の老婦人ありて、年若き男女と共に、拿破里へ往かんと、此山の麓を過ぎぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その一通の文書は羅馬警察｜衙の封傳にして、拿破里公使の奧がきあり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一通は又拿破里フアルコネツトオ銀行に振り込みたる爲換金五百「スクヂイ」の劵なり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我は此人々に報せんとおもふに、拿破里にて受取るべき爲換の外には、身に附けたるものなし。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こはテルラチナの驛舍にして、羅馬拿破里の間第一と稱へらる。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "千七百九十九年｜夥伴を率ゐて拿破里王に屬し、佛兵と戰ひて功あり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "後佛兵のために擒にせられて、千八百六年拿破里に斬首せらる。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此より拿破里にゆきて、ヱズヰオに登り、汽船にて馬耳塞に渡り、南佛蘭西を遊歴すべしとなり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その瞳子の漆の如きにて、拿破里うまれの人なるを知りぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かく膽太く羅馬拿破里の間を往來する女はあらぬならん、奈何などいへり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こゝは早く拿破里の風の吹くが快きなり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「アムボンポアン」は肥胖、「ベルラ、ナポリ」は美しき拿破里といふ程の事なり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）　われは友を顧みて、拿破里は最早こゝより見ゆるかと問ひしに、友は笑ひて、まだ見えず、されどヘスペリアは見ゆるなり、アルミダの奇しき園は見ゆるなりと答へき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そは前の拿破里の夫人なりき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "拿破里の夫人は心もとながりて、頻りに車窓を覗き、賊の來りて、行李を括り付けたる索を截らんを恐るゝさまなり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夫人は我側に寄りて、兼ねても聞き給ふならん、拿破里は少き人には危き地なりなど云ひ、猶何事をか告げんとせしに、フエデリゴも房より出でしかば、物語はこゝに絶えぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今は車中の客も漸く互に打解けて、はかなき世語などしつゝ拿破里の市に近づきぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夕に拿破里に着きぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "羅馬及ミラノにては大街をコルソオと曰ひ、パレルモにてはカツサロと曰ひ、拿破里にてはトレドと曰ふ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夫人は手を拍ち鳴して、拿破里々々々と呼べり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "拿破里大街の一にして其末は海岸に達す。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僧の聲は漸く大に、我耳はこの拿破里｜訛を聞くこと、一篇の詩を聞く如くなりき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 102
+      }
+    }
+  }
+]

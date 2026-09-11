@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "adc377ec-fe33-5b84-9db1-1e74843f33d2",
+    "entry": "截江",
+    "reading": {
+      "primary": "截江",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そして定六の話によれば、張順をだました船頭は、名うてな悪者、截江鬼の張旺にちがいあるまいとのことだった。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若いのが」「その若い方は、孫五ッてえ野郎でしょう」「けれど、その截江鬼が、どうして、仲間の孫五を殺したのだろう？",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが婆さん、この截江鬼の張旺だって、いつもそうそう、素寒貧じゃねえんだぜ。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "江上稼ぎの悪船頭、截江鬼をここで見てはもう見のがしておけないという気になっていたのである。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これを店のお客と偽って、王定六とじいさんとは、やがて待っていた截江鬼の船にのりこんだ。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "張順、帆綱の加減を取っている截江鬼のそばへ来て、着ていた蓑笠をかなぐり捨てた。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

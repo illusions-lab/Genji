@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "6a8bdf19-e1e4-51c9-ae79-82507f1b934b",
+    "entry": "来莽",
+    "reading": {
+      "primary": "らい莽",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "文母太后といふは漢元帝の后王氏、即ち莽の叔母に當る人で、王氏からこの皇后を出した爲め其一族が外戚を以て權を恣にすることが出來莽に至つて遂に漢室を簒つた譯である。",
+              "citation": {
+                "source": "楊雄と法言",
+                "author": "狩野直喜",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "來莽"
+      ],
+      "needs_reading": true
+    }
+  }
+]

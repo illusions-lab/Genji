@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "5c5c366d-138a-5f73-8f9c-5d0204bc1307",
+    "entry": "棄科",
+    "reading": {
+      "primary": "棄科",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "買うて下はらぬ位なら他の店へ行くわい」　とか何とか棄科白で、大手を振って棕梠箒売が引返して来た時には、小丼の中にはモウ濁った醤油と、生姜の粉が、底の方に淀んでいるだけであった。",
+              "citation": {
+                "source": "近世快人伝",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」などと棄科白を残して、頭の櫛を気にしながらさつさと歩き出しました。",
+              "citation": {
+                "source": "砂浜",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」斯んな棄科白を放ちます。",
+              "citation": {
+                "source": "フアウスト",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と棄科白して帰つたのです。",
+              "citation": {
+                "source": "早春のひところ",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

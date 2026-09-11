@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "b0e4bf03-a544-56a5-9bf4-9e90e6f0dff8",
+    "entry": "扶掖",
+    "reading": {
+      "primary": "扶掖",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "わが久しき間の經歴は我前に現じて一瞬時の事蹟に同じく、神の扶掖嚮導の絲は分明に辨識せられたり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "年来森｜枳園を扶掖しているのもこれがためである。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは単に文一郎が穉い成善を扶掖したからではない。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三　支那扶掖は天の我に与うる使命なり　それに次いで、今や第三回の東方平和論を説かんとするのだが、日本対支那の重大なる関係は、十年前の昔も十年後の今日も同一である。",
+              "citation": {
+                "source": "三たび東方の平和を論ず",
+                "author": "大隈重信",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して文明の程度に於て日本は支那に対し一日の長あるゆえんを以て、将来支那を促し、それを世界最高の文明に進むるには、日本は当然その扶掖提撕の任に当らなければならぬ。",
+              "citation": {
+                "source": "三たび東方の平和を論ず",
+                "author": "大隈重信",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

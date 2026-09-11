@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "bb2fd469-2e2f-5cf3-b4ff-e3552ad19211",
+    "entry": "徃年",
+    "reading": {
+      "primary": "徃年",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "世人はこれを、雀大臣と呼んで、この出世も、かれの徃年の雀に對する愛情の結實であるといふ工合ひに取沙汰したが、しかし、お爺さんは、そのやうなお世辭を聞く度毎に、幽かに苦笑して、「いや、女房のおかげです。",
+              "citation": {
+                "source": "お伽草紙",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此レ徃年露西亞ノ滿洲ニ進出シタルヨリモ支那ノ一大危機。",
+              "citation": {
+                "source": "日本改造法案大綱",
+                "author": "北一輝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我邦ニテ古今無双ノ古貨幣家タリシ旧福知山侯ノ蔵品ハ、長持幾棹トカ有リシモ、皆徃年普魯斯人某ガ神戸ニテ買ヒ去リシト。",
+              "citation": {
+                "source": "好古小言",
+                "author": "※上漁史",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "開き見れば先考の徃年上海より携へ帰られし陶器文房具の類なり。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "風邪全く痊えざれど、かくてあるべきにあらねば着換の衣服二三枚を、徃年欧米漫遊中購ひたる旅革包に収め、見返り／＼旧廬を出で、築地桜木に赴きぬ。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "徃年紐育又里昴の劇塲にて屡この曲を聴きたる時、深夜雪を踏んで下宿に帰りし事を追想すれば、何とはなく別種の曲を聴く思ひあり。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之三大正八年歳次己未",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "余徃年今村君と米国の各地を漫遊せし当時の事を思へば夢の如き心地す。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之四大正九年歳次庚申",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "午前大日本私立衛生会委員筱崎氏といへる人来りて、七月三日丸の内なる衛生会楼上にて、徃年統計恊会に関係ありし人々の追善紀念会を執行するにつき、先考の写真遺墨のたぐひをも借受けて陳列したしと語らる。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之五大正十年歳次辛酉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "筱崎氏は徃年小石川の家にて幼きころの余をも見知りたりと言はる。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之五大正十年歳次辛酉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

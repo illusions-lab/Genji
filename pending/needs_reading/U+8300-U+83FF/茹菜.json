@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "83a19934-c844-57bc-bad8-523ffbed0b86",
+    "entry": "茹菜",
+    "reading": {
+      "primary": "茹菜",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "さうして茹菜の一皿が幾らか渇を覺えた所爲か非常に佳味く感じた。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "濕りたる庭のうち、はらゝかに辛夷散り、手桶なる茹菜の中に、菜の花の匂へる見れば、世の中は春たけぬらし。",
+              "citation": {
+                "source": "長塚節歌集　中",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "先年自分は九州の鐘ヶ崎［牧野いう、筑前宗像郡、海辺の地にダルマギクを産する］で、特に望んで喰わせてもらったが、海から取って来たのをよく洗って、鉄鍋を火にかけて、その上でなまのミルをあぶると、茹菜のようになるのを、酢味噌などで喰べる工合は、全く茹菜と同じである。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

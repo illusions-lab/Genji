@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "bfea8a2b-4668-5fff-ab65-661e53030928",
+    "entry": "黏",
+    "reading": {
+      "primary": "黏",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "髮が黏るやうになるとおつぎは其の粘土をこすりつけて、肌ぬぎになつた儘黄色く染まつた頭を井戸の側で洗ふのである。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "甘糟の痒きに堪へんことを僕は丁と洞察してをるのだ」「これは憚様です」　大島紬の紳士は黏着いたるやうに靠れたりし身を遽に起して、「風早、君と僕はね、今日は実際犠牲に供されてゐるのだよ。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若し生れつき「ほくろ」のない婦人方は、人工的に是を模造してその顔面に黏置するのである。",
+              "citation": {
+                "source": "東西ほくろ考",
+                "author": "堀口九萬一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "己の背は木の皮でこすられて、肌には樹脂が黏り附いた。",
+              "citation": {
+                "source": "復讐",
+                "author": "BALTHASAR ALDRAMIN. KURZE LEBENSGESCHICHTE AUS DEM ALTEN VENEDIG.",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「下手な道中稼ぎなんぞするよりや、棒つ切の先へ黏をつけの、子供と一しよに賽銭箱のびた銭でもくすねてゐりや好い。",
+              "citation": {
+                "source": "鼠小僧次郎吉",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "玄菟（郡名）とか樂浪（郡名）とか、蓋馬（縣名）とか黏蝉（縣名）とか、沃沮（種族名）とか肅愼（種族名）とか、甚しきは頓である。",
+              "citation": {
+                "source": "支那人の文弱と保守",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかるにあるものが、その木に朽ちたる穴があるから、この穴の中になにか動物が住んでいるのではあるまいかと思い、黏を塗り置きしところ、案のごとく、やがてみみずく二羽捕らわれたという話が、『東北新聞』にて報じてあった。",
+              "citation": {
+                "source": "おばけの正体",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

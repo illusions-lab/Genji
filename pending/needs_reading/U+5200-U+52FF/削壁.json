@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "cb0074f7-84f2-5607-9618-1e7e2eb1849e",
+    "entry": "削壁",
+    "reading": {
+      "primary": "削壁",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "下流は兩岩の削壁に密樹が掩ひかぶさつて居るため一層凄く見える。",
+              "citation": {
+                "source": "痍のあと",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "削壁突兀として青松其間を綴る。",
+              "citation": {
+                "source": "草津行",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一大削壁あり、直立幾十丈、粹然として其間に立つ、其面悉く枝葉を以て覆はる。",
+              "citation": {
+                "source": "草津行",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その瞬間、灌木を載せた岩が削壁から剥離し、えらい音をたてて落ちて行った。",
+              "citation": {
+                "source": "一の倉沢",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鐘釣温泉から黒部川を遡ろうとする人は温泉附近で百貫山や名剣山の岩崖をのけ反るようにして眺め、猿飛のあたりで抉り削られた岩磐に水と岩との凄じい闘争の跡を俯瞰し、少なからず心を驚かすであろうが、奥鐘山の削壁を仰いで、其単調な偉大さに今更のように呆れない人は無いであろう。",
+              "citation": {
+                "source": "渓三題",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

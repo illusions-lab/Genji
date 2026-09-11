@@ -1,0 +1,154 @@
+[
+  {
+    "uuid": "27f02f67-ac3a-5906-9bf5-e1cfde86f6a1",
+    "entry": "応訊",
+    "reading": {
+      "primary": "おう訊",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「それは成程よかったし、寧ろ当然なことだが、マアそういう点まで一応訊ねさせるものがあったということについて自省を向けているのは、正しいね」と。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九三八年（昭和十三年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "白痴だな、と直覚したが、兎に角一応訊ねてみようと思つて、「今日は。",
+              "citation": {
+                "source": "間木老人",
+                "author": "北條民雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また、「戯曲的」「演劇的」等の語も、今日では、大体、旧来のままの意味で使つてゐるが、若しそれが「戯曲乃至演劇の本質的生命」を指すのであつたら、それを使ふ人の「演劇本質論」を一応訊ねてみる必要がある。",
+              "citation": {
+                "source": "近代劇論",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し彼は他巳吉に一応訊きただしてみたいのだつた。",
+              "citation": {
+                "source": "吹雪物語",
+                "author": "――夢と知性――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し一応訊きたい気持はあつたのである。",
+              "citation": {
+                "source": "吹雪物語",
+                "author": "――夢と知性――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――ところで刃物はどうしたか訊かないのか」「一応訊いてみましたが、白ばっくれて言やしません。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "土への愛着",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一応訊くだけは訊いた平次、引揚げようとして裏口へ来ると、仁助爺やが呼止めました。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "路地の足跡",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……あしたにもどうぞご返辞を先様へなされますように」「だが、寧子の胸も、一応訊いてみねばなるまいが」「それはいつか彼娘が申したではございませんか」「ム。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第二分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "妹のことを頼み、それに父と母のことについても一應訊いておきたいと思つた。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「あつしの聽いたのは三軒ですが、外にもあるかも知れません、少し調べて見ませうか」「無駄だらうよ、何處の親も隱したがるだらうから」「でも」「それより、その人形を買つたのは何處で、細工は誰か、一應訊いて見てくれ。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "五月人形",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――ところで刃物はどうしたか訊かないのか」「一應訊いて見ましたが、白ばつくれて言やしません。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "土への愛著",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "でもお糸さんとやらに逢つて、一應訊いた上で、乘出すことにしませう」「それは有難い。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "美しき人質",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "應訊"
+      ],
+      "needs_reading": true
+    }
+  }
+]

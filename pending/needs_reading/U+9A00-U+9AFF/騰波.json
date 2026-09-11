@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "7e07682f-82f5-5134-82ed-e2dbae6d2c01",
+    "entry": "騰波",
+    "reading": {
+      "primary": "騰波",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "もうすこしすると「騰波鼓浪の節に入り、ここに至つて水の性消え即ち茶を煮べき」湯候なのである。",
+              "citation": {
+                "source": "上田秋成の晩年",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "口もとは騰波のうみの。",
+              "citation": {
+                "source": "長塚節歌集　上",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その沸、魚目（一一）のごとく、すこし声あるを一沸となし、縁辺の涌泉蓮珠（一二）のごとくなるを二沸となし、騰波鼓浪（一三）を三沸となしている。",
+              "citation": {
+                "source": "茶の本",
+                "author": "茶の本",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一三　騰波鼓浪――波だち、波うつ。",
+              "citation": {
+                "source": "茶の本",
+                "author": "茶の本",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夜雨君の胸には永生きしますまい、私の記臆にはあり／＼と殘てをる……筑波山と大寶沼（古の騰波の淡海）とは君が所有せらるゝ自然の全部であつて、此書を繙かるゝ諸賢は必ず此山水を御忘れのなきやうに願ひたい。",
+              "citation": {
+                "source": "花守",
+                "author": "横瀬夜雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "武蔵｜南葛飾郡｜綾瀬村大字小谷野字｜土富耕地同　橘樹郡城郷村大字岸根字島ドブ常陸真壁郡中村大字林字｜土深同　同　　騰波ノ江村大字｜筑波島字｜土腐磐城双葉郡｜幾世橋村大字｜棚塩字ドブ谷地伊勢三重郡朝上村大字田口字ドブ　相模にも無数のドブという地名があるのみならず、普通名詞にもこの意味に用いられている。",
+              "citation": {
+                "source": "地名の研究",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

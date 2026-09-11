@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "48c38265-bb23-5c2b-9412-065bd61a8fe3",
+    "entry": "珂瑠",
+    "reading": {
+      "primary": "珂瑠",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "三年の後、皇太子も亦｜薨じ、その子｜珂瑠皇子は極めて幼少であつたから、皇太后が即位した。",
+              "citation": {
+                "source": "道鏡",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "持統天皇の在位は皇孫珂瑠の保育にあつたが、太政大臣に高市皇子を任じ、補佐するに葛野王あり、家族政府として極めて鞏固な団結であつた。",
+              "citation": {
+                "source": "道鏡",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "皇孫珂瑠は譲を受けて即位し文武天皇となる。",
+              "citation": {
+                "source": "道鏡",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三年の後、皇太子も亦｜薨じ、その子珂瑠皇子は極めて幼少であったから、皇太后が即位した。",
+              "citation": {
+                "source": "道鏡",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "持統天皇の在位は皇孫珂瑠の保育にあったが、太政大臣に高市皇子を任じ、補佐するに葛野王あり、家族政府として極めて鞏固な団結であった。",
+              "citation": {
+                "source": "道鏡",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

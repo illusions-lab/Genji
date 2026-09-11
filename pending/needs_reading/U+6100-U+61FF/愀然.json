@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "5f060c94-df11-5275-9271-5db984022548",
+    "entry": "愀然",
+    "reading": {
+      "primary": "愀然",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "其愀然として胡国に嫁ぎたるもの、匈奴が婚を強ひたるに外ならず。",
+              "citation": {
+                "source": "愛と婚姻",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "子路が納得し難げな顔色で立去った時、その後姿を見送りながら、孔子が愀然として言った。",
+              "citation": {
+                "source": "弟子",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "歳を踰えて二月、夢に絳雪愀然として『今大難せまりぬ。",
+              "citation": {
+                "source": "『聊斎志異』より",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

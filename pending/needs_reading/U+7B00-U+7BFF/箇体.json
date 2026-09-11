@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "bfec9371-4895-588a-886e-da94a3f7b835",
+    "entry": "箇体",
+    "reading": {
+      "primary": "箇体",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "優れた観察力をもった漫画家が街路や電車の中で十人十色の世相を見る時には、複雑な箇体が分析されて、その中のある型の普遍的要素が自ずから見出される。",
+              "citation": {
+                "source": "漫画と科学",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人間とし、男が天性に従って仕事を選び、その仕事の裡に、ただ、食い、眠り、死んで行く箇体の生物的生存以上の生命を見出して行くと全く同じに、女性の中にも、内心のやみがたい性格的渇望に押されて、仕事を、持たずにいられない多数の人が出来て来たのです。",
+              "citation": {
+                "source": "「母の膝の上に」（紹介並短評）",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "粉砕され様と干死なりとそれは自分の事ですが、縦へ子供でも一度び胎外へ出てはもう親とは別の箇体です。",
+              "citation": {
+                "source": "獄中の女より男に",
+                "author": "原田皐月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから「人間は毎日のリズムを作るべく生存し、又箇体保存、種族保存を□□たい慾望を持って居るのは生れつきだと思うが、何故そうならなければならないかと云うことを考えると、或る大きな悲哀を感じる」とおっしゃった言葉の中には、人類の運命に対しての或る暗示のあることを感じるけれども言葉にはならない。",
+              "citation": {
+                "source": "日記",
+                "author": "一九一六年（大正五年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二つの箇体が、一つの生命になっていた。",
+              "citation": {
+                "source": "美しき月夜",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

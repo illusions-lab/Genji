@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "1f6ae887-550b-50bf-b3cb-a80885581645",
+    "entry": "嶄巌",
+    "reading": {
+      "primary": "嶄巌",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "嶄巌磊※とはこんな光景を指していうのであろう。",
+              "citation": {
+                "source": "奥秩父の山旅日記",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "絶頂夫自身も危く聳立した巨大なる嶄巌である。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殊に頂上の西南から西北の斜面にかけて、米栂、黒檜、白檜などが多少の偃松も交って、石楠、岳樺などの闊葉樹と共に、矮い灌木状をなして巨岩の上に密生しているさまは、磊※たる嶄巌を錯峙させている南側よりも寧ろ私は好きである。",
+              "citation": {
+                "source": "思い出す儘に",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "巨大なる嶄巌の聳立した山の頂上で、行手の方向に迷ってしまった。",
+              "citation": {
+                "source": "鹿の印象",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

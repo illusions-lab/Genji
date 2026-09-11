@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "0cac1da0-3fed-56b3-a7c8-b6d7db3af3fa",
+    "entry": "氤",
+    "reading": {
+      "primary": "氤",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "卿雲爛たり糺縵々たり、といへる、煙にあらず雲にあらず紫を曳き光を流す、といへる、大人作矣、五色｜氤、といへる、還つて九霄に入りてを成し、夕嵐生ずる処鶴松に帰る、といへる詩の句などによりて見れば、帰するところは美しき雲といふまでなり。",
+              "citation": {
+                "source": "雲のいろ／＼",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "支那の占星の術は蓋し星の位置と、他星との交渉と、光威と、其の附近に氤支那の書に於て遭遇するところである。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "抜け出でんとして逡巡い、逡巡いては抜け出でんとし、果ては魂と云う個体を、もぎどうに保ちかねて、氤※たる瞑氛が散るともなしに四肢五体に纏綿して、依々たり恋々たる心持ちである。",
+              "citation": {
+                "source": "草枕",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "花一つ、蕾一つ、高薫｜氤※、発して我が面をうち、乱れて一室の浮塵を鎮め去る。",
+              "citation": {
+                "source": "閑天地",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若し私が此の胸中の氤は爆発に到るに違いないのであり、従って、自分の彫刻がどのように毒されるか分らないからである。",
+              "citation": {
+                "source": "自分と詩との関係",
+                "author": "高村光太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "5083e845-4bbd-54f2-a5be-ba7b881b3a6a",
+    "entry": "推讃",
+    "reading": {
+      "primary": "推讃",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "新ロマン派の君の小説が深沼氏の推讃するところとなって、君が発奮する気になったとは二重のよろこびである。",
+              "citation": {
+                "source": "虚構の春",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、この大根気、大努力も決して算籌外には置かれないので、単にこの点だけでも『八犬伝』を古往今来の大作として馬琴の雄偉なる大手筆を推讃せざるを得ない。",
+              "citation": {
+                "source": "八犬伝談余",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「此男忠実にして信用すべき案内者なり」と云ふ様な証明や「但し見掛によらぬ辣腕ありと見え彼が妻は西洋人なり」と冷かしたものや、山内愚仙が描いて与へた彼の顔の写生や、文部省の留学生某の彼を推讃した拙い歌やで一ぱいに成つた厚い手帳を出して見せ、莞爾として得意｜相である。",
+              "citation": {
+                "source": "巴里より",
+                "author": "與謝野寛、與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "異国の風情を好む近年の流行心理に投じた為もあるが、欧洲人にして此画家程｜印度人を領解した人は無いと云ふ諸新聞の推讃も決して諛辞で無い。",
+              "citation": {
+                "source": "巴里より",
+                "author": "與謝野寛、與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで、止むなく一方ではまた人気取りの廻し者が、盛んに海老蔵推讃の吹聴を始めましたから、仏頂寺がいよいよ納まらず、「いったい、今時の見物は何を見ているのだ。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "流転の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その後、清次は、あらゆる方面の知名で、そうして人のよい、お目出たそうな人の名を撰んで、いちいちのろま推讃のために利用しました。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "不破の関の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此兼ねると言ふ推讃の称号が、実に空なものになつたのは、幕末・明治初年の東西劇壇の実情であつた。",
+              "citation": {
+                "source": "市村羽左衛門論",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

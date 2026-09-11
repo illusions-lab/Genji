@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "98f39dcc-0740-589c-bdd4-aa8162fd7ba4",
+    "entry": "於萱",
+    "reading": {
+      "primary": "於萱",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それにおいでなされましたか」「誰じゃ」「牧場の於萱でございます」「萱か。",
+              "citation": {
+                "source": "源頼朝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ようやくのことで、ご先途がわかりました」　庭口から忍んで来た牧場の妻の於萱は、それへ来て、夜露の中にひざまずいた。",
+              "citation": {
+                "source": "源頼朝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "永実坊も行実坊も、あのご兄弟とも、前々から源家に深く心を寄せている衆でもございますから」　政子は、聞いているうちから、涙があふれて――天佑に感謝する気もちと歓びにいっぱいになって――於萱の労を犒ってやることばすら出なかった。",
+              "citation": {
+                "source": "源頼朝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこの小屋をほとほとと叩き、牧場の妻の於萱を道案内にして、また幾里かを歩きつづけた。",
+              "citation": {
+                "source": "源頼朝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "e1b86661-76b0-54d3-a2a3-6db0949037ae",
+    "entry": "罵殺",
+    "reading": {
+      "primary": "罵殺",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　罵殺一番、老婦人は強いて平気を装いつ、毫も屈する状無し。",
+              "citation": {
+                "source": "貧民倶楽部",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「小説評註」は純然たる諷刺にして、当時の文豪を罵殺せんとする毒舌紙上に躍如たり。",
+              "citation": {
+                "source": "「油地獄」を読む",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これに煽動された吉田、原、早水、堀部などは、皆一種の興奮を感じたように、愈手ひどく、乱臣賊子を罵殺しにかかった。",
+              "citation": {
+                "source": "或日の大石内蔵助",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又　我我は神を罵殺する無数の理由を発見している。",
+              "citation": {
+                "source": "侏儒の言葉",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、不幸にも日本人は罵殺するのに価いするほど、全能の神を信じていない。",
+              "citation": {
+                "source": "侏儒の言葉",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（たとひ今はゐないにしろ、百年の後には一人位、必ず茂吉を賛美するか、或は茂吉を罵殺するか、どの道真剣に「赤光」の作者を相手どるものの出る筈である。",
+              "citation": {
+                "source": "僻見",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "共に山精野鬼を借りて、乱臣賊子を罵殺せんとす。",
+              "citation": {
+                "source": "骨董羹",
+                "author": "―寿陵余子の仮名のもとに筆を執れる戯文―",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又　我我は神を罵殺する無数の理由を発見してゐる。",
+              "citation": {
+                "source": "侏儒の言葉",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、不幸にも日本人は罵殺するのに価するほど、全能の神を信じてゐない。",
+              "citation": {
+                "source": "侏儒の言葉",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "26b17d9f-46c3-5c11-bcbc-c521a6e5095e",
+    "entry": "艦々",
+    "reading": {
+      "primary": "艦々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "今しも、後部甲板昇降口より現はれて、一群の肩章に波を打たせたる年少士官等と語りながら、徐かに此方に來かゝる二個の人――軍艦々上には珍らしき平服の姿、一個は威風堂々たる肥滿の紳士、他の一個は天女の如き絶世の佳人！",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と、高き調は荒鷲の、風を搏いて飛ぶごとく、低き調は溪水の、岩に堰かれて泣く如く、檣頭を走る印度洋の風、舷に碎くる波の音に和して、本艦々上、暫時は鳴も止まなかつた。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』と叫んだまゝ、空拳を振つて本艦々頭に仁王立、轟大尉は虎髯逆立ち眦裂けて、右手に握る十二｜珊砲の撃發機は唯だ艦長の一令を待つばかり。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大佐一顧軍刀の鞘を拂つて、屹と屹立つ司令塔上、一｜令忽ち高く、本艦々上戰鬪喇叭鳴る、士官の肩章閃めく、水兵其配置に就く、此時、既に早し、既に遲し、海賊船から打出す彈丸は雨か、霰か。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』の號令の下に、軍艦「日の出」の士官水兵は勇氣百倍、息をもつかせず發射する彈丸は、氷山碎けて玉と飛散る如く、すでに度を失つて、四途路筋斗の海賊船に、命中るも／＼、本艦々尾の八｜吋速射砲は、忽ち一隻を撃沈し、同時に打出す十二｜珊砲の榴彈は、之れぞ虎髯大尉の大勳功！",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「未だです」「あら、擦っちゃいけませんよ」「でも涙が出て困るんです」「この綿で拭いて御覧なさい」「少し快くなったようです」「あら、軍艦々々！",
+              "citation": {
+                "source": "ぐうたら道中記",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

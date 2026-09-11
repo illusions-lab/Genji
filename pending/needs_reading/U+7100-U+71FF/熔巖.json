@@ -1,0 +1,295 @@
+[
+  {
+    "uuid": "37ccd817-9394-54d9-b2f4-febaaafff260",
+    "entry": "熔巖",
+    "reading": {
+      "primary": "熔巖",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "直立せる火柱はその幹、火光を反射せる殷紅なる雲の一群はその木の巓、谷々を流れ下る熔巖はその闊く張りたる根とやいふべき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われは星斗のきらめける空を仰ぎ、又熔巖の影處々に紅を印したる青海原を見遣りたり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われはその何人なるを知らねども、姑く共に語らばやとおもひて、ヱズヰオの山の噴火の事を説き、その熔巖の流れ下る状など、外より來るものゝ目を驚かす由を云ひたり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "レジナに至りて車を下れば、われ等の踐める所の脚下は、早く是れ熔巖熱灰のために埋沒せられしエルコラノの古市なり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "葡萄圃は多く熔巖に掩はれ、父とわれとの立てる側なる岩は其光を受けて殷紅なり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）道は此熔巖の平野に至るまで、都會の大街に異ならず。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "熔巖の板を敷けること拿破里の街衢と異なることなし。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "巓よりは黒烟を吐き、半腹を流れ下る熔巖の上には濃き蒸氣｜簇れり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "噴火山　熔巖は月あかりにて見るべきものぞとて、我等は暮に至りてヱズヰオに登りぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "紅なる熔巖の流は、今や目睫に迫り來りぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道絶ゆるところに、黒き熔巖もて掩はれたる廣き面あり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その状新に此熔巖の海に涌出せる孤島の如し。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我等の往手は巖の間なる細徑にて、熔巖の塊の蹄に觸るゝもの多し。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "石片又は熔巖の塊ありて、歩ごとに滾り落つるが故に、縱に列びて登るに由なし。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "巓は大なる平地にして、大小いろ／＼なる熔巖の塊錯落として途に横る。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "熔巖の流は早く麓に到りて、トルレ、デル、アヌンチヤタの方へ向へりと聞く。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我渾身の血は涌き返る熔巖にも比べつべし。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山腹を流れ下る熔巖の色は海波に映じて、海もまた燃えんとす。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "熔巖の流るゝこと一分時に三｜臂長なりといへり、（伊太利の尺の名）往きて看給はんとならば、半時間には渡しまゐらせんといふ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "熔巖の流は今しも山麓なる二三の村落を襲へるなり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "衆人は先を爭ひて、熔巖の將に到らんとする部落の方へと進めり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われは數畝の葡萄圃を隔てゝ、始て熔巖を望み見たり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "熔巖は同じ嚮に流れ行くものなれば、好事のものは歩み近づきて迫り視ることを得べし。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "杖の尖又は貨幣などを※込みて、熔巖の凝りて着きたるを拔き出し、こを看たる記念にとて持ち行くものあり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "熔巖の流れ行く先なる葡萄の幹に聖母の像を懸けたるものあり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こはその功徳もて熔巖の炎を避けんとのこゝろしらひなるべし。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "されど熔巖はその方嚮を改めず。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われは身を僂めてその手に接吻せんとせしに、夫人は我を顧みず、手をジエンナロにさし伸べて、晩餐の友を得たる喜を述べ、夫に向ひて、ヱズヰオの爆發はいかなりし、熔巖はいづ方へ流れんとするなど問ひぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "海づらは乳の如き白色に見え、熔巖石を敷きたる街路より薔薇紅にかゞやける地平線のあたりまで、いと廣やかに晴れ渡り、波打際は藍色にきらめけり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かしこの民は、沸き返る熔巖の釜の上に生涯を送れるなりと答へぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 30
+      }
+    }
+  }
+]

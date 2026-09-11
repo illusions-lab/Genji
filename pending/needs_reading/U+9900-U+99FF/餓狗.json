@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "185d87fb-68a2-590a-87bb-9afd343a25ad",
+    "entry": "餓狗",
+    "reading": {
+      "primary": "餓狗",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "試に世上を觀るに、張三李四の輩、たま／＼福に遇ふことは無きにあらざるも、其一遭遇するや、新に監獄を出でし者の醉飽に急なるが如く、餓狗の肉に遇へるが如く、猛火の毛を燎くが如く、直に其の福を取り盡し使ひ盡さずんば已まないのである。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "是亦餓狗の其の友に讓る能はざるが如くで有つて、實に『人類も亦一動物である』といふことを證據立てて居ると云へば其れ迄で有るところの情無い景色では無いか。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "餓狗の其の友に讓らざるのは、畜生の已むを得ざるところで有るが、苟も人として畜生と多く異ならざるの情状を做すのは、實に情無い談である。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一瓶の酒、我を醉はしむるに足らざるも人に其の味を分ち、半鼎の肉、我を飽かしむるに足らざるも人に其の臠を薦むる、是の如き分福の擧動は、實に人の餓狗たらず、貪狼たらざるところを現はすのであつて、啻に幸福を得るの道として論ずべき一箇條と云はんよりは、人としての高貴の情懷の發現といふ可きである。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

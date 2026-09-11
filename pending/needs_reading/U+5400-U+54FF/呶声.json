@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "62722df2-86dd-54e6-a047-41bcce45f694",
+    "entry": "呶声",
+    "reading": {
+      "primary": "呶声",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "）　廊下の方から、部屋部屋から、二階からも階下からも、足音、悲鳴、呶声、罵しり声、物を投げる音、襖障子を開閉する音が、凄まじく聞こえて来た。",
+              "citation": {
+                "source": "猿ヶ京片耳伝説",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "裏口からも捕り方は侵入したらしく、その方からも足音や呶声が聞こえて来た。",
+              "citation": {
+                "source": "猿ヶ京片耳伝説",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "呶声を背後に聞いたと思った。",
+              "citation": {
+                "source": "上海された男",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "玄心斎は、とうとう呶声をあげて、「しずかにせいっ！",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "こけ猿の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あっしゃアまだ三つしか拾わねえ」　あちこちから呶声がとんで、「三つしか拾わぬとは、なんだ。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "こけ猿の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すべては円滑に進行し、エセックスも深甚なる謝罪を表しようとする心構えも整ったとき、場面の厳粛さは突然、検事総長エドワアド・コオクの物狂おしい呶声で掻き乱された。",
+              "citation": {
+                "source": "エリザベスとエセックス",
+                "author": "ELIZABETH AND ESSEX",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "エセックスは、自ら呶声をもって報いざるをえなかったほどの打撃を感じた。",
+              "citation": {
+                "source": "エリザベスとエセックス",
+                "author": "ELIZABETH AND ESSEX",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アントニイ・ベエコンに死なれて後の彼は、ただ母と、妹のペヌロオプ・リッチとサア・クリストファ・ブラウントの呶声と、ヘンリイ・カッフの遠慮会釈のない助言に、耳を傾けるほかはなかった。",
+              "citation": {
+                "source": "エリザベスとエセックス",
+                "author": "ELIZABETH AND ESSEX",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「お石はおれの女房だ、みんなにどれほどの文句があるか知らないが、亭主のおれをさしおいてあんまり勝手なことを云うな」これまでついぞ怒ったことのない又五郎の、すさまじいようなけんまくと呶声にみんなびっくりして息をのんだ。",
+              "citation": {
+                "source": "おれの女房",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「小十郎、臆したか」虎之助が叫んだ、わっという呶声が神谷小十郎の口から発した、礫を蹴返す音と、矢声とが、夜のしじまを破った、白々と冴えた川原に影が走り、刃が空へ電光を飛ばした。",
+              "citation": {
+                "source": "内蔵允留守",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕は老人の呶声をすぐ耳の傍に聞いた。",
+              "citation": {
+                "source": "南京六月祭",
+                "author": "犬養健",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "71c2a569-d0f0-564a-b756-402f84cdcb37",
+    "entry": "掲諦",
+    "reading": {
+      "primary": "掲諦",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "器も瞬間々々に変化して行き、非器も念々に変化して行き、掲諦（悟りました）の一声が地に落ちて死に絶えて本に還えるまで、移り遷り変り易って止まないのが人である。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）で卍字を書く、同じ鞭先を持ち、随え叶えと三遍唱えて掲諦掲諦はらそう掲諦ぼうしい娑訶と唱えて飼えば、いかなる狂馬も汗をかき申すべきなり秘すべしとあるが、今時そんな真似をすると人自身の方が狂馬のように見える。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところでいま、かりにそれをしいて翻訳してみると、最初の「掲諦」とはつまり「往くことに於いて」という意味です。",
+              "citation": {
+                "source": "般若心経講義",
+                "author": "高神覚昇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だから、「掲諦、掲諦」と重ねていえば、それは「往くことにおいて、往くことにおいて」という意味です。",
+              "citation": {
+                "source": "般若心経講義",
+                "author": "高神覚昇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ではいったい、「どこへ行くか」というと、そのつぎの「波羅掲諦」という語がそれを表わしています。",
+              "citation": {
+                "source": "般若心経講義",
+                "author": "高神覚昇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次に「波羅僧掲諦」というのは、「波羅」は向こうという意味、「僧掲諦」とは到達する、結びつく、いっしょになる、というような意味です。",
+              "citation": {
+                "source": "般若心経講義",
+                "author": "高神覚昇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "したがって「波羅僧掲諦」ということは、凡夫が仏の世界へ到達して、仏といっしょになるということです。",
+              "citation": {
+                "source": "般若心経講義",
+                "author": "高神覚昇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "以上ひと通り、この真言の意味を解釈しましたが、要するに『心経』の最後にある、この「掲諦掲諦」の四句の真言は、こういう風に解釈すればよいかと思います。",
+              "citation": {
+                "source": "般若心経講義",
+                "author": "高神覚昇",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 17
+      }
+    }
+  }
+]

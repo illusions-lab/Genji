@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "e5ddd5e4-dffd-525f-9e3c-8550ed599922",
+    "entry": "摩世",
+    "reading": {
+      "primary": "摩世",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "狂浪漲天檣欲摧、風従摩世峡間来、船牀横臥人皆病、海鵝揚然去復回。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（狂ったような波は天にとどくかのように打ち寄せ、ために帆柱をくだかんばかりに、風は摩世海峡のあいだからきたる。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "凝眸日日倚船※、愛見米山気象雄、春白安天峰頂雪、暁青摩世峡間風、探奇拾勝吟嚢満、酌月傾雲酒債窮、不羨故園觴詠客、東都西洛競観楓。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "春日の安天の峰の頂は雪をのせ、あけがたの空に摩世海峡の風が吹く。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "入湾波漸穏、春草満林巒、峰頂猶留雪、風寒摩世瀾。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山の頂にはなお残雪が見え、風はさむざむと摩世瀾海峡に吹いている。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）　　十一、摩世闌夜雨（南米）千湾万曲繞群峰、夢裏不知狂浪衝、峡路終宵風雨暗、船窓全被冷烟封。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（十一、摩世闌の夜雨（南米）　多くの湾がそれぞれ曲線を描いて峰々をめぐり、夢のうちの知らぬままに狂浪をつき破って船は進む。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

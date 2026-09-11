@@ -1,0 +1,74 @@
+[
+  {
+    "uuid": "d2612fc9-355b-5d70-bfa0-1844b0051d95",
+    "entry": "獣脅",
+    "reading": {
+      "primary": "じゅう脅",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "二　文身というのは、元は罪人の入墨から起ったとも、野蛮人の猛獣脅しから起ったとも言いますが、これが盛んになったのは、元禄以後、特に宝暦、明和、寛政と加速度で発達したもので、平次が活躍して来た、寛永から明暦の頃は、まだ大したことはありません。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "お珊文身調べ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二　文身といふのは、もとは罪人の入墨から起つたとも、野蠻人の猛獸脅しから起つたとも言ひますが、これが盛んになつたのは、元祿以後、特に實暦、明和、寛政と加速度で發達したもので、平次が活躍して來た、寛永から明暦の頃は、まだ大したことはありません。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "お珊文身調べ",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "獸脅"
+      ],
+      "needs_reading": true
+    }
+  }
+]

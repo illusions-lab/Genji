@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "b43469f9-f46a-5555-b7a0-957e087d27e3",
+    "entry": "溺殺",
+    "reading": {
+      "primary": "溺殺",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "人知らずして騎れば、たちまち海に飛び入り溺殺す（ボーン文庫本、ケートレイの『精魅誌』一六二頁）。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "イザとなれば一人洩らさず大濠へ溺殺にする手配りを致しているがのう……油断も隙もならぬ。",
+              "citation": {
+                "source": "名君忠之",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "情状最重の極惡人に對しては、一族の者が淹死（溺殺）又は活埋（生埋）の如き、嚴酷なる私刑をさへ加へるといふ（Moellendorff ; Le Droit de Famille Chinois. p. 74）。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』　１）　Ibid. p. 110.　２）　Id. p. 111.　同書には、小児の溺殺を禁止する勅令の一部が次の如く載っている、『生れたばかりのいたいけな嬰児が無慈悲にも波に投ぜられる時、生の享受がはじまるや否や直ちにそれが失われる時、母は生を与え、子は生を受けたと云い得ようか。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

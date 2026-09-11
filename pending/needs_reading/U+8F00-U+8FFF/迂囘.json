@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "d13d556f-b1f5-58d1-82c7-cc319565a2da",
+    "entry": "迂囘",
+    "reading": {
+      "primary": "迂囘",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "椒江の支流で、始豐溪と云ふ川の左岸を迂囘しつつ北へ進んで行く。",
+              "citation": {
+                "source": "寒山拾得",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "舟は方向を転じて、突出した陸地に沿うて迂囘しつつあつた。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　後篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然るに水行十日せば開聞の海角を迂囘するも、ほゞ櫻嶋の内灣に達し得べく、また別に陸行一月の長程を要せざるなり。",
+              "citation": {
+                "source": "倭女王卑彌呼考",
+                "author": "白鳥庫吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私はそこから遠い新道を迂囘するか、或はすぐそこの庭先から急坂を攣ぢて辨天山の脇の舊道を登つて歸つて來る。",
+              "citation": {
+                "source": "箱根の山々",
+                "author": "近松秋江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道は暫く淺い溪の底を歩いて左右から蔽ひかかつた苅萱の間を迂囘しつゝ進んでゆく。",
+              "citation": {
+                "source": "箱根の山々",
+                "author": "近松秋江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その別莊に達するには、沼のまはりを迂囘してゐる一本の小徑によるほかはないので、その建物が沼に落してゐるその影とともに、たえず私の目の先にありながら、私はなかなかそれに達することが出來なかつた。",
+              "citation": {
+                "source": "窓",
+                "author": "堀辰雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "喜望峰迂囘による印度航路がポルトガル人により発見されたので、印度貿易路は全く一変した。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "堀割づたひに曳舟通から直ぐさま左へまがると、土地のものでなければ行先の分らないほど迂囘した小径が三囲稲荷の横手を巡つて土手へと通じてゐる。",
+              "citation": {
+                "source": "すみだ川",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道は人家の間を過ぎて俄に迂囘すると急流にかゝつた橋を渡る。",
+              "citation": {
+                "source": "十年振",
+                "author": "一名京都紀行",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "牧牛者は半里の山道を迂囘して自分を宿屋の前迄案内して呉れた。",
+              "citation": {
+                "source": "三太郎の日記　第一",
+                "author": "阿部次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

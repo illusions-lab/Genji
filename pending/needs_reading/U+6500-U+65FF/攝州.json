@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "22516d09-11d8-502c-b31f-999354a75798",
+    "entry": "攝州",
+    "reading": {
+      "primary": "攝州",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "攝州の住吉だの、茨城、埼玉の某地だのの如きは、十二指腸蟲の巣窟で、そこの蔬菜井水を飮食すれば、危險至極で、其の附近には同患者の多いのは爭ふ可からざることである。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五　其の春、攝州多田院に開帳があつて、玄竹は病家の隙を見た上、一｜日其の參詣に行きたいと思つてゐた。",
+              "citation": {
+                "source": "死刑",
+                "author": "上司小劍",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "呉秀三の「箕作阮甫」に據ると、「幸民は裕軒と號し攝州三田の人。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

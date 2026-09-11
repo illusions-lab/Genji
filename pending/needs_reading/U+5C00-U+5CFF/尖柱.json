@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "c16a6a70-149c-53e8-a472-deaa92328841",
+    "entry": "尖柱",
+    "reading": {
+      "primary": "尖柱",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「ラテラノ」の寺、丈長き尖柱、「コリゼエオ」の大廈の址、トラヤヌスの廣こうぢ、いづれか我舊夢を喚び返す媒ならざる。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "窟の中央の窪んだ処に諧※けた人物が寄つて、尖柱戯（向うに立てゝある尖つた木の柱を、こちらから木の丸を転し掛けて倒す戯）をして居る。",
+              "citation": {
+                "source": "新浦島",
+                "author": "RIP VAN WINKLE. EINE NACHGELASSENE SCHRIFT VON DIETRICH KNICKERBOCKER.",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "渠は寐附いた迄の事を繰り返して思ふに、桶を負うた異人との邂逅、岩窟、物凄しい岩陰、陰気な尖柱戯の遊仲間、瓶。",
+              "citation": {
+                "source": "新浦島",
+                "author": "RIP VAN WINKLE. EINE NACHGELASSENE SCHRIFT VON DIETRICH KNICKERBOCKER.",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かれは昨日の怪い目に逢つた処へ往つて見やうと思ひ定めました、若し尖柱戯仲間の一人に出逢つたら、鳥銃と犬とも、取り戻されるかも知れぬから。",
+              "citation": {
+                "source": "新浦島",
+                "author": "RIP VAN WINKLE. EINE NACHGELASSENE SCHRIFT VON DIETRICH KNICKERBOCKER.",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これはこの洲と河とを発見したヘンドリツク、ホトソンの仲間で、二十年に一遍づゝこゝへ来て見るのが常になつて居る、かれの父は一度この仲間が山の洞の中で、和蘭風な打扮で、尖柱戯をして居るのに邂逅つたことがある、かれもある夏の昼過に、丸を転ばすやうな音を聞いたことがあるといひます。",
+              "citation": {
+                "source": "新浦島",
+                "author": "RIP VAN WINKLE. EINE NACHGELASSENE SCHRIFT VON DIETRICH KNICKERBOCKER.",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今も夏の午後にケエツキル山の方に雷がなる度に、かれ等は屹度ヘンドリツク、ホトソンの尖柱戯の話をくり返して、生計に困つた人はリツプ、フアン、ヰンクルの瓶から蒙汗薬が飲みたいと云ひます。",
+              "citation": {
+                "source": "新浦島",
+                "author": "RIP VAN WINKLE. EINE NACHGELASSENE SCHRIFT VON DIETRICH KNICKERBOCKER.",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其上には劒岳の東の肩ともいう可き三窓続きの更にいかめしい幾多の岩峰が、脚元から千仭の谷底目掛けて頽れ落ちる崩石の群を冷やかに瞰下ろして、断崖の絶端から絶端へ天斧の削痕尚お鮮かなる大尖柱を乱杭のように押し立てている。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "早月川の谷から力の籠った而も穏かな山稜の波が遥かの空際をうねって、この尖柱の森列せる断崖がなおも西へ延びた突端迄来ると、一躍之を越えて虚空に跳り上りさま、稍や円味を帯びた空線を描いて、更に東へ向けて掬うように雪崩れ込んでいるのがわが劒岳の絶巓である。",
+              "citation": {
+                "source": "黒部川奥の山旅",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

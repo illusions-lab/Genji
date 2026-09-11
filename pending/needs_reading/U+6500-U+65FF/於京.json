@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "4d6d77bd-2467-5056-92a1-ee4f9421ba96",
+    "entry": "於京",
+    "reading": {
+      "primary": "於京",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "卷尾には「享保八年｜癸卯七月七日於京都、里村昌億翁以本書、乾正豪寫之」と云ふ奧書があつて、其次の餘白に、「先師次第」と題した略系と「玄川先祖より次第」と題した略系とが書き添へてある。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第二篇　戦争史大観の序説（別名・戦争史大観の由来記）昭和十五年十二月三十一日於京都脱稿昭和十六年六月号「東亜連盟」に掲載　私が、やや軍事学の理解がつき始めてから、殊に陸大入校後、最も頭を悩ました一問題は、日露戦争に対する疑惑であった。",
+              "citation": {
+                "source": "戦争史大観",
+                "author": "石原莞爾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今一つは同じく右街の義寧坊に在る波斯胡寺で、これは唐の太宗の貞觀十二年（西暦六三八）に、ネストル教の僧の阿羅本の爲に建立したもので、かの大秦景教碑に、有司即於京義寧坊、造大秦寺一所――ここに大秦寺といふは、天寶四載以後の名稱に據つたものである――とあるもので、ネストル教の寺を指すこと疑を容れぬ。",
+              "citation": {
+                "source": "大師の入唐",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "廿六日の條に初は始行世上無爲祈祷於鶴岡云々と鎌倉に起れる事件を記して而して、同日の條武州者着于手越驛云々また今日晩景秀澄自美濃國去十九日遣官軍所被固關方之也重飛脚於京都申云、關東士云々とあり記者の分身の數は爰に於て更に一個を増せり。",
+              "citation": {
+                "source": "吾妻鏡の性質及其史料としての價値",
+                "author": "原勝郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "御公儀御法会の時、於京都九品派の出家諷経に出座ある時、御不（布）施物の外に施行下さるゝ由、総て施行は乞食非人に被下事也。",
+              "citation": {
+                "source": "俗法師考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

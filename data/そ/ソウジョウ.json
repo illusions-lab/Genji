@@ -2462,5 +2462,73 @@
         "莊襄"
       ]
     }
+  },
+  {
+    "uuid": "68d05910-ec8a-5851-b7a3-704c261b5c57",
+    "entry": "争擾",
+    "reading": {
+      "primary": "そうじょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "雑人どもの争擾を防ぐために、衛府の侍は申すにおよばず、源平の武士もことごとく河原をいましめと言い渡された。",
+              "citation": {
+                "source": "玉藻の前",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して其不和｜争擾の衝に当る者は其時の未亡人即ち今日の内君にして、禍源は一男子の悪徳に由来すること明々白々なれば、苟も内を治むる内君にして夫の不行跡を制止すること能わざるは、自身固有の権利を放棄して其天職を空うする者なりと言わるゝも、弁解の辞はある可らず。",
+              "citation": {
+                "source": "新女大学",
+                "author": "福沢諭吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

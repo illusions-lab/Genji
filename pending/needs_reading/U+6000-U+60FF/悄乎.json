@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "0f9db1e7-b2ec-5c78-bf1f-19ef579024a7",
+    "entry": "悄乎",
+    "reading": {
+      "primary": "悄乎",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　と奴は悄乎げて指を噛む。",
+              "citation": {
+                "source": "海異記",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」第二十一「頃刻悄乎して居たつけ。",
+              "citation": {
+                "source": "高野聖",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれども、可厭な、可忌しい聲を聞かずには濟むまい、と思ふと案の定……　來て、其の行逢つたものは、一ならびに並んだ三｜人づれで、どれも悄乎とした按摩である。",
+              "citation": {
+                "source": "三人の盲の話",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次の婦は、腰から其の影を地へ吸込まれさうに、悄乎と腰をなやして踞む……鬢のはづれへ、ひよろりと杖の尖が抽けて青い。",
+              "citation": {
+                "source": "三人の盲の話",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "黄昏に三人で、時雨の松の見霽へ出掛けるのを、縁の柱で、悄乎と、藤棚越に伸上って見ていると、二人に連れられて、私の行くのが、山ではなしに、干潟を沖へ出て、それ切帰らない心持がしてならなかった。",
+              "citation": {
+                "source": "甲乙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……あすこだったと思う、紅蓮が一茎、白蓮華の咲いた枯田のへりに、何の草か、幻の露の秋草の畦を前にして、崖の大巌に抱かれたように、巌窟に籠ったように、悄乎と一人、淡く彳んだ婦を見ました。",
+              "citation": {
+                "source": "甲乙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "雪女は拵への黒塀に薄り立ち、産女鳥は石地蔵と並んで悄乎彳む。",
+              "citation": {
+                "source": "伯爵の釵",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "仲の町で、或引手茶屋の女房の、久しく煩つて居たのが、祭の景氣に漸と起きて、微に嬉しさうに、しかし悄乎と店先に彳んだ。",
+              "citation": {
+                "source": "祭のこと",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其處へ二十人餘り、年紀こそ十五六から三十ぐらゐまで、いろ／＼に違ひましたが、皆揃つて美しい、ですが、悄乎とした女たちが出て來ましてね、いづれ、同じやうなお身の上でおいでなさいませう。",
+              "citation": {
+                "source": "みつ柏",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "麦稈帽を鷲掴みに持添へて、膝までの靴足袋に、革紐を堅くかゞつて、赤靴で、少々抜衣紋に背筋を膨らまして――別れとなればお互に、峠の岐路に悄乎と立つたのには――汽車から溢れて、風に吹かれて来た、木の葉のやうな旅人も、おのづから哀れを催し、挨拶を申すうちに、つい其誘はれて。",
+              "citation": {
+                "source": "十和田湖",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "48152aaf-9c46-5444-a978-dd78d4bf3c2f",
+    "entry": "北々",
+    "reading": {
+      "primary": "北々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "北々西の風、風速二十メートルだといってました」「そうか」　艇長は、それだけいって唇をかんだ。",
+              "citation": {
+                "source": "太平洋魔城",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "軍艦明石　練習艦隊須磨明石の二艦は、針路を北々東にとって、暗夜の南シナ海を航行してゆく。",
+              "citation": {
+                "source": "浮かぶ飛行島",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "北々西風（亥の方）さがならい。",
+              "citation": {
+                "source": "道具と餌と天候",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "北に登る四丁で三角点の立てる一峰、標高三千七十米突、主峰の北々東だ、が北穂高岳「信飛界、空沢岳（宛字）、嘉門次」と命名しておく。",
+              "citation": {
+                "source": "穂高岳槍ヶ岳縦走記",
+                "author": "鵜殿正雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「平野氏の報告によれば、伊東町に大川某という魚商があり、二十六日午前三時ごろ多くの生魚を荷造りし、これを自動車にて修善寺方面に輸送する途中、午前三時半ごろ伊東より北々西に当たる丹那三島の方角に当たって、薄明るい光が現れ、青赤白黄混合した色を呈し、次第に南方に移った。",
+              "citation": {
+                "source": "地震なまず",
+                "author": "武者金吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "熊野の曽根では、地震の最中に北々西と南東に赤い火球状の光を認めた（三重県熊野灘沿岸南部踏査概報）。",
+              "citation": {
+                "source": "地震なまず",
+                "author": "武者金吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私の家は石巻港をへだたる北々西約四里をへだてたる所にありますが、石巻方面を中心として、東は本吉郡沖合、西は松島湾方面一帯にわたる海上に、あたかも大漏電の如き光色を呈する数十の発光体が盛んに現滅しておりました。",
+              "citation": {
+                "source": "地震なまず",
+                "author": "武者金吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私の一ばん驚いたのは、沖縄の所管と謂っても本島からは西へ百里、八重山島群からは北々西へ六十里余、福建海岸へは二百里、最も近い久米赤島へも三十里という洋上の無人島、胡馬または久場という小島にも、やはり鼠が住んでいた。",
+              "citation": {
+                "source": "海上の道",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（二）、今回の破裂は北々東より南々西に走る霧島火山脈の活動にはあらずして是に交叉し西々北より東々南に走る地盤の弱線に沿て起れる火山活動にして、新噴火口は其線上に配列せり。",
+              "citation": {
+                "source": "櫻島噴火の概況",
+                "author": "石川成章",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

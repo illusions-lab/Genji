@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "a7e5e2ad-9224-50ad-ab5e-6550f3d9752a",
+    "entry": "吋半",
+    "reading": {
+      "primary": "吋半",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "男には帽子一個――一見して帽子の定義に適合する品にかぎる――下着三枚、つけ代えのぼたん五個、靴下留｜巾一｜吋半以内のもの一つ、眼鏡――眼科医の診断書ならびに領事館の翻訳証明を要す――一個。",
+              "citation": {
+                "source": "踊る地平線",
+                "author": "踊る地平線",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昨日、パパの書斎の机の上に、油雑巾といっしょに六吋半の射撃用のピストルが出ていたのを思いだした。",
+              "citation": {
+                "source": "だいこん",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "血や臓腑の残りをきれいに洗われたやつは、回転庖丁のついた箱を通って幅二｜吋半の切身となって受桶へ落ちてくる。",
+              "citation": {
+                "source": "南部の鼻曲り",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "高サ三一吋半ほどの蹲には、梯子や戸板の如きものが三方からたてかけたままになつてゐたので、それが留守番が子供達に頭や肩にとつつかれて留守番してゐたといふやうに思へた。",
+              "citation": {
+                "source": "二つの繪",
+                "author": "芥川龍之介の囘想",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

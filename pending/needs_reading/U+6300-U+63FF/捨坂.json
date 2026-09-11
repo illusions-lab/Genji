@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "47a7c230-e032-551a-97d6-7badaf59f423",
+    "entry": "捨坂",
+    "reading": {
+      "primary": "捨坂",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "俗に猫捨坂と呼ぶ人もある。",
+              "citation": {
+                "source": "猫捨坂",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この猫捨坂の、病院側の一帯が、戦争中の空襲に焼けてしまった。",
+              "citation": {
+                "source": "猫捨坂",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのため、猫捨坂は多少とも明るくなる筈だったが、却って妖気が深まった。",
+              "citation": {
+                "source": "猫捨坂",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "元来が人通りも少なかった猫捨坂は、夜分など、ますます通行人が少なくなった。",
+              "citation": {
+                "source": "猫捨坂",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "猫捨坂を通るのが一番の近道だ。",
+              "citation": {
+                "source": "猫捨坂",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その猫捨坂にも、体を休めてる女がいた。",
+              "citation": {
+                "source": "猫捨坂",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "女の方から先に立って、事もなげに猫捨坂へ向うのである。",
+              "citation": {
+                "source": "猫捨坂",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俺は先に立って、猫捨坂を上りかけた。",
+              "citation": {
+                "source": "猫捨坂",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "猫捨坂で彼が嘔吐したことは、俺にふしぎな印象を与えた。",
+              "citation": {
+                "source": "猫捨坂",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "猫捨坂の異臭を、風よ、吹き払ってしまえ。",
+              "citation": {
+                "source": "猫捨坂",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

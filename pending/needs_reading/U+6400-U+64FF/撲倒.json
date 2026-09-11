@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "78d4ebb0-e87b-51bc-8b2d-c9d1ba211e22",
+    "entry": "撲倒",
+    "reading": {
+      "primary": "撲倒",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "撲倒すのを野蛮と云うんだ。",
+              "citation": {
+                "source": "婦系図",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのかわりだ、半纏着の附合いになって撲倒すよ。",
+              "citation": {
+                "source": "婦系図",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その面赤しといえども、その力大なりといえども、山男にて手を加えんとせんか、女が江戸児なら撲倒す、……御一笑あれ、国男の君。",
+              "citation": {
+                "source": "遠野の奇聞",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「どういたしまして相済みません、私あね、先生、書生や車夫なんぞが居るてますから、掴出す位なことはするだろうと思ってね、そうしたら一番｜撲倒しておいて、そいつを機に消えようと思ったんだが、まるで足腰が立たねえんです。",
+              "citation": {
+                "source": "三枚続",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "へい、盗人だって気に入るのがあるし、施をする奴に撲倒してやりたいのがありますね。",
+              "citation": {
+                "source": "三枚続",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は幾度か彼の女｜銀子の幻像を撲倒し引千切りしてきたのだが……と同時に、又自分自身を嘲笑する言葉もあったろうが――歩き廻っているうち、いつの間にか、そんな荒れ果てた景色の中に、自分自身を発見したのであった。",
+              "citation": {
+                "source": "自殺",
+                "author": "蘭郁二郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

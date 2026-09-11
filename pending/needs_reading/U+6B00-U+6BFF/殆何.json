@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "f3545e78-e39e-546a-9060-e753d2eed274",
+    "entry": "殆何",
+    "reading": {
+      "primary": "殆何",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "当主格之助などは、旧塾に九人、新塾に十余人ゐる平の学生に比べて、殆何等の特権をも有してをらぬのである。",
+              "citation": {
+                "source": "大塩平八郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いや、名高い庭師の造つた、優美な昔の趣は、殆何処にも見えなかつた。",
+              "citation": {
+                "source": "庭",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "男は殆何の気なしに、ちらりと窓を覗いて見た。",
+              "citation": {
+                "source": "六の宮の姫君",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "江戸川さんが、殆何も書かなくなつたのは、色々な理由の上に、更に、かう言ふ風潮に對するあきたらなさが、心を重くしつゞけてゐるのであらう。",
+              "citation": {
+                "source": "人間惡の創造",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此処は壁に懸けた軸の外に殆何も装飾はない。",
+              "citation": {
+                "source": "上海游記",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――兎に角、垂死の芭蕉の顔に、云ひやうのない不快を感じた其角は、殆何の悲しみもなく、その紫がかつたうすい唇に、一刷毛の水を塗るや否や、顔をしかめて引き下つた。",
+              "citation": {
+                "source": "枯野抄",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二階は六畳に三畳の二間つづきであるが、前桐の安箪笥と化粧鏡と盆に載せた茶器の外には殆何にもない。",
+              "citation": {
+                "source": "つゆのあとさき",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

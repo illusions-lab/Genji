@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "0f46ac01-934e-512a-9a20-e89e8183d84a",
+    "entry": "哩半",
+    "reading": {
+      "primary": "哩半",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "汽車の窓からも、その中の最大（といっても長さは二｜哩半位しかないが）のホイットニイ氷河が、銀流しに光っているのが見える。",
+              "citation": {
+                "source": "火と氷のシャスタ山",
+                "author": "小島烏水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして時計を出して見て、「今ちょうど速力は一時間五十三｜哩半だ」「四分の一哩標が見えなかったようだが」　と、私はいった。",
+              "citation": {
+                "source": "白銀の失踪",
+                "author": "SILVER BLAZE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "監獄の酋長達に招かれ、午後、灼けるような四｜哩半を騎乗、獄中の宴に赴く。",
+              "citation": {
+                "source": "光と風と夢",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ハトンは自分の物置の隅つこから、鼠をたんと駆り集めて、色々試してみると、大抵の鼠は一日平均十一｜哩半は走れる、なかには平気で十八哩も走れるのがあるといふ事を発見した。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正七（一九一八）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それとも上海に百哩半径の円を描いて休戦するか。",
+              "citation": {
+                "source": "旅愁",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これが七月二十七日に、南亜の海岸を去る一哩半から二哩半の沖合いを、北東に向って航行していた。",
+              "citation": {
+                "source": "沈黙の水平線",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "従って朝夕、美くしく着飾った女達が、都会に居るよりもっと気取って、もっと富有らしい歩調で散策する距離は、僅か一哩半位の、村道に限られて居るような形でございます。",
+              "citation": {
+                "source": "Ｃ先生への手紙",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ダアビイの距離は一｜哩半、三歳馬、二十三頭出場。",
+              "citation": {
+                "source": "踊る地平線",
+                "author": "テムズに聴く",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "グリュッチで電車にのりかえると、二｜哩半ばかりでミュルレンに着く。",
+              "citation": {
+                "source": "スウィス日記",
+                "author": "辻村伊助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然しウィンテルシュポルトから云えば、シャイデックから村まで五｜哩半にわたる急斜は、シーにはもっとも適した場所と思われる。",
+              "citation": {
+                "source": "スウィス日記",
+                "author": "辻村伊助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "郵便馬車 Swiss-Post, Diligence が日に三回、サン・モリッツの北のサマーデンから、三十五｜哩半の此の道を通って、マロヤ・パッスからキヤヴェンナまで通っている。",
+              "citation": {
+                "source": "スウィス日記",
+                "author": "辻村伊助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アルキアーノこゝにいたりてその名を失ふ、こゝより海に赴くまでたゞアルノと稱へらるればなりカムパルディーノよりこの落合まで約二哩半ありといふ一〇〇―一〇二【マリア】臨終に聖母の名を呼べるなり一〇三―一〇八【地獄の使者】鬼。",
+              "citation": {
+                "source": "神曲",
+                "author": "LA DIVINA COMMEDIA",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "イニッシマン（中の島）は直径三哩半ぐらゐで殆ど円形である。",
+              "citation": {
+                "source": "アラン島",
+                "author": "片山廣子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "普通感覚の最も鋭敏なる犬においても――たとえば警察犬のごとき、あるいは軍用犬のごときものですら、その嗅覚は精々一｜哩半から二哩半にわたるのでして、数哩なぞという嗅覚のあろうはずはありません。",
+              "citation": {
+                "source": "陰獣トリステサ",
+                "author": "橘外男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 21
+      }
+    }
+  }
+]

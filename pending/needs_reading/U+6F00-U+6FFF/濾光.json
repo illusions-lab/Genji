@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "c6fdf717-920f-553a-a0d7-9c406b82ac14",
+    "entry": "濾光",
+    "reading": {
+      "primary": "濾光",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "長さ数センチメートルの長い火花を写真レンズで郭大した像をすりガラスのスクリーンに映じ、その像を濃青色の濾光板を通して、暗黒にならされた目で注視すると、ある場合には光が火花の道に沿うて一方から他方へ流れるように見える。",
+              "citation": {
+                "source": "人魂の一つの場合",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "尤もそれだけではまだ人間の眼に見えますから、そのランプか可視光線を吸収して紫外線だけを通す特殊の濾光障の中へ入れて置けば、人間の眼には、殆んど光が見えませんが、写真は充分に撮れます。",
+              "citation": {
+                "source": "女記者の役割",
+                "author": "野村胡堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "濾光障というと面倒ですが、酸化ニッケルで着色した黒いガラスで、それには 30651 という硝子番号まで付いて居ります。",
+              "citation": {
+                "source": "女記者の役割",
+                "author": "野村胡堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "どういう風にして撮られたのかは知らないが、濾光板なしで撮ったらしく思われる写真は、画面全体が黒ずんで、古い掛軸の唯一面に黒くなったもののように、時代の錆を喜ぶ方が主となっているものという感じを与える。",
+              "citation": {
+                "source": "壁画摸写",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうかといって、強い濾光板を入れて撮ったか、或はプロセス風な乾板を用いたらしい濃淡の強い写真もあるが、この方は余りに線がどぎつくて、それに壁の傷痕が目立ちすぎて、却って実物からは遠い感じを与えていることがよく分った。",
+              "citation": {
+                "source": "壁画摸写",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "7397bb81-0a0c-5c42-97b8-68087ee815dc",
+    "entry": "轣音",
+    "reading": {
+      "primary": "轣音",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "三軒茶屋から登戸への街道に面し、牛車、タンク、砲車隊等の轣音、囂音、火山灰の旋風は堪へがたかつた。",
+              "citation": {
+                "source": "白南風",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自ら太政相国と称し、宮門の出入には、金花の車蓋に万珠の簾を垂れこめ、轣音揺々と、行装の綺羅と勢威を内外に誇り示した。",
+              "citation": {
+                "source": "三国志",
+                "author": "群星の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　車駕の轣音や馬蹄のひびきが街に聞える、巷のうわさは嘘とも思えない。",
+              "citation": {
+                "source": "三国志",
+                "author": "群星の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

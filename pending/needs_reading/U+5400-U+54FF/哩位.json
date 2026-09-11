@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "167690c4-ea49-5a43-96b3-1363349e9eb6",
+    "entry": "哩位",
+    "reading": {
+      "primary": "哩位",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "汽車はサクラメントの大河に沿うて走る、川の底には、堅い凝灰岩などが露出しているが、シャスタを距ること、五十｜哩位のところから、熔岩が、両岸に段丘を作っている。",
+              "citation": {
+                "source": "火と氷のシャスタ山",
+                "author": "小島烏水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "勿論かゝる構造で、極めて重量のある鐵車の事だから、速力の點に於ては餘り迅速には行かぬ、平野ならば、一時間平均五｜哩以上進行する事が出來るであらうが、極く勾配の激しい坂道では、辛じて一｜時間一｜哩位の速力に終る事もあらう。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "丁度僕とその男との坐つてゐる岩端に向き合つて、五｜哩か六哩位の沖に、小さい黒ずんだ島がある。",
+              "citation": {
+                "source": "うづしほ",
+                "author": "A DESCENT INTO THE MAELSTROM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "欧亜間の海に至っては五拾哩で、南路の広い所を迂回しても弐百哩位なもので、その間は幾多の島つづきであって、小舟を以て自由に来往される。",
+              "citation": {
+                "source": "東西相触れて",
+                "author": "新渡戸稲造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「六｜哩位のものでせう。",
+              "citation": {
+                "source": "ジエィン・エア",
+                "author": "ブロンテイ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其處には鋸壁の上に腕を振つてその女が立つてゐて、一｜哩位も離れたところまで聞える程の叫び聲を出してゐました。",
+              "citation": {
+                "source": "ジエィン・エア",
+                "author": "ブロンテイ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ガルウエイ市から三十哩位へだたつてその島々がある。",
+              "citation": {
+                "source": "アラン島",
+                "author": "片山廣子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一体あの時、機の速力は時速百二十｜哩位でした。",
+              "citation": {
+                "source": "旅客機事件",
+                "author": "大庭武年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一四七七年に、多分英国のブリストルから出帆して、アイスランドとの中途にあるファロエ諸島を超えて百哩位北まで航海したのが、大洋を知った初めであると云われている。",
+              "citation": {
+                "source": "鎖国",
+                "author": "日本の悲劇",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

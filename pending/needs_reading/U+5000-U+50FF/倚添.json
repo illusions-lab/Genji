@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "8faa4a59-defb-5671-8386-fe5c578dda29",
+    "entry": "倚添",
+    "reading": {
+      "primary": "倚添",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "向の壁に倚添えて一脚の机を置いて、その右に一人の男が腰をかけている。",
+              "citation": {
+                "source": "満韓ところどころ",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』と準教員も銀之助の傍に倚添ひながら眺めた。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "終にはお志保までも来て、奥様の傍に倚添ひ乍ら聞いた。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "手提洋燈を吹消して、急いで火鉢の側に倚添ひ乍ら、『いや、もう屋外は寒いの寒くないのツて、手も何も凍んで了ふ――今夜のやうに酷烈しいことは今歳になつて始めてだ。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五歳ばかりを頭に、三人の女の児は母親に倚添つて、恥かしがつて碌に御辞儀も為なかつた。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "髪のかたちこそ新婚の人のそれに結ひ変へては居るが、紛れの無い六左衛門の娘、白いもの花やかに彩色して恥の面を塗り隠し、野心深い夫に倚添ひ、崖にある坂路をつたつて、舟に乗るべきところへ下りて行つた。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斯ういふ他の談話の間にも、女は高柳の側に倚添つて、耳を澄まして、夫の機嫌を取り乍ら聞いて居た。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "定めし、お志保は部屋を出たり入つたりして、茶の道具を持つて来たり、其を入れて人々に薦めたり、又は奥様の側に倚添ひ乍ら談話を聞いて微笑んで居るのであらう。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「奥様、御足でも撫りましょうか」　と私は御傍へ倚添いました。",
+              "citation": {
+                "source": "旧主人",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やがて、すこし震えて男の傍へ倚添いながら、「何時までもこうして二人で居られますまいかねえ。",
+              "citation": {
+                "source": "旧主人",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "南の障子にさす日の光は、御部屋の内を明るくして、銀の屏風に倚添う御二人の立姿を美しく見せました。",
+              "citation": {
+                "source": "旧主人",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 16
+      }
+    }
+  }
+]

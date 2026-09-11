@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "d193ac88-8ccd-5faf-a887-fb2959e51c37",
+    "entry": "竊取",
+    "reading": {
+      "primary": "竊取",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そこでその二枚を別にしまつて――竊取すると云ふ考へもなしに――置いた…………（此先の事は被告は裁判長に遮られて説明をしなかつたから、作者が想像すると）そして局へ帰つて届けようと思つて居る間に時間が妙に過ぎて、しまひに届ける機会を失つてたうとう自分の私用に使つた。",
+              "citation": {
+                "source": "公判",
+                "author": "平出修",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "最初より切手を剥ぎとつて竊取したのではない。",
+              "citation": {
+                "source": "公判",
+                "author": "平出修",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だから空手では何處へ行つても竊取せざる限は存分に軟かな草を刈ることは出來ない。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その人は彼自身のカフスボタンを竊取してしまったから。",
+              "citation": {
+                "source": "あめんちあ",
+                "author": "富ノ沢麟太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

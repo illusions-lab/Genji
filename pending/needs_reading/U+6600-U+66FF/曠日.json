@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "5f9e3bb9-868f-52c1-a21e-ece0304e8add",
+    "entry": "曠日",
+    "reading": {
+      "primary": "曠日",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「太平鉄路積雪の為に、既に十有余日山中なる塩湖と云へる市府に淹留、空しく曠日未だ華盛頓府に達する能はず……現今英米両国の間に起りたる“アラバマ”一条｜頗る困難の事情に至り、或は争端を起すも不可測との新聞を屡々検せり。",
+              "citation": {
+                "source": "黒田清隆の方針",
+                "author": "服部之総",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「相変らずでございます」「曠日弥久というところかな？",
+              "citation": {
+                "source": "求婚三銃士",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "得曠日彌久而周澤既渥。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "老莊申韓列傳第三",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

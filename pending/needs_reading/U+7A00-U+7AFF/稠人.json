@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "5a2337cd-6051-5c20-86ed-6a43e3ae439f",
+    "entry": "稠人",
+    "reading": {
+      "primary": "稠人",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それはさて置き、曠野城の嫁入り前の女子が昼間｜稠人中で裸で立ち尿をした空前の手際に、仰天して一同これを咎めると、女平気で答うらく、この国民はすべて意気地なしで女同然だ。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鶏に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かつて野猪を幼時から育てた人の直話に、この物｜稠人中によく主人を見出し、突然鼻もて腰を突きに来るに閉口した。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猪に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "七六　愼獨工夫、當如身在稠人廣座中一般。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "〔譯〕愼獨の工夫は、當に身｜稠人廣座の中に在るが如く一｜般なるべし。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その人嚢を脊負ひて、その中には十数頭の鼠を蓄へ置き、稠人のうちにて、木もて組める小なる架を出して肩上に据うれば、そはやがて舞台なり。",
+              "citation": {
+                "source": "『聊斎志異』より",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

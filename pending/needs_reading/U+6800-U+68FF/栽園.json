@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "e6abc8d1-e4b0-54fa-9f56-a69c60e4cabb",
+    "entry": "栽園",
+    "reading": {
+      "primary": "栽園",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ここは元来が「小石川御薬園」といって、幕府直轄の薬草栽培地であり、一万坪ほどの栽園が二つ、道をはさんで南北にひろがっていた。",
+              "citation": {
+                "source": "赤ひげ診療譚",
+                "author": "狂女の話",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "養生所は南の栽園の一部にあるのだが、このあたりは高台の西端に当るため、薬園の高いところに立つと、西にひらけた広い展望をたのしむことができた。",
+              "citation": {
+                "source": "赤ひげ診療譚",
+                "author": "狂女の話",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もう三月中旬になっていただろう、所内にある桜はどれも咲きさかり、栽園のほうでも薬用の木や草木が、おそいのもすっかり芽を伸ばしていたし、早いものは花を咲かせており、風がわたると、それらの花の強い匂いで、空気が重く感じられるようであった。",
+              "citation": {
+                "source": "赤ひげ診療譚",
+                "author": "狂女の話",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

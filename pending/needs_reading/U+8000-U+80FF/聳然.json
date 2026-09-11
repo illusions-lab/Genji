@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "e0f73506-295d-5117-af68-fc4c68866415",
+    "entry": "聳然",
+    "reading": {
+      "primary": "聳然",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それでも有繋に森はあたりを威壓して夜になると殊に聳然として小さなお品の家は地べたへ蹂つけられたやうに見えた。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから八｜日目に村落の者が佛を迎へに提灯持つて行つた時は刈り拂はれた草が暑いといつても秋らしくなつた日に其の生殖作用を急がうとして聳然と首を擡げて居た。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聳然と空に奔騰しようとする焔を横に壓しつけ／＼疾風は遂に塊の如き火の子を攫んで投げた。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "桑畑の端の方に薹に立つた菜種の少し黄色く膨れた蕾は聳然と其雪から伸び上つて居る。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「まあ惜しいといへば紙一｜枚でも何だが、これ、家は直ぐにも建てれば建つんだが、樹が惜しいことをしたつて云つてるのさ、それだが此れもそんなことを云つたつて仕方がないがね」内儀さんは聳然と立ては居るが到底枯死すべき運命を持つて居る喬木の數本を端近に見上ていつた。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

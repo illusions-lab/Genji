@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "a3441361-2eb8-5b2d-b1ee-cc3afe3038cc",
+    "entry": "於国",
+    "reading": {
+      "primary": "於国",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "尚於柏於国其外宜可申候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "卓出之物、有一則一、十則十、皆有裨益於国家也、猶艸木之於松菊也。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第二部下",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本の芝居の歴史を考えて見てもやはりそうなので、所謂出雲の於国が神社の巫女であって、しかも、その神社の祭礼の行事として、京都で日本最初といわれる歌舞伎を――今日とまるで形は違いますけれども――やった。",
+              "citation": {
+                "source": "俳優倫理",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "例えば、於国という出雲神社の巫女が、平生は神社の巫女として神聖な歌舞を業としていたのですが、彼女は自分の芸を一般大衆の娯楽にまで押進めようとしたのです。",
+              "citation": {
+                "source": "俳優倫理",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吾人既絶望於国内専家之闡明。",
+              "citation": {
+                "source": "数学史の研究に就きて",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "文明二年八月国民の一つたる越知家栄が、畠山義就に党して河内に出陣し、畠山政長方と戦争したについても、尋尊はこれを批評して、「於国民輩者過分所存也」と詈っている。",
+              "citation": {
+                "source": "俗法師考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昭和二十一年十一月十九日於国技館」と書いてある横に、「相撲とりならぶや秋の唐錦」という俳句が書きそえてある。",
+              "citation": {
+                "source": "土俵の夢",
+                "author": "尾崎士郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の側臣たちは、それをしおに家康の袖を引いて、寝所へ入られては――とソッと合図をしたが、そのいとまもなく、次の瞬間には、大がかりな鳴物と共に、ひとりのひょうげた男が出てきて、「これからこよいの貴賓のために、近ごろ都はいうもおろか鄙にまで聞え渡った於国歌舞伎をごらんにいれまする。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第十分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そもそもこの於国歌舞伎となん申しはべる歌舞の由来は……」　と、頗る饒舌にしゃべり出した。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第十分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殿にはもうお眠いと仰っしゃっておられるが」　於国に見とれている信雄へ、徳川の奥平九八郎がわざと露骨に云った。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第十分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "於国歌舞伎はまだ終ってない中途であったので、それからもまだ音曲のバイオラや笛太鼓が遠くに聞えていた。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第十分冊",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

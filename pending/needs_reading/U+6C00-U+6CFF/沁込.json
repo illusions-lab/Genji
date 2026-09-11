@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "39563bf3-f472-5436-b03b-9afe57ae7146",
+    "entry": "沁込",
+    "reading": {
+      "primary": "沁込",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "扇を腰に、がたがたと格子を開けると、汚い二階家の、上も下も、がらんとして、ジイと、ただ、招魂社辺の蝉の声が遠く沁込む、明放しの三間ばかり。",
+              "citation": {
+                "source": "薄紅梅",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三　然し時がたつに従って、その時の事実の真相が少しずつお島の心に沁込むようになって来た。",
+              "citation": {
+                "source": "あらくれ",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日光が腫れただれたように目に沁込んで、頭痛がし出して来た。",
+              "citation": {
+                "source": "あらくれ",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「とてもこんな大きなんじゃない」壮太郎は、長く沁込んだその町の内部の生活を憶出していると云う顔をして笑った。",
+              "citation": {
+                "source": "あらくれ",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何ぼうしても落ちぬ程に、黒々と沁込んだ心の穢れ！",
+              "citation": {
+                "source": "かもめ",
+                "author": "ЧАЙКА",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聲なき此れ等の書物によつて世界の新思想は、丁度牢獄の中に何處からとも知れず、漏れ來る日光のやうに、若い吾々の頭に沁込んで來るのだ。",
+              "citation": {
+                "source": "新歸朝者日記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

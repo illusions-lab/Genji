@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "72ccd331-6c59-5ad5-96e8-2c5d453f4195",
+    "entry": "而此",
+    "reading": {
+      "primary": "而此",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "さて翌年二月十九日になつても、「今以而全快と申には無御座候而、少々｜麻痺仕候氣味に御座候へ共、老體のこと故、元の通りには所詮なるまいと、其儘に而此節は療治もやめ申候」と云ふ轉歸である。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又承り候得バ、早明日御出船と、定而此頃御多用ニ候べしと奉存候得バ、事ニより近日山口までも御尋申べきかと奉存候間、何卒御面遠ながら御足お止められ候所を一筆｜御印置可被遣よふ｜奉希候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応二年十二月十五日　木戸孝允あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "形なく声なしといえども、いわゆる昭々として欺くべからざるものあり」と）（『性理大全』）朱子曰、人鬼之気則消散而無余矣、其消散亦有久速之異、人有不伏其死者、所以既死而此気不散為妖為怪。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朱子の説にも、「人鬼之気、則消散而無余矣、其消散亦有久速之異、人有不伏其死者、所以既死而此気不散、為妖為怪。",
+              "citation": {
+                "source": "迷信と宗教",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而此句明言眞僞之分也。",
+              "citation": {
+                "source": "楊雄と法言",
+                "author": "狩野直喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "依而此一卷を編輯して以て竹島雜誌と名を冠しむるもの也。",
+              "citation": {
+                "source": "他計甚※（竹島）雜誌",
+                "author": "松浦武四郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "惣而此島中峻嶺多く樹木繁茂、又瀑布處々有。",
+              "citation": {
+                "source": "他計甚※（竹島）雜誌",
+                "author": "松浦武四郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "誰人とし而此島地を杞憂するものに未だ邂逅せず。",
+              "citation": {
+                "source": "他計甚※（竹島）雜誌",
+                "author": "松浦武四郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然而此万葉四巻作歌者両人之中何婦乎。",
+              "citation": {
+                "source": "人麿の妻",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "扨而此の二日の大地震は前古｜未曾有にて、御同樣杖とも又柱とも頼に致居候水戸の藤田戸田之兩雄も搖打に被逢、黄泉の客と被成候始末、如何にも痛烈之至り、何事も此ぎりと旦暮愀悒嗟嘆相極め居候、御深察可被下候。",
+              "citation": {
+                "source": "遺牘",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

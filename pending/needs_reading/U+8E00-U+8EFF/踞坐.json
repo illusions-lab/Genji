@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "1746303d-e140-5f90-b9c5-e147d2bf30bd",
+    "entry": "踞坐",
+    "reading": {
+      "primary": "踞坐",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "明り取りが無くて薄暗いので、隅の方は良く判らないが、此方から見る正面には、一人の老婆が傲然と――誠に女王の如く傲然と踞坐して煙草を吸つてゐる。",
+              "citation": {
+                "source": "環礁",
+                "author": "――ミクロネシヤ巡島記抄――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "明り取りが無くて薄暗いので、隅の方は良く判らないが、此方から見る正面には、一人の老婆が傲然と――誠に女王の如く傲然と踞坐して煙草を吸っている。",
+              "citation": {
+                "source": "環礁",
+                "author": "――ミクロネシヤ巡島記抄――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「うふふ、わしんとこ来てくれねえかな、う、酒もあるでな、全く何ちゅう酷え雨だかよ」　例の吃男は踞坐して何か奇妙な呪文をぶつぶつ唱えているばかり、返事もくれぬのだ。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あるいはみずから村閭の政治家をもって任じ、威権戸長を凌ぐの郷紳も、その傍輩と炉辺に踞坐するときには、あまりに現今わが邦変化の不思議に驚き、将来はいかがあらんと相談ずることもあらん。",
+              "citation": {
+                "source": "将来の日本",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

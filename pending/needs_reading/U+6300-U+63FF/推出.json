@@ -1,0 +1,159 @@
+[
+  {
+    "uuid": "ecf8aa4e-8339-520e-959f-f1a24ef94869",
+    "entry": "推出",
+    "reading": {
+      "primary": "推出",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "おぬるくて、のろい癖に、もの見高な、せっかちで、お天守見届けのお使いの帰るのを待兼ねて、推出したのでござります。",
+              "citation": {
+                "source": "天守物語",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　とお貞は推出すがごとくに言う。",
+              "citation": {
+                "source": "化銀杏",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "揚幕より推出されて、多勢の見物の見る目恥かしく、しのぶ、小稲とともに狂言のなかに立交りて、舞台に鞠唄うたいし声の、あやしく震いたるも多日がほどぞ。",
+              "citation": {
+                "source": "照葉狂言",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "四五間しかないそうですが、泥水を装って川へ一時に推出して来た、見る間に杭を浸して、早や橋板の上へちょろちょろと瀬が着く騒。",
+              "citation": {
+                "source": "黒百合",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　夫人は端然として傍目も振らず、侍女二人は顔見合せ、吐息と共に推出す一言、「おお危い。",
+              "citation": {
+                "source": "貧民倶楽部",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と友禅の座蒲団を直して、桐火桶を推出したまい、「何ですか大層お急きだことね。",
+              "citation": {
+                "source": "貧民倶楽部",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……大勢の弟子のうちから、地震に散ばらないのだけ、四五人｜誘合って、てこに、麻縄、鋤、セメントなんどを用意して、シャツにズボンばかり、浴衣に襷がけの勢で推出したんです。",
+              "citation": {
+                "source": "露萩",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "して見れば将門は恋の叶はぬ焦燥から、車を横に推出したことになる。",
+              "citation": {
+                "source": "平将門",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "相撲なら、ここで定基の出足さえ速かったら、匡衡は手もなく推出されて終うところだったが、何も定基は勝負を争うつもりのわけでは無かったから、追窮するような態度に出無かった。",
+              "citation": {
+                "source": "連環記",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれども匡衡も鳶肩倔強の男児だ、斯様なると話が学問がかったところで推出されじまいになるのには堪えられなかった。",
+              "citation": {
+                "source": "連環記",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おまへが、これならば十分と思ふ服装で、隆として推出すんだね。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今申上げました二つの実例から類推出来る様な少しも法律に触れる気遣いのない殺人法が考えて見ればいくらもあるではありませんか。",
+              "citation": {
+                "source": "赤い部屋",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは些細な一例でしかないけれど、総てこの例によって類推出来る様な人間の社交上の態度が、内気な彼を沈黙させるに充分であった。",
+              "citation": {
+                "source": "蟲",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

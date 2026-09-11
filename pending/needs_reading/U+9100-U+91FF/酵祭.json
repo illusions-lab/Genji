@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "d23e36f9-863c-5edc-86dc-d7a377640ecb",
+    "entry": "酵祭",
+    "reading": {
+      "primary": "酵祭",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "第十五章　最後の晩餐一　準備　いよいよ除酵祭の初めの日、すなわち過越の羔羊を屠るべき日となりました。",
+              "citation": {
+                "source": "イエス伝",
+                "author": "マルコ伝による",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三　過越　ここで過越と除酵祭のことをちょっと説明しておきましょう。",
+              "citation": {
+                "source": "イエス伝",
+                "author": "マルコ伝による",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これが除酵祭です（出エジプト記一二）。",
+              "citation": {
+                "source": "イエス伝",
+                "author": "マルコ伝による",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すなわち過越祭と除酵祭とは同じ節会であって、マルコ一四の一二に「除酵祭の初めの日、すなわち過越の羔羊を屠るべき日」とあるのが、正月の十四日であります。",
+              "citation": {
+                "source": "イエス伝",
+                "author": "マルコ伝による",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

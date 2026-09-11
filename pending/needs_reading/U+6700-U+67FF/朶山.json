@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "e65a6eee-8726-59a7-b2bc-34f2c17b1e4a",
+    "entry": "朶山",
+    "reading": {
+      "primary": "朶山",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "幸に今人が文を論じたる文數篇を獲たれば、一日｜千朶山房に兀坐して、聊又これを論ず。",
+              "citation": {
+                "source": "柵草紙の山房論文",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私ばかりじゃなかった、昼は役所へ出勤する人だったからでもあろうか、鴎外の訪客は大抵夜るで、夜るの千朶山房は品詩論画の盛んなる弁難に更けて行った。",
+              "citation": {
+                "source": "鴎外博士の追憶",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その時分、文壇の機運はいよいよ益々爛熟し、紅露は相対塁して互に覇を称し、鴎外は千朶山房に群賢を集めて獅子吼し、逍遥は門下の才俊を率いて早稲田に威武を張り、樗牛は新たに起って旗幟を振い、四方の英才｜俊髦一時に崛起して雄を競うていた。",
+              "citation": {
+                "source": "二葉亭四迷の一生",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "千朶山房の草稿もその晩年『明星』に寄せられたものを見るに無罫の半紙に毛筆をもって楷行を交えたる書体、清勁暢達、直にその文を思わしむるものがあった。",
+              "citation": {
+                "source": "十日の菊",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "與謝野君の曰く先生の著書にして一たび刊行せられしものは、大略先生の生前手づから類を分ちて整理したまへるもの、千朶山房に藏せられたり。",
+              "citation": {
+                "source": "鴎外全集刊行の記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "厳師森夫子は千朶山房に簀を易えたまい又莫逆の友九穂井上君は飄然として道山に帰りぬ。",
+              "citation": {
+                "source": "「麻布襍記」叙",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

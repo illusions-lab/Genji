@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "ae0def96-a16b-5f1f-9cce-7122c8805d2d",
+    "entry": "呆坐",
+    "reading": {
+      "primary": "呆坐",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "胃病を歎じて居る人々を觀るに、多くは貪食家か、亂食家か、間食家か、大酒家か、異食家か、呆坐家で、そして自己の眞の病原たる惡習慣に對して賢く辯護することは、雜草を拔かずとも雜草が吸收するよりは猶多くの肥料を與へたら菜蔬の生育に差支は無からうと云ふやうな理論家に酷肖して居るのである。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "呆坐家だつたら、座蒲團を棄てて仕舞つて、火鉢を打碎いて、戸外に運動する習慣を得るが宜い。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "胃病を嘆いている人を観るに、多くは大食家か乱食家か間食家か大酒家か異食家か呆坐家（座りっきりの人）で、そして自分の真の病源である悪習慣に対して賢く弁護することは、雑草を抜かなくとも、雑草が吸収するよりも多くの肥料を与えれば、野菜の生育に差支えはないと云うような理論家によく似ているのである。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "呆坐家だったら座布団を棄てて仕舞って、火鉢を打砕いて戸外で運動する習慣を得るがよい。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

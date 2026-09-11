@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "96bdccde-c20f-5e1b-a4eb-99a6ee06c56a",
+    "entry": "余忿",
+    "reading": {
+      "primary": "あまり忿",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "前の非を悟りて舊都に歸り、さては奈良｜炎上の無道に餘忿を漏らせども、源氏の勢は日に加はるばかり、覺束なき行末を夢に見て其年も打ち過ぎつ。",
+              "citation": {
+                "source": "瀧口入道",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "餘忿"
+      ],
+      "needs_reading": true
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "c7a7ffab-d398-5778-b411-95b07ebeae13",
+    "entry": "溯航",
+    "reading": {
+      "primary": "溯航",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ただ二隻のランチに一隻ずつ曳かれた私たちの大｜団平船が、沿岸に蘆荻が繁って、遥かの川上に中部樺太の山脈が仰がれ、白樺、ポプラ、椴松、蝦夷松の林を左右に眺めて、一時間も幌内の大河を溯航した壮快さを伝えて置きたい。",
+              "citation": {
+                "source": "フレップ・トリップ",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "正しく云ふと、営口は此の河口より十四浬の上流に在り、更に三浬の上流までは満潮の時に戦闘艦をも浮べ得るだけの水深を示し、支那船の戎克は三江口の上流である内蒙古の鄭家屯まで七十里の間を溯航する。",
+              "citation": {
+                "source": "満蒙遊記",
+                "author": "附　満蒙の歌",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "処が時間を溯航するということは現実的には無意味だ。",
+              "citation": {
+                "source": "認識論とは何か",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで現実には、この幻想的な時間溯航による間接の因果関係づけの代りに、之を現実的に省略し短縮する関係が与えられている。",
+              "citation": {
+                "source": "認識論とは何か",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

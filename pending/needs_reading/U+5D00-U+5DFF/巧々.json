@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "a81bcfe1-075f-5aa4-b0f4-785b4bd71be1",
+    "entry": "巧々",
+    "reading": {
+      "primary": "巧々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」「おおさいかにも紋十郎じゃ、おおかたこうと眼を付けて、計られると見せて置いたら、いつかこっちの壺に填り、女｜賢うして牛売り損ない、可愛い男を汝が手で、巧々死地へ落とし入れたなあ。",
+              "citation": {
+                "source": "蔦葛木曽棧",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昨夜は、ようも巧々と贋金を掴ませやったの。",
+              "citation": {
+                "source": "ロミオとヂュリエット",
+                "author": "ROMEO AND JULIET",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが、如何にも、其が「技巧々々して」ゐる限りは、浅まな気がする。",
+              "citation": {
+                "source": "手習鑑雑談",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まつたくもつて、巧々ペテンにかかつたのである。",
+              "citation": {
+                "source": "盗まれた手紙の話",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……自分から手をまわしたのは、貴様の高僧めかしたことばに巧々と騙かられたのだ。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "地の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "どうして、この二人が、あとから尾いて来るのを知って、巧々と誘き寄せたのだろうか）　と、耀蔵は、ときめく胸の中で、今さら、塙江漢の六感のするどさと、その鬼謀に、舌をまいていた。",
+              "citation": {
+                "source": "牢獄の花嫁",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

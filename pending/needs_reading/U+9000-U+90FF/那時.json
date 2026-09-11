@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "1489f01e-972a-5668-a58a-a1fc76fb7dd5",
+    "entry": "那時",
+    "reading": {
+      "primary": "那時",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それから、その日の新聞の支那時局に関する所を三造に読ませて、じっと聞いていた。",
+              "citation": {
+                "source": "斗南先生",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "支那時変二周年記念日、黙祷、回向、私も日本人である、日本人ならば日本人らしく行動せよ。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俺は那時、奈何してもバイロンを死なしたくなかつた。",
+              "citation": {
+                "source": "鳥影",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "那時ソラ、貴君の前に「むべ山」があつたでせう？",
+              "citation": {
+                "source": "鳥影",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『何故｜那時、私はアノ人の背後に隠れたらう？",
+              "citation": {
+                "source": "鳥影",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伊那時代からの正香のなじみである。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第二部上",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれ共物馴れない重三は其那時自分の取るべき方法を知らないので近寄りもしずに遠くから気の毒そうに眺めて居る許りであった。",
+              "citation": {
+                "source": "お久美さんと其の周囲",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また『隔簾花影』の第三十八囘に、南宋の岳飛が揚州を囘復して、かねて金軍の手先となつて支那人を虐待した、所謂漢奸の重なる者を捕へて處分した時の光景を描いて、那時百姓。",
+              "citation": {
+                "source": "支那人間に於ける食人肉の風習",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "恁那時に鶴子様の顔を一目見れば、アヽもう寝て夢に鶴子様を忍ばう。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し妹の気が狂ふと云はれる時の心理状態は恁那時を云ふのかと思ふと同情する。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然しジェラルド太守は其那時には何とかかとか云って彼女を去らせて仕舞います。",
+              "citation": {
+                "source": "二つの短い話",
+                "author": "宮本百合子訳",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "左孝がまだ若くて名ある店の若旦那時代に、藝妓と馴染んで生れたのがお駒だつたのです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "麝香の匂ひ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "左孝がまだ若くて名ある店の若旦那時代に、芸妓と馴染んで生れたのがお駒だったのです。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "麝香の匂い",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "慷慨ス北京ノ盧俊儀遠ク貨物ヲ駄シテ郷地ヲ離ル一心｜只強人ヲ捉エント要ス那時方ニ志ヲ表サン　李固は首をさしのばして見ていたが、まっ青に顔色を変えて。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

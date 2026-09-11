@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "32cb4569-695b-5aaa-9618-64847f67f003",
+    "entry": "屐",
+    "reading": {
+      "primary": "屐",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "外國人の車馬、ところの子女の裙屐に、狹き巷の往來はむづかしき程になりぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "コンドツチイ街（ヰヤ、コンドツチイ）の角を過ぐれば、むかしながらのペツポが手に屐まがひの木片を裝ひて、道の傍に坐せるを見る。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "四時半にはモウ共立病院の室々に洋燈の光が華やぎ出して、上屐の辷る程拭込んだ廊下には食事の報知の拍子木が軽い反響を起して響き渡つた。",
+              "citation": {
+                "source": "病院の窓",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "且つ大都に生れ、見る所は唯裙屐の子弟、未だ曾て一歩も都門を出でざる也。",
+              "citation": {
+                "source": "親子遠足の感",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「拙者も一人旅、御同行ねがいたい」「いずれへおいであるな」「京都まで」「いかさま」「柳緑花紅」の札の辻を、逢坂山をあとにして、きわめて人通りの乏しい追分の道を、これだけの挨拶で、両人は口を結んだまま、竜之助の方が一足先で、高屐の武士はややあとから、進み行くこと数町。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "壬生と島原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "官員ハ則黒帽銀※、書生ハ則短衣高屐、兵隊ハ則洋服濶歩シ、文人ハ則瓢酒ニシテ逍遥ス。",
+              "citation": {
+                "source": "上野",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」〔七月廿日暇ヲ乞ヒテ甲斐ニ遊バントシテ諸友人ニ留別ス〕と題して、「一双遊屐蝋成新。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」〔一双ノ遊屐蝋成リテ新タ／賞セント擬ス江山未了ノ因／但覚ユ君恩ノ我ニ於テ渥キヲ／三旬｜還タ賜フ水雲ノ身ヲ〕その他一首が載せてある。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "礼者は木屐をはき、従者は藁靴なり。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

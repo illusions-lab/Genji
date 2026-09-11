@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "175297fe-744e-549d-a6eb-fbd23cf70916",
+    "entry": "腐土",
+    "reading": {
+      "primary": "腐土",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "腐土のにおいと湿った空気。",
+              "citation": {
+                "source": "人外魔境",
+                "author": "水棲人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、一度首都の地を踏むと、それ等の勢力の純真さ、熱烈さは、いつとなく方便化され、御都合化されて、結局、ブル生活の根底を培う腐土と化し去ったのである。",
+              "citation": {
+                "source": "東京人の堕落時代",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いくら科学の力でも、腐土を金にするわけにはゆきませんからな。",
+              "citation": {
+                "source": "キャラコさん",
+                "author": "女の手",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "虫のわくごとく地にこれをわかせたものは、宋朝自体の腐土ではないか。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

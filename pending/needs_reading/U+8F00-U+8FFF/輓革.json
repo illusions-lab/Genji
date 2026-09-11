@@ -1,0 +1,295 @@
+[
+  {
+    "uuid": "7dca8d04-8566-5d32-947a-d94ea42dc879",
+    "entry": "輓革",
+    "reading": {
+      "primary": "輓革",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "スピッツは同じように経験を積んだ先犬であつた、そこでしよつちゆうバックのところまで後戻つてくるわけにもいかないので、叱るために時々鋭く唸つたり、上手に自分の体重を輓革にかけて、バックを正しい道へひきもどしたりした。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼等は輓革によつてまつたく変型された新しい犬であつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一度などは、小休止の間に、バックが輓革をもつらして出発がおくれた時に、デイヴとソルレクスが一しよにとびかかつてきて、ひどいびんたをくらわした。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その結果もつれがもつとひどくなつたが、バックはそれ以後輓革をちやんとさせておくようによくよく注意した、そこでその日が終らないうちに、バックがとてもよく仕事をのみこんだので、仲間は殆どこごとを云わなくなつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幾日も果てしなく、来る日も来る日も、バックは輓革を曳いた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼等はペローの大鹿の皮靴を食い、輓革の断片をかじりとり、フランソアの鞭の端を二尺ほども噛みとつていた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それからあるかぎりの革紐と橇の縛り索と輓革のきれつ端まで集めて長い索をつくり、犬共を一頭ずつ崖の頂上まで引きあげた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これはスピッツを支え、スピッツをして、輓革をつけていてしくじつたり、ずるけたりする犬や、朝輓具をつける時にずらかる犬を懲らしめさせる矜恃であつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それはもはや一頭の犬が輓革をつけて駈けているような具合にはいかなくなつていた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかも狡いことに仲間の間に喧嘩をおこさせて輓革をもつれさせることはもつと大きな喜びであつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "フランソアはソルレクスの輓革をはずして、もとの位置につけた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "輓革がつけられ、橇は動きだし、二人の人間もかけだして、一行は河上の道へ突進していつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼等の職分は労役すること、輓革をつけて大いに労役することであつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かつての共同一致が恢復され、犬共が再び協力して輓革についた一頭の犬のように駈けるのであつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "時には、輓革をつけていて、だしぬけに橇がとまつたり、出発のためにぴんと張つたりして、急に体がゆすぶられると、苦痛のために叫ぶことがあつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "キャシアー・バーに着く頃には、デイヴはあんまりひどく弱つたため、輓革をつけたまま度々打倒れた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "デイヴは具合が悪いにも拘らず、除外されることを恨み、輓革がとり外される間ぐずつては唸つていたが、自分が随分長い間占めてきた場所にソルレクスがつけられるのを見ると、断腸の思いいれですすり泣いた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "橇が出発すると、デイヴは踏みならされた雪道の外側の柔らかい雪にふみこんで、歯でもつてソルレクスを攻撃し、体をぶつつけて向う側の柔らかい雪の中へ追いやろうとし、輓革の中間に割りこみ、ソルレクスと橇の間にはいりこもうとした。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "デイヴがソルレクスの輓革を二本とも噛みきつていた、そして自分の持ち場の橇のすぐ前のところに立つていた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の仲間は、犬も仕事を断わられたために悲観してそのために死ぬこともあるんだなあと話し合い、年寄りすぎたり或いは怪我をして働けなくなつた犬が、輓革から切離されたために死ぬのを見た実例を思いだした。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼等はまた、どうせデイヴは死ぬのだから、輓革をつけたまま、心安く満足して死なせてやるのが慈悲だと主張した。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幾度か輓革をつけたまま倒れては曳きずられたし、一度は橇にぶつかられたので、それから後は後肢の一方はびつこになつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "輓革を張つていられるのが精一ぱいのところで、下り坂になると橇にぶつかられないように道をあけることがどうにかできるくらいのところであつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼等は輓革と橇道にどうしても馴染まなかつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "マーシーディズは幾日も乗つていつた、そしてついに犬共は輓革をつけたまま倒れ、橇はぴたりととまつた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "停止が行われると、犬共は輓革をつけたまま死んだ犬のようにへたりこみ、その火花はうすれて色褪せ、消え去るかに見えた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それで斧をとりだして輓革をつけたまま倒れているビリーの頭を打ち割り、それから死骸を輓具からはなして脇へひつぱり出した。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ハルがそれを拾いあげようとするとまた指関節をなぐつた、それでやめておいて、自分でそのナイフを拾いとり、二打ちしてバックの輓革を断ち切つた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "バックは輓革をぴんと張つて、それからこんどは五、六寸程度ゆるめた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "バックは前方へ身をなげだし、ぐいぐい突進して輓革を張つた。",
+              "citation": {
+                "source": "荒野の呼び声",
+                "author": "THE CALL OF THE WILD",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 30
+      }
+    }
+  }
+]

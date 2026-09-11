@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "53c0dd11-d3a8-5652-8456-f4e9193abb9c",
+    "entry": "晶々",
+    "reading": {
+      "primary": "晶々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "白馬岳の又の名を越後方面では大蓮華山といっている、或人の句に「残雪や御法の不思議蓮華山」とあるからは、これも一朶の白蓮華、晶々たる冬の空に、高く翳されて咲きにおうから、名づけられたのかも知れない。",
+              "citation": {
+                "source": "梓川の上流",
+                "author": "小島烏水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "疲労の足を引き擦って、石壁の上に登りついたとき、眼は先ず晶々｜粲々として、碧空に輝きわたる大雪田、海抜三千百八十九｜米突の高頂から放射して、細胞のような小粒の雪が、半ば結晶し、半ば融けて、大気を含んだ、透明の泡が、岩の影に紫色を翳しているのに、眩ゆくなるばかりに駭いた、南方八月の雪！",
+              "citation": {
+                "source": "白峰山脈縦断記",
+                "author": "小島烏水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日が出ると、晶々とした白金｜末になり、紫水晶末になるのである。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "空には一片の雲なく、日は晶々として美しく照りながら、寒暖計は八十二三度を越えず、涼しい南風が朝から晩まで水の流るゝ様に小止なく吹いた。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかも富士は、裾野の雪消に引かえ、上半身は却て、化粧を厚くし、盛んに雪煙をあげて、道を高めた日輪に、晶々と照り映える。",
+              "citation": {
+                "source": "ある偃松の独白",
+                "author": "中村清太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

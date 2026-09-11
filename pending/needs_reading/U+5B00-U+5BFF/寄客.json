@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "938c9966-58ed-5126-be9a-b144b39434a0",
+    "entry": "寄客",
+    "reading": {
+      "primary": "寄客",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "幸か不幸か知らぬが終に半生を文壇の寄客となって過ごしたのは当時の青春の憧憬に発途しておる。",
+              "citation": {
+                "source": "四十年前",
+                "author": "――新文学の曙光――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "念々に生滅し、前後世において、しばらくも住まらざるがゆえに」と）法句譬喩経曰、人死神去、便更受形、父子因縁会居、譬如寄客起則離散、愚迷縛著、計為己有、沈溺生死、唯有慧者不貪恩愛、勤修経戒、滅除識想、生死得尽。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "たとえば寄客の起てば、すなわち離散するごとく、愚迷、縛著して、己の有となす。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "仏いわく『人死すれば、虫もまた死す』」と）婆沙論云、待死如寄客去、如至大会、多集福徳、故捨命時無畏、復作是念、随所受身末後心滅為死、若爾心念念滅、皆応有畏、非但末後心滅可畏也。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（『婆沙論』にいわく、「死を待つは寄客の去るがごとし、大会いたるがごとし。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "未飽南阿尽処遊、与船有約向欧洲、月残喜望峰頭暁、風冷大西洋上秋、旭影生霓知雨到、星光入水見波収、二旬無物迎吾意、只対白雲寄客愁。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "熱海波頭寄客身、学禅未達歳将新、望中雲綻漏涼月、認得破顔微笑春。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

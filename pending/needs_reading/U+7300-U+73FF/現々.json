@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "dc022e68-08ce-5d9c-b47a-00dc5d2c9d51",
+    "entry": "現々",
+    "reading": {
+      "primary": "現々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "寝てから大分の時が経ったらしくもあるし、つい今しがた現々したかとも思われる。",
+              "citation": {
+                "source": "沼夫人",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その現々たるや、意味のごとく曖昧で、虚気としていたのか、ぼうとなっていたのか、それともちょいと寝たのか、我ながら覚束ないが、「ああ、奥さん、」　と返事をした声は、確に耳に入って、判然聞こえて、はッと一ツ胸を突かれて、身体のどっかが、がっくりと窪んだ気がする。",
+              "citation": {
+                "source": "沼夫人",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昼間｜歩行き廻った疲労と、四五杯の麦酒の酔に、小松原はもう現々で、どこへ水差を置いたやら、それは見ず。",
+              "citation": {
+                "source": "沼夫人",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……それに自分の持っているこの紅巾へ現々とかつて父上の御名があらわれ、しかも謹製と頭に大きく、土屋庄八郎昌猛とやや離れて記されてあったが、おおそれでは父上には世にも無惨な纐纈城へ捕われておられるのではあるまいか？",
+              "citation": {
+                "source": "神州纐纈城",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

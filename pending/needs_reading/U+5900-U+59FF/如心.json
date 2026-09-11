@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "ce7bede2-a68c-5adc-ad38-fe3f58ee7d6c",
+    "entry": "如心",
+    "reading": {
+      "primary": "如心",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "如心が恕である、皇侃の解説書に、「忖度して以て人を渡る也」とあるのでも知られるが、自分の心・人の心・人と自分を兼ねて、自分を彼のように、彼を自分のようにすることから如心の二字を合せて恕となり、邦語の「おもいやり」となるのである。",
+              "citation": {
+                "source": "一貫章義（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　親分と呼ばれた男は、如心形の煙管を啣へた儘、僅に苦笑の色を漂はせたが、すぐに又｜真面目な調子になつて、「だがの、おれが三年見｜無え間に、江戸もめつきり変つたやうだ。",
+              "citation": {
+                "source": "鼠小僧次郎吉",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唐の孔穎達が忠恕の二字に就いて下した、「如心曰恕。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "つづいて奇警の句、われら願はく小狗の乳の滴りに媚ぶる如心弱くも平和の小さき名をば呼ばざらむに至りては、声調措辞、泣菫氏が特技を観るべし。",
+              "citation": {
+                "source": "泣菫氏が近業一篇を読みて",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「空手」を「如心」の意味にとる方が更によくはないか。",
+              "citation": {
+                "source": "改めて民藝について",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "つまり「如心」である。",
+              "citation": {
+                "source": "改めて民藝について",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

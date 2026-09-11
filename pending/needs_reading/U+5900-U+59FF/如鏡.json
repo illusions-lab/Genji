@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "581bb59d-5fc0-5a9a-9dfc-0312b1ba7b18",
+    "entry": "如鏡",
+    "reading": {
+      "primary": "如鏡",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "國※何をか云ふ、言はむと欲する處疾く申せ、とある時、江南月如鏡亦如鉤。",
+              "citation": {
+                "source": "唐模樣",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」といふに至りては、伏姫の心既に平滑になりて、苦痛全く痊え、真如鏡面又た一物の存するなし。",
+              "citation": {
+                "source": "処女の純潔を論ず",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秋半米南春欲殫、晩傾火酒酔凭欄、今宵三五月如鏡、人在紫藤花底看。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "奏、祭間庁下部装束過差事、可制止色々、金銀錦紅打衣、如鏡鈴風流之類也。",
+              "citation": {
+                "source": "放免考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「一心如鏡」とかいう刺青があり、それを高座でまくって見せたりしたこともあったという話は、かつて金語楼から聞かされた。",
+              "citation": {
+                "source": "随筆　寄席囃子",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところで、以上の兵法伝書の類を除いた、彼の墨蹟らしい物をあげてみると、一　直指人心（四字）　　　　　大字横幅一　戦気・寒流帯月澄如鏡　　　一行、竪一　春風桃李花開時　　秋露梧桐葉落時　　　　　　二行、竪　この三点が、伝来も明瞭だし、熊本でも、古くから有名になっている。",
+              "citation": {
+                "source": "随筆　宮本武蔵",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「直指人心」の四大字がその風趣であり、「寒流帯月澄如鏡」の一行も、自ら題するごとく、戦気瀟々、肌に粟を覚えるような筆勢である。",
+              "citation": {
+                "source": "随筆　宮本武蔵",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

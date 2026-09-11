@@ -1,0 +1,191 @@
+[
+  {
+    "uuid": "2f53c956-a07b-5780-bd27-7baa586c31a6",
+    "entry": "柁",
+    "reading": {
+      "primary": "柁",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　技手は柁機を廻した。",
+              "citation": {
+                "source": "薔薇",
+                "author": "ROSEN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "最後の一瞬間に、ヰクトルは今まで握つてゐた手を柁機から離した。",
+              "citation": {
+                "source": "薔薇",
+                "author": "ROSEN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "畫にしても見まほしき美少年一人｜柁の傍に蹲りたるが、名を問へばアルフオンソオと答ふ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二人の柁手は相和して歌ふ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俥の柁棒が持ち上げられた時、お庄はようやくほっとしたような目つきになった。",
+              "citation": {
+                "source": "足迹",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その三十四　五百は父忠兵衛をいたわり慰め、兄栄次郎を諌め励まして、風浪に弄ばれている日野屋という船の柁を取った。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然るに安済丸は海に泛んで間もなく、柁機を損じて進退の自由を失った。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「先ずお国柄だから、当局が巧に柁を取って行けば、殖えずに済むだろう。",
+              "citation": {
+                "source": "食堂",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ヒロの舟と柁、並びにかの犬化して山と石になり、その島に現存すというのだ（一八七二年ライプチヒ版ワイツおよびゲルラントの『未開民史』六巻二九〇頁）。",
+              "citation": {
+                "source": "十二支考",
+                "author": "犬に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのとき船が急に取柁の方へ半分ほど廻つて、電のやうに早く、今までと変つた方角へ走り出しました。",
+              "citation": {
+                "source": "うづしほ",
+                "author": "A DESCENT INTO THE MAELSTROM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "船の面柁の方の背後に、今まで船の浮んでゐた、別な海の世界が、高くなつて欹立つてゐるのでございます。",
+              "citation": {
+                "source": "うづしほ",
+                "author": "A DESCENT INTO THE MAELSTROM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その別な海の世界は、取柁の所と水平線との中間に立つてゐる、恐ろしい、きざ／＼のある壁のやうに見えるのでございます。",
+              "citation": {
+                "source": "うづしほ",
+                "author": "A DESCENT INTO THE MAELSTROM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自然がその内ぶところに秘めてゐる孤独感が、をりからの朝寒夜寒に凝り固まつて咲いたらしい、この花の持味は、自然の使者として、その閑寂と柁心とを草庵にもたらすのに充分なものがあらう。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ねがわくば爾今以後飼部となり、船柁干さずして貢物を納め、また男女の調を奉らん。",
+              "citation": {
+                "source": "日本上古の硬外交",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "呼ばれてかくて兵船の屯の中に住めるもの、又｜柁とりて兵船の先に其座を占むるもの、又水陣の中にあり、人に糧食配るもの、これらの衆は一齊に――戰場長く退きし　45アキルリュウスの出でたれば――勇み集｜會の席に就く。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ツロよなんじがうちの知者はなんじの柁師たり。",
+              "citation": {
+                "source": "将来の日本",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "依つてその國王が畏じ恐れて、「今から後は天皇の御命令のままに馬飼として、毎年多くの船の腹を乾さず、柁※を乾さずに、天地のあらんかぎり、止まずにお仕え申し上げましよう」と申しました。",
+              "citation": {
+                "source": "古事記",
+                "author": "現代語譯　古事記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

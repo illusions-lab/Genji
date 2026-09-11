@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "ca8ab854-4c03-5f16-9ab3-a6de5635b575",
+    "entry": "闘人",
+    "reading": {
+      "primary": "闘人",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "闘人　その翌日の深夜、代々木の原っぱの一軒家の地下室で、異形の化けものが十数人集まっていた。",
+              "citation": {
+                "source": "影男",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さて、今夜はいよいよスリルの極致『闘人』の競技を見物することになりました。",
+              "citation": {
+                "source": "影男",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今夜の競技は、当番幹事のかたがたのほかは、どなたもご存じないのですから、ちょっと説明いたしますが、世に『闘牛』あり、『闘犬』あり、『闘鶏』あり、あに『闘人』なからんや、という着想から出発したのが、今夜の催しであります。",
+              "citation": {
+                "source": "影男",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、今夜の『闘人』は、そういう大がかりな『人間狩り』ではありません。",
+              "citation": {
+                "source": "影男",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この闘人の優勝者には、二十万円の賞金が与えられます。",
+              "citation": {
+                "source": "影男",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ふたりの闘士は、この「闘人」には反則というものが何もなく、ただ相手を徹底的にやっつければよいということを、まえもって聞かされていた。",
+              "citation": {
+                "source": "影男",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "女装男子「闘人」に興じていた十数名の覆面婦人は、それを見てシーンと静まりかえってしまった。",
+              "citation": {
+                "source": "影男",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "じゃあ行ってきますが、今夜の『闘人』の賞金は、やっぱりやらなければなりますまいね。",
+              "citation": {
+                "source": "影男",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

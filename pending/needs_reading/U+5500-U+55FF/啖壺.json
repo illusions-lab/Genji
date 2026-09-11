@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "f7bcb64d-e9b5-53e0-b907-ed31608f3bce",
+    "entry": "啖壺",
+    "reading": {
+      "primary": "啖壺",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "啖壺が備えてあっても衛生や公徳の何物たるを知らない連中は平気で床の上へ啖を吐いたり、唾を吐いたりして何の心だかわざわざそれを靴の底で摺り拡げています。",
+              "citation": {
+                "source": "食道楽",
+                "author": "秋の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "医局から帰つて来ると、私は早速彼の枕許を掃除してやり、啖壺を洗浄してやつて看護手の出て来るのを待つた。",
+              "citation": {
+                "source": "続癩院記録",
+                "author": "北條民雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鼻が喉から口に出て来さうだから、窓の下の啖壺に吐きに行つた。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "枕許には、啖壺が置かれてあった。",
+              "citation": {
+                "source": "貸間を探がしたとき",
+                "author": "小川未明",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

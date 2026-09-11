@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "3840df35-827c-5b3a-a6e7-ee1642323139",
+    "entry": "児眺",
+    "reading": {
+      "primary": "こ眺",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（父ヘクトール命ぜし名、＊スカマンダリオス、然れども衆人呼べる彼の名は＊アスチュアナクス――其父はひとりイリオン守るため）、彼れ今無言にほゝゑみて愛兒眺むる傍にアンドロマケー近よりて、　405涙を流し彼の手を執りて言句を宣し曰ふ、394　結納の豐富なる意。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "兒眺"
+      ],
+      "needs_reading": true
+    }
+  }
+]

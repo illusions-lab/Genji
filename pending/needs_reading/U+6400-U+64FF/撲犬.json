@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "e0562c1b-9d56-5737-a8c3-a8ca422b2ee6",
+    "entry": "撲犬",
+    "reading": {
+      "primary": "撲犬",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "或時は村童に曳かれて、大路に他し犬と争ひ、或時は撲犬師に襲はれて、藪蔭に危き命を拾ふ。",
+              "citation": {
+                "source": "こがね丸",
+                "author": "巌谷小波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "見れば頸筋に輪もあらず、爾｜曹如き奴あればこそ、撲犬師が世に殖えて、わが們まで迷惑するなれ」「許しておけば無礼な雑言、重ねていはば手は見せまじ」「そはわれよりこそいふことなれ、爾曹如きと問答｜無益し。",
+              "citation": {
+                "source": "こがね丸",
+                "author": "巌谷小波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「他元より尋常の犬ならねば、無差と撲犬師に打たれもせまじ。",
+              "citation": {
+                "source": "こがね丸",
+                "author": "巌谷小波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "仕済ましたりと思ひつつ、松より寸留々々と走り下りて、他が躯を取らんとせしに、何処より来りけん一人の大男、思ふに撲犬師なるべし、手に太やかなる棒持ちたるが、歩み寄てわれを遮り、なほ争はば彼の棒もて、われを打たんず勢に。",
+              "citation": {
+                "source": "こがね丸",
+                "author": "巌谷小波",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

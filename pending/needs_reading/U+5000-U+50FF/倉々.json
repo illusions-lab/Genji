@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "24928688-cc6c-5ccf-a23f-87a51e50b788",
+    "entry": "倉々",
+    "reading": {
+      "primary": "倉々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "商売の算段もなまり、倉々を見廻る眼力もにぶつたが、人知れず遠くから離れ家を見詰める宗右衛門の眼の色は、異様に光つた。",
+              "citation": {
+                "source": "老主の一時期",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我昔所造諸悪業　　皆由無始貪瞋痴従身語意之所生　　一切我今皆懺悔　この口唱が一しきり済んで、娘達のまぼろしの一めぐりしたあとへ、屋敷内のありとあらゆる倉々の俤が彼の眼の前で躍り始めた。",
+              "citation": {
+                "source": "老主の一時期",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "主人から譲り受けた出入り先きの五倍、七倍、十倍、年と共に得意の大名の数を増し、二十余台の馬力車は彼の広大な屋敷内に羅列する幾十の倉々から荷を載せて毎日、江戸へ向けて出発した。",
+              "citation": {
+                "source": "老主の一時期",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殆ど彼の生命であつた家も屋敷も、倉々も皆、今はとりとめもなく彼の憎悪と不平をたゞよはせるところとなつた。",
+              "citation": {
+                "source": "老主の一時期",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "往来の真中で、而も大勢の見物に向って、へゞれけに酔った定次郎が、支倉々々と喚き出したので石子刑事は驚いた。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蘆屋の家で妙子が彼の噂をする時はいつも「板倉」と云っており、幸子も、雪子も、悦子までも、蔭では「板倉々々」と呼び捨てにしているのであるが、彼の本名は「板倉勇作」で、「米やん」と云うのは、奥畑商店に丁稚奉公をしていた時分、「米吉」と呼ばれていたところから起ったのであった。",
+              "citation": {
+                "source": "細雪",
+                "author": "中巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

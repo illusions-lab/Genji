@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "0d07eca5-2864-5e09-9c3e-6281c5ce4246",
+    "entry": "察々",
+    "reading": {
+      "primary": "察々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "俗人昭々トシテ我獨リ昏キガ如ク、俗人察々トシテ我獨リ悶々タリ。",
+              "citation": {
+                "source": "かめれおん日記",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "是に於て、小心翼々たるの餘、其政は、察々たるに陷りぬ。",
+              "citation": {
+                "source": "宗吾靈堂",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その相接すること密に過ぎ、かえって他の全体を見ること能わずして、局処をうかがうに察々たるがゆえなり。",
+              "citation": {
+                "source": "学者安心論",
+                "author": "福沢諭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何ぞ其言の肝胆を披瀝して、しかも察々として潔きや。",
+              "citation": {
+                "source": "木曾義仲論（東京府立第三中学校学友会誌）",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『畜生、今頃警察々々って騒いだってどうなるものか、馬鹿野郎めが……』　彼は委細構わず仕事を続けたが、後から後から珍品が出て来てどうしても残す気になれなかったのと、今一ツにはボーシュレーとジルベールが下らぬものに目を付けて熱心に捜し廻ったために案外時間がかかった。",
+              "citation": {
+                "source": "水晶の栓",
+                "author": "モウリス・ルブラン",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

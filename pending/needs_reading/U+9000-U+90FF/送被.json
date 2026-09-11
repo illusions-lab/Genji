@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "423a0b7e-065f-54e8-9ceb-b96914b8d61d",
+    "entry": "送被",
+    "reading": {
+      "primary": "送被",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "を送りけるが、是ハ極内※を以て御｜覧被成候得バ、極テたしかなるたよりにて山口に迄御送被成度。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応二年七月二十八日　三吉慎蔵あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然ニ先頃西郷より御送被遣候吉行の刀、此頃出京ニも常帯仕候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応三年六月二十四日　坂本権平あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其許樣え、お目に掛り候儀不相叶、殘念に候得共、兼て御約諾致し置候通、追々御安否御書送被下候はば大悦に存候、猶私よりも評判記且御入用にも候はば右樣之品差送可申、失念仕間敷候。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「――兼て御約諾致し置候通、追々御安否御書送被下候」云々も、當時の外交事情のうちで置かれた通詞らの位置といふものを考へれば、どれくらゐ表裏ある「御約諾」だつたかも知れぬ。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

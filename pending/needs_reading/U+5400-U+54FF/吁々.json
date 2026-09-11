@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "23f94b11-eb3f-5856-8f21-173e0c5b43f5",
+    "entry": "吁々",
+    "reading": {
+      "primary": "吁々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "吁々、雲は萬有を幽邃となし、寂漠なして、而かも莊麗、遂に及びがたし。",
+              "citation": {
+                "source": "草津行",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吁々いつしか戀の淵に落ちけるなり。",
+              "citation": {
+                "source": "瀧口入道",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吁々然に非ず、何處までの浮世なれば、心にもあらぬ情なさに、互ひの胸の隔てられ、恨みしものは恨みしまゝ、恨みられしものは恨みられしまゝに、あはれ皮｜一重を堺に、身を換へ世を隔てても胡越の思ひをなす、吾れ人の運命こそ果敢なけれ。",
+              "citation": {
+                "source": "瀧口入道",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吁々、協はずば世を捨てんまで我を思ひくれし人の情の程こそ中々に有り難けれ。",
+              "citation": {
+                "source": "瀧口入道",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "思ひ胸に迫りて、吁々と吐く太息に覺えず我れに還りて首を擧ぐれば日は半西山に入りて、峰の松影色黒み、落葉を誘ふ谷の嵐、夕ぐれ寒く身に浸みて、ばら／＼と顏打つものは露か時雨か。",
+              "citation": {
+                "source": "瀧口入道",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――吁々思ふまじ、我ながら不覺なりき、修行の肩に歌袋かけて、天地を一爐と觀ぜし昔人も有りしに、三衣を纏ひ一鉢を捧ぐる身の、世の盛衰に離れ得ず、生死流轉の間に彷徨へるこそ口惜しき至りなれ。",
+              "citation": {
+                "source": "瀧口入道",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

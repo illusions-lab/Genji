@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "3a342101-4d17-587d-93c7-f8eaa87cdc63",
+    "entry": "礪並",
+    "reading": {
+      "primary": "礪並",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この間法用で礪並まで行ったら、姿見橋の所で――どうも、善く似とると思ったら、御那美さんよ。",
+              "citation": {
+                "source": "草枕",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「平家は大軍じゃから、恐らくは礪並山を越え、広い場所で正面から戦を挑むつもりであろう。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第七巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "平家は案の定、礪並山の山中、猿の馬場というところで腰を据え、馬に水をやって暫く休息することになった。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第七巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "倶利迦羅落し　礪並山をはさんで向い合った源平両家の軍勢は、その間、僅か三町という近さに対陣しながら、一向に動き出す様子がなかった。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第七巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われは信濃を出てから小見、合田の合戦を初めとし、北国では礪並、黒坂、塩坂、篠原、西国では福隆寺畷、笹の迫、板倉城と攻めたが、一度たりとも敗けたことはない。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第八巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "uuid": "588916d0-b98a-5c10-bc16-962a7a0c39a1",
+    "entry": "声洩",
+    "reading": {
+      "primary": "こえ洩",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "然るに彼の氏名未詳の人物はの持主の嘆願を容れず、数多の不幸なる家族の悲鳴を省ず、の胃中よりは笑声洩れ聞え、又は斯の如き長大なる物を呑みたる為め頻に落涙しをれり。",
+              "citation": {
+                "source": "鰐",
+                "author": "ドストエウスキー　Fyodor Mikhailovich Dostoevski",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かくて「アイゼンバッハ」と「ゴータ」との間なる「ヘルゼル」山中の「ヘルゼル」洞門は、下界に通ずる門戸となり、往時はその洞門より、夜々呻吟号哭の声洩れ聞ゆと信ぜられ、遂に「ヘルゼル」の義を以て精霊と解するに至れりと。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我傍よりは笑を抑ふる聲洩れたり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "聲洩"
+      ],
+      "needs_reading": true
+    }
+  }
+]

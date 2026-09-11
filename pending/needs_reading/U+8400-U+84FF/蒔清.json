@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "e85f3f68-13f0-53bd-ad1a-32ed6789a0be",
+    "entry": "蒔清",
+    "reading": {
+      "primary": "蒔清",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "四月十八日に蒔清（故、古原草遠藤清兵衞）に渡してくれと頼まれた禮の品は、希臘の瓶の繕ひの禮と、その前のこともあつての禮ではあるが、僕の思ふには、これが交友に遺品として贈つた最初のものかと考へる。",
+              "citation": {
+                "source": "二つの繪",
+                "author": "芥川龍之介の囘想",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "〔僕はペルーから歸つたばかりの蒔清（遠藤清兵衞）にその物の質だけは聞いてゐた。",
+              "citation": {
+                "source": "二つの繪",
+                "author": "芥川龍之介の囘想",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その後よこはま、神戸などの港を頭に浮べ船乘りから手に入れることを考へてゐるうちに、蒔清が世にも綺麗で小さいスパァニッシュ・フライを、たつた一匹ではあるが手にいれてきてくれたので、僕は大事にして持つてゐたが、芥川の電報はそれをよこせといふ。",
+              "citation": {
+                "source": "二つの繪",
+                "author": "芥川龍之介の囘想",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "注射器を買つて、蒔清からモルヒネを貰ふ日を待つてゐた、さういふ芥川を僕は怖いとは思はなかつた。",
+              "citation": {
+                "source": "二つの繪",
+                "author": "芥川龍之介の囘想",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蒔清は、金田は醫者のくせに藥について少しも知識がない、呆れた、と豪語してゐた男である。",
+              "citation": {
+                "source": "二つの繪",
+                "author": "芥川龍之介の囘想",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）その蒔清に言はせると、芥川の劇藥についての知識は甚だ幼稚だといふ。",
+              "citation": {
+                "source": "二つの繪",
+                "author": "芥川龍之介の囘想",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蒔清がただ一度芥川に渡したモルヒネは、芥川がもし、それを使用したところで、單に數時間の間娑婆苦を忘れてゐるだけの鎭痛安眠の量であり、僕は芥川が蒔清からそれを貰つて丁寧に禮をいつてゐるのをみてもゐたが、その芥川は一寸、死ねる物のコレクション・マニヤのやうにもみえてた。",
+              "citation": {
+                "source": "二つの繪",
+                "author": "芥川龍之介の囘想",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "31851697-70ab-5733-b679-1a438ace428e",
+    "entry": "芙藍",
+    "reading": {
+      "primary": "芙藍",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "隣人は日に一度黒い蒸汽をながめる、その悲しい面に※芙藍のやうな黄いろい日が光り、涙がながれる。",
+              "citation": {
+                "source": "東京景物詩及其他",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "影の形に添ふごとく、開き盡した牡丹花のかげに昨日の薄あかりのなほ顫へてやまぬやうに、現實に執する私の心は時として一碗の査古律に蒸し熱い郷土のにほひを嗅ぎ、幽かな※芙藍の凋れにある日の未練を殘す。",
+              "citation": {
+                "source": "思ひ出　抒情小曲集",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "過ぎし日　※芙藍罅入りし珈琲碗に※芙藍のくさを植ゑたり。",
+              "citation": {
+                "source": "思ひ出　抒情小曲集",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "過ぎし日※芙藍罅入りし珈琲碗に※芙藍のくさを植ゑたり。",
+              "citation": {
+                "source": "思ひ出",
+                "author": "抒情小曲集",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 17
+      }
+    }
+  }
+]

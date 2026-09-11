@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "bd8db98c-1e3e-57eb-89bf-f45269e2a4d0",
+    "entry": "云放",
+    "reading": {
+      "primary": "云放",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　終りの方は独語の様に云放つて、彼は忙しげに階段を下りて構内の電信取扱所へ行つた。",
+              "citation": {
+                "source": "逆徒",
+                "author": "平出修",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と訳も無く云放った。",
+              "citation": {
+                "source": "雪たたき",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と膠も無く云放つ。",
+              "citation": {
+                "source": "雪たたき",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殺人鬼などに怖れていて永生きが出来るか、儂なんぞはいま此処へやって来たってびくともしやせんぞ」　平野氏が傲然と云放った時だった。",
+              "citation": {
+                "source": "天狗岩の殺人魔",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "67abf70d-5fb6-5ed1-880a-36395fd017a3",
+    "entry": "啼音",
+    "reading": {
+      "primary": "啼音",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この鳴き声の意味をいろいろ考えていたときにふと思い浮かんだ一つの可能性は、この鳥がこの特異な啼音を立てて、そうしてその音波が地面や山腹から反射して来る反響を利用して、いわゆる「反響測深法」（echo-sounding）を行なっているのではないかということである。",
+              "citation": {
+                "source": "疑問と空想",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それにはこの鳥の飛行する地上の高さを種々の場合に実測し、また同時に啼音のテンポを実測するのが近道であろう。",
+              "citation": {
+                "source": "疑問と空想",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "近くの林の中に山鳩の啼音がした。",
+              "citation": {
+                "source": "厄年",
+                "author": "加能作次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "小鳥の啼音が聞こえて来る。",
+              "citation": {
+                "source": "神秘昆虫館",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "塒を求める群鴉の啼音が、水田や木蔭や夕栄の空から物寂く聞えて来て人恋しい時刻となりました。",
+              "citation": {
+                "source": "天草四郎の妖術",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "残鶯の啼音が聞こえて来た。",
+              "citation": {
+                "source": "銅銭会事変",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "土塀を四方に厳重に巡らし、土塀の内側へ植込を茂らせ、夜鳥を宿らせているらしく、時々啼音が落ちて来た。",
+              "citation": {
+                "source": "剣侠",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "千鳥の香爐の啼音に驚き、仙石権兵衛の足を踏み、法術破れて捕えられたのでは無い。",
+              "citation": {
+                "source": "五右衛門と新左",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "海は、はろばろと涯しもなく、濃紫色にひろがっていて、何処からか、海鳥の啼音がきこえてくる。",
+              "citation": {
+                "source": "怪奇人造島",
+                "author": "寺島柾史",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "禰宜の山辺守人は、時鳥や仏法僧の啼音ばかりを友として、お宮の脇の小さい社家に住んでいたが、甚助の姿が見えると、かたこと木履の足音をさせて出て来た。",
+              "citation": {
+                "source": "剣の四君子",
+                "author": "林崎甚助",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

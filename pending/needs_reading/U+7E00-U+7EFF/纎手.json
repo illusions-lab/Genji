@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "29d36ebc-19ba-5e05-9bef-30ce921c8130",
+    "entry": "纎手",
+    "reading": {
+      "primary": "纎手",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "』と母君の纎手に依りすがると春枝夫人は凛々しとはいひ、女心のそゞろに哀を催して、愁然と見送る良人の行方、月は白晝のやうに明だが、小蒸※船の形は次第々々に朧になつて、殘る煙のみぞ長き名殘を留めた。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "柴門の外の雁木にうつぶきて、水に纎手をひたせる少女は、澤につみたる根芹洗ふにやあらむ。",
+              "citation": {
+                "source": "水戸觀梅",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "父をいたはりて、かよわき纎手に、舟を漕ぐ心根、殊勝にもあはれなり。",
+              "citation": {
+                "source": "鹿島詣",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それだけならまだ驚くに足らなかつたかも知れませんが、その描かれた六人の浮世繪の美女の、四人までがその纎手に墨で短刀を描き添へられ、それ／″＼の短刀に、赤黒い眞物の血糊がついてゐるとしたらどうでせう。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "浮世繪の女",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

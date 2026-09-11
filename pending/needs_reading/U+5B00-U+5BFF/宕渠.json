@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "fb5b2985-a009-561c-b329-5a34b6bb00f8",
+    "entry": "宕渠",
+    "reading": {
+      "primary": "宕渠",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一ノ陣を、宕渠寨とよび、二ノ陣を蒙頭寨と号し、三ノ陣を、蕩石寨ととなえた。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「寨門を閉じろ」　辛くも、たどりついた一｜寨――宕渠寨のうちへ味方を収めると、彼は、きびしく岩窟の門をふさぎ、渓谷の柵門を固め、また絶壁の堅城にふかく隠れて、「戦うなかれ」　を、旗じるしにしてしまった。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こっちの山陣から小手をかざして見ていると、宕渠寨の高地へのぼって、毎日、莚をのべ、帷幕の連中と共に、笛を吹いたり、鼓を打ったり、酒をのんだりしている様子である。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれど、宕渠の一山は、頑固な唖のごとく、うんもすんも答えない。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いままた、宕渠の山前で、張を罵り、辱めているということですが、こんな傍若無人ぶりは、彼の本心ではありますまい」　孔明の言葉は、玄徳を見つめたまま、熱をおびていた。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "魏延は何事があるかといぶかりながらも、ただちに集めて、孔明に示せば、孔明は黄色の旗に「陣前公用の美酒」と書きつけ、「これを三輛の車に立て、ただちに宕渠の陣にある張飛がもとに届けよ、とく行け」と、急がせた。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宕渠の陣に着いた魏延から、この贈物をうけた張飛は、大いに喜んで、その酒樽を拝した。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "軽々と深追いせぬ方がよろしいと思うが」　と注意したが、夏侯尚はかえって怒り、「汝がごとき、臆病者は、敵をおそれるばかりゆえ、宕渠山の陣を破られ、数多の人馬を失い、見苦しき恥をさらすのだ。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ここに巴西宕渠の人で、王平｜字を子均という者がある。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

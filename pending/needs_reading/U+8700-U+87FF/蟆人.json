@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "5785e1e4-387d-5632-8b14-0660087460e5",
+    "entry": "蟆人",
+    "reading": {
+      "primary": "蟆人",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "すなわちクグツは蟆人の義ではなかろうかというのである（五巻一号二二頁―二三頁）。",
+              "citation": {
+                "source": "くぐつ名義考",
+                "author": "古代社会組織の研究",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "所謂水草を逐うて移住するもので、あたかも蝦蟆すなわちククが水辺に棲んで出没自在なるが如きものだ、ククの様なものだとの事から、蟆人すなわちククトの名を得たのではあるまいか。",
+              "citation": {
+                "source": "くぐつ名義考",
+                "author": "古代社会組織の研究",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "或いは吉野川の上流に住んだ先住民の遺※たる国栖人が、好んで蝦蟆を喰って上味としたという様に、彼らが蝦蟆を常食としていたので、それで蟆人の名を得たのであったかもしれぬ。",
+              "citation": {
+                "source": "くぐつ名義考",
+                "author": "古代社会組織の研究",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてそのカイの語を漢字を以て音訳するに当って、文字もあろうに「蝦夷」すなわちカエルの夷を以てしたことは、彼らが蟆人すなわちククトとして呼ばれていた為であったかもしれぬ。",
+              "citation": {
+                "source": "くぐつ名義考",
+                "author": "古代社会組織の研究",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自分はさきに少彦名命の研究において、蝦夷の文字と蟆人との関係を以て、日本紀に隼人を狗人と云った事に比較しておいたが（五巻一号二三頁）、今にして思うに、穿鑿やや足らなかった感がないでもない。",
+              "citation": {
+                "source": "くぐつ名義考",
+                "author": "古代社会組織の研究",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しからば両者その関係は相似てはいるけれども、一つは狗奴の名から狗人の称を得、一つは蟆人の名から蝦夷の文字を当てられたというので、関係が正反対であった。",
+              "citation": {
+                "source": "くぐつ名義考",
+                "author": "古代社会組織の研究",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大体かの少彦名命研究の頃には、谷蟆を以て蟾蜍と解し、蟾蜍が到る処に行き渡る事より、遍満の比喩に引いたのだという旧説に囚われていたが為に、大体において蟆人の解釈には誤謬はないとしても、多少説明に行き届かぬところがあったのだ。",
+              "citation": {
+                "source": "くぐつ名義考",
+                "author": "古代社会組織の研究",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

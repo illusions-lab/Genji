@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "61ba1117-a1ac-5c76-a931-cb407d198ed9",
+    "entry": "而飲",
+    "reading": {
+      "primary": "而飲",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "同人同道｜団坂蕎店に而飲。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "往古之礼、聖上即位、必択吉旦、召群臣於禁中、且聚会国中男女於獄（平等所）而覡巫呪詛而焼灰宇呂武、和水而飲焉、中古而来、王已即位、必択吉日、偏召群臣於護国寺、令飲霊社神文之水、且遣使者、往至諸郡諸島、而飲神水於庶民、永守君臣之義、不敢有弐心也。",
+              "citation": {
+                "source": "ユタの歴史的研究",
+                "author": "伊波普猷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大多数の農は依然として、日出而作、日入而息、掘井而飲、耕田而食うであろう。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

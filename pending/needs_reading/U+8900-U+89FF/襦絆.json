@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "c9c8a395-f1b3-5f4b-ac40-706f32ef41d6",
+    "entry": "襦絆",
+    "reading": {
+      "primary": "襦絆",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「御同様、」と半襦絆に馬乗袴は膝をすすめ、「それがしも、ただいま、二、三杯つづけさまに飲み、まことに変な気持で、このさきどうすればよいのか、酒の酔い方を忘れてしまいました。",
+              "citation": {
+                "source": "新釈諸国噺",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "他の客も、そのままではすまされなくなり、次に大竹が立って縫紋の夏羽織をふるい、半襦絆を振って、それから馬乗袴を脱いで、ふんどしをしていない事を暴露し、けれどもにこりともせず、袴をさかさにしてふるって、部屋の雰囲気が次第に殺気立って物凄くなって来た。",
+              "citation": {
+                "source": "新釈諸国噺",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ほんとうは、私の襦絆の袖ならメリンスでいいと思ったのですけど、紅い色が這入っているのでいけないと思って、よくないけれど更紗を買って来てつくったのよ。",
+              "citation": {
+                "source": "何が私をこうさせたか",
+                "author": "――獄中手記――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼女は伊達巻だけの姿だったが、粗い十字を浮かした大島の着物に、長襦絆のしっとりした縮緬の半襟で、鬢の毛には櫛の歯跡が清楚に見えた。",
+              "citation": {
+                "source": "波多野邸",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「よしわかった、こっちはいいから襦絆をひと濯ぎして置いて呉れ」　こう云って下女を返したとき、そこの杉戸が明いて風呂場の中から出て来た者がある。",
+              "citation": {
+                "source": "新潮記",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

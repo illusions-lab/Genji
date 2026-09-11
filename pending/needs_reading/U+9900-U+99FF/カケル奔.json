@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "2913783b-62b4-5812-9e38-c51271f9e220",
+    "entry": "駆奔",
+    "reading": {
+      "primary": "かける奔",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "カピ長　なにさ／＼、乃公が馳驅奔走るわさ、さすれば、大丈夫、どうにかなるわさ。",
+              "citation": {
+                "source": "ロミオとヂュリエット",
+                "author": "ROMEO AND JULIET",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "驅奔"
+      ],
+      "needs_reading": true
+    }
+  }
+]

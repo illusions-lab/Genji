@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "1b56b583-2ff5-5a0a-b22b-f7b7b7ee9b72",
+    "entry": "往先",
+    "reading": {
+      "primary": "往先",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "夢は遠くインデアナの空へ走って、もう及第した気――だが、その往先に何が待っているか、古い言葉だけれど、神ならぬ身の知る由もない。",
+              "citation": {
+                "source": "斧を持った夫人の像",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "往先に、誰かが待っている気がした。",
+              "citation": {
+                "source": "あの顔",
+                "author": "林不忘",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "尊攘堂の事は中々大業にて、速成を求めてはかえって大成出来申さず、また亡命などにて出国し候ては往先の不都合もこれ有る事故、足下出牢の上は先ず慈母の心を慰め、兄弟間遊学の事も政府辺の指揮を受けての事が宜敷く、これは小田村その他の諸友も随分尽力致すべく候。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聞く、薩の日下部伊三次は対吏の日、当今政治の欠乏を歴詆して、かくの如くにては往先三、五年の無事も保し難しというて、鞠吏を激怒せしめ、乃ち曰く、「ここを以て死罪を得るといえども悔ざるなり」と。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聞く、薩の日下部以三次は対吏の日、当今政治の欠失を歴詆して「かくのごとくにては往先三五年の無事も保しがたし」といひて鞠吏を激怒せしめ、すなわち曰く「これをもつて死罪をうるといへども悔いざるなり」と。",
+              "citation": {
+                "source": "留魂録",
+                "author": "吉田松陰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

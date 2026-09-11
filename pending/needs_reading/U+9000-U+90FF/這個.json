@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "60341a66-d458-5af8-ba86-a97523c7fd81",
+    "entry": "這個",
+    "reading": {
+      "primary": "這個",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "や、然う思へば、靄のねば／＼は、這個の振舞か。",
+              "citation": {
+                "source": "三人の盲の話",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あまつさえ這個の怪禽は、月ある町中へつッ立つと斉しく、一振りふって首を伸して、高く蒼空を望んでまた一声、けい引おう！",
+              "citation": {
+                "source": "三枚続",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おなじく月賦……這個まつくろなのを一着して、のそ／＼と歩行く奴を、先生が嘲つて――月府玄蝉。",
+              "citation": {
+                "source": "春着",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "這個髯斑に眼円にして面赤き辺塞の驍将に対して、爾き言を出さむには、当時流行の剣劇の朱鞘で不可、講談ものゝ鉄扇でも不可い。",
+              "citation": {
+                "source": "十和田湖",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ただ僅かに我が歌調を這個の中に築かむとするのみ。",
+              "citation": {
+                "source": "白南風",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これから比べると、近松の芸術には、宗教観らしいところがあるが、心中を涅槃にくつつけたやうなところがあるが、生中さういふ小乗に行かなかつたところに、却つてかれの勇者たり智者たるところがあるのであつて、這個仏性ありと言はずには居られない。",
+              "citation": {
+                "source": "西鶴小論",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は学校の講義のように、今年もまた同じ事をここに繰り返したくはないけれども、ただいかんせん這個の一論は、私の経済論の体系の一部を成すもので、これに触れずして論を進むるは事すこぶる困難なるを覚ゆるがままに、しばらく読者の寛恕を請うて再び同一の論を繰り返す。",
+              "citation": {
+                "source": "貧乏物語",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "真にわが国家の前途を憂うる者は、戦時におけるドイツ這個の経営について大いに学ぶべし。",
+              "citation": {
+                "source": "貧乏物語",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "思うに這個の消息は、私がここに今さららしく書きつづるまでもなく、早くより警眼なる社会観察者の看取し得たるところである。",
+              "citation": {
+                "source": "貧乏物語",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "余大学の業をおえ、もっぱら経済の学に志してより今に至って十有四年、ようやく近ごろ酔眼｜朦朧として始めて這個の消息を瞥見し得たるに似るがゆえに、すなわちこの物語に筆を執りいささか所懐の一端を伸ぶ。",
+              "citation": {
+                "source": "貧乏物語",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、おめえにア這個の消息、なんのことだかわかるめえ。",
+              "citation": {
+                "source": "剣侠受難",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 16
+      }
+    }
+  }
+]

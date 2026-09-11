@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "96fdfc7f-bce1-53bc-9b50-d002381b5835",
+    "entry": "箇以",
+    "reading": {
+      "primary": "箇以",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "あの弐十円さへあれば、二十箇以上を買ひ得るのだ。",
+              "citation": {
+                "source": "公判",
+                "author": "平出修",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もちろん數字は一から九までの外に〇の十箇だから、その覆面の符號または文字は十箇以内に限られる。",
+              "citation": {
+                "source": "虫喰ひ算大會",
+                "author": "佐野昌一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もちろん数字は１から９までの外に０の十箇だから、その覆面の符号または文字は十箇以内に限られる。",
+              "citation": {
+                "source": "虫喰い算大会",
+                "author": "佐野昌一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "家紋である「丸に橘」と、「玉井組」の字の入った、五十箇以上の弓張提灯に、すっかり、明かりがついて、光の花壇のようである。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "荷を解くと東京の硝子工場で製造した非常に優秀な壺が数箇以外に、私が横浜で買おうとして大いに努めた塩の瓶その物が、四十ばかり入っていた！",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "核が二箇以上並んで附着した場合らしく思われる結晶もあるので、そのような時には結晶は大体左右対称の性質を持ちながら、もっと複雑な形となる。",
+              "citation": {
+                "source": "雪",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

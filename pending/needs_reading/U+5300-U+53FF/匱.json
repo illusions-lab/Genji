@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "51d28fc0-5264-551d-8736-910ceee70a97",
+    "entry": "匱",
+    "reading": {
+      "primary": "匱",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "信順は平素命じて酒を絶たしめ、用帑匱しきに至るごとに、これに酒を飲ましめ、命を当局に伝えさせた。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天正十八年八月に家康は江戸に入つて、用水の匱しきを憂へ、忠行に諮つた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "匱に※めて蔵さんか。",
+              "citation": {
+                "source": "弟子",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本にも『書紀』二五、大化改新の際朝廷に鐘を懸け、匱を設け、憂え諫むる人をして表を匱に納れしめ、それでも聴き採られざる時は憂訴の人、鐘を撞くべしと詔あり。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鶏に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東西一双の白玉瓊、金匱の蔵に堪へたりと云ふべし。",
+              "citation": {
+                "source": "骨董羹",
+                "author": "―寿陵余子の仮名のもとに筆を執れる戯文―",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「……三神の名を称りて、且重ねて曰はく『吾が名は、向匱男聞襲大歴五御魂速狭騰尊なり』……」と言ふのである。",
+              "citation": {
+                "source": "日琉語族論",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "向匱＝向津（ムカヒツ）・五御魂＝厳御魂（イツノミタマ）・速狭騰＝天疎（ハヤサカリ＝アマサカル）此だけ共通で、神の性が本書では姫、一書では向匱男とあるから男神なのであらう。",
+              "citation": {
+                "source": "日琉語族論",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "神の靈感によりて歌ひたれば「聖靈の」といへり〔匱〕神の匱。",
+              "citation": {
+                "source": "神曲",
+                "author": "LA DIVINA COMMEDIA",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "兎も角非常の大火で、金匱石室の藏が一朝烏有に歸したのは誠に殘念である。",
+              "citation": {
+                "source": "日本國見在書目録に就いて",
+                "author": "狩野直喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "物徂徠曰く、『萬古神奇悉在陳腐中、天不能舍鶯花而別爲春』と言は奇警なれども、こは自然の富を以て匱しとするに似たり。",
+              "citation": {
+                "source": "春鳥集",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "重々拙者の軽率に相違ございません」「古人｜子貢の言葉にもある――ココニ美玉アリ、匱ニオサメテ蔵セリ、善価ヲ求メテ沽ラン哉――と」「大事にします。",
+              "citation": {
+                "source": "三国志",
+                "author": "孔明の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 16
+      }
+    }
+  }
+]

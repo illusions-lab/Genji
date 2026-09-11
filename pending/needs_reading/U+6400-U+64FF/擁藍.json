@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "7bd86b91-6a1b-5330-8eac-e16c787eea7c",
+    "entry": "擁藍",
+    "reading": {
+      "primary": "擁藍",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "瞳を定めてこれを讀めば――雲横秦嶺家何在、雪擁藍關馬不前――昌黎、時に其の意の何たるを知らず。",
+              "citation": {
+                "source": "花間文字",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その時、花屋の奥で、凜として澄んで、うら悲しく、雲横秦嶺家何在雪擁藍関馬不前　と、韓湘が道術をもって牡丹花の中に金字で顕したという、一｜聯の句を口吟む若山の声が聞えて止んだ。",
+              "citation": {
+                "source": "黒百合",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし武断一点張りでなかった事は、暗殺しようとした稲葉一徹が、かの『雪擁藍関』の詩をよく解したと云う一点で許した如き、義元が一首の和歌の故に部下を許した、好一対の逸話をもっても知られる。",
+              "citation": {
+                "source": "桶狭間合戦",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "有名な雲横秦嶺家何在、雪擁藍關馬不前の句は、この時の作で、秦嶺も藍關も、唐都長安から潮州に至る途中の地名である。",
+              "citation": {
+                "source": "歴史上より觀たる南支那の開發",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "a2c84f3a-0501-5059-888b-2285dc758f7a",
+    "entry": "蕁草",
+    "reading": {
+      "primary": "蕁草",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "沙漠に生える蕁草のように背の低いがっちりさです、かたくて。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九四五年（昭和二十年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蕁草の刺毛で弄われるような遣瀬なさで、痒味｜辛味は何にたとえようもないほどであった。",
+              "citation": {
+                "source": "玉取物語",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蕁草に掩はれたる細道を行けば直ぐ別室の入口の戸で、戸を開けば玄關である。",
+              "citation": {
+                "source": "六號室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蕁草に掩われたる細道を行けば直ぐ別室の入口の戸で、戸を開けば玄関である。",
+              "citation": {
+                "source": "六号室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

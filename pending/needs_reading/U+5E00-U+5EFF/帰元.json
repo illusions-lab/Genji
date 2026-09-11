@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "0cb0466e-b9cc-5a8e-b807-78d479eff4ab",
+    "entry": "帰元",
+    "reading": {
+      "primary": "帰元",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――一枚は新帰元泰山大道｜居士という戒名。",
+              "citation": {
+                "source": "右門捕物帖",
+                "author": "妻恋坂の怪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "他は同じく新帰元円明貞鏡大姉とあるのです。",
+              "citation": {
+                "source": "右門捕物帖",
+                "author": "妻恋坂の怪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "新帰元とあるからには、いずれ最近に物故した新仏だろうとは思われましたが、このころもこのころ、仏はふたりともに、寛永十六年十二月十二日没、すなわち去年の師走の同じ日にそろってなくなっているのです。",
+              "citation": {
+                "source": "右門捕物帖",
+                "author": "妻恋坂の怪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "波になぶられて、行きもならず、戻りもならずに漂うている、その墨の文字さえが、供養塔の文字とほぼ同時同筆を以て書かれたように、あざやかに読めるものですから、兵馬がそれを見やると、「無明道人俗名机竜之助帰元」と書いてあるので、蛇を踏んだようにハネ返ってその卒都婆を拾い上げました。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "椰子林の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われ、なおいずくにか存せん」と）王充論衡曰、夫死人不能為鬼則亦無所知矣、何以験之、以未生之時無所知也、人未生在元気之中、既死復帰元気、元気荒忽、人気在其中、人未生無所知、其死帰無知之本、何能有知乎。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "王充の『論衡』論死編に曰く、「夫死人不能為鬼、則亦無所知矣、何以験之、以未生之時無所知也、人未生、在元気之中、既死、復帰元気、元気荒忽、人気在其中、人未生無所知、其死帰無知之本、何能有知乎。",
+              "citation": {
+                "source": "迷信と宗教",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "a5a9a28c-4ff6-5e24-a635-643109ddb0a6",
+    "entry": "掲羅",
+    "reading": {
+      "primary": "掲羅",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "五四　華の香は風に逆つて薫らず、栴檀も多掲羅も末利迦も亦然り、しかるに善人の香は風に逆つて薫ず、善士は一切の方に薫る。",
+              "citation": {
+                "source": "法句經",
+                "author": "荻原雲來訳註",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "多掲羅―香の名、零冷香と譯す。",
+              "citation": {
+                "source": "法句經",
+                "author": "荻原雲來訳註",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五五　栴檀又多掲羅將た又青蓮華、跋師吉の其等の香も戒の香に如かじ。",
+              "citation": {
+                "source": "法句經",
+                "author": "荻原雲來訳註",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五六　多掲羅や栴檀の香は微小なり、具戒者の香は諸天の間に薫じて比類なし。",
+              "citation": {
+                "source": "法句經",
+                "author": "荻原雲來訳註",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

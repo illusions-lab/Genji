@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "644aa394-a396-5bc7-83a6-f1a98ff112d7",
+    "entry": "兇兵",
+    "reading": {
+      "primary": "兇兵",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「大師｜伝教が当山をひらかれたのは、王城の鎮護、国土安泰のためと承知いたすが、甲冑をまとい、剣槍を羅列し、政争に関わり、武略を弄び、朝命に反く兇兵に与して、王土の民を苦しめよとは、よも天台の立願ではあるまい。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第四分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、張※一味の兇兵は、百余輛の財物と共に、もう一人もいなかった。",
+              "citation": {
+                "source": "三国志",
+                "author": "群星の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さようでございます」「弓箭を帯し、兇兵を連れて、主人の車に迫るなど、謀叛人のすることです。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一つ　混乱に乗じて、部下の兇兵を使嗾し、宮に害刃を加えたてまつる。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "風花帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "8b0cc59a-2f6c-5f39-87e7-c2c20d718781",
+    "entry": "踏反",
+    "reading": {
+      "primary": "踏反",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "三束五束附木を並べたのを前に置いて、手を支いて、縺れ髪の頸清らかに、襟脚白く、女房がお辞儀をした、仰向けになって、踏反って、泣寐入りに寐入ったらしい嬰児が懐に、膝に縋って六歳ばかりの男の子が、指を銜えながら往来をきょろきょろと視める背後に、母親のその背に凭れかかって、四歳ぐらいなのがもう一人。",
+              "citation": {
+                "source": "婦系図",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "船は走る、口は辷る、凪はよし、大話しをし草臥れ、嘉吉めは胴の間の横木を枕に、踏反返って、ぐうぐう高鼾になったげにござります。",
+              "citation": {
+                "source": "草迷宮",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ああ、寝着で居る……あの裾の下に、酒くさい大坊主が踏反って。",
+              "citation": {
+                "source": "河伯令嬢",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "婦人は苦と身悶えして、仰向に踏反返り、苦痛の中にも人の深切を喜びて、莞爾と笑める顔に、吉造魂飛び、身体｜溶解け、団栗眼を糸より細めて、「夫人、こりゃ是非お助け遊ばせ、きっといい人の落魄たんです。",
+              "citation": {
+                "source": "貧民倶楽部",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "松原の茶店の婦の、振舞酒に酔い痴れて、別荘裏なる舫船に鼻唄で踏反って一寝入りぐッと遣った。",
+              "citation": {
+                "source": "浮舟",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お辞儀を返そうともしないまま悠々と椅子に踏反り返って、葉巻の煙を思い切り高々と吹上げた。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "妹のすん子はその復讐に姉の腹の上に片足をあげて踏反り返っている。",
+              "citation": {
+                "source": "吾輩は猫である",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いくら踏反返つて見ても、徒歩で歩く人々に見下ろされる。",
+              "citation": {
+                "source": "雪中行",
+                "author": "小樽より釧路まで",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "医者が三月と宣告したんだから、力んでも踏反り返っても三月経てばゴロゴロッと痰が咽喉へ引からんでのお陀仏様――とこう覚悟して置かにゃ虚偽だよ、」と片頬に笑を含みつつ力の抜けた空元気で、「そこは大悟徹底している。",
+              "citation": {
+                "source": "硯友社の勃興と道程",
+                "author": "――尾崎紅葉――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は踏反り返って、眼を瞑っている。",
+              "citation": {
+                "source": "急行十三時間",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "矢張彼の男だ……　現在俺の手に掛けた男が眼の前に踏反ッているのだ。",
+              "citation": {
+                "source": "四日間",
+                "author": "ガールシン",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

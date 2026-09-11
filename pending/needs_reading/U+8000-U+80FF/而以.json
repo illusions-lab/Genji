@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "67879a6e-5199-51ca-9dd8-45bf2275b032",
+    "entry": "而以",
+    "reading": {
+      "primary": "而以",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「余与金輪寺混外上人相知五六年於茲、而以病脚在家、未嘗面謁、丙子秋、与石田士道、成田成章、太田農人、皆川叔茂同詣寺、得初謁、乃賦一律。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今この書を通読して向象賢の真意のある所を見ると、頻りに「大和の御手内に成候而以後四五十年以来如何様御座候而国中致衰微候哉」と嘆じ、島津氏に征服されて後は、士族が自暴自棄になって、酒色に耽り、社会の秩序がいたく乱れたのをこぼしています。",
+              "citation": {
+                "source": "琉球史の趨勢",
+                "author": "伊波普猷",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

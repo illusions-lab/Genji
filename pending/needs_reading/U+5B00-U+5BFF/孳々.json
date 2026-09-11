@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "54e1cef9-e215-52ad-943c-f6d166412ab8",
+    "entry": "孳々",
+    "reading": {
+      "primary": "孳々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "後、太子｜高熾の羣小の為に苦めらるるや、告げて曰く、殿下は但当に誠を竭して孝敬に、孳々として民を恤みたもうべきのみ、万事は天に在り、小人は意を措くに足らずと。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孳々として　務めて践形し、負く勿れ　七尺の身に。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "文人としての彼は孳々として物質的知識の進達を助けたり、彼は泰西の文物に心酔したるものにはあらずとするも、泰西の外観的文明を確かに伝道すべきものと信じたりしと覚ゆ。",
+              "citation": {
+                "source": "明治文学管見",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

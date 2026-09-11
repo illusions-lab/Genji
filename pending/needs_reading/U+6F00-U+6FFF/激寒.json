@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "c46f96e2-1441-5ce0-bfcc-fe6e5799728b",
+    "entry": "激寒",
+    "reading": {
+      "primary": "激寒",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」「……」　飛騨を知らない半蔵が音に聞く嶮岨な加子母峠の雪を想像し、美濃と飛騨との国境の方にある深い山間の寂寞を想像して、冬期には行く人もないかと思ったほど途中の激寒を恐れたことは、平兵衛の上京でやや薄らぎもした。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第二部下",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その日は三吉と同行を約束した人も有ったが、途中の激寒を懼れて見合せた位である。",
+              "citation": {
+                "source": "家（上巻）",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山上の激寒を畏れて、皆なの説は湯が島泊りの方に傾いた。",
+              "citation": {
+                "source": "伊豆の旅",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの人も志賀へ遊びに行きたいと言ふから、誘ふことにしたら、この雪に出掛けるか、途中の激寒を奈何すると家の人に笑はれたと言つて、見合せるといふ話に来た。",
+              "citation": {
+                "source": "突貫",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その日は他に同行を約束した人もあったが、途中の激寒を懼れて見合せた。",
+              "citation": {
+                "source": "芽生",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

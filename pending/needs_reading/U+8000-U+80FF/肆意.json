@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "a2abe14f-7dff-552b-be39-f5201027626c",
+    "entry": "肆意",
+    "reading": {
+      "primary": "肆意",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "個人の自由はさしあたり主観的な肆意として現われるであろう。",
+              "citation": {
+                "source": "哲学入門",
+                "author": "三木清",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "科学はもちろん個人の肆意に基くのでなく、客観的であることを求めている。",
+              "citation": {
+                "source": "哲学入門",
+                "author": "三木清",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "技術的に作られたものは表現的であるといわれるが、その場合、もし我々の意欲が単に主観的なもの、肆意的なものであるとしたならば、自然の客観的な法則がこれに向って反逆し、これと一つに結び付いて物が作られるということはないであろう。",
+              "citation": {
+                "source": "哲学入門",
+                "author": "三木清",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かかるものは自然のうちには見出され得るとしても、歴史は自由なもの、肆意的なるもの、一回的なるもの、奇異なるもの、絶えず新しきものを現はしはしないか。",
+              "citation": {
+                "source": "ゲーテに於ける自然と歴史",
+                "author": "三木清",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "運命は或る全く内的なもの、肆意を完全に脱した或るものとなつた。",
+              "citation": {
+                "source": "歴史哲學",
+                "author": "三木清",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "單に主觀的な目的、單に肆意的な意欲をもつては、我々は何物も作ることができぬ。",
+              "citation": {
+                "source": "論理と直觀",
+                "author": "三木清",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "作家と読者との相関のいきさつのなかに文学の動向の諸相を明らかにしてゆく現実の作用は喪われて、批評はそれを書くひとの主観の流れに応じて肆意的に自身の渦巻きを描くものとなった。",
+              "citation": {
+                "source": "文学精神と批判精神",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嗚呼我が魂よ、汝融和抱合の歡喜を知らざる矮小なる者よ、汝根柢に到らずして、浮萍の如く動搖する迷妄の影よ、肆意にして貧弱なる選擇の上に其生を托する不安の子よ。",
+              "citation": {
+                "source": "三太郎の日記　第一",
+                "author": "阿部次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

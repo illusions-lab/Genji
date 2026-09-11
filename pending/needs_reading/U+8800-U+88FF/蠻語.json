@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "3582f393-c797-51f8-8ac6-d72bf2de13a8",
+    "entry": "蠻語",
+    "reading": {
+      "primary": "蠻語",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "＊蠻語あやつるカーロスの族を率ゆるナステース、彼らの領はミレートス、緑葉の山プテーローン、マイアンドロスの諸川流、はたミュカレーの高き嶺。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "875867「蠻語」の句はホメーロス詩中只此一行のみ。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同時代の槇島昭武の合類大節用集卷七にしても、寺島良安の和漢三才圖會卷九十九にしても、蠻語と註してあるのはかはらない。",
+              "citation": {
+                "source": "キセルの語源",
+                "author": "新村出",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "益軒の大和本草の附録卷一にもラウ竹のことがあり、天野信景の鹽尻卷十一にも喜世留蠻語也として羅宇のことが記してある。",
+              "citation": {
+                "source": "キセルの語源",
+                "author": "新村出",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

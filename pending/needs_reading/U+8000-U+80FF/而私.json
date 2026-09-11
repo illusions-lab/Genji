@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "b2aba607-15b7-5f97-a253-b6da0278574f",
+    "entry": "而私",
+    "reading": {
+      "primary": "而私",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「魏書」に、衛覬奏、刑法、国家所レ重、而私議所レ軽、獄者人命所レ懸、而選用者所レ卑、諸置二律学博士一、相教授、遂施行。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「魏書」に、衛覬奏、刑法、国家所重、而私議所軽、獄者人命所懸、而選用者所卑、諸置律学博士、相教授、遂施行。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "降而私儀無異議相暮申候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応二年十二月四日　坂本権平あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一、兼而私ら両人の所ハ三印両兄聞取ニ相成、御家に止宿御頼申候事故、私両人生活の一事ハ一切上の両兄に御引合可被遣候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応三年五月七日　伊藤助太夫あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "降而私儀無異乍不及国家之御為日夜尽力｜罷在候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応三年六月二十四日　坂本権平あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私ハ此まゝニて出崎仕候得バ両国之重役立合、其上ニて議論相定り候得バ、日数も相掛り主人の急用ニ付而私ニ命候事は無易の事と相成申候。",
+              "citation": {
+                "source": "坂本龍馬手記",
+                "author": "イロハ丸航海日記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」梅太郎又曰御三人の御思召の程万々難有御同意被遣候ても又御重役の御承知不相成事も在之候ヘバ決而私よりの御頼の筋ハ成就仕候事を御心配被遣まじく、只私より申上候義理情実能御達可被遣候。",
+              "citation": {
+                "source": "坂本龍馬手記",
+                "author": "イロハ丸航海日記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "隨而私事無異消光仕居候間、乍恐左樣御安心可被成候。",
+              "citation": {
+                "source": "遺牘",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "隨而私事無異儀獄中に消光仕申候間、乍恐御安慮被成下度奉合掌候。",
+              "citation": {
+                "source": "遺牘",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

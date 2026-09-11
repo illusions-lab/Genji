@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "0d46fab5-740b-5b51-9f14-3023de7f3ab4",
+    "entry": "潁上",
+    "reading": {
+      "primary": "潁上",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "-------------------------------------------------------箭内亙による譯管仲夷吾は（一）潁上の人也。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "管晏列傳第二",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "箭内亙による註【一】潁上。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "管晏列傳第二",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「拙者は、潁上（安徽省・潁上）の単福と申し、いささか道を問い、兵法を学び、諸国を遊歴している一介の浪人にすぎません」　単福は、それ以上、素姓も語らず、たちまち話題を一転して、こう求めた。",
+              "citation": {
+                "source": "三国志",
+                "author": "孔明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "願わくは、真実の言を惜しまれず、玄徳のために、仁政を論じ、善き経綸をお聞かせたまわりたい」「拙者が潁上からこの地方へ遊歴してくる途中、百姓のうたうのを聞けば――新野ノ牧劉皇叔、ココニ到リテヨリ地ニ枯田ナク天ニ暗日ナシ――といっていました。",
+              "citation": {
+                "source": "三国志",
+                "author": "孔明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そちは知っておるのか」「よく知っています」「いかなる縁故で」「すなわち潁上の産ですから」「その為人は？",
+              "citation": {
+                "source": "三国志",
+                "author": "孔明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――その人は、すなわち潁上の産れ徐庶字は元直――単福とは、世をしのぶ一時の変名にすぎません」二　徐庶の生い立ちを物語って、程※のはなしは、まことにつまびらかであった。",
+              "citation": {
+                "source": "三国志",
+                "author": "孔明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まこと私は、潁上の生れ徐庶、字を元直と申すものです。",
+              "citation": {
+                "source": "三国志",
+                "author": "孔明の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "潁上の徐庶、汝南の孟建なども、その輩だった。",
+              "citation": {
+                "source": "三国志",
+                "author": "孔明の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

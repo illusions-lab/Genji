@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "8321a9d9-8209-5a45-aea7-16ec7364574a",
+    "entry": "攝受",
+    "reading": {
+      "primary": "攝受",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "横佩家の郎女が、稱讃淨土佛攝受經を寫しはじめたのも、其頃からであつた。",
+              "citation": {
+                "source": "死者の書",
+                "author": "釋迢空",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その頃ちようど、稱讃淨土佛攝受經を、千部寫さうとの願を發して居た時であつた。",
+              "citation": {
+                "source": "死者の書",
+                "author": "釋迢空",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "稱讃淨土佛｜攝受經を、姫が讀んで居たとしたのは、後に出て來る當麻曼陀羅の説明に役立てようと言ふ考へなどはちつともなかつた。",
+              "citation": {
+                "source": "山越しの彌陀",
+                "author": "釈迢空",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "稱讚淨土佛｜攝受經を、姫が讀んで居たとしたのは、後に出て來る當麻曼陀羅の説明に役立てようと言ふ考へなどはちつともなかつた。",
+              "citation": {
+                "source": "山越しの阿彌陀像の畫因",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すべてそれは、止み難き攝受のため息く吐息であつた。",
+              "citation": {
+                "source": "「槐多の歌へる」序",
+                "author": "山本鼎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

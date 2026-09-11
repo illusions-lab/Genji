@@ -1,0 +1,122 @@
+[
+  {
+    "uuid": "2e753e6c-43f0-5072-b680-65e0534f674e",
+    "entry": "声懸",
+    "reading": {
+      "primary": "こえ懸",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　珍らしそうに顔を見て、「母様から御声懸りで、僕に相談と云う縁談の口は、当時心当りが無いが。",
+              "citation": {
+                "source": "婦系図",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こう捻平に声懸けられて、わずかに顔を振上げながら、きりきりと一まず閉じると、その扇を畳むに連れて、今まで、濶と瞳を張って見据えていた眼を、次第に塞いだ弥次郎兵衛は、ものも言わず、火鉢のふちに、ぶるぶると震う指を、と支えた態の、巻莨から、音もしないで、ほろほろと灰がこぼれる。",
+              "citation": {
+                "source": "歌行燈",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」とものありげに戸外より下婢の声懸けたれば、かの君はいそがわしく辞し去りたまいぬ。",
+              "citation": {
+                "source": "照葉狂言",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……」　　　　　　　三十六「今はもう追うにも及ばず、するすると後を歩行きながら、刃を振って、（は、）　と声懸けると、声に応じて、一人ずつ、どたり、ばたりで、算を乱した、……生木の枝の死骸ばかり。",
+              "citation": {
+                "source": "星女郎",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　重ねて女は声懸けけるが、応答はおろか、見も返らざるに思絶ちけん、そのまま口を噤みて、男の後ろに従いぬ。",
+              "citation": {
+                "source": "片男波",
+                "author": "小栗風葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「近う來い、申聞かすことあり、皆の者もこれへ參れ」と御聲懸に、御次に控へし面々も殘らず左右に相詰むる。",
+              "citation": {
+                "source": "十萬石",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "將軍家のお聲懸りの利章を、忠之はどうすることも出來ぬが、豫て懷いてゐた惡感情は消えぬのみか、却つて募るばかりである。",
+              "citation": {
+                "source": "栗山大膳",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『久しや左衞門』、小松殿｜聲懸け給へば、左衞門は窪みし兩眼に涙を浮べ、『茂頼、此の老年に及び、一期の恥辱、不忠の大罪、御詫申さん爲め、御病體を驚かせ參らせて候』。",
+              "citation": {
+                "source": "瀧口入道",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      },
+      "variant_writings": [
+        "聲懸"
+      ],
+      "needs_reading": true
+    }
+  }
+]

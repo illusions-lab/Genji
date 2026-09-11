@@ -1,0 +1,138 @@
+[
+  {
+    "uuid": "0311fa36-b79e-57fa-9120-1c96b76dcb12",
+    "entry": "様如",
+    "reading": {
+      "primary": "さま如",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「貴様如き無血虫がそんな事を聞いたとて何が解るもので。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アッハハハ、畳水練、道場ばかりで試合をし、真に人間を殺したことのない、貴様如き惰弱の武士の、やり口といえば先ずそうだ。",
+              "citation": {
+                "source": "剣侠",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "声色は春の夜の朧月にも相応わしいが、夏より秋にかけての夜ごとに聞く銅鑼の音、「ええ、御贔負様如何？",
+              "citation": {
+                "source": "残されたる江戸",
+                "author": "柴田流星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日常性とか俗物主義とか（その間を「不安」が取りもつのだが）に就いての今日の常識が、すぐ様如何に非常識なものかという事実を見れば、一般に常識というものがどんなに一筋繩では片づかないものかということが判る。",
+              "citation": {
+                "source": "日本イデオロギー論",
+                "author": "――現代日本に於ける日本主義・ファシズム・自由主義・思想の批判",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いつもなら院長は自分の室から室へと歩いていると、ダリュシカが、麦酒は旦那様如何ですか、と問う刻限。",
+              "citation": {
+                "source": "六号室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二月七日　　　　　　　　　　　　　　　山内又左衛門算所　　　　　　　　　　　　　　　　判　　足田七五三太夫かたへ　　　　　　　―――――――――――――――――――――――――――――口上其方事一豊様如御判形物部川東甲浦限、算所神子くし等之事可為如前候也。",
+              "citation": {
+                "source": "俗法師考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なぜなら、幸福の解釈は、各人の考え様如何にあるのであって、その人が、生活の上に、また哲学を有するか否かに原因するものであります。",
+              "citation": {
+                "source": "文化線の低下",
+                "author": "小川未明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "子規子近来の模様如何。",
+              "citation": {
+                "source": "漱石氏と私",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "毎もなら院長は自分の室から室へと歩いてゐると、ダリユシカが、麥酒は旦那樣如何ですか、と問ふ刻限。",
+              "citation": {
+                "source": "六號室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "御祖母樣如何｜計之御驚嘆と、是｜而已｜案勞仕候儀に御座候。",
+              "citation": {
+                "source": "遺牘",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      },
+      "variant_writings": [
+        "樣如"
+      ],
+      "needs_reading": true
+    }
+  }
+]

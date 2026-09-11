@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "1dd18b15-500a-57a1-869c-2fa3a9eb1f35",
+    "entry": "穉拙",
+    "reading": {
+      "primary": "穉拙",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ほかの人々の歌に比して、技巧の足りない穉拙のようなところがあって、何時か私の心を牽いたものだが、今読んで見ても幾分象徴詩的なところがあっておもしろい。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それを、「吹く毎に」で融合させているので、穉拙なところに、却って古調の面目があらわれて居る。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして此程度の歌ならば、他の巻には幾らもあると思うが、当時既に古歌として取扱った歌として、また、第二句「海にいでたる」の句の穉拙愛すべき特色とを以て選出して置いた。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若くてなまなましく、穉拙で、少しも反感を催させない字体である。",
+              "citation": {
+                "source": "我が愛する詩人の伝記",
+                "author": "室生犀星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "千家の世界で眺めた生きものの姿が、粗雑と穉拙の表現にも拘わらず思うままに、こまかい効果をもたらしている。",
+              "citation": {
+                "source": "我が愛する詩人の伝記",
+                "author": "室生犀星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "春雨に雀かぞゆる夕部かな　　　　如嬰　穉拙な句である。",
+              "citation": {
+                "source": "古句を観る",
+                "author": "柴田宵曲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「夕立くさき」の一語は穉拙だけれども、ちょっと他に換うべき言葉が見当らない、穉拙なりにその感じを道破している。",
+              "citation": {
+                "source": "古句を観る",
+                "author": "柴田宵曲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "実感による穉拙と、厭味を伴う巧と――この比較の結果は、已に度々繰返した元禄、天明の対照になりやすい。",
+              "citation": {
+                "source": "古句を観る",
+                "author": "柴田宵曲",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

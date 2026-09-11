@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "0f8f8b43-b581-51e5-bb70-325c186f8516",
+    "entry": "遽々",
+    "reading": {
+      "primary": "遽々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "更に又驚いたのは、此六人が、揃ひも揃つて何れも、少しも悲し氣な處がなく、靜肅な點もなく、恰も此見すぼらしい葬式に會する事を恥づるが如く、苦い顏をして遽々然と歩いて來る事である。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "されば今、かの六人の遽々然たる歩振を見て、よく其心をも忖度する事が出來たのである。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "更に又驚いたのは、此六人が、揃ひも揃つて何れも、少しも悲し気な処がなく、静粛な点もなく、恰も此見すぼらしい葬式に会する事を恥づるが如く、苦い顔をして遽々然と歩いて来る事である。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "されば今、かの六人の遽々然たる歩振を見て、よく其心をも忖度する事が出来たのである。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "2ca669b5-85a9-5570-8be7-955d4dab2295",
+    "entry": "嚥込",
+    "reading": {
+      "primary": "嚥込",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "笑い掛けたのは半途で圧え、噴出したのは嚥込んで、いやに静かな事よって如件。",
+              "citation": {
+                "source": "日本橋",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私はグイと唾液を嚥込んだ。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "タッタ今歯で引抜いた黒い毛は、どこかへ吐き出すか嚥込むかしてしまっている。",
+              "citation": {
+                "source": "超人鬚野博士",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "周章ててその舌を嚥込み嚥込み眼をパチパチさせた。",
+              "citation": {
+                "source": "笑う唖女",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は生のキウリを噛りながらパンを頬張つてゐたが、妻の注視を享けると、食物が胸に支へてしまつて、嚥込むことが出来なくなり、ギヨツとした。",
+              "citation": {
+                "source": "川を遡りて",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "戸塚が牛馬のふぐりに執刀を試みていることが、風のように洩れだし、施術が遅れるのはそのせいなりと独り嚥込みし、気の早いのから順番に願書を上げたものであった。",
+              "citation": {
+                "source": "玉取物語",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……なにしろ、一人で嚥込んで腹を切ってしまったんですから、どうにも手がつけられない」　顎十郎は、キョロリとひょろ松の顔を見て、「お前は、いま、この事件は落着したと言ったな」「へえ、そう申しました」「大ちがいの三助だ。",
+              "citation": {
+                "source": "顎十郎捕物帳",
+                "author": "都鳥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それどころじゃないんだから、憎まれ口なら後にしてもらおう」　長い顔を、路考の方へ振向けて、「話はだいたい嚥込んだが、十年前にさる人に、だけじゃ、どうも困る。",
+              "citation": {
+                "source": "平賀源内捕物帳",
+                "author": "萩寺の女",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

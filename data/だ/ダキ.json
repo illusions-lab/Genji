@@ -1178,5 +1178,81 @@
         "aozora": 1
       }
     }
+  },
+  {
+    "uuid": "e7acb863-0544-5bdd-875f-5bc3b9c8ebf3",
+    "entry": "柁機",
+    "reading": {
+      "primary": "だき",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　技手は柁機を廻した。",
+              "citation": {
+                "source": "薔薇",
+                "author": "ROSEN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "最後の一瞬間に、ヰクトルは今まで握つてゐた手を柁機から離した。",
+              "citation": {
+                "source": "薔薇",
+                "author": "ROSEN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然るに安済丸は海に泛んで間もなく、柁機を損じて進退の自由を失った。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

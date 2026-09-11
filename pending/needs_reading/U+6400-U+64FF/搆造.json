@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "8526d0d7-8aa7-54c4-869c-6b44a040f8f4",
+    "entry": "搆造",
+    "reading": {
+      "primary": "搆造",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "蓋し彼と雖も時としては想像より搆造したる詩を作らざりしにはあらざりし。",
+              "citation": {
+                "source": "頼襄を論ず",
+                "author": "山路愛山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "生來の習慣と住居の搆造とは寒地人民の裸体を許すものなり。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第一種の方には略製にして胸部の搆造詳ならざるものも有れど大概は右に述べしが如くなるべし。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "但し穿き物の搆造は未だ詳ならず。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二種の帽子の形状は右に述べたる通りなるが、實物の搆造は果して如何なりしか余は未だ考定の材料を有せず。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "文化十四年に羽後米代川のほとりより現れしといふ堅穴家屋の搆造を見るに、其穴の深さ、家の高さ、其他、作り方等、頗る、北蝦夷圖説及び休明光記等に見ゆる唐太アイヌの穴居家屋に似たり。",
+              "citation": {
+                "source": "蝦夷とコロボツクルとの異同を論ず之に潜みて",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

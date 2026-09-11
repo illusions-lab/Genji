@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "cb56b029-9e57-5aca-8ffa-ef4111003cf8",
+    "entry": "錺徳",
+    "reading": {
+      "primary": "錺徳",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」「勝太郎は、檜木風之進に頼んで、鍵の寸法を取つて貰ひ、それを持つて行つて、門前町の錺徳の手で、立派な合鍵を拵へたんださうですよ」「フーム」「――この通り合鍵は持つてゐるが、癪にさはることに、それを使ふ前にお喜代が殺されてしまつた。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "鍵の穴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「八、錺徳を呼出して、思ひきり脅かしてくれ。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "鍵の穴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いきなり門前町の錺徳の店に飛び込むと、「さア、野郎、眞つ直ぐに申上げろ。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "鍵の穴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まご／＼しやがると、しよつ引いて石を抱かせるからさう思へ」　八五郎がわめき散らすと、中年者の錺徳はひとたまりもありません。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "鍵の穴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「勝太郎がお喜代を救ひ出したさに、あのあぶれ浪人の檜木風之進に頼んで鍵の型を取らせたと知つて、近所の錺屋を當つて見て、錺徳に同じ鍵を作らせたのだらう。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "鍵の穴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お百合は何んにも知らないやうな顏をしてゐるが、あの女は思ひの外の悧巧者で、いろ／＼の事を知つてゐるに違ひないよ」「へエ」「錺徳は、勝太郎からはいくらも禮は貰はないだらうが、吉三郎からは五兩か十兩の纒まつた金を貰つてゐるに違ひないよ。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "鍵の穴",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

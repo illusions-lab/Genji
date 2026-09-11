@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "6462bbcf-1a34-5855-9501-891bdcd44916",
+    "entry": "曳手",
+    "reading": {
+      "primary": "曳手",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "道節を除いては、小文吾が曳手・単節を送って途中で二人を乗せた馬に駈け出されて見失ってしまったり、荒野猪を踏み殺して牙に掛けられた猟師を助けたはイイが、恩を仇の泥棒猟師の女房にコロリと一杯喰ってアベコベにフン縛られる田舎相撲らしい総身に知恵の廻り兼ぬるドジを時々踏むほかは、皆余りに出来過ぎている。",
+              "citation": {
+                "source": "八犬伝談余",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "白井の城下で道節が上杉勢に囲まれた時も鉄砲足軽が筒を揃えて道節に迫った、曳手・単節が荒芽山を落ちる時も野武士に鉄砲で追われた、網苧の鵙平茶屋にも鉄砲が掛けてあった、甲斐の石和の山の中で荘官｜木工作が泡雪奈四郎に鉄砲で射殺された。",
+              "citation": {
+                "source": "八犬伝談余",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "指が抽斗の曳手にかかる……　その瞬間、なにか形容し難い戦慄が、電光のように頭のてっぺんから爪先まで差しつらぬいた。",
+              "citation": {
+                "source": "キャラコさん",
+                "author": "ぬすびと",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……ほら、もう、曳手に手がかかった。",
+              "citation": {
+                "source": "キャラコさん",
+                "author": "ぬすびと",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

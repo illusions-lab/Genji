@@ -1,0 +1,98 @@
+[
+  {
+    "uuid": "41ed25ab-6514-58ce-829f-bf27e02d70f2",
+    "entry": "転寓",
+    "reading": {
+      "primary": "てん寓",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "七月十八日に保は神田仲猿楽町五番地｜豊田春賀の許に転寓した。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "本陣大菊屋へ病院転寓。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今朝の雪畑を荒らすと思ふなよ生ひ立つ麦の根固めとなる苦にするな荒しの後に日和あり火に焼かれ風にたをされ又人に伐られてもなほ枯れぬ若桐伐ればなほ太く生ひ立つ桐林二一、バルレー村に転住す　十二日より英国地方の実況を視察せんために、ロンドンをさること北方二百マイル、リーズ市近在バルレー村に転寓す。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "バルレー村には三月十一日まで滞留し、その翌十二日より英国の一部なるアイルランドに渡り、ベルファスト市に転寓することに定む。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次に同じ册子に嘉永七｜寅霜月とした願書があつて、これは眞志屋が既に二本氏から金澤氏に轉寓した後の文である。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "轉寓"
+      ],
+      "needs_reading": true
+    }
+  }
+]

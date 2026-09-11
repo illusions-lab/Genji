@@ -1,0 +1,122 @@
+[
+  {
+    "uuid": "cb7164f6-2980-547a-84c0-be1dcb44bdb9",
+    "entry": "応逢",
+    "reading": {
+      "primary": "おう逢",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "あんたに一遍逢ってからでもいいと思って」　それから、ともかくそんなら東山の方のとある、小隠れた料理屋で一応逢ってからのことにしよう。",
+              "citation": {
+                "source": "黒髪",
+                "author": "近松秋江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ガラッ八は一応逢ってみましたが、「可哀想なことをしました。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "ガラッ八手柄話",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これから変なところへ立ち廻らねえ方がいいよ」「親分、からかっちゃいけねえ」「ところで、冗談は冗談として、町内から祭の行列に出ている人達に一応逢っておきたいことがあるんだ。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "赤い紐",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "主人の周左衞門は丁度留守、若い番頭の佐吉と一應逢つて見ましたが、これは要領が良過ぎて、一向に話を纏めさせず、仕方が無いから、新造のお千といふのに逢つて見ることにしました。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "死の踊り子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ガラツ八は一應逢つて見ましたが、「可哀想なことをしました。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "がらツ八手柄話",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "家の者に一應逢つて見ましたが、構への割には至つて無人で、召使ひと稱する――實は主人の妾のお富といふ、ジヤラジヤラした三十女。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "飛ぶ女",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "坂上の自身番に預けてあるから、一應逢つて見るかえ。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "敵の娘",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "門番にも堅く申付けて、塀際へも人を寄せつけません」「それは用心なことで」　平次は丹後守の許を受けて、屋敷中の者に一應逢つて見ました。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "名畫紛失",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
+      },
+      "variant_writings": [
+        "應逢"
+      ],
+      "needs_reading": true
+    }
+  }
+]

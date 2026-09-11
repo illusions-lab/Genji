@@ -1,0 +1,63 @@
+[
+  {
+    "uuid": "6d73563c-2590-5b95-b53e-af87f1aef926",
+    "entry": "於世",
+    "reading": {
+      "primary": "於世",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "於東海之上蓬莱之頂、南宮西庶、有群仙所居、上元女仙太真者即貴妃也、謂什伍曰、我太上侍女、頴上元宮聖上太陽朱宮真人、以宿縁世念其願頗重、聖上降居於世、我謫人間、以為侍衛耳、此後一紀、自当相見、　羽衣説話に関しては、別に云う可きことなし。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

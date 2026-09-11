@@ -1,0 +1,82 @@
+[
+  {
+    "uuid": "4c297d8b-5e48-505b-8c69-a8a09a456d5d",
+    "entry": "声呶",
+    "reading": {
+      "primary": "こえ呶",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　と一声呶鳴れば事が足りる。",
+              "citation": {
+                "source": "凡人伝",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又八も青洟を垂らし、武蔵もまだ八ツか九ツ頃の悪戯ざかりの当時、村の桑畑や本位田家の台所などで、この老婆に、（童ッ）と一声呶鳴られると臍がもんどり打ったように、縮み上がって逃げたものである。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "火の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「おつう」と一｜聲呶鳴つて情の激した勘次は咄嗟に次の語が出せなかつた。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "聲呶"
+      ],
+      "needs_reading": true
+    }
+  }
+]

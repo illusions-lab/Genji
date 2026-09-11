@@ -1,0 +1,90 @@
+[
+  {
+    "uuid": "492c4dd2-d03b-5966-84a7-6e9c236d85c5",
+    "entry": "獣獵",
+    "reading": {
+      "primary": "じゅう獵",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "即ちアイノは獸獵魚漁を以て業として居る所の人民でありまして、金屬を鍜へる事の技術は、總ての點から考へて見て、曾て知つて居つた事がないと思ふ。",
+              "citation": {
+                "source": "蝦夷とコロボツクルとの異同を論ず之に潜みて",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一個の打製石斧もコロボックルの爲には建築、造船、獸獵、爭鬪に際して、極めて肝要なる役目を勤めしなるべし。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "弓矢は鳥獸獵に於ても用ゐられしなるべく、人類｜同志の爭鬪に於ても用ゐられしならん。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "思ふにコロボックルは數人連合し互に相助けて獸獵に從事し、此所彼所より多くの矢を射掛け、鹿なり猪なり勢｜衰へて充分に走る事能はざるに至るを見濟まし、各自棍棒石斧抔を手にして獸に近寄り之を捕獲せしならん。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      },
+      "variant_writings": [
+        "獸獵"
+      ],
+      "needs_reading": true
+    }
+  }
+]

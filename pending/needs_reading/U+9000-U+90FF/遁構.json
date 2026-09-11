@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "64708998-3231-55f9-a85c-0ca08040f321",
+    "entry": "遁構",
+    "reading": {
+      "primary": "遁構",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "遁構でいるのである。",
+              "citation": {
+                "source": "みさごの鮨",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と思切って声を掛けた時、俊吉の手は格子を圧えて、そして片足｜遁構えで立っていた。",
+              "citation": {
+                "source": "第二菎蒻本",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "振離すと、床まで落ちず、宙ではらりと、影を亂して、黒棚に、バツと乘る、と驚駭に衝と退つて、夫人がひたと遁構への扉に凭れた時であつた。",
+              "citation": {
+                "source": "印度更紗",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と棄鞭の遁構えで、駒の頭を立直すと、なお打笑み、「そりゃ知れますわ。",
+              "citation": {
+                "source": "春昼後刻",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "振離すと、床まで落ちず、宙ではらりと、影を乱して、黒棚に、バツと乗る、と驚駭に衝と退つて、夫人がひたと遁構への扉に凭れた時であつた。",
+              "citation": {
+                "source": "印度更紗",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

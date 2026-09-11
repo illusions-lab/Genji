@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "840d1e24-7e1a-5878-af37-4008df5e3b0d",
+    "entry": "瀟々",
+    "reading": {
+      "primary": "瀟々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "予は其を聞くと整しく口をつぐみて悄気返れば、春雨恰も窓外に囁き至る、瀟々の音に和し、長吁短歎絶えてまた続く、婦人の泣音怪むに堪へたり。",
+              "citation": {
+                "source": "妖怪年代記",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秋雨｜瀟々、更けても降り止まなかった。",
+              "citation": {
+                "source": "中国怪奇小説集",
+                "author": "開会の辞",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霧に似たる細雨は隙間もなく瀟々と降頻って、濡れたる手足は麻痺れるように感じた。",
+              "citation": {
+                "source": "飛騨の怪談",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（十一月×日）　遠雷のような汐鳴りの音と、窓を打つ瀟々たる雨の音に、私がぼんやり目を覚ましたのは十時頃だったろうか、コロロホルムの酢のような匂いが、まだ部屋中に流れているようで、私はそっと窓を開けた。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "＊　梁川君の葬式は、秋雨の瀟々と降る日であった。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "永井先生が「雨瀟々」の趣味ある家業家ヨウさんの幻滅振りにも亦頗る相似てゐると云つておかう。",
+              "citation": {
+                "source": "異版　浅草燈籠",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは、その数日前から降りつづいた秋雨がなおも降り止まず、瀟々と病室の縁側の硝子障子に打ち煙っている日であった。",
+              "citation": {
+                "source": "細雪",
+                "author": "下巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "雨はいよ／＼土砂降りになつて、陰鬱な京の小路の家列に瀟々と濺ぐ。",
+              "citation": {
+                "source": "青春物語",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霧まじりの冷たい風が、もう、越後境の山々から、瀟々と秋を鎧の袖に告げてきた。",
+              "citation": {
+                "source": "篝火の女",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ふと、眼のあくたびに、瀟々と、雨の音ばかり耳についた。",
+              "citation": {
+                "source": "源頼朝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "瀟々、外の雨声ばかりで、寒室の燭は、油も凍るか、いとど火色も細い。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第十分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この上は軍令に反いても、我々は思い思いにほかへ陣を移してしまおう」　瀟々と外は間断なき雨の音だった。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「直指人心」の四大字がその風趣であり、「寒流帯月澄如鏡」の一行も、自ら題するごとく、戦気瀟々、肌に粟を覚えるような筆勢である。",
+              "citation": {
+                "source": "随筆　宮本武蔵",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十年の昔、秋雨｜瀟々と降りしきる一日、ベルギーの古都ブリュージュを訪れて、風情に富む縦横の堀割に沿うて雨を賞しながら、灰白の空を支うる寺院の奥に香の煙の揺曳するのを眺めながら、ローダンバックの描いた『死都ブリュージュ』の面影を親しく味わった。",
+              "citation": {
+                "source": "雨の日",
+                "author": "辰野隆",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

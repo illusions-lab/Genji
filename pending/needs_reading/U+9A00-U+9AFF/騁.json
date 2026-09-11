@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "792a2bc4-91c9-555c-8a4a-1d916aa19443",
+    "entry": "騁",
+    "reading": {
+      "primary": "騁",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "縦騁五分間ののち、前途はるかに競争者の影を認め得たり。",
+              "citation": {
+                "source": "義血侠血",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斉名の文は典雅荘重であり、以言の文は奇を出し才を騁せ、其風体各々異なれど、いずれも文章の海山の竜であり象である。",
+              "citation": {
+                "source": "連環記",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その思想といふものも、いかなるが詩となすに宜しかるべきか知るよしなけれど、わが尼寺にありし時、ふと物の懷かしき如き情、遠きに騁する如き情の胸に溢るゝことあり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その懷かしきは何ぞ、その騁するは何をあてぞといはば、われ自ら答ふるところを知らず。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若し今事の伝ふべきを伝へ畢つて、言讚評に亘ることを敢てしたならば、是は想像の馳騁、主観の放肆を免れざる事となるであらう。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "己が始て行った晩には、どうするだろう」空想は縦横に馳騁して、底止する所を知らない。",
+              "citation": {
+                "source": "雁",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二人は其処の素床に薄縁を敷いてもらって、汗を拭き、茶をのみ、菓子を食いながら眼を騁せた。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこでその先生が思想を馳騁して、1790宇宙の物のあらゆる栄誉をあなたの頭銜に持って来るのです。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "紙鳶挙ぐる子供の、風の神弱し、大風吹けよと、謡ふも心憎しなど、窓に倚りて想ひを碧潭の孤舟に騁せ、眼に銀鱗の飛躍を夢み、寸時恍惚たり。",
+              "citation": {
+                "source": "元日の釣",
+                "author": "石井研堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吾子年富み才雄、激昂して以て勲名を万国に騁すること能わざらんや」と。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は檻中の虎なり、その夢は荒山、莽野の中に馳騁すといえども、身は自由ならず。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

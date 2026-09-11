@@ -74,5 +74,89 @@
         "aozora": 3
       }
     }
+  },
+  {
+    "uuid": "dffafca7-7730-5c65-9ebd-030b9d96daa0",
+    "entry": "刎銭",
+    "reading": {
+      "primary": "はねせん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "旧い伝馬制度の改革もしきりに企てられ、諸街道の人民を苦しめた諸公役らの無賃伝馬も許されなくなり、諸大名の道中に使用する人馬の数も減ぜられ、助郷の苦痛とする刎銭の割合も少なくなって、街道宿泊の方法までも簡易に改められた。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第一部下",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "旧い伝馬制度の改革が企てられたのもあの時からで、諸街道の人民を苦しめた諸公役らの無賃伝馬も許されなくなり、諸大名の道中に使用する人馬の数も減ぜられ、問屋場｜刎銭の割合も少なくなって、街道宿泊の方法まで簡易に改められるようになって行きかけていた。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第二部上",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一、御一新｜成就いたし候までは、二十五人二十五匹の宿人馬もまずまずこれまでのとおり立て置かれ候につき、御印鑑ならびに御証文にて継立ての分は宿人馬にて相勤め、付近の助郷村々より出人足の儀は御定め賃銭払いの継立てにつかわし、右の刎銭を取り立つることは相成らず候。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第二部上",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すでに起こって来た木曾福島の関所の廃止、代官所廃止、種々な助郷名目の廃止、刎銭の廃止、問屋の廃止、会所の廃止――この大きな改革は、とうとうここまで来た。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第二部上",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
   }
 ]

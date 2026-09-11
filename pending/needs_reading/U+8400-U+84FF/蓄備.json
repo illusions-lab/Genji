@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "f5fb6e2a-1312-5c71-af09-44997f7240f2",
+    "entry": "蓄備",
+    "reading": {
+      "primary": "蓄備",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ただ河内地方は去年も今年もあいにくな旱魃で作物のみいりはよくなく、蓄備の郷倉も水分の土倉もその底は浅かった。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "帝獄帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこには近郡近郷の飢饉年に備える倉院（蓄備倉）の役所がある。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "世の辻の帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "警固の人馬はあらかた津山川の河原近傍から、蓄備の土倉の方に屯しており、ここの古建物の行宮も、いわば地方の郷役所にすぎない物、さして奥深いともみられない。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "世の辻の帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まして貧しい山村のことだ、日ごろ蓄備の食糧がおいてある倉院などは、ゆらい鼠賊が常にねらい寄る所だともいう。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "世の辻の帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "営々と半農半武士の黒い汗と代をかさねて、武具や馬匹を蓄備してきた財源の地でもあり、すべては、「今日のために」　と、言わずかたらずな誓いが、畑にも野にもみちていた郷である。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "千早帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「――さればこそ、わが家においても、さきには金剛山の寄手にも加わり、一｜倉、二倉とあるかぎりな蓄備の稲も税物にささげ、また去年も銭一万貫、この一月にも五千貫と、仰せつけのまま課税はずいぶんさし出しておる」「それや何も、ご当家だけではない。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "新田帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして蓄備倉のような洞穴のおくを示した。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "筑紫帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は、それらの検見帳から、領下の戸帳や蓄備倉の表や年貢控えなどを克明に見終っての後。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "湊川帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

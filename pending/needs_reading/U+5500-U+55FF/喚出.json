@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "a5e69121-a7f1-578e-95a4-ebce5a812ea2",
+    "entry": "喚出",
+    "reading": {
+      "primary": "喚出",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これより先、刑事の一人は逸早く宙を飛んで、何時でも召喚出来るように自宅に足止めしてある、あの、犯人の顔を見識っている唯一の証人アウチイ・ベエコンを迎いに走っている。",
+              "citation": {
+                "source": "双面獣",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "實際人間は自分の意旨に反して、或は偶然な事の爲に、無から生活に喚出されたものであるのです……。",
+              "citation": {
+                "source": "六號室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "実際人間は自分の意旨に反して、或は偶然なことの為に、無から生活に喚出されたものであるのです……。",
+              "citation": {
+                "source": "六号室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "薄墨色の女　警察から喚出された夢を見て、陽子は眼を覚ました。",
+              "citation": {
+                "source": "梟の眼",
+                "author": "大倉※子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは警視庁からの喚出しであった。",
+              "citation": {
+                "source": "黒猫十三",
+                "author": "大倉※子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし事にも手紙は非公式の喚出状で、殊に差出人が有名な宮岡警部であったのは意外の喜びであった。",
+              "citation": {
+                "source": "黒猫十三",
+                "author": "大倉※子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――お喚出しにあずかりました本庄恒夫でございます」　と云って、顔をぱッと赤くした。",
+              "citation": {
+                "source": "黒猫十三",
+                "author": "大倉※子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お靜は到頭喚出されて、お町と一緒に調べられることになりました。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "平次女難",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お静はとうとう喚出されて、お町と一緒に調べられることになりました。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "平次女難",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

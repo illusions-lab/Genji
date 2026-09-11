@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "ba158475-6c57-5ce9-85f2-63618e0bbd6c",
+    "entry": "諫諍",
+    "reading": {
+      "primary": "諫諍",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "今の伊太夫の家では、この旅を、無用なり、危険なりとして諫諍するほどのものはありません。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "新月の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "母を尊敬し併せて妻を愛重する文明男子がこの際に取るべき手段は、誠意ある諫諍を敢てして、母を時代錯誤から救い出し、現代に適した賢い母たり新しい母たらしめる外にないではないか。",
+              "citation": {
+                "source": "姑と嫁について",
+                "author": "与謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "明治十八年の春、賤民政府という小冊子を旧大名に頒布したため、政府｜讒謗の廉で鍛冶橋監獄に繋がれたが、出獄後は拘留中に発病した炎症痛風に悩み、癇癖を募らせて野蛮に近いふるまいをするようになり、諫諍するものがあると、はげしく争ってみな出入を禁じてしまった。",
+              "citation": {
+                "source": "湖畔",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さはれ親戚僚友は共にひとしく傍にありて館中殘るべく諫諍切に我を止む。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これに対して中納言藤原吉野は諫諍を試みたが、その説容れられず、いよいよ御葬式に際しては、遺詔の如く荼毘に附し奉った御骨を砕粉し、大原野西山の嶺上に散らし奉ったとある。",
+              "citation": {
+                "source": "火葬と大蔵",
+                "author": "焼屍・洗骨・散骨の風俗",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この時に中納言藤原吉野が『昔、宇治の稚彦皇子が遺教して、自ら骨を散ぜしめ、後世これに傚う者があるも、これは皇子の事であって、帝王の迹にあらず、我国上古より山陵を起さざるは、未だ聞かざる所である』と諫諍を試みたが、遂に容れられずして上皇の遺勅の如く、大原野西山の嶺上にて散らし奉ったとある。",
+              "citation": {
+                "source": "本朝変態葬礼史",
+                "author": "中山太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

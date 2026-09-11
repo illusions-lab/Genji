@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "fc0b07cb-7915-5d94-8699-d438e9767228",
+    "entry": "慰籍",
+    "reading": {
+      "primary": "慰籍",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "慰籍　友の眠に就きし後、われは猶｜※久しく出窓に坐して、外の方を眺め居たり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かう云ふ力を得てから、初めて人心を制服することも出來る、また慰籍することも出來る。",
+              "citation": {
+                "source": "神秘的半獸主義",
+                "author": "岩野泡鳴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』と悟つてから、またシエキスピヤやゲーテの樣な文藝的慰籍者に走つた。",
+              "citation": {
+                "source": "神秘的半獸主義",
+                "author": "岩野泡鳴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し、これは絶望と苦痛とがなくなつたのではない、僕があとから云はうとする文藝的慰籍を得たからであるのだ。",
+              "citation": {
+                "source": "神秘的半獸主義",
+                "author": "岩野泡鳴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "他の二つの場合（前に陳べたるものを斥す）も今｜憶ひ出だし候てだに心｜跳りせらるゝ一種の光明、慰籍に候へども、先日御話いたしし実験は、最も神秘的にして亦最も明瞭に、インテンスのものに候ひき。",
+              "citation": {
+                "source": "予が見神の実験",
+                "author": "綱島梁川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斯くて今迄よりも一層多く哀れな人を劬り、又出来る丈は慰籍を与えたいと云う嬉しい希望で心が一杯になるであろう。",
+              "citation": {
+                "source": "職工と微笑",
+                "author": "松永延造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "無事平穏に日本に居住せむと欲すれば、是非にも此等の藝術に一縷の慰籍を求めざる可からず。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之三大正八年歳次己未",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは彼らにとって一つの慰籍であった。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN-CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

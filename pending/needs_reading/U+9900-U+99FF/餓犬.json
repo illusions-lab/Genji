@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "310ad982-65b1-5356-b3ea-7f661c9fd1fb",
+    "entry": "餓犬",
+    "reading": {
+      "primary": "餓犬",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "試に世間を観ると、そこ等の多くの人は偶々福に遇うことはあっても、その一遭遇するや新に刑務所を出た者が飽醉に急なように、餓犬が肉に遇ったように、猛火が毛を焼くように、直ちにその福を取り尽くし使い尽くさずには止まないのである。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これまた餓犬がその友に譲らないようなことであって、実に「人類もまた一動物である」ということを証拠立てていると云えばそれ迄の情無い景色ではないか。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "餓犬がその友に譲らないのは畜生の已むを得ないところであるが、少なくとも人として畜生と変わらない心なのは実に情無い話である。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一瓶の酒、我を酔わすに足りなくとも人とその味わいを分かち、器半分の肉、我が満足には不足だが人にその切り分けを薦める、このような分福の行動は、実に人が餓犬でなく貪狼でないところを表わすのであって、単に福を得る道として論じるべき一箇条と云うよりは、人としての高貴な情の発動というべきである。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

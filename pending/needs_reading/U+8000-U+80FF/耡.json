@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "a4cc0095-7e4c-573b-b5c4-eebc41cd06b2",
+    "entry": "耡",
+    "reading": {
+      "primary": "耡",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "仁右衛門の畑はそうなるまでに一部分しか耡起されなかったけれども、それでも秋播小麦を播きつけるだけの地積は出来た。",
+              "citation": {
+                "source": "カインの末裔",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "耡き起される土壌は適度の湿気をもって、裏返るにつれてむせるような土の香を送った。",
+              "citation": {
+                "source": "カインの末裔",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "収穫小屋の後ろにはおおかた耡き返されて大きな土塊のごろごろする畑が、荒れ地のように紫がかって広がっていた。",
+              "citation": {
+                "source": "フランセスの顔",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "馬鈴薯ばかりではない、亞麻の跡地でも、燕麥のそれでも、凡てがまだ耡き返へしてはないのだ。",
+              "citation": {
+                "source": "秋",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "畑を耡け、畑を、燕麦の畑を。",
+              "citation": {
+                "source": "緑の種子",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「畑が耡けるようになるまで、なんでもござれです。",
+              "citation": {
+                "source": "ぶどう畑のぶどう作り",
+                "author": "LE VIGNERON DANS SA VIGNE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "時としては耡の柄を杖にたのみながら、底なき夢想の螺旋を徐々に下ってゆくこともあった。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこは田に挾まれた村道で、向うに古い神社の森があり、周囲は青々と麦の伸びた畑や、林や、土を耡き返した田などが続き、遠く土を打っている農夫の姿が、二三見えるほかには、家らしいものも眼につかなかった。",
+              "citation": {
+                "source": "風流太平記",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

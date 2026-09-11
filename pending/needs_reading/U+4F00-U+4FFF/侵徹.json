@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "e0bf9877-9069-5510-930d-101ebc811b9c",
+    "entry": "侵徹",
+    "reading": {
+      "primary": "侵徹",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "じつに生命の底に侵徹して「自己」に目ざめたるものにとっては自己以外のものの生命的存在を発見することは、ゆゆしき驚きであり、大事であったに相違ない。",
+              "citation": {
+                "source": "愛と認識との出発",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自己存在の深刻なる覚醒もなく、他人の魂の底に侵徹してその存在に触れたる意識もなく、ただ漫然として愛と犠牲とが主張されるのが私は不思議でならなかった。",
+              "citation": {
+                "source": "愛と認識との出発",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "生命と生命との侵徹せる抱擁を要求するならば、霊肉を併せたる全部生命の抱合が望ましかった。",
+              "citation": {
+                "source": "愛と認識との出発",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "意識の侵徹せる全体性をいうのである。",
+              "citation": {
+                "source": "愛と認識との出発",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのような甘える思想ほどわれらの真実の生活の侵徹力を妨げるものはない。",
+              "citation": {
+                "source": "愛と認識との出発",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

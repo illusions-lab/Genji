@@ -1,0 +1,90 @@
+[
+  {
+    "uuid": "2fa7273f-9070-56a6-9456-f48e0a909505",
+    "entry": "蠻秘",
+    "reading": {
+      "primary": "蠻秘",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これはオランダ人から傳はつた、南蠻祕法の銀流し、彼處にもある、此處にもあると言ふ物ではない。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "呪ひの銀簪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "目白坂の降口に、紺暖簾を深々と掛け連ねて、近頃出來乍ら、當時江戸中に響いた『唐花屋』といふ化粧品屋、何の氣もなく表へ出した金看板を讀むと、一枚は『――おん藥園へちまの水――』次のは『――南蠻祕法、おん白粉――』そして更にもう一枚には、『――峠流祕藥色々――』とあります。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "金色の處女",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "江戸へは諸國の荷が集まるから却つてわからない道理だ、――現にお前の夫の吉三郎を殺したのも、その拔荷で入つた南蠻祕法の毒藥だ」　平次の舌は焔のやうに燃えます。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "鉄砲汁",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "どうだ女、南蠻祕法大毒藥は、七味｜唐辛子の代りにやならないぜ。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "三つの死",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      },
+      "variant_writings": [
+        "蠻祕"
+      ]
+    }
+  }
+]

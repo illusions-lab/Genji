@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "6b0f44b6-6eb8-59e2-816b-5576898ae8e4",
+    "entry": "睨廻",
+    "reading": {
+      "primary": "睨廻",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　とそこいらじろじろと睨廻して、新地の月に提灯入らず、片手懐にしたなりで、亭主が出前、ヤケにがっと戸を開けた。",
+              "citation": {
+                "source": "歌行燈",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "中に、目の鋭い屑屋が一人、箸と籠を両方に下げて、挟んで食えそうな首は無しか、とじろじろと睨廻わす。",
+              "citation": {
+                "source": "陽炎座",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何｜吐す、」　と、とりなしを云った二三人の年増の芸妓を睨廻いて、「やい、多一！",
+              "citation": {
+                "source": "南地心中",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "証書を取つて了へば、後は細工はりうりう僕が心得てゐるから、早く探したまへと言ふに」　手を出しかねたる二人を睨廻して、蒲田はなかなか下に貫一の悶ゆるにも劣らず、独り業を沸して、効無き地鞴を踏みてぞゐたる。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は警官が柏に説明している間も、猜疑深い調子で、じろじろと私を睨廻していた。",
+              "citation": {
+                "source": "日蔭の街",
+                "author": "松本泰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

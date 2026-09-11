@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "0ab49c34-a0a5-5a49-9e74-aa8cb1eb96d0",
+    "entry": "劔沢",
+    "reading": {
+      "primary": "劔沢",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "第一日、ここから立山地獄を見て室堂へ八時間、第二日、浄土―雄山―別山と尾根伝いに劔岳にいたり長次郎谷―劔沢を経て池ノ平小屋へ十三時間、弁当を四食分持って行くくらいで充分、劔沢で右岸を通ること、第三日、小黒部を下って祖母谷温泉へ八時間、道は少しわかり難い所もありますが温泉までなら楽です。",
+              "citation": {
+                "source": "単独行",
+                "author": "加藤文太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（一九二九・一一）一月の思い出――劔沢のこと　一月のことを思い出すのは僕には耐えられぬほど苦しい。",
+              "citation": {
+                "source": "単独行",
+                "author": "加藤文太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鏡石のところでちょっと休んで少し進んでから、あの人等は地獄谷を通って劔沢の小屋に行かれるので別れました。",
+              "citation": {
+                "source": "単独行",
+                "author": "加藤文太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三日の朝は霧が掛っていましたが、非常に明るいのでどうやら良くなりそうだと思って劔沢に向いました。",
+              "citation": {
+                "source": "単独行",
+                "author": "加藤文太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "劔沢の雪はクラストでした。",
+              "citation": {
+                "source": "単独行",
+                "author": "加藤文太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ちょっと下って劔沢の小屋を見出したときはほんとに嬉しかった。",
+              "citation": {
+                "source": "単独行",
+                "author": "加藤文太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今年の一月、劔沢で遭難事件があった時、富山県から出た捜索隊が強行して立山室堂に着き、一同「排泄した上小屋に入った」という記事が都下の大新聞に麗々しく出ていた。",
+              "citation": {
+                "source": "山を思う",
+                "author": "石川欣一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "雪渓が一方は劔の大窓、一方は劔沢界いの尾根へと、二た筋に岐れる地点、その山鼻に小屋場がある。",
+              "citation": {
+                "source": "ある偃松の独白",
+                "author": "中村清太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "足の底の方から遙かに、山を震わすような響きが伝わってくるのは、南方一めんに湧きかえる白霧のうちに、大瀑をもつ劔沢の流れているのが、それと知られる。",
+              "citation": {
+                "source": "ある偃松の独白",
+                "author": "中村清太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

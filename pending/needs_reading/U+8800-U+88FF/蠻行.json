@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "bff1dd93-764a-59f5-a2cb-0624545037fa",
+    "entry": "蠻行",
+    "reading": {
+      "primary": "蠻行",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "肥あり、瘠あり、黒あり、白あり、宛然一幅の南洋土蠻行列の圖也。",
+              "citation": {
+                "source": "白河の七日",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さるにても天子の尊に居る明の太祖が、公然かかる蠻行を敢てするとは驚くべきでないか。",
+              "citation": {
+                "source": "支那人間に於ける食人肉の風習",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "明末清初に流賊横行の際に、例によつて、到る處で人肉食用の蠻行が起つた。",
+              "citation": {
+                "source": "支那人間に於ける食人肉の風習",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "最近民國九年（西暦一九二〇）に於ける北支那の饑饉には、諸外國からの救助も相當に行き渡つたから、人肉食用の蠻行は起らなかつた樣であるが、光緒四年の饑饉には、この蠻行が實現して居る（Williams; Middle Kingdom. Vol. II, p. 736）。",
+              "citation": {
+                "source": "支那人間に於ける食人肉の風習",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唐末から五代にかけて、城守の際に、人肉食用の蠻行が頻發したことは、さきに紹介した『資治通鑑』の（５）（７）（11）（12）（13）（14）（16）等の記事に據つて疑ふ餘地がない。",
+              "citation": {
+                "source": "支那人間に於ける食人肉の風習",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

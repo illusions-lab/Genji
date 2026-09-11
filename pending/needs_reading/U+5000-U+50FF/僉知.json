@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "86e1ba1a-f9be-5ece-96ce-6ecf11ee47ea",
+    "entry": "僉知",
+    "reading": {
+      "primary": "僉知",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "次は上々官｜金僉知、朴僉知、喬僉知の三人で、これは長崎で造らせた白木の乗物に乗っていた。",
+              "citation": {
+                "source": "佐橋甚五郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "上々官｜金僉知、朴僉知、喬僉知の三人はいずれも広縁に並んで拝をした。",
+              "citation": {
+                "source": "佐橋甚五郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「三人目は喬僉知と申しまするもので」家康は冷やかに一目見たきりで、目を転じて一座を見渡した。",
+              "citation": {
+                "source": "佐橋甚五郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "膳部を引く頃に、大沢侍従、永井右近進、城織部の三人が、大御所のお使として出向いて来て、上の三人に具足三領、太刀三振、白銀三百枚、次の三人｜金僉知らに刀三腰、白銀百五十枚、上官二十六人に白銀二百枚、中官以下に鳥目五百貫を引物として贈った。",
+              "citation": {
+                "source": "佐橋甚五郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天正十一年に浜松を立ち退いた甚五郎が、はたして慶長十二年に朝鮮から喬僉知と名のって来たか。",
+              "citation": {
+                "source": "佐橋甚五郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二十四年後、朝鮮から来た三人の使者のうち喬僉知と名乗っているのが、家康の六十六歳の眼にその朝鮮人こそ正しく佐橋甚五郎と映った。",
+              "citation": {
+                "source": "鴎外・芥川・菊池の歴史小説",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金僉知の驢馬が行っちまうと、土を蹴ったり、泡をふいたり、気違いみてえに狂い出したんだ。",
+              "citation": {
+                "source": "蕎麦の花の頃",
+                "author": "李孝石",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

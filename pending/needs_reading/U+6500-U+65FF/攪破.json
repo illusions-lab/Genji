@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "2ae3563c-9df6-5f8d-96be-226f3bcc3845",
+    "entry": "攪破",
+    "reading": {
+      "primary": "攪破",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "若し夫れおのづからにして寤むる場合は、之を其の人の精神、詳言すれば自意識よりして、身體に於て精神作用が開始されたのであると云はんよりは、之を其の人の身體、詳言すれば血液の運行状態よりして、睡眠境が攪破されて、そして精神作用が開始さる可くされたのだと云つた方が適當である。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "見よ、デモクラシーは宿昔の長夢を攪破せんとのみ悶き、アリストクラシーは急潮の進前を妨歇せんとのみ噪ぐにあらずや。",
+              "citation": {
+                "source": "国民と思想",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "或は一転して旧来の迷夢を攪破したるボルテイアとなり、バイロンとなり、ゴヱテとなり、カアライルとなり、自由神学派となり、唯心的傾向となりて、今日に至るまでの思想界の変遷はおもしろきこと限りなし。",
+              "citation": {
+                "source": "各人心宮内の秘宮",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其四　暁起　一鴉鳴き過ぎて、何心ぞ、我を攪破する。",
+              "citation": {
+                "source": "客居偶録",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この説やもって旧時の思想を攪破するに足る、しかれども旧時の思想を誘掖するにはいまだ充分なりというべからず。",
+              "citation": {
+                "source": "近時政論考",
+                "author": "陸羯南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自由論派はこれに反してもっぱら自由の理、平等の理を唱道し、むしろ史蹟および現状を攻撃してただその信ずるところの道理を講じたるは、もって旧慣を攪破するに足るもいまだ人心を誘掖するに充分ならざりき、要するに自由論派はこの点において一の純理的論派なり。",
+              "citation": {
+                "source": "近時政論考",
+                "author": "陸羯南",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

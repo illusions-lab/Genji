@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "fab135d3-1e79-5f7b-b3d4-d6f8ef2af69b",
+    "entry": "黙啜",
+    "reading": {
+      "primary": "もく啜",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "また唐の玄宗時代に、大武軍の牙將に唐を侵略した突厥の可汗の默啜の首を獲て、之を朝廷に獻じたことがある。",
+              "citation": {
+                "source": "支那人の文弱と保守",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "默啜"
+      ],
+      "needs_reading": true
+    }
+  }
+]

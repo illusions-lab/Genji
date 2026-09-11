@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "74fcb2ee-b1c2-5b97-9f5f-56fcf65dad5d",
+    "entry": "摸擬",
+    "reading": {
+      "primary": "摸擬",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "想ふに彼批評家といふものは、おのれ常に摸擬の筆を用ゐるより、人の藝術も亦｜然ならんと思へるにやあらん。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "尤も蛮野なる種族にも、必らず何につけてか美を求むるの念ある事は、明白なる社界学上の事実なり、或は鳥吟を摸擬し、或は美花を粗末なる仕方にて摸写するなどの事は、極めて劣拙の人種にも是あるなり。",
+              "citation": {
+                "source": "明治文学管見",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われ二大家を以て元禄作家の摸擬者と貶する者ならず、別に天真の詩才ありて存すること我が深く二大家に信ずる所なるが、可惜、此二書の世に出たるより、余をしてかねて元禄文学に面白からずと思ひしところを、此二書を通じて訴へ出づるの止むを得ざるに至らしめぬ。",
+              "citation": {
+                "source": "「伽羅枕」及び「新葉末集」",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "況ヤ本邦ノ如キハ、前ニ云ヘル如ク摸擬ニ長ジテ思索發明ニ短ナリト雖ドモ、必ズ然リト定リタル事ニ非ズ。",
+              "citation": {
+                "source": "學問ハ淵源ヲ深クスルニ在ルノ論",
+                "author": "西周",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

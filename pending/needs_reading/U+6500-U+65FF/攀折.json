@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "ecf42422-1396-5cb4-b2c3-f4b7abe41946",
+    "entry": "攀折",
+    "reading": {
+      "primary": "攀折",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "曾栽楊柳江南岸、一別江南両度春、遥憶青青江岸上、不知攀折是何人。",
+              "citation": {
+                "source": "閑人詩話",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "独在異郷為異客、毎逢佳節倍思親、遙知兄弟登高処、※挿茱萸少一人、手種茱萸旧井傍、幾回春露又秋霜、今来独向秦中見、攀折無時不断腸、　昔中国から来た呉茱萸が今日本諸州の農家の庭先きなどに往々植えてあるのを見かけるのは敢て珍らしいことではない。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "70ee21f4-a762-5300-b0eb-8875ed752bed",
+    "entry": "而能",
+    "reading": {
+      "primary": "而能",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "与夫木石而能言者之不可思議奚以異。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『倶舎論』に、「譬如灯焔雖刹那滅、而能相続転至余方、諸蘊亦然。",
+              "citation": {
+                "source": "迷信と宗教",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "以爲身國之主宰、而能與外界庶物相交。",
+              "citation": {
+                "source": "靈魂一元論",
+                "author": "西周",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然則、靈魂爲身國活體之主宰、而能與外界庶物、相交、其道何如。",
+              "citation": {
+                "source": "靈魂一元論",
+                "author": "西周",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一男而能守一婦者甚鮮矣。",
+              "citation": {
+                "source": "虫干",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "不學而能」○明、王陽明の語と、是何物ぞや、其｜惟心之所爲にあらずや。",
+              "citation": {
+                "source": "遺訓",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

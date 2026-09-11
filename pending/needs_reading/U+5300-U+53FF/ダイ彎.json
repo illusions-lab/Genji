@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "3a248838-9bc8-5c27-a48f-49e24a827f40",
+    "entry": "台彎",
+    "reading": {
+      "primary": "だい彎",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "論者又云く、征韓論の人心に萌芽するや日既に久し、焔々の氣鬱結して遂に臺彎の師と爲り、其餘焔尚消滅せずして遂に今日に至りしものなれば、何れにも其流通の路を設けざる可らず、即ち今日の事は鬱焔を洩らし滯水を通ずるの權道にして、勢こゝに至れば止んと欲して止む可らざるものなりと。",
+              "citation": {
+                "source": "亞細亞諸國との和戰は我榮辱に關するなきの説",
+                "author": "福澤諭吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "臺彎"
+      ],
+      "needs_reading": true
+    }
+  }
+]

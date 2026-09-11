@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "0e8298da-199d-5537-9744-e6fba749a1f0",
+    "entry": "慕府",
+    "reading": {
+      "primary": "慕府",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "先祖書を受理する慕府刀筆の吏も、一々年次と年齢とを験するために算盤を弾きはしなかつたと見える。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "板倉重昌憤死之事　江戸慕府へ九州動乱の急を、大阪城代が報じたのは寛永十四年十一月十日の事である。",
+              "citation": {
+                "source": "島原の乱",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此時は、芸兵入京し、長兵も亦入京していたので、慕府及びその一統が、憤慨して手を出せば、やっつけてやろうと云う肚が排幕派にあったのである。",
+              "citation": {
+                "source": "鳥羽伏見の戦",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが、その頃の徳川慕府は、大名の浪人を召抱えることと、新城を築くことは厳禁同様、修復、改造にも、恐ろしく神経を尖らせ、程度次第では、絵図面を引いて公儀の許しを受けなければ、謀叛同様に見做される場合もあったのです。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "城の絵図面",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

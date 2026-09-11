@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "33004564-fe49-5f64-b025-534e7c2f523b",
+    "entry": "涸々",
+    "reading": {
+      "primary": "涸々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "と、どうなる?!　エジプトの心臓ナイル河の水が、底をみせて涸々に乾あがるだろう。",
+              "citation": {
+                "source": "人外魔境",
+                "author": "有尾人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と、どうなる※　エジプトの心臓ナイル河の水が、底をみせて涸々に乾あがるだろう。",
+              "citation": {
+                "source": "人外魔境",
+                "author": "有尾人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "愛経の印度、※婆の破壊をいまだに疑わぬ印度――その板挾みに、哀れやチャンド君はペシャンコにされ、青春の泉を涸々にしてしまったというのである。",
+              "citation": {
+                "source": "一週一夜物語",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼女は、眼を桟の雪に据えて、凝っと考えていたが、一度はうるんだ瞼も、やがて涸々になった。",
+              "citation": {
+                "source": "地虫",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

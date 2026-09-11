@@ -592,5 +592,161 @@
         "aozora": 1
       }
     }
+  },
+  {
+    "uuid": "b348b254-c361-5be2-9e69-bd09c64a4250",
+    "entry": "擺動",
+    "reading": {
+      "primary": "はいどう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『云う所によれば今や大問題が発せられているのである、曰く、人間は今後加速度的に、在来考え及ばなかった無限の改善に向って出発し進み行くであろうか、または幸福と窮乏との間の永久的｜擺動に運命づけられ、あらゆる努力を払ってなお所期の目標から測り知れぬ遠きになお止るであろうか、と。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "〔訳註〕本章のこれ以下の部分については、cf. 1st ed., ch. II., pp. 29 et seq.　この種の擺動はおそらく普通の人にははっきりと見えないであろう。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この擺動が、当然予想されるほどは今まで述べられておらず、またそれほどはっきりは経験によって確かめられていない、一つの主要な理由は、吾々が所有する人類の歴史が一般に単に上流階級のみの歴史であるからである。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この擺動を普通の人の眼につかぬようにするにおそらく最も寄与した事情は、労働の名目価格と真実価格との相違である。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』　規則的な労働の価格の存在しない蒙昧社会にも、同様な擺動が起ったことはほとんど疑い得ない。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "１）　サア・ジェイムズ・スチュワアトは、極めて適切にも、蕃殖力を、可変的な重りを載せられた発条に喩えているが（Polit. Econ. vol. i. b. i. c. 4, p. 20.）これはもちろん上述したと全く同種の擺動を生ずるであろう。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "キャプテン・クックがたびたびここを訪問した際に認めたこの島の状態の変動は、その繁栄と人口とにおいて顕著な擺動があることを証明するように思われる１）。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "考察を加えた大抵の国においては、人口は平均的な永続的な生活資料によって正確に左右されたことは滅多になく、一般に両極端の間を振動したように思われ、従って、吾々が当然に文明劣れる国に期待すべきように、欠乏と豊富との間の擺動が非常に目立つのである。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しからば、ある時期が到来すれば、等しく必然的なこれらの法則は互いに衝突し、人口の増加がその生活資料を超過して、その必然的結果は、真に退歩的な運動たる幸福及び人口の継続的減退か、または少くとも善と悪との間の一種の擺動かの、いずれかとなるということにならなければならぬのではなかろうか。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かかる時期に達した社会においては、この擺動は、週期的窮乏の常住の原因とならぬであろうか。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼が述べている擺動は確かに起るものであり、そして疑いもなく週期的窮乏の常住の原因であろう。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もしかかる変動が、本書の初めの方で述べた、人口と食物の増進にほとんど常に伴うと思われる、自然的擺動以上に出でないならば、それは日常事態の一部分としてこれに服さなければならない。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "１）　Tom. viii. p. 84. 12mo. 9 vols. 1762.　農業と（訳註）人口との先後の順序に関してここで述べたことは、本書の初めの方で、人口と食物との増加がその自然的増進の途上に擺動または変動をする傾向があることにつき述べたところを、否定するものではない。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 17
+      }
+    }
   }
 ]

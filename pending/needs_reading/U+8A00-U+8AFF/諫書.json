@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "1ec41073-27d4-5d9d-81e0-8e08cf6d774b",
+    "entry": "諫書",
+    "reading": {
+      "primary": "諫書",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "利章はとう／＼決心して、一成、内藏允に相談し、自ら筆をとつて諫書を作つた。",
+              "citation": {
+                "source": "栗山大膳",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "忠之は諫書を讀んで怒つた。",
+              "citation": {
+                "source": "栗山大膳",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "諫書にはこれだけの效果しかなかつた。",
+              "citation": {
+                "source": "栗山大膳",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "諫書に擧げてあつた驕奢が、衣食調度の範圍内に止まらないで、大船の造營となり、夫卒の増員となつたのである。",
+              "citation": {
+                "source": "栗山大膳",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それを聞いて忠之は、利章等の諫書を讀んだ時よりも烈しく怒つて、山鹿の事を評判するものは見附次第討ち取れと命じた。",
+              "citation": {
+                "source": "栗山大膳",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "利章は只｜此度の事は聊存ずる旨があつて申し上げた、先年自分が諫書に認めて出した件々、又其後に生じた似寄の件々を、しかと調べて貰ひたい、さうなつたら此度の事の萌芽が知れやうと云つた切、口を噤んでしまつた。",
+              "citation": {
+                "source": "栗山大膳",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "諫書中にある政事向の件々其外は大抵相違ない。",
+              "citation": {
+                "source": "栗山大膳",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "諫書其外の申立を正當と御認めになつたのは難有い爲合せである。",
+              "citation": {
+                "source": "栗山大膳",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "流言は一編の偽作の諫書にまでなって、漢文で世に行なわれた。",
+              "citation": {
+                "source": "夜明け前",
+                "author": "第一部上",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（按）横山安武時弊十條を指摘したる諫書を集議院に上りて屠腹したるは、當時朝野を震駭せしめたる事實にして、其事情は此碑文に詳なり。",
+              "citation": {
+                "source": "遺篇",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それはことし天正元年の正月早々、信長から正面をきって、義昭にぶつけてよこした十七ヵ条の諫書――つまり意見書に対する明瞭な返辞をまだしていないことである。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第四分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十七ヵ条の諫書には、冒頭、　条々、　として以下、ひとつ何々、ひとつ何々の事というふうに、信長が日ごろ義昭にいだいている不満、苦情、鬱懐などのかずかずを、箇条書として、痛烈に弾劾したものであった。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第四分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "義昭から彼にたいして、服従をちかう理由はない」　諫書は、ふるえる手から、一擲されて、かえりみられなかった。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第四分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十七ヵ条の諫書に対して、「以後は、条々、慎んで守るであろう」　義昭は、本心にはないことばを、信長の使者へほろ苦い顔して誓った。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第四分冊",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 15
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "9b2323f4-07fe-52e1-918a-0a0b2fa9ea95",
+    "entry": "罔象",
+    "reading": {
+      "primary": "罔象",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "翡翠の賦流ゆるき枝河の根やはら小菅かすれて、靡葉そよろとさやぐ夕、眉根しろき罔象の女、蠱の衣ぬぎ捨に、童氣すがたに傚ふほとり、見ずやかなた翡翠の樹蔭にかくるる征矢の形を。",
+              "citation": {
+                "source": "泣菫詩抄",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鈴蘭、おめかしの好な女、白い喉を見せて歩く蓮葉者の故意とらしいあどけなさ、丸裸の罔象女。",
+              "citation": {
+                "source": "牧羊神",
+                "author": "上田敏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「罔象女」という支那風の字面は、この丹比神に一種の妖怪性を見ていたのである。",
+              "citation": {
+                "source": "水の女",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "竜に対するおかみ、罔象に当るみつはのめの呪水の神と考えられた証拠は、神武紀に「水神を厳罔象女となす」とあるのでもわかる。",
+              "citation": {
+                "source": "水の女",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「罔象女」と言ふ支那風の字面は、此丹比神に一種の妖怪性を見てゐたのである。",
+              "citation": {
+                "source": "水の女",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "龍に対するおかみ、罔象に当るみつはのめの呪水の神と考へられた証拠は、神武紀に「水神を厳罔象女となす」とあるのでも訣る。",
+              "citation": {
+                "source": "水の女",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大蛇退治の神話は出雲以外には無いけれども、竜王即ち神及｜高神、高※神、闇罔象の三神とも、迦具土ノ神から生れた雨神に外ならぬ。",
+              "citation": {
+                "source": "二、三の山名について",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "南宮神社は金山彦命を祭神とする国幣大社であるが、古名仲山金山彦神とあるので竜神に関係あること疑ないのみならず、祭神五座の中に闇罔象女神があり今も摂社に闇が祭ってある所から推して、元来神と同じく迦具土の血から生まれた大蛇闇山祗を崇めたものであると信ずる。",
+              "citation": {
+                "source": "二、三の山名について",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

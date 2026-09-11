@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "72a1304f-0751-5b92-ad1e-132472f01677",
+    "entry": "偽粧",
+    "reading": {
+      "primary": "にせ粧",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "さうも云へるし、またその「人」の眞性は、あらゆる後天的な教養だの色氣だのといつた僞粧が、生理的にすつかりタガの弛み出した老境になつて、初めてほんとの人柄を出してくるのかとも考へられる。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "僞粧"
+      ],
+      "needs_reading": true
+    }
+  }
+]

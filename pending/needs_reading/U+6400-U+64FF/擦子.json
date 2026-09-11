@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "8efcb282-8b02-5f2a-9eca-0d12bd31bae5",
+    "entry": "擦子",
+    "reading": {
+      "primary": "擦子",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "大風の擦子、極寒の萬力、岩より岩へ轉ずる雪なだれ、是等のものも終に止めえじ、かの肅々として頑強に巓を極めむとする歩を。",
+              "citation": {
+                "source": "牧羊神",
+                "author": "上田敏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "釘に懸けたは生薑擦子か。",
+              "citation": {
+                "source": "旧主人",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてその根をシノネ（シの根）ともシノネダイコン（シの根大根）とも呼ばれて薬用に供せられ、今日民間でも時とするとその肥厚している黄色の根を薑擦子で擦りおろしこれを酢で練って、インキンタムシの患部に伝えこれを療する事がある（同属のマダイオウも同目的に使用せられる）。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

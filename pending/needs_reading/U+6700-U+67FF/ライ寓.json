@@ -1,0 +1,98 @@
+[
+  {
+    "uuid": "860cb301-bf85-5a68-a7d4-02d5546e4c05",
+    "entry": "来寓",
+    "reading": {
+      "primary": "らい寓",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その頃故エドウィン・アーノルドが東京に来寓し、種々筆した内に「初め冗談中頃義理よ、今じゃ互いの実と実」てふ都々逸を賞めて訳出した。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この歌には、何処かにしんみりとしたところがあるので、古来寓意説があり、徒らに大望を懐いて失脚したことなどを寓したというのであるが、この歌には、鼠の事を詠み給うた歌として受納れて味うべきである。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宋時代に、支那の沿岸諸港に來寓した蕃商即ち外國商人は、主としてイスラム教徒と見え、決して豚肉を食用せぬ。",
+              "citation": {
+                "source": "蒲壽庚の事蹟",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "波斯婦とは、當時蕃坊に來寓したイスラム教徒は、多く波斯灣附近の商人であつた故と想像される。",
+              "citation": {
+                "source": "蒲壽庚の事蹟",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五代の時南漢主劉※が波斯女を寵愛して政事を荒廢したのは、恐らく當時廣州に來寓した波斯女を後宮に納れた者であらう。",
+              "citation": {
+                "source": "蒲壽庚の事蹟",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      },
+      "variant_writings": [
+        "來寓"
+      ],
+      "needs_reading": true
+    }
+  }
+]

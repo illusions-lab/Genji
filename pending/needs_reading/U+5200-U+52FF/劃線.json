@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "761f3011-04e0-514d-8d43-e73518c98703",
+    "entry": "劃線",
+    "reading": {
+      "primary": "劃線",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この点から言へば、僕等のインテリ階級者と一般社会大衆人との間に、何の生活的劃線があるわけではない。",
+              "citation": {
+                "source": "流行歌曲について",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また漫画とそれ以外の絵画との間に截然たる区劃線を引く事も容易ではない。",
+              "citation": {
+                "source": "漫画と科学",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "南東を受けた大きな窓一ぱいに遠く雪を戴いた山々が一列に並んで、時刻はもう十九時（午後七時）を過ぎているのに日中の光のまだ残ってる碧空に、くっきりと鮮やかな空劃線を描き出してる美しさ！",
+              "citation": {
+                "source": "吹雪のユンクフラウ",
+                "author": "野上豊一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秩父山脈の構造というようなことは、素人の自分に分ろう筈はないが、従来の地質図に色別してある秩父古生層と花崗岩｜若しくは石英閃緑岩との区劃線は、頗る怪しい箇所が有ることは断言するに躊躇せぬ。",
+              "citation": {
+                "source": "秩父の奥山",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "万太郎は生れて初めて、六本の黒い劃線を朱がつらぬいている象形に一種の頼りを感じました。",
+              "citation": {
+                "source": "江戸三国志",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

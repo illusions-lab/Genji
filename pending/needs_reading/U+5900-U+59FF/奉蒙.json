@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "08354c8e-ffc8-5bcc-abac-dcddd5cc5dae",
+    "entry": "奉蒙",
+    "reading": {
+      "primary": "奉蒙",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「三月十一日悴良安医学出精仕、御満足被思召候御意奉蒙候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同日次男盤安去年中文学出精之段達御聴御満足思召候段奉蒙御意候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "勤向覚書を見るに、「二月廿五日、次男盤安去年中文学出精に付奉蒙御意候」の文がある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「乍恐御西山君樣御代｜御側向御召抱お島｜之御方と被申候を妻に被下置厚き奉蒙御重恩候而、年々御米百俵｜宛三季に享保年中迄頂戴仕來冥加至極難有仕合に奉存候」と云つてある。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「御西山君樣御代御側向御召抱お島之御方と被申候を妻に被下置、厚き奉蒙御重恩候而、年々御米百俵宛三季に」頂戴したのは此人である。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

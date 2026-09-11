@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "97408ef0-29f6-50ec-9b9a-8f6cfb77a587",
+    "entry": "於蘭",
+    "reading": {
+      "primary": "於蘭",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「於蘭、つづみを打て」　きょうも彼は舞わんとしていた。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第四分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「於蘭どの」「はい」「あなたは何か聞いていないか」「荒木どのの変心についてですか」「むむ。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第五分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "急ごう、於蘭どの」　と、相手の神経などにかけ関いなく、そう指さすやいな、駒を早め出した。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第五分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「於蘭」「はい」「何を考えておる」「……べつに何事も」　蘭丸は笑った。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第六分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「もどりました」「於蘭か。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第六分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "信長から、於蘭、ひとつ小舞せい、といわれればすすんで舞い、鼓をせよと命じられれば、非常によい高音をその掌から出して聞かせた。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第六分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "光秀、破衣孤剣の身より、今日の重恩をいただきながら、なんとて」「いうな」「お放しください」「放してやる」　信長は突き退けて、「於蘭。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第六分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殿は、こちらですぞ」　と、声を合わせて、居どころを示し、信長自身もまた、「於蘭、於蘭、どこへ参る」　と、呼ばわった。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第七分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「於蘭、何事が起ったのだ。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第七分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故になお、一応も二応も、事情を訊ねてからと思ったが、早くも、竹中が来たということは信長の耳へ聞えたものと見えて、小姓の森於蘭が、「湯浅殿、氏家殿。",
+              "citation": {
+                "source": "黒田如水",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「さらば――」と、湯浅と氏家とは、於蘭のあとに従い、また半兵衛重治と松千代を案内して畏る畏るそこの幕のうちへ入った。",
+              "citation": {
+                "source": "黒田如水",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 14
+      }
+    }
+  }
+]

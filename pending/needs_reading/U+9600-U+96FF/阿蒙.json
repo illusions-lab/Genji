@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "d4c1ebdd-d80d-5b68-865d-bc2d9a00186c",
+    "entry": "阿蒙",
+    "reading": {
+      "primary": "阿蒙",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "で近づいて其の人を觀ると既に舊阿蒙では無くて、其の人物も實際に價値を増して居つて、目下の好運を負うて居るのも成程不思議は無い、と思はれるやうになつて居るのがある。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "依然たる呉下の旧阿蒙ではないのか。",
+              "citation": {
+                "source": "悟浄歎異",
+                "author": "―沙門悟浄の手記―",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "文学部に這入ってからも、三角同盟の制裁は依然としていて、児島と僕とは旧阿蒙であった。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "小野さんの変りかたは過去を順当に延ばして、健気に生い立った阿蒙の変りかたではない。",
+              "citation": {
+                "source": "虞美人草",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鋒鋩は已に明治卅五六年頃から有つたのではあるが、全く呉下の旧阿蒙に非ず、それは其後の鎌倉の修業もありませうし、母、妻、子に先立たれた苦しい経験もありませう。",
+              "citation": {
+                "source": "入庵雑記",
+                "author": "尾崎放哉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "進歩性の霊魂は、決して呉下の旧阿蒙ではない。",
+              "citation": {
+                "source": "霊訓",
+                "author": "SPIRIT TEACHINGS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "中年時代一九　帰国後のファラデー　ファラデーは再び王立協会に帰って、以前と同じ仕事をやりだしたが、ファラデーその人はというと旧阿蒙ではなかった。",
+              "citation": {
+                "source": "ファラデーの伝",
+                "author": "電気学の泰斗",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今日に至るまでこれを思考することができなかったとすれば、恐くは死に至るまで、わたくしは依然として呉下の旧阿蒙たるに過ぎぬであろう。",
+              "citation": {
+                "source": "西瓜",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さりながら、私はそのときから十四年も経過して、依然呉下の阿蒙たる地位を脱することの出来ない身である。",
+              "citation": {
+                "source": "十五年",
+                "author": "山本実彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と云うのは、辰雄にしても、同輩の者達がだんだん出世するのに自分だけ呉下の旧阿蒙でいるのは余り腑甲斐なくもあるし、その後子供たちの数も殖えて、生活費が嵩んで行く一方、経済界の変動や何かで、養父の遺産と云うものが以前のようには頼りにならなくなって来たからであった。",
+              "citation": {
+                "source": "細雪",
+                "author": "上巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが、芦田君が、もう少し政治家的俗才があったならば、夫人が読んでいるのを、暫く失敬して「私が愛読している」といってくれたら、旧阿蒙の老胡堂が、よき友人を持ったことに感激するだろう。",
+              "citation": {
+                "source": "随筆銭形平次",
+                "author": "平次読む人読まぬ人――三人の政治家――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "b9ca15ba-18bf-59eb-9d25-bb0290f5921a",
+    "entry": "冏",
+    "reading": {
+      "primary": "冏",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「古今実物語」は宝暦二年正月出板、土冏然の漢文の序あり。",
+              "citation": {
+                "source": "案頭の書",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "梅痴上人、名は秦冏、字は白純、別の字は笑誉、梅痴また小蓮主人と号した。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "釈秦冏は翌年天保十二年の冬檀林に叙せられて結城の弘経寺に赴きその法務を掌るようになった。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秦冏が始めて大沼枕山を識ったのはいずれの時であったのか文書の徴すべきものがない。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "菊池五山の撰した『梅痴詠物詩』の序を見るに、秦冏は始め京師の知恩院にいた。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "江戸に来てからは玉池吟社の社中となり、また五山について折々作詩の添削を請うていたので、秦冏はこの二家の詩筵において枕山を見、その詩才あるを知ると共に、またその家の貧しきを憫み、芝山内の学寮に寄寓せしめて、日夜親しく韻語の推敲につきて諮問しようと思ったのであろう。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "梅痴上人釈秦冏が結城弘経寺の住職となったのはこの時であろう。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "父の姜冏はたしか夷狄の戦で討死したかと思います。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

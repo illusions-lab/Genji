@@ -1,0 +1,90 @@
+[
+  {
+    "uuid": "a1b7516a-2c1d-5920-84fb-ed4b85a975e5",
+    "entry": "懐慕",
+    "reading": {
+      "primary": "ふところ慕",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "で何となく懐慕しいやうにも思はれ、また其の淋しい末路が哀になツて、「俺の生母のやうに早死しても憫然だが、また比のおふくろのやうになツても氣の毒だ。",
+              "citation": {
+                "source": "平民の娘",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それゆゑその人はその抒情詩の時代をどれだけあとあとまで懐慕するか分らない。",
+              "citation": {
+                "source": "忘春詩集",
+                "author": "忘春詩集",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人々の歌には押え切れぬ昔への懐慕があった。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第八巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "迫ツた眉には何んとなく悲哀の色が潛むでゐるが、眼には何處となく人懷慕い點がある。",
+              "citation": {
+                "source": "青い顏",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      },
+      "variant_writings": [
+        "懷慕"
+      ],
+      "needs_reading": true
+    }
+  }
+]

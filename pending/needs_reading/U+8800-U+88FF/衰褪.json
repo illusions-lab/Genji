@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "6b101f5c-5c10-539f-8820-f22d885df66b",
+    "entry": "衰褪",
+    "reading": {
+      "primary": "衰褪",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "なかんずくヘルンを最も悲しませたのは、盆踊等の農村行事や風俗やが、明治政府によって禁圧されたことから、自然に衰褪して来ることだった。",
+              "citation": {
+                "source": "小泉八雲の家庭生活",
+                "author": "室生犀星と佐藤春夫の二詩友を偲びつつ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一、芸術を衰褪させるものは固定観念である。",
+              "citation": {
+                "source": "芸術論覚え書",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故に、生活を、殊には虚栄を、顧慮する限りに於て衰褪する底の、呆然見とれてゐる世界のことである。",
+              "citation": {
+                "source": "芸術論覚え書",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一、芸術を衰褪させるものは、固定観念である。",
+              "citation": {
+                "source": "宮沢賢治の世界",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼女は柔軟や叡智や健康などのあらゆる女性の美徳を典型的に一身に具現しながら、しかもそれらの衰褪から全く免れてゐる異常な少女に異ひなかつた。",
+              "citation": {
+                "source": "青いポアン",
+                "author": "神西清",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

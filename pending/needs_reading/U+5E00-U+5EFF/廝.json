@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "2439cc89-c7d7-577c-8a57-70ef5235ea7d",
+    "entry": "廝",
+    "reading": {
+      "primary": "廝",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "紹介状を貰ふときに東京で聞いた所によると、此宜道といふ坊さんは、大變性質の可い男で、今では修業も大分出來上がつてゐると云ふ話だつたが、會つて見ると、丸で一丁字もない小廝の樣に丁寧であつた。",
+              "citation": {
+                "source": "門",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "紹介状を貰うときに東京で聞いたところによると、この宜道という坊さんは、大変｜性質のいい男で、今では修業もだいぶでき上がっていると云う話だったが、会って見ると、まるで一丁字もない小廝のように丁寧であった。",
+              "citation": {
+                "source": "門",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今日しも主家の廝に曳かれて、この辺なる市場へ、塩鮭｜干鰯米なんどを、車に積て運び来りしが。",
+              "citation": {
+                "source": "こがね丸",
+                "author": "巌谷小波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これを廝に告げんとすれど、悲しや言語通ぜざれば、他は少しも心付かで、阿容々々肴を盗み取られ。",
+              "citation": {
+                "source": "こがね丸",
+                "author": "巌谷小波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "廝は太く狼狽へて、さまざまに罵り狂ひ。",
+              "citation": {
+                "source": "こがね丸",
+                "author": "巌谷小波",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

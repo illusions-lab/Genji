@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "f67022a3-24b5-50d3-abe2-024c9c293934",
+    "entry": "蹈舞",
+    "reading": {
+      "primary": "蹈舞",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "三絃の音耳を離れず、蹈舞の響森を穿ちて来る。",
+              "citation": {
+                "source": "秋窓雑記",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "當年士女が此に來りて蹈舞せし歌垣の名殘は、今も絶えずして、筑波祠前に六箇の妓樓あり。",
+              "citation": {
+                "source": "春の筑波山",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "男女だかれあって蹈舞するなんどは。",
+              "citation": {
+                "source": "藪の鶯",
+                "author": "三宅花圃",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その夫と蹈舞することを許さないというのはなぜだろう。",
+              "citation": {
+                "source": "藪の鶯",
+                "author": "三宅花圃",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蹈舞のことなどをこなしたところが。",
+              "citation": {
+                "source": "藪の鶯",
+                "author": "三宅花圃",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いわば蹈舞の上手より毛糸あみの手内職をして。",
+              "citation": {
+                "source": "藪の鶯",
+                "author": "三宅花圃",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

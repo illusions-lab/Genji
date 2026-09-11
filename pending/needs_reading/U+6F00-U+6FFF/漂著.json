@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "a63dd577-c251-55a2-bff6-483d03e4b38a",
+    "entry": "漂著",
+    "reading": {
+      "primary": "漂著",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "関帝祭器の漂著は事既に奇である。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又米國の貨品が布哇に漂著せる例あり。",
+              "citation": {
+                "source": "秘魯國に漂著せる日本人",
+                "author": "南方熊楠",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今東半球の赤道以北よりすら、甞て南米に漂著せる人の絶無ならざるを證する爲に、予の日記の一節を略ぼ原文の儘寫し出す事次の如し。",
+              "citation": {
+                "source": "秘魯國に漂著せる日本人",
+                "author": "南方熊楠",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "つい一カ月ばかり前にも、村の漁舟が一艘沖から帰りがけに、その風に遇って難破し、五六人の乗組の漁夫がみんな溺死して、その死体がそれから四五日もたってから隣村の海岸に漂著しましたが、その日も矢張り朝から白山の姿が物すごく海の中に魔物のように立っていました。",
+              "citation": {
+                "source": "少年と海",
+                "author": "加能作次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "沖縄の島では、穀物の漂著と共に、「うきみぞ・はひみぞ」の由来を説いてゐる。",
+              "citation": {
+                "source": "若水の話",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其が漂著して、祀られる。",
+              "citation": {
+                "source": "偶人信仰の民俗化並びに伝説化せる道",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また漂著神の信仰がある。",
+              "citation": {
+                "source": "霊魂の話",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "漂著石――石移動の信仰かやうにたまだけがやつて来る事もあり、其が体にくつつく場合もあり、更に此たまが、石に這入る事もあり、石に這入つてやつて来ることもあると考へたので、一夜の中に、常世の波にうち寄せられて、忽然と石が現れ、見る／＼中に、大きくなつたといふ信仰譚が、其処から発生した。",
+              "citation": {
+                "source": "霊魂の話",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「たぶ」の写真の多いのは、常世神の漂著地と、其将来したと考へられる神木、及び「さかき」なる名に当る植木が、一種類でないこと、古い「さかき」は、今考へられる限りでは、「たぶ」「たび」なる、南海から移植せられた熱帯性の木である事を示さう、との企てがあつたのだ。",
+              "citation": {
+                "source": "古代研究　追ひ書き",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "５　この論は、此を出発点として、漂著神信仰の中、石神の件を考へる。",
+              "citation": {
+                "source": "漂著石神論計画",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

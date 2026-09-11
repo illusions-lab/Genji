@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "168deef1-2c9b-5cf2-bab7-9e7acd46a1c4",
+    "entry": "雋鋭",
+    "reading": {
+      "primary": "雋鋭",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これより先良三は、優善が山田｜椿庭の塾に入ったのと殆ど同時に、伊沢柏軒の塾に入って、柏軒にその才の雋鋭なるを認められ、節を折って書を読んだ。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而かもまた無心無我の極にあつて、既に恐るべき悪魔的天才の萌芽を示した雋鋭錐の如き近代の神経と感覚。",
+              "citation": {
+                "source": "神童の死",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "真の愛、真の雋鋭なる官感を通じて世の真実相に徹する時、真の生命は初めてその神秘の光を放ち、歌も愈々真の象徴に達する。",
+              "citation": {
+                "source": "雀の卵",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは雋鋭で、極めて感傷的であつた。",
+              "citation": {
+                "source": "愛の詩集",
+                "author": "愛の詩集のはじめに",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「乾草」の連作に未だ嘗なかつた感覚の雋鋭を弄んでゐる。",
+              "citation": {
+                "source": "僻見",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唯唯作者の論理的｜頭脳は残念にも余り雋鋭ならず。",
+              "citation": {
+                "source": "案頭の書",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "総じて結核性の病に罹ると神経が雋鋭になつて来て、健康な人の目に見えないところも見えて来る。",
+              "citation": {
+                "source": "結核症",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "是等はおなじく、神経の雋鋭になつたための一つの証候であるが、これは気稟に本づく方嚮の違ひであると謂つていいだらう。",
+              "citation": {
+                "source": "結核症",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

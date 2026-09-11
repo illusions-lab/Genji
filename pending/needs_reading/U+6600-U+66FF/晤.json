@@ -1,0 +1,263 @@
+[
+  {
+    "uuid": "8646783b-714e-5698-8200-2ab7d5bfbeb1",
+    "entry": "晤",
+    "reading": {
+      "primary": "晤",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "初更菅茶山来訪歓晤徹暁して去る。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）春水｜在家て歓晤。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "歓晤｜及暁てかへる。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "張秋琴には二月に面晤した。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何故と云ふに、後に甲子の舟遊を叙するに及んで、茶山は「君道平安分手時、不期生前首重聚、十一年後忽此歓、安知他年不再晤」と云つてゐるからである。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし今日は無拠処差支えがあって出られぬ、いずれ永日御面晤を期すという端書があったので、やっと安心して、これなら心置きなく首が縊れる嬉しいと思った。",
+              "citation": {
+                "source": "吾輩は猫である",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の哀れな心を押し計って面晤を許したが、もとより彼の望みは叶えるべくもなかった。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "用談は御面晤の節と書いてある。",
+              "citation": {
+                "source": "鈴木主水",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "用談は御面晤の節とはよくいった。",
+              "citation": {
+                "source": "鈴木主水",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今の世の中にはあのようなものが芸術家を以て目せられるのも自然の趨勢であると思ったので、面晤する場合には世辞の一ツも言える位にはなっている。",
+              "citation": {
+                "source": "申訳",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "新福のはなしにより花月主人を介して同書店に赴き主人に面晤し、拙著腕くらべ一千部の販売方を委托す。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三菱銀行に徃き、有楽座事務所にて井阪梅雪子に面晤す。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之四大正九年歳次庚申",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "帰途松山画伯の酒亭に憩ひ、主人と款晤夜分に至る。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之五大正十年歳次辛酉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一良友ト相晤語スルノ思有リ。",
+              "citation": {
+                "source": "十年振",
+                "author": "一名京都紀行",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」〔分襟近クニ在リテ意｜逾イヨ親シム〕また「預想明年重晤日。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」〔預メ想フ明年重晤ノ日ヲ〕の語を見る。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "貴諭ノ如ク七年来悲歓得失御同然、一晤握手快談仕リ度ク、小官当地書画会相済ミ直様帰府ノ心組ニ御座候。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其の者より承り候処、度々京師にて家里へ会晤。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "忙手｜繙読スルニ一堂ノ上ニ相｜会晤スルガ如シ。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "中学生と女学生だから親しい面晤はなかったが、僕は途上でチョッカイをかけたことがある。",
+              "citation": {
+                "source": "合縁奇縁",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いずれ面晤の折にはつぶさに――とある。",
+              "citation": {
+                "source": "源頼朝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宴も酣の頃――　主賓と、信長とは、款晤のあいだに、「もし、松平殿が天下の将軍とならば、織田はその幕下に従いましょう。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第三分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なにせよそれ程に、両者の款晤が親密に見えたことは、事実に相違ないけれど――。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第三分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "委細は面晤にゆずるが、当座の歓びのしるしまでに」　と、黄金百枚を贈らせた。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第五分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伊藤公はそれに対して、鄭重な返事を書き、「御帰朝之上ハ御面晤ヲ得詳細御商議可申候」と約束された。",
+              "citation": {
+                "source": "牧野伸顕伯の思い出",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「小西屋一件」これは支那種で、同種の飜案に「會談與晤門人雅話」がある。",
+              "citation": {
+                "source": "大岡政談",
+                "author": "尾佐竹猛校訂",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "ee797629-fb2f-5161-9ca6-fb341af42f59",
+    "entry": "縊殺",
+    "reading": {
+      "primary": "縊殺",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」「夢どころではござりますか、お前様、直ぐに縊殺されそうな声を出して、苦しい、苦しい、鼻血が出るわ、目がまうわ、天窓を上へ上げてくれ。",
+              "citation": {
+                "source": "草迷宮",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アナーキズムの指導者として、クロポトキンの「革命家の思い出」ロマン・ローランの「民衆芸術論」の翻訳などのあった大杉栄がその妻伊藤野枝と幼い甥の宗一と一緒に、憲兵隊につれてゆかれ甘粕憲兵大尉とその部下によって縊殺された。",
+              "citation": {
+                "source": "婦人と文学",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "呂布は暴れて、容易に彼らの手にかからなかったが、遂に、遮二無二抑えつけられたまま、その場で縊殺されてしまった。",
+              "citation": {
+                "source": "三国志",
+                "author": "臣道の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 14
+      }
+    }
+  }
+]

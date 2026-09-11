@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "c61308a7-00ab-5125-8be6-d7379839cf57",
+    "entry": "庖犠",
+    "reading": {
+      "primary": "庖犠",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "蓋し庖犠網罟の制に象どる。",
+              "citation": {
+                "source": "囲碁雑考",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "庖犠は伏羲氏なり、網罟を創めたるの人。",
+              "citation": {
+                "source": "囲碁雑考",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本に於ても素盞嗚尊が八岐大蛇を退治した話は周知のことであり、支那では三皇の一人庖犠氏が蛇身人首であつたと伝へられ、印度の神話とも見るべき梨倶吠陀の中にはセシアと称する千頭の怪蛇のことが記されてある。",
+              "citation": {
+                "source": "毒と迷信",
+                "author": "小酒井不木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天皇と云い、地皇と云い、人皇と云い、有巣と云い、燧人と云う、庖犠と云う、皆然らざるなし。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俗説、天地初開闢、未有人民、女※搏黄土為人、劇、務力不暇供、乃引縄組泥中、挙以為人、故富貴賢知者、黄土人也、貧賎凡庸引組人也、女※に就て、古史伝承の語る所、区々にして一致せずと雖も、其庖犠の制度を承くると云い、婚姻を置くと云い又、楽器を作ると云うは、何れも人文的事業なり。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蛇身の神は、即ち義皇なりと云うは、『帝王世紀』に、大昊帝庖犠氏風姓也、燧人之世有巨人跡、華胥以足履之有娠、生伏羲于成紀、蛇身人首、有成徳、と記するに同じ。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

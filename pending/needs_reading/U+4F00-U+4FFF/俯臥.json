@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "455de683-4f47-521e-92c7-90eb9091bc51",
+    "entry": "俯臥",
+    "reading": {
+      "primary": "俯臥",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "死体は、そのほとんど右はずれに俯臥の姿勢で横たわり、右手は、背の方へ捻じ曲げたように甲を臀の上に置き、左手は寝台から垂れ下っていた。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "土橋を渡ると、兩側は若松の並木、其｜路傍の夏草の中に、汚い服裝をした一人の女乞食が俯臥に寢てゐて、傍には、生れて滿一年と經たぬ赤兒が、嗄れた聲を絞つて泣きながら、草の中を這※つてゐた。",
+              "citation": {
+                "source": "二筋の血",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』と、絶え入りさうに言つて、又｜俯臥した。",
+              "citation": {
+                "source": "二筋の血",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "土橋を渡ると、両側は若松の並木、其路傍の松蔭の夏草の中に、汚い服装をした一人の女乞食が俯臥に寝てゐて、傍には、生れて満一年と経たぬ赤児が、嗄れた声を絞つて泣きながら、草の中を這廻つてゐた。",
+              "citation": {
+                "source": "二筋の血",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』と、絶え入りさうに言つて、又俯臥した。",
+              "citation": {
+                "source": "二筋の血",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "暫時、彼女は畳の上に俯臥に成っていた。",
+              "citation": {
+                "source": "家（上巻）",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すると絹坊はブルブルと慄えたかと思うと、胸を押えて地面に俯臥した。",
+              "citation": {
+                "source": "深夜の市長",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と、十間ばかりの彼方に、正しく俯臥せに倒れている屍骸が認められた。",
+              "citation": {
+                "source": "電気風呂の怪死事件",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "中央に安重根が俯臥して、柳麗玉はひざまずいて労わり、他はあるいは安重根の傍に、あるいは壁ぎわに狼狽して立っている。",
+              "citation": {
+                "source": "安重根",
+                "author": "――十四の場面――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

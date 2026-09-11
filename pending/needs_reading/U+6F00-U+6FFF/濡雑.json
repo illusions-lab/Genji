@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "ddeffbf5-6247-559f-9748-8ffef0062afe",
+    "entry": "濡雑",
+    "reading": {
+      "primary": "濡雑",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "五　名前は清閑荘だが、このアパートはガタガタの安普請で、濡雑巾のように薄汚なかった。",
+              "citation": {
+                "source": "土曜夫人",
+                "author": "織田作之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "濡雑巾が戎橋の上を歩いている感じだ。",
+              "citation": {
+                "source": "四月馬鹿",
+                "author": "織田作之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　約束の日、修一が千日前の大阪劇場の前で待つてゐると、楢雄は濡雑巾のやうな薄汚い浴衣を着て、のそつとやつて来た。",
+              "citation": {
+                "source": "六白金星",
+                "author": "織田作之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "綺麗好きな島田は、自分で尻端折りをして、絶えず濡雑巾を縁側や柱へ掛けた。",
+              "citation": {
+                "source": "道草",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "赤く凍んだ手で、濡雑巾を絞りながら、例のごとく柔和しいにこやかな顔をして、「御早う」と挨拶した。",
+              "citation": {
+                "source": "門",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……やっぱり食う道はありゃしない」「ふむ……」　監房の前の廊下はまだ濡雑巾のあとが春寒く光り、朝で、気がだるんでいないので留置場じゅう森と、私の低いがはっきりした言葉を聞いている。",
+              "citation": {
+                "source": "刻々",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朝の掃除の時間に、ナターシャが押し棒の先に濡雑巾のついた掃除道具をもって廊下から入って来るのを見ると、伸子は活気づいた。",
+              "citation": {
+                "source": "道標",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ナターシャは、ゆっくり丁寧に長椅子の下からベッドのかげにまで濡雑巾をかけた。",
+              "citation": {
+                "source": "道標",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嘉兵衛は茫然と、宙を覓めたまま肩で息をついている――娘のお稲だけは、投出された濡雑巾のように、畳の上へうち伏して泣咽んでいた。",
+              "citation": {
+                "source": "暗がりの乙松",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」向うで壮太が声をかけた「それじゃ拳骨壮太のお株を横取りするようなもんですぜ※」　かくて混血児チャアリイ、メトラス博士の二人は、濡雑巾のように打倒されてしまった。",
+              "citation": {
+                "source": "骸骨島の大冒険",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

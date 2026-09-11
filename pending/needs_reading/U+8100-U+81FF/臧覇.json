@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "89751a39-6b2b-5a61-832d-9f0b89a56f3d",
+    "entry": "臧覇",
+    "reading": {
+      "primary": "臧覇",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――いつのまにか曹操と諜しあわせて、この呂布を亡ぼさんと謀っておったな」　直ちに、陳宮、臧覇の二大将に兵を授け、「小沛の城を一揉みにもみ潰し、玄徳を生捕って来れ」と、命じた。",
+              "citation": {
+                "source": "三国志",
+                "author": "草莽の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「将軍は、お後から徐々と、なるべくお急ぎなくお進みなさい」「なぜ、急ぐなというか」「蕭関の防ぎには、お味方の陳宮や臧覇も向っていますが、多くは泰山の孫観とか呉敦などの兵です。",
+              "citation": {
+                "source": "三国志",
+                "author": "草莽の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして蕭関の砦へ来ると、味方の陳宮、臧覇に会見して、戦いのもようを問い、「時に、呂将軍は、なぜか容易にこれへお進みがない。",
+              "citation": {
+                "source": "三国志",
+                "author": "草莽の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そんな覚えはないが」　陳宮、臧覇は、顔を見合わせた。",
+              "citation": {
+                "source": "三国志",
+                "author": "草莽の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "短兵急に押し詰めると、いわゆる破れかぶれとなって、思慮にとぼしい呂布のこと、どんな無謀をやるかもしれません」　呂虔も、程※の意見、しかるべしと賛同して、「呂布の立場になってみると、今はただ臧覇、孫観などの泰山の賊党がたのみであろうと思われる。",
+              "citation": {
+                "source": "三国志",
+                "author": "草莽の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――といっても、もちろん後には、臧覇、李典、于禁などの諸大将もあらかた留め、曹仁を総大将として、青州徐州の境から官渡の難所にいたるまでの尨大な陣地戦は、そのまま一兵の手もゆるめはしなかった。",
+              "citation": {
+                "source": "三国志",
+                "author": "臣道の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

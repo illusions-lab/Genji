@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "054db4f0-4fa6-5cf9-b9ed-55391138c204",
+    "entry": "如夢",
+    "reading": {
+      "primary": "如夢",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「相逢相失両如夢、為雨為雲今不知」と口ずさみながら頬杖をついた源氏を、女であれば先だって死んだ場合に魂は必ず離れて行くまいと好色な心に中将を思って、じっとながめながら近づいて来て一礼してすわった。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "葵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "凹巷の詩に「最記対烟雨、品川泣別離、（中略、）一別茫如夢、爾来歳月移」と云つてある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "壯圖如夢落花夕　　壮図夢の如し落花の夕、老殘寒儒誰爲憐　　老残の寒儒誰か為めに憐まん。",
+              "citation": {
+                "source": "閉戸閑詠",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "崢※赤雲西、　　日脚下平地柴門鳥雀噪、　　歸客千里至妻孥怪我在、　　驚定還拭涙世亂遭飄蕩、　　生還偶然遂鄰人滿墻頭、　　感歎亦歔欷夜闌更秉燭、　　相對如夢寐　徳洪妄は更字をさらにの意に読まずに、こもごもの意に読まさうとしたものと思はれる。",
+              "citation": {
+                "source": "放翁鑑賞",
+                "author": "その七　――放翁詩話三十章――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "桃李開時去故丘、菊花凋日在濠洲、自驚客裏年如夢、一月送迎春夏秋。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "別土持成照別離如夢又如雲。",
+              "citation": {
+                "source": "遺篇",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夜窓如夢到西湖月下見花思老逋忽有鐘声来呼醒挙頭半幅墨梅図　信孝。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第九分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "満願の暁、祈願する宗盛に突如夢のお告げがあった。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第八巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

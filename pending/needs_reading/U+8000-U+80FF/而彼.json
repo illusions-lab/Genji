@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "ffd5b42b-87a8-56b3-91b1-e4e9b7b3b9a2",
+    "entry": "而彼",
+    "reading": {
+      "primary": "而彼",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "かくのごとき等の種々の因縁をもって後世あることを知る」と）十二因縁論云、如是臨命終時、心識為因、是故得生後身心識、而彼心識、不可説一、亦不離彼、亦不即彼、云云。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "牧野さんの神経衰弱は奥さんのヒステリイをともなふのが例で、普段はストア派の牧野さんが神経衰弱になると小説を創るにも苦吟するやうになり、従而彼の人生の設計を深刻化し立体化する必要にせまられる。",
+              "citation": {
+                "source": "牧野さんの死",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "従而彼の小説の人物は固定された性格を全く与へられてはゐないわけだが、事件から事件へ転々と動かされて行くうちに、いはゆる性格なぞといふケチな概念とかけはなれ、実に歴々と特殊な相貌を明らかにする。",
+              "citation": {
+                "source": "スタンダアルの文体",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "従而彼の文章はそれにふさはしく特殊である。",
+              "citation": {
+                "source": "スタンダアルの文体",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而彼既忘此重恩、及闘戦畢。",
+              "citation": {
+                "source": "俗法師考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

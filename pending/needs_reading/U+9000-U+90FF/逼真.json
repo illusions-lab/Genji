@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "c5879de1-342c-5f02-b354-25f5938fe942",
+    "entry": "逼真",
+    "reading": {
+      "primary": "逼真",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "芸術としては、それも好いが、自己乃至主観の方から見、要求又は逼真の方から見れば、寧ろその方が本当であると思はれるが、しかし前に言つた即不即の深遠な芸術観から見れば、それでは満足してゐられない点がある。",
+              "citation": {
+                "source": "自他の融合",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "従つて逼真の程度は深く且細かいが、客観化と言ふ意味から言ふと、フロオベルの方が大きい。",
+              "citation": {
+                "source": "自他の融合",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてその反対に、逼真の方はピントがトルストイほど合つてゐない。",
+              "citation": {
+                "source": "自他の融合",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "好い加減な程度で、逼真の度が足りない。",
+              "citation": {
+                "source": "自他の融合",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

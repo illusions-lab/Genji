@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "1c3968b5-89b4-5b67-a37b-16c82552a212",
+    "entry": "悶著",
+    "reading": {
+      "primary": "悶著",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "おまけに吃驚して軽く開けたままぼんやりしている口つきといい、涙ぐんだ眼もとといい――何もかもがまたなく可愛らしく見えたので、我等の主人公は、馬や馭者たちの間に起こった悶著などはすっかり他所にして、しばらくはうっとりと娘に見惚れていた。",
+              "citation": {
+                "source": "死せる魂",
+                "author": "または　チチコフの遍歴　第一部　第一分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが亭主の方は、かうした悶著にはもう疾の昔から馴れつこになつてゐたので、依怙地に黙りこくつて、いきり立つ女房の取りのぼせた言葉にはまるで取り合はなかつた。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　前篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此問題は、よくせき福禄座に絡んで行くものと見えて、浅草座から、福禄座へ越して来た新市村座の興行に、又一悶著が起つた。",
+              "citation": {
+                "source": "市村羽左衛門論",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "近松のおさんは、愈その場に臨めば、小春と悶著をくり返しさうな女であり、近松自身の価値は、又そこにあるのだが、見物は、其をゆるめて見てゐる所に、作者と読者との、持ちつ持たれつの境地がある訣なのだ。",
+              "citation": {
+                "source": "街衢の戦死者",
+                "author": "――中村魁車を誄す――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なお次号掲ぐる奈良坂清水坂両所非人の悶著に関する研究を参考されたい。",
+              "citation": {
+                "source": "サンカ者名義考",
+                "author": "――サンカモノは坂の者",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こうして一行は館林警察署の門前を通りかかったが、ここでまた一悶著が起きた。",
+              "citation": {
+                "source": "渡良瀬川",
+                "author": "大鹿卓",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

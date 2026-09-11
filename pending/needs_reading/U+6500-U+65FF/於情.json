@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "d62633b8-875c-541a-8681-84dbf1b21dde",
+    "entry": "於情",
+    "reading": {
+      "primary": "於情",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ないし人の心はそれ神なるか、操るときはすなわち存し、捨つるときはすなわちなし、云云』と）白虎通曰、魂魄者何謂、魂猶伝伝也、行不休於外也、主於情、魄者迫然著人、主於性也。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いう、この身を捨てて、後際に帰す」と）輔教編云、万物有性情、古今有死生、然而死生性情未始不相因而有之、死固因於生、生固因於情、情固因於性、使万物而浮沈於生死者情為其累也。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また『白虎通』に曰く、「魂者何謂也、魂猶伝伝也、行不休也、動於外、主於情、魄者白也、猶著人者也、主於性。",
+              "citation": {
+                "source": "迷信と宗教",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "極而言之、萬物一體、不外於情之推。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其條理動於情識、謂之欲。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "條理之滯於情識爲私。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

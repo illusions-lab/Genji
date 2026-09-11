@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "4a7849a4-a4f8-54ff-bde4-07196e4dd8b2",
+    "entry": "嚊々",
+    "reading": {
+      "primary": "嚊々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一番私がね、嚊々左衛門に酒を強請る呼吸というのをお目にかけまさ。",
+              "citation": {
+                "source": "婦系図",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嚊々を貸せとも言いなさりゃしめえ、早い話が。",
+              "citation": {
+                "source": "婦系図",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お前様、今の住居は、隣の嚊々が小児い産んで、ぎゃあぎゃあ煩え、どこか貸す処があるめえか、言わるるで、そん当時黒門さどうだちゅったら、あれは、と二の足を蹈ましっけな。",
+              "citation": {
+                "source": "草迷宮",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうすると、あの嚊々め。",
+              "citation": {
+                "source": "湯島詣",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」三「神月が人魂だといったのを聞いた時、あいつ愛嬌のない、鼻の隆い、目の強い、源氏物語の精霊のような、玉司子爵夫人｜竜子、語を換えて云えば神月の嚊々だ。",
+              "citation": {
+                "source": "湯島詣",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嚊々殿は仏文の手紙と、若干金の学資とをもって神月を買ったものだと言わなけりゃなりません、そいつあ御免を蒙りたいな、仕送をしたっていくらがもんです。",
+              "citation": {
+                "source": "湯島詣",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕はね、爵位と、君があの高慢な嚊々とを棄てたというので、すべての罪を償うて余あるもんだと思う。",
+              "citation": {
+                "source": "湯島詣",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

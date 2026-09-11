@@ -2190,5 +2190,89 @@
         "aozora": 1
       }
     }
+  },
+  {
+    "uuid": "17e31bdd-6fb4-5eeb-bb34-c30c543feccb",
+    "entry": "呵殿",
+    "reading": {
+      "primary": "かでん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "子珍すなわち辺先生を辞し、家に帰って父を見るに、なお息しいるので、火急に酒脯銭財を郊に致し、祭り、三たびその名を呼ぶと、玄石白馬に乗り、朱衣を著け、冠蓋前後騎従数十人、別に二人の青衣あって節を執って前引し、呵殿して来り、子珍｜相見えて一に旧時のごとし。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鶏に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と、呵殿の声がどこからともなしに聞えてきた。",
+              "citation": {
+                "source": "富貴発跡司志",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "呵殿の声はしだいに近くなってきた。",
+              "citation": {
+                "source": "富貴発跡司志",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "呵殿の声はもう廟門を入ってきた。",
+              "citation": {
+                "source": "富貴発跡司志",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

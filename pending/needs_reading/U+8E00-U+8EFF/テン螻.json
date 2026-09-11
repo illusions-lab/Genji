@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "a9aa63f0-8567-55ba-997d-f9e1c6cb9784",
+    "entry": "転螻",
+    "reading": {
+      "primary": "てん螻",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "非只轉螻命於壑、誠則國家之一瑕也（『性靈集』卷五）と述べられて居るに據ると、當時の留學生は、支那政府から支給さるる衣食に由つて露命を維ぐのみで、積極的研究などの餘裕のなかつたことが判る。",
+              "citation": {
+                "source": "大師の入唐",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "轉螻"
+      ],
+      "needs_reading": true
+    }
+  }
+]

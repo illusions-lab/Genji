@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "9487f16b-acbb-5aeb-95b0-fb139a2770e7",
+    "entry": "甸人",
+    "reading": {
+      "primary": "甸人",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "是れ拉甸人の始めて市を成せる處にして、後の羅馬市はこれより生ぜりといふ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第５図　パタゴニア人所用ボーラズ　なお馬が新世界に入ってより生じた異習を一つ挙げんに、オエンの『マスクワキー印甸人の民俗』に馬踊りてふ条あり、いわく商客馬多く牽き来ってインジアンどもそのうちに欲しくて堪らぬ良馬を見付ければ、各その所望の馬を指し讃えて何と踊ってくれぬかと尋ねる。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吾輩知る所を以てすれば、西半球にシュー人は鼠の近類たる麝香鼠を創世神の一とす（一九一六年板、スペンスの『北米｜印甸人の鬼神誌』二七一頁）。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鼠に関する民俗と信念",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが一日鼠が食い余しの穀を口辺に付けたまま眠り居る処へカリブ人が行き遇わせ、揺り醒ましてかの樹の下へ案内させ、石の斧で数月掛かってその樹を伐り分け、毎人その一片を自分の畑へ栽えてから銘々専食すべきカッサヴァ圃が出来た（一八八三年板、イム・ターンの『ギアナ印甸人中生活記』三七九頁）。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鼠に関する民俗と信念",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唯、かかる超唯物科学的なる現象に対して深き興味を有する拉甸人種間に伝われる記録及び迷信深き東洋諸民族間に残存せる伝説等に散見するあるのみ。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伝聞く北米合衆国においては亜米利加印甸人に対して絶対に火酒を売る事を禁ずるは、印甸人の一度酔えば忽ち狂暴なる野獣と変ずるがためである。",
+              "citation": {
+                "source": "妾宅",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "印甸人の神経は浅酌微酔の文明的訓練なきがためである。",
+              "citation": {
+                "source": "妾宅",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

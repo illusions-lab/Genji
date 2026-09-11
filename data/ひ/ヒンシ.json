@@ -731,5 +731,81 @@
         "aozora": 11
       }
     }
+  },
+  {
+    "uuid": "09582da6-5299-5d7e-b987-8756f90733cb",
+    "entry": "稟資",
+    "reading": {
+      "primary": "ひんし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ジェームスは古来色々に分派した凡ての哲学の色合は、結局それをその構成者の稟資（temperament）に帰することが出来るといっている。",
+              "citation": {
+                "source": "惜みなく愛は奪う",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれども幸いにして人類はかくの如き稟資の人ばかりからは成り立っていない。",
+              "citation": {
+                "source": "惜みなく愛は奪う",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然しその言葉の用い方がいかに芸術家の稟資を的確に表わし出すだろう。",
+              "citation": {
+                "source": "惜みなく愛は奪う",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
   }
 ]

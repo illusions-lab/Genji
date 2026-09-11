@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "806169de-3732-5e83-9f0b-8923e06d2ae6",
+    "entry": "而者",
+    "reading": {
+      "primary": "而者",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "旧臘幕府暴政之節｜被戮候者祭祀迄｜被仰出候由、既に死候者は被為祭、生きたる者は被戮候｜而者、御政体｜不相立御儀と奉存候。",
+              "citation": {
+                "source": "津下四郎左衛門",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "当人格別病身と申に者無之候得共、平生船中は勿論｜総而動揺致候事強候節嘔吐致、甚に至候而者嘔吐之上｜泄瀉致候持病御坐候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "当人病気に而者船中に而乗組之内に病気之者御坐候共、中々療治致候事難相成、将亦上陸之後も必疲労仕候而、御用有之候共相勤候儀無覚束奉存候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「然るに当人船中に而嘔吐且泄瀉等相煩候而者、船中病用相勤候儀難相成者勿論、又上陸致候而も万々一急速之御用御坐候共、相勤候儀不相成候而者乗船に而御供仕候も無詮儀と奉存候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "藩庁御制度御変革諸官員御減省に付而者、御家政向も右に准じ御減省、且御家禄之内御減数之儀も有之、依而免職被仰付。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「読み上げます」私領琉球国へ滞留罷在候異国人共之儀に付而者、追々｜被仰達候御趣旨之旨、相心得致指揮、仏蘭西人者、無異議引払、英国人は未だ滞留いたし居候得共、国中一統人気も平常に帰し――「わしの禀申書ではないか」「はい」「それが、何うした？",
+              "citation": {
+                "source": "南国太平記",
+                "author": "直木三十五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "就而者御草稿を御遣し下され候はゞ骨折拝見仕可く候。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本文になつてゐる「ウシマにおいて、ばろんもりつあらあたるはんぺんごらう」の署名ある記録は、半紙一枚ほどの短文であるが「――日本國之筋を乘※り看、又一所一所に集り候筈に候、必定考候は、來歳に至り而者、マツマエの地、その外近所の島々え、手を入候事も相聞候――云々」などいふのがある。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

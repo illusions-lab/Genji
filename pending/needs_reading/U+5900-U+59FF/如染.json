@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "172e002a-0c54-5a6a-b6ac-23f05beee29b",
+    "entry": "如染",
+    "reading": {
+      "primary": "如染",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "予等登攀為五月下浣、梨花既辞、新樹如染、林下処処紫丁香盛開。",
+              "citation": {
+                "source": "満蒙遊記",
+                "author": "附　満蒙の歌",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "汽笛声高破暁煙、山遥水遠望無辺、平原一色青如染、不是麦田渾牧田。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "奇巌骨立幾峰峰、七月猶看残雪封、歩到渓頭草如染渓頭草如染」はママ］、春風路上対三冬。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）　　英国郊行（英国郊行）車行竜動外、山遠望無辺、草色春如染、青青総牧田。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）汽笛声声破暁烟、水長山遠望無辺、平原一色草如染、不是麦田渾牧田是麦田渾牧田」はママ］。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

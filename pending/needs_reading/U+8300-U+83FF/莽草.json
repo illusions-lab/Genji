@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "5bf25d97-c868-537b-87d8-9ea343e0b884",
+    "entry": "莽草",
+    "reading": {
+      "primary": "莽草",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "聊斎志異の水莽草とは違って、この幽霊藻は毒草ではないということだ。",
+              "citation": {
+                "source": "水鬼",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、その水莽草を食って死んだ者の鬼を水莽鬼というのであるが、言い伝えによると、この鬼は輪廻を得て来世に生れてくることができないので、その草を食って死ぬる者のあるのを待っていて自分の代りにし、それによって生れ代るといわれている。",
+              "citation": {
+                "source": "水莽草",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それ故に水莽草の多い楚中の桃花江一帯には、この鬼が最も多いとのことであった。",
+              "citation": {
+                "source": "水莽草",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「たしかに水莽草だ」　祝はそこで指輪を出して少女の情状を話した。",
+              "citation": {
+                "source": "水莽草",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同年の男は急いで南村の寇家へ往って、祝が水莽草を飲まされたわけを話して、三娘の襠をもらいたいと言ったが、寇の方ではそれによって女が生れ代ることができると思ったのでくれなかった。",
+              "citation": {
+                "source": "水莽草",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところで、この煎餅の表面の、後から糊で貼り着けたらしい小さな小豆を砕いた様な木の実だが、色々調べた結果、学名は日本産｜大茴香、普通に莽草又はハナシバなぞと呼ばれる木蘭科の常緑小喬木の果実であってな。",
+              "citation": {
+                "source": "とむらい機関車",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところで、もうひとつこの莽草の樹の用途なんだがね……こいつが実に面白いんだ……と言うのは、昔から仏前用として墓地に植えたり、又地方に依っては、その枝葉を、棺桶の中へ死人と一緒に詰めたりする外、一般には、その葉を乾したり樹皮を砕いたりして、仏前や墓前で燻く、あの抹香を製造する原料にされているんだ。",
+              "citation": {
+                "source": "とむらい機関車",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "つまりこの煎餅と言い、莽草の実と言い、二つながら手掛としては非常に特殊な代物である事に注意し給え。",
+              "citation": {
+                "source": "とむらい機関車",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

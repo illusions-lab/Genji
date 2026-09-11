@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "3d285a86-a980-5c06-b6c9-9eb7533319ee",
+    "entry": "鰌掬",
+    "reading": {
+      "primary": "鰌掬",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「エッサッサ、エッサッサ」　泥鰌掬いが始まった。",
+              "citation": {
+                "source": "善悪両面鼠小僧",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また高野辰之博士は其著『日本歌謡史』に鰌掬ひは『海老掬ひ踊』から来てゐると述べられてゐるさうだが、鰌と海老とは漁具も漁法も全然違ふのだから、博士の説には賛意を表することが出来ぬ。",
+              "citation": {
+                "source": "出雲鉄と安来節",
+                "author": "田畑修一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで私が思ふには酒の座興に鰌掬ひの生々しい体験を歌に合せて踊つたのが此踊りの始まりではあるまいか』といふやうなことを聞かされたことがあるが、これは確かに郷土の風習に即した見方だ。",
+              "citation": {
+                "source": "出雲鉄と安来節",
+                "author": "田畑修一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "現に私自身の見聞から云つても、私の郷里では盆踊りが済むと『笠破り』と称して連中は必ず溝川から泥鰌を掬つて来、また公然と野菜物を盗んで来て慰労宴を催したものだが、所謂『男踊り』の鰌掬ひは写実の儘で如何にも野趣に満ちてゐる」　と、述べてゐる。",
+              "citation": {
+                "source": "出雲鉄と安来節",
+                "author": "田畑修一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かうしてみると、安来節と泥鰌掬ひとは中海といふ半淡半鹹の入海の水と、その水に近い田野と、安来といふ港とが自然とより集つてできたといふことがたやすく想像される。",
+              "citation": {
+                "source": "出雲鉄と安来節",
+                "author": "田畑修一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次の幕、八木節に合せる泥鰌掬ひのパントマイムは、野趣極まつて卑俗に流れ、達者にまかせて擽りの過ちを犯してゐた。",
+              "citation": {
+                "source": "ある村の素人劇団",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もっとも歩道はでこぼこの煉瓦ではあったが、車道の横断などは鰌掬いの足取りでやっとの思い。",
+              "citation": {
+                "source": "明治世相百話",
+                "author": "山本笑月",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

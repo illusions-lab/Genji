@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "acb4ebd3-0b5c-5e90-b1b9-c9b1b1ca50de",
+    "entry": "萵雀",
+    "reading": {
+      "primary": "萵雀",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "卯平が凝然として居ると萵雀が忍び／＼に乾いた落葉を踏んで彼の近くまで來てはすいと枝へ飛んだ。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "萵雀が其乾いた落葉を軽く踏んで冬は村へ行き渡つた。",
+              "citation": {
+                "source": "隣室の客",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まことや鶯、繍眼児、鶸、萵雀の羽の緑なる、鳩、竹林鳥の紫なる皆何物にも譬へがたなき色なり。",
+              "citation": {
+                "source": "一夕",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鵯は南天の実を啄もうと縁先に叫び萵雀と鶺鴒は水たまりの苔を啄みながら庭の上に囀る。",
+              "citation": {
+                "source": "写況雑記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

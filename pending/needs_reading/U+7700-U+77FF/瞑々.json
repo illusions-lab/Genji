@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "5c7aaedf-1730-53e1-94fc-c1594b4d53e2",
+    "entry": "瞑々",
+    "reading": {
+      "primary": "瞑々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "やがて渾沌瞑々として風の鳴るのを聞くと、果しも知らぬ渺々たる海の上を翔けるのである。",
+              "citation": {
+                "source": "妖魔の辻占",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "囂々として、騒々として、漠々として、瞑々として、恢々として、何ともつかぬ無数の肉音声が、蒼い蒼い向うの麗光の空から吼えとどろいて来た。",
+              "citation": {
+                "source": "フレップ・トリップ",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "江戸ッ子でないものは人でないような扱いをしていたのは、一方からいうと、江戸が東京となって、地方人に蹂躙せられた、本来江戸児とは比較にもならない頓馬な地方人などに、江戸を奪われたという敵愾心が、江戸ッ子の考えに瞑々の中にあったので、地方人を敵視するような気風もあったようだ。",
+              "citation": {
+                "source": "江戸か東京か",
+                "author": "淡島寒月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自分を瞑々の間に東京へ引き留めたのは、實は全く幻影に過ぎぬかも知れない、澄子さんとの戀だと思つた。",
+              "citation": {
+                "source": "受驗生の手記",
+                "author": "久米正雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "たちまち四辺は瞑々たる白色の中に沈み、いまにも天外に吹き飛ばされようと思うばかりに、その風のすさまじさ劇しさ、コン吉は凍える指に力を集め、必死と岩にしがみつき、「オーイ、オーイ」と呼びかけると、はるか上の方からは途切れ途切れにガイヤアルの血声。",
+              "citation": {
+                "source": "ノンシャラン道中記",
+                "author": "アルプスの潜水夫　――モンブラン登山の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "振返れば、天地すべて瞑々だ。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "無情な天は、そこからあがる黒煙に、陽を潜め、月を隠し、ただ暗々瞑々、地上を酸鼻にまかせているのみであった。",
+              "citation": {
+                "source": "三国志",
+                "author": "群星の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

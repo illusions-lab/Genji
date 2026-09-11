@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "ecb5836e-681e-5f29-acc1-f5a6e407894e",
+    "entry": "徃々",
+    "reading": {
+      "primary": "徃々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "然れども別に社界の大弊根の長く存するありて、壯年有爲の士をして徃々にして熱火を踏み焔柱を抱くの苦慘を快とせしむる事あり。",
+              "citation": {
+                "source": "罪と罰（内田不知庵譯）",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "されば淫風從つて盛に、見るに忍びざるの醜體を演ずること徃々にしてありと友は語る。",
+              "citation": {
+                "source": "秋の岐蘇路",
+                "author": "田山花袋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今ノ人諡号墓銘等ニ於テ諛媚誣罔、毫モ其ノ人ニ倫セザルノ標目ヲ以テスル者徃々少ナカラズ。",
+              "citation": {
+                "source": "青塚ノ説",
+                "author": "※上漁史",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれどその美しい日光の山の湖水の色も、私の弱い心には徃々にして唯美しいといふよりは寧ろ不可思議な、そして怖しい自然となつて威壓を加へるかのごとく映ずることがある。",
+              "citation": {
+                "source": "箱根の山々",
+                "author": "近松秋江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この伝で病気にして置くことも徃々有りましたから、病死の体にいたして漸くの事で野辺送りをいたしました。",
+              "citation": {
+                "source": "真景累ヶ淵",
+                "author": "三遊亭圓朝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "頃日脱稿の三十年史は、近時およそ三十年間、我｜外交の始末につき世間に伝うるところ徃々誤謬多きを憂い、先生が旧幕府の時代より身躬から耳聞目撃して筆記に存するものを、年月の前後に従い順次に編集せられたる実事談なり。",
+              "citation": {
+                "source": "瘠我慢の説",
+                "author": "福沢先生を憶う",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "精製石棒の玉の部には徃々｜美麗なる彫刻を施せしもの有り。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "コロボックルの住居には直徑五六間のもの徃々有り。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唐本には徃々製本粗末にて落丁のもの有之由。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

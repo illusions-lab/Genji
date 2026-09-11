@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "ed04b297-4f2b-5685-a5e6-75d8b3a2ee51",
+    "entry": "曳哉",
+    "reading": {
+      "primary": "曳哉",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "乗り手の顔かたちは、とうに見定めがつかなかつたが八丁櫓と六丁櫓の夫々の漕ぎ手が此処を先途と腕をそろへ、息を合せて漕げや漕げ、曳哉、曳！",
+              "citation": {
+                "source": "円卓子での話",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私も一度、試みに水門番にたづさはつて見たこともあるが、いざ堰を切る段になつて閂を引き、把手を肩にして満身の力を持つて開門しようとしても、曳哉／＼と叫ぶ掛声ばかりが水車の騒ぎよりも壮烈に鳴り渡るばかりで、打たうが叩かうが、それは私にとつては永遠に開かずの扉であつた。",
+              "citation": {
+                "source": "バラルダ物語",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　私は目をつむつて水あげポンプの把手にぶらさがつて、曳哉々々とあをつてゐたが、薄目をあくと、もう灯りの点いた浴室の硝子戸に、冷いシヤワーを頭から浴びて身をくねらせてゐる満里子の裸型が、サロメのやうにはつきりと揺曳してゐた。",
+              "citation": {
+                "source": "サロメと体操",
+                "author": "ヘツペル先生との挿話",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "例へば、一個の文字を運ぶにしても恰も巨大な石でも盗むが如くにあぶら汗を流し、曳哉々々といふ声をあげ、稍ともすれば気絶するばかりの極めて無力な屋根裏の文士として命を保ちつゝある身の上であつた。",
+              "citation": {
+                "source": "天狗洞食客記",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古い破れた学生帽をかぶり、男のシヤツを着て、長靴を穿いた新しいマメイドのお里ちやんが朝夕の地引網に現れると、彼等はあちこちから集つて、一本の綱に取り縋り、曳哉／＼と声をそろへながら網引きの労働に没頭した。",
+              "citation": {
+                "source": "まぼろし",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "599685e4-553e-50c2-b93a-5982ea2a997b",
+    "entry": "蒭",
+    "reading": {
+      "primary": "蒭",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "凡て獣蓄の中蹄の分れ割れて二つの蹄を成せる反蒭獣は汝ら之を食うべし。",
+              "citation": {
+                "source": "正義と微笑",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "但し反蒭者と蹄の分れたる者の中汝らの食うべからざる者は是なり即ち駱駝、兎および山鼠、是らは反蒭ども蹄わかれざれば汝らには汚れたる者なり。",
+              "citation": {
+                "source": "正義と微笑",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また豚是は蹄わかるれども反蒭ことをせざれば汝らには汚たる者なり、汝ら是等の物の肉を食うべからず、またその死体に捫るべからず。",
+              "citation": {
+                "source": "正義と微笑",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "造物の傀儡となり、蒭狗となつて、倦きられた時投げ出されて死するのが凡人なのである。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "尠くとも、日本の国の信仰では、最初の蒭霊をすさのをの命と考へて居る。",
+              "citation": {
+                "source": "偶人信仰の民俗化並びに伝説化せる道",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "近頃、村田正言学士が、此「二種の神器」の外に、蒭量と言ふもののある事を教へてくれた。",
+              "citation": {
+                "source": "唱導文学",
+                "author": "――序説として――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ともかくも、遠旅を来た賓客に対して、「その駒」に蒭飼ふ事は、歓待の一表出である。",
+              "citation": {
+                "source": "唱導文学",
+                "author": "――序説として――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "水駅・飯駅・蒭駅など呼んだところから見ると、旅人の駅路を来るに擬したものと思つてよい。",
+              "citation": {
+                "source": "唱導文学",
+                "author": "――序説として――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蒭駅は勿論、馬に飼ふ干草をくれる処との考へである。",
+              "citation": {
+                "source": "唱導文学",
+                "author": "――序説として――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だから考へると、蒭量を藤氏の氏上相承の宝とした訣もわかつて来る。",
+              "citation": {
+                "source": "唱導文学",
+                "author": "――序説として――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「蒭」は、ひくさではあるが、秣・※の様に、まくさとは訓まれないのが本道だ。",
+              "citation": {
+                "source": "唱導文学",
+                "author": "――序説として――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其一つに「ひくさ湛」と言ふのゝあるのは、やはり蒭に関したものなのではないかと思ふ。",
+              "citation": {
+                "source": "唱導文学",
+                "author": "――序説として――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其は丁度、田楽に、水駅・飯駅・蒭駅など言ふ、立ち寄り場が考へられて居つたのと同じ意味で、精霊が群行して、豪家・宮・寺の祝福に廻る訣です。",
+              "citation": {
+                "source": "信州新野の雪祭り",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また獣類中にも残貪なるものあり、猛悪なるものあり、かつ肉食の獣は養うに蒭菜をもってすべからず。",
+              "citation": {
+                "source": "教門論疑問",
+                "author": "柏原孝章",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

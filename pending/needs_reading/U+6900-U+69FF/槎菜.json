@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "1ce0ed32-b1c6-59b4-a78d-a1a434328a3a",
+    "entry": "槎菜",
+    "reading": {
+      "primary": "槎菜",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "すなわちそれは正品のタビラコであって今日いうキク科のコオニタビラコ（漢名は稲槎菜、学名は Lampsana apogonoides Maxim.）である。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前に記したタビラコの稲槎菜は支那でも野人がこれを食する事が『植物名実図考』に見えていて「郷人茄之」だの「吾郷人喜食之」だのの語が記してある。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前にもいった様にこれは支那の稲槎菜でその図が『植物名実図考』に在る。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すなわち日本ではタビラコ、支那では稲槎菜である。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

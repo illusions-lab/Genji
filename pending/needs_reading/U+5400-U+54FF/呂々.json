@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "03008531-5066-5709-a1bd-0ff6b3f50f73",
+    "entry": "呂々",
+    "reading": {
+      "primary": "呂々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "学問でもする事か、フルベツキさんに英吉利西の語を習つても三月足らずで止めて了ふし、何かなし若い娘さん達の中で野呂々々と遊んで居たい、肩上を取つたばかしの十八の子の所作ぢや無い。",
+              "citation": {
+                "source": "蓬生",
+                "author": "與謝野寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "喨々として水のせせらぐに似た尺八の哀韻、それは二人の数奇を物語るかのように、呂々転々の諧調を極まりなくして、心なき詰侍の者さえ泪ぐましい気持に誘われた。",
+              "citation": {
+                "source": "剣難女難",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "呂々と、笛は鳴りはじめた――　彼女の細くて白い指のふしが、一つ一つ、生きている小人のように、七ツの孔を踏んで踊る。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "地の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――それがやむとまた、笛の音は、呂々と、星の空をながれて遊んでいた。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "水の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "尺八の呂々はいつまでも門を立ち去らない。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "上方の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と思うと――こんどは不意に、前よりは数倍近い所に、呂々とした音が起こって、もうその人はやがて坂の中段を横に切って行く渓流の丸木橋までかかってきたかと思われる。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "木曾の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "※々としてやまず、呂々として尽きるところを知らぬ一節切の吹き人も、今は現であるだろうか。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "木曾の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "8ed9ceb3-f9c9-51b5-81ba-d3c9b6293d9e",
+    "entry": "崩崖",
+    "reading": {
+      "primary": "崩崖",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "こんな處に道はない筈ぢやが、と今朝起きぬけに見ると、案の定、赤岩の大崩崖。",
+              "citation": {
+                "source": "死者の書",
+                "author": "釋迢空",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こんな処に道はない筈ぢやがと、今朝起きぬけに見ると、索の定、赤土の大崩崖。",
+              "citation": {
+                "source": "死者の書",
+                "author": "――初稿版――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こんな処に道はない筈ぢやが、と今朝起きぬけに見ると、案の定、赤岩の大崩崖。",
+              "citation": {
+                "source": "死者の書",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こんな処に道はない筈じゃが、と今朝起きぬけに見ると、案の定、赤岩の大崩崖。",
+              "citation": {
+                "source": "死者の書",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "谷に下りた処から二、三間上手に向って斜に河原を横切ると向う岸に登る路があるのだが、附近一帯にザラザラした崩崖をなしている為に、注意して探さないと上り口が分り憎い。",
+              "citation": {
+                "source": "笛吹川の上流（東沢と西沢）",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もみぢ山　昼のこだまは　鉄砲のおと荒々と　岩肌照りて、日の光り夕づく山に　さむきもみぢ葉よべひと夜　時雨いたりて明けたれば、崩崖のもみぢの　濡れてかなしきよべの雨　深くふりたり。",
+              "citation": {
+                "source": "鵠が音",
+                "author": "折口春洋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また、武蔵西多摩郡三里村大字高尾字｜崩崖上という地名もある。",
+              "citation": {
+                "source": "地名の研究",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "肥後｜阿蘇郡の馬見原も崩崖はあるが、これは諸国に多数ある馬見塚または豆塚などと同じく、信仰より起った地名かと思う仔細があって例証にはせぬ（羽前山形の馬見崎川、常陸の馬見山なども同様である）。",
+              "citation": {
+                "source": "地名の研究",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

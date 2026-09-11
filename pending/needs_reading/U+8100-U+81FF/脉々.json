@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "789f8b2e-0e64-5fea-b7ec-154cb91b2c80",
+    "entry": "脉々",
+    "reading": {
+      "primary": "脉々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "されば之に代って昭和時代の東京市中に哀愁脉々たる夜曲を奏するもの、唯南京蕎麦売の簫があるばかりとなった。",
+              "citation": {
+                "source": "巷の声",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もし花卉を愛する人のたま／＼わが廃宅に訪来ることあらんか、蝶影片々たる閑庭異様なる花香の脉々として漂へるを知るべし。",
+              "citation": {
+                "source": "来青花",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "手足の脉々は、飛び上るようにずきりずきり打ち初めた。",
+              "citation": {
+                "source": "悪魔",
+                "author": "小川未明",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

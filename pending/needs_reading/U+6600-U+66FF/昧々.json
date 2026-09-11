@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "4176adfe-8d77-521b-b4df-9d845e3e147a",
+    "entry": "昧々",
+    "reading": {
+      "primary": "昧々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "まさに昏々昧々紛々若々として帰するところを知らぬ。",
+              "citation": {
+                "source": "悟浄出世",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朝酒、何といふうまさだらう、いゝ機嫌で、昧々さんをひつぱりだして散歩する、そして宇平居へおしかけて昼酒、また散歩、塩風呂にはいり二丘居を訪ね、筑紫亭でみつぐり会の句会、フグチリでさん／″＼飲んで饒舌つた、句会は遠慮のない親しみふかいものだつた。",
+              "citation": {
+                "source": "行乞記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "友人からのたより――昧々居で受け取つたもの――をまた、くりかへしくりかへし読んだ、そして人間、友、心といふものにうたれた。",
+              "citation": {
+                "source": "行乞記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……昧々居から緑平居までは歓待優遇の連続である、これでよいのだらうかといふ気がする、飲みすぎ饒舌りすぎる、遊びすぎる、他の世話になりすぎる、他の気分に交りすぎる、勿躰ないやうな、早敢ないやうな心持になつてゐる。",
+              "citation": {
+                "source": "行乞記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "方々からのたより――留置郵便――を受取つてうれしくもありはづかしくもあつた、昧々、雅資、元寛、寥平、緑平、俊の諸兄から。",
+              "citation": {
+                "source": "行乞記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昧々居徃訪、昧々君はさびしい人だがおとなしすぎる。",
+              "citation": {
+                "source": "道中記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夜は句会、二丘、昧々、耕平、そして主人と私、あまりしやべつたので、さびしくなつた、かなしくさへなつた。",
+              "citation": {
+                "source": "道中記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一片の雲影もない快さ、朝湯朝酒のうれしさ、いよ／＼出発、宇平さん、二丘さん、昧々さん、ありがたう、ありがたう、ありがたう。",
+              "citation": {
+                "source": "道中記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の精神が朦朧として不得要領｜底に一貫しているごとく、彼の眼も曖々然昧々然として長えに眼窩の奥に漂うている。",
+              "citation": {
+                "source": "吾輩は猫である",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の精神が朦朧として不得要領的に一貫して居る如く、彼の眼も曖々然昧々然として長しへに眼窩の奧に漂うて居る。",
+              "citation": {
+                "source": "知られざる漱石",
+                "author": "小宮豐隆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し先生の眼は、それだからと言つて「瞹々然昧々然」として、うすぼんやりしてゐたのではなかつた。",
+              "citation": {
+                "source": "知られざる漱石",
+                "author": "小宮豐隆",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 16
+      }
+    }
+  }
+]

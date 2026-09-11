@@ -1,0 +1,106 @@
+[
+  {
+    "uuid": "0dc01654-1610-53af-967c-20c18624b977",
+    "entry": "獎励",
+    "reading": {
+      "primary": "獎励",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "歴代の政府は、何れも孝行を獎勵する。",
+              "citation": {
+                "source": "支那人の文弱と保守",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで政府は孝行を獎勵しつつも、流石に極端な形式的孝行は時々禁止して居る。",
+              "citation": {
+                "source": "支那人の文弱と保守",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道徳は善を獎勵す、而して善は戮力を須要とす。",
+              "citation": {
+                "source": "美的生活を論ず",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本の徳川時代には、各藩で國産獎勵をやりましたが、さういふことは日本のやうな交通不便な國は出來るが、支那のやうな交通便利の國はそれが出來にくい。",
+              "citation": {
+                "source": "近代支那の文化生活",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "交通が便利であると、商談が發達する爲に、僅少の運賃で特産物を各地に送ることが出來ますから、遠方の地方などで織物を獎勵しようとしても、迚もその特産地と競爭して獎勵しきれぬ。",
+              "citation": {
+                "source": "近代支那の文化生活",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは建物の一方の端からであつたが、ブレイスブリッジの言葉によると、確に召使部屋から聞えてくるのであつて、この部屋では思ふ存分に歡を盡すことが許される、いな御主人から獎勵される位で、クリスマスの十二日間ぶつ續けだつたが、ただ何事も昔の慣例に從はねばならなかつた。",
+              "citation": {
+                "source": "クリスマス・イーヴ",
+                "author": "アーヴィング",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      },
+      "variant_writings": [
+        "獎勵"
+      ]
+    }
+  }
+]

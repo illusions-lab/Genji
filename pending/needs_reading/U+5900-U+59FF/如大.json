@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "4059efa7-1308-5996-8f87-37c03405788d",
+    "entry": "如大",
+    "reading": {
+      "primary": "如大",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "法諡を快楽院是参貞如大姉と云ふ。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから七面堂のあたりをさがした處、右手の深い草むらのなかに「信敬院妙立日如大姉」の石碑がころがつてゐたといふ事を聞かされた。",
+              "citation": {
+                "source": "伊那紀行",
+                "author": "今井邦子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "石碑の面には文字の刻みも消えはじめて「信敬院妙立日如大姉」右に寛保一辛酉、左に四月十日、妙經百部、繪島殿、とある。",
+              "citation": {
+                "source": "伊那紀行",
+                "author": "今井邦子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "墓場のような静寂は突如大川によって、ふたたび破られた。",
+              "citation": {
+                "source": "黄昏の告白",
+                "author": "浜尾四郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "高賓如大佐も招かれてるそうだ。",
+              "citation": {
+                "source": "白塔の歌",
+                "author": "――近代伝説――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして高賓如大佐は荘家の親しい知人で、新新文芸一派に常々好意ある声援をしていました。",
+              "citation": {
+                "source": "白塔の歌",
+                "author": "――近代伝説――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一方に呂将軍がおり、他方に方家同族の老人がいましたが、方福山は始終両方へ顔を向け、少し離れてる高賓如大佐や荘一清などへも呼びかけました。",
+              "citation": {
+                "source": "白塔の歌",
+                "author": "――近代伝説――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのなかで、高賓如大佐によって、軍隊の方はぴたりと押えられ、市内の動揺の気配も鎮められまして、それがあまり手際よくいったので、変事前から準備が出来ていたらしいとの風説さえ立ったほどでした。",
+              "citation": {
+                "source": "白塔の歌",
+                "author": "――近代伝説――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "高賓如大佐が軍服姿で出迎え、陳慧君はすぐ辞し去り、あとは二人きりになりました。",
+              "citation": {
+                "source": "白塔の歌",
+                "author": "――近代伝説――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そんな方法でえられた告白にこれっぽっちだって信用がおけるだろうか――ただ一人牢屋にいたのが突如大勢の敵意ある判官、老獪な判官たちの前に引きだされ、忙しない誘導訊問を受け、今にも死ぬほどの痛い目にあわすぞとおどされた人間の口から洩れた告白ではないか。",
+              "citation": {
+                "source": "エリザベスとエセックス",
+                "author": "ELIZABETH AND ESSEX",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おののき恐れる心を押さえて、不安の夢をむさぼっていた夜半、富士川より突如大音響がひびいた。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第五巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

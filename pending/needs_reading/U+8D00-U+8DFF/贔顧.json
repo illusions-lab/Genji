@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "b53672b0-d511-55d9-8467-26562f65f108",
+    "entry": "贔顧",
+    "reading": {
+      "primary": "贔顧",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "いかに校長が文平を贔顧だからと言つて、二人の位置を動かす訳にはいかない。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "家内はまた弟の進｜贔顧。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "文平｜贔顧の校長は、丑松の組に勝たせたくないと思ふかして、熱心になつて窓から眺めて居た。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それに、丑松を贔顧にして、伊勢詣に出掛けた帰途なぞには、必ず何か買つて来て呉れるといふ風であつた。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斯の言葉を聞いて、また人々が笑へば、そこへ弥次馬が飛出す、其尾に随いて贔顧不贔顧の論が始まる。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "どうも瀬川君が贔顧の仕方は普通の愛読者と少許違ふぢや有ませんか。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ここですか、貴方の贔顧にしてる家は」　とお雪は言って、花瓶だの、鏡だの、古風な油絵の額だので飾ってある食堂の内を見廻した。",
+              "citation": {
+                "source": "家（下巻）",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの社長とかが向島を贔顧にしましてネ、箱根あたりへ連れてったそうです。",
+              "citation": {
+                "source": "家（下巻）",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "牛込の下宿を経営する市会議員夫婦と言い、この榊と言い、吉本さん贔顧の人達がいろいろな方面に多いことは捨吉にも想像がついた。",
+              "citation": {
+                "source": "桜の実の熟する時",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "のみならず、下手な吉本さん贔顧の多いことが、心あるものに一種の反感をさえ引起させた。",
+              "citation": {
+                "source": "桜の実の熟する時",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それほど岡見はあの人を贔顧にしていた。",
+              "citation": {
+                "source": "桜の実の熟する時",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「岡の贔顧なマドマゼエルもよく拝見したしサ――」「とにかく旅に来ると、自分というものを省るようには成るね」と岡はやや真面目になって答えた。",
+              "citation": {
+                "source": "新生",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "誰しもこの最後の勝負を予想する、贔顧々々につれて盛に賭が行われる。",
+              "citation": {
+                "source": "藁草履",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私なんかのように貧乏人で、能の無い者でも、難有いことには皆さんが贔顧にしてくれてね。",
+              "citation": {
+                "source": "藁草履",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 19
+      }
+    }
+  }
+]

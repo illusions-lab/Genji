@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "98f406db-ef00-5334-bb21-3db410f85118",
+    "entry": "而別",
+    "reading": {
+      "primary": "而別",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "淡淵は「其講経不拘漢宋、而別新古、従人所求、或用漢唐伝疏、或用宋明註解」平洲の如きも、「講説経義、不拘拘于字句、据古註疏為解、不好参考宋元明清諸家」と云ふのである。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "識神、業に随いて後有に旋帰す」と）儒仏合論云、夫死者有再生、則魂神之不滅亦不言而可知焉、乃至魂神者又家舎之主人也、如家舎雖及朽廃、主人不与其朽廃、而別立生涯也。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然而別品之流行未曾有盛今日者也。",
+              "citation": {
+                "source": "虫干",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "物徂徠曰く、『萬古神奇悉在陳腐中、天不能舍鶯花而別爲春』と言は奇警なれども、こは自然の富を以て匱しとするに似たり。",
+              "citation": {
+                "source": "春鳥集",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吾情猶見昔日戰亡之諸君而別也。",
+              "citation": {
+                "source": "遺篇",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

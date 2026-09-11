@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "fc8fc7cc-eb0c-53a2-9927-5b7474ab1124",
+    "entry": "瓷",
+    "reading": {
+      "primary": "瓷",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "主意は當時の人であるが、瓷壺既に成る、苦※を如何ともする無きところも有るので、其儘にした。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "岩山の頂きには古代契丹の放胆な規模を思わせる仏殿があり、無垢の黄金と黄瓷を載せた天蓋が、青銅の緑と大斗の朱と照応して虹のような美しい光を空に放っている。",
+              "citation": {
+                "source": "新西遊記",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "中国の青瓷、朝鮮の刷毛目、あるいは赤絵、染付、その他数多ある外品の特色が、曾て日本に於ける倣造に於て成功した試しがないのは、蓋し取材の方法が根本的に間違っているからである。",
+              "citation": {
+                "source": "窯を築いて知り得たこと",
+                "author": "北大路魯山人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "実例を挙げて言えば青瓷、宋代に生まれた青瓷砧という、あるいは雨過天青という優れたる青色釉のやかましい青瓷も、所詮は土の作行が良いための良き色であって、色の優れたるばかりではないのである。",
+              "citation": {
+                "source": "私の陶器製作について",
+                "author": "北大路魯山人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "仮りに宋青瓷の釉薬が現在に生まれ出たとしても、今の作家の力では、なんの問題ともならぬであろう。",
+              "citation": {
+                "source": "私の陶器製作について",
+                "author": "北大路魯山人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ただ色が美しいというだけであって、宋青瓷を尊ぶような尊び方はしないであろう。",
+              "citation": {
+                "source": "私の陶器製作について",
+                "author": "北大路魯山人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また「清水の海老屋清兵衛に学んで一家を成し、善く支那の古陶瓷の模しものに妙を得、其精妙の作に臻っては、殆ど彼我の弁別も為し難い程である」とあるが、この説は今泉さんの粗忽でしょう。",
+              "citation": {
+                "source": "古器観道楽",
+                "author": "北大路魯山人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唐宋の醇美な彫刻絵画に対して、明は宣徳・嘉靖・万暦の陶瓷、剔紅、填漆の類を特徴とする。",
+              "citation": {
+                "source": "孔子",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「こっちへ参れ、薩摩の青瓷を見せる」「どうぞお願いいたしまする」　それからおよそ一刻あまり、勘兵衛は熱心に庭中お笛を伴れ廻っていた。",
+              "citation": {
+                "source": "嫁取り二代記",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古い陶瓷や絵画や仏像などを鑑識する者が、その芸術を感得して判断するよりも、もっと鋭敏なそして迅い「勘」をもって、彼は人品の真偽を観わけた。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第三分冊",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

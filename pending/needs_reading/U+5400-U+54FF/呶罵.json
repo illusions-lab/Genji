@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "8f608e47-920a-5a16-8116-f4a316193cda",
+    "entry": "呶罵",
+    "reading": {
+      "primary": "呶罵",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼はノリス説に対して呶罵を浴びせかけるとともに、ひょいと論鋒を変えて――あとで彼自ら呟いていうに、これは容易な、ほとんど不可避的な論鋒転換だったそうだが――自分こそ適任だと主張し始めた。",
+              "citation": {
+                "source": "エリザベスとエセックス",
+                "author": "ELIZABETH AND ESSEX",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "本当にそれは突進という感じであった、「押すな」とか「痛い」とか「だめだ、もう入れやせん」とかいう呶罵の声をひと足ごとに浴びせられる、肱で小突かれたり蹴られたりする。",
+              "citation": {
+                "source": "花咲かぬリラ",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それを聞くと、兵どもはゲラゲラ笑って、口々の呶罵を肴にまた飲んだ。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、営内から旗門のそとでは、ごうごうたる不平と抗議の呶罵だった。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "非難、腹立ち、失望、呶罵の声など、半日のまに、三塔十六谷の様相は、一変してしまった。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "帝獄帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして口々から揚げる口ぎたない呶罵、嘲弄、笑い声まで、嵐とばかりきこえてくる。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "新田帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かなり沈着な部将にしてさえ、呶罵、地だんだ、ただ、てんやわんやの喚きの中に吹きくるまれる。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "新田帖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「これなる堀口貞満も、おそらく一時の忿懣にまかせ、御立座のまぎわを騒がせたものと思われますが、無骨者の呶罵も、あわれと聞こし召されて、みゆるしあるよう、ひらにおわび申しあげまする。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "湊川帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "92340fba-0caa-5e6e-bf8d-a02146c99aa4",
+    "entry": "棠蔭",
+    "reading": {
+      "primary": "棠蔭",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「棠蔭秘鑑」に拠れば、評定寄合は、寛永八年二月二日、町奉行島田弾正忠の邸宅に、老中が集会して、公事の評定をしたに始まったようである。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "探偵小説は、エドガー・アラン・ポーに始まると思われているが、中国には早くも元代に『棠蔭比事』があり、日本には三百年前の井原西鶴に『桜蔭比事』がある。",
+              "citation": {
+                "source": "随筆銭形平次",
+                "author": "捕物小説というもの",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "中国には、詐術又は裁判小説は夥しく、『棠蔭比事』などはその代表的なものだが、私はその中のトリックを逆に用いた例はある。",
+              "citation": {
+                "source": "随筆銭形平次",
+                "author": "平次身の上話",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "西鶴の『本朝｜桜蔭比事』は叙述の精妙さで帽子を脱ぐが、今用いられるようなトリックや材料は少なく、『棠蔭比事』以下の比事物や用心記も大同小異といって差支えはない。",
+              "citation": {
+                "source": "随筆銭形平次",
+                "author": "平次身の上話",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "4fd2517a-32b2-56b7-8d80-e78d73ef3e62",
+    "entry": "佗助",
+    "reading": {
+      "primary": "佗助",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "佗助椿一　私は今夕暮近い一室のなかにひとり坐つてゐる。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二　言ひ伝へによると、佗助椿は加藤肥後守が朝鮮から持帰つて、大阪城内に移し植ゑたものださうだ。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "肥後守は佗助椿のほかにも、肩の羽の真白な鵲や、虎の毛皮や、いろんな珍らしい物をあちらから持帰つたやうに噂せられてゐる。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三　この椿が佗助といふ名で呼ばれるやうになつたのについては、一草亭氏の言ふところが最も当を得てゐる。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それによると、利休と同じ時代に泉州堺に笠原七郎兵衛、法名吸松斎宗全といふ茶人があつて、後に還俗して佗助といつたが、この茶人がひどくこの花を愛玩したところから、いつとなく佗助といふ名で呼ばれるやうになつたといふのだ。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それはともかくも、佗助椿は実際その名のやうに佗びてゐる。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同じ椿のなかでも、厚ぽつたい青葉を焼き焦がすやうに、火焔の花びらを高々と持上げないではゐられない獅子咲のそれに比べて、佗助はまた何といふつつましさだらう。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "佗助のもつ小形の杯では、波々と掬んだところで、それに盛られる日の雫はほんの僅なものに過ぎなからうが、それでも佗助は心から酔ひ足つてゐる。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　かういつて、同じ季節の草木のなかから佗助椿を選んで、草庵の茶の花とした茶人の感覚は、確に人並すぐれて細かなところがあつた。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もしか茶室の雰囲気に少しでももの足りなく感じたら、そんな場合には何をおいても床の間の抛入の佗助の花を見ることだ。",
+              "citation": {
+                "source": "独楽園",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 14
+      }
+    }
+  }
+]

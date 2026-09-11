@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "df0650db-97a5-5a8f-8a7e-785671ec6a71",
+    "entry": "燥々",
+    "reading": {
+      "primary": "燥々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "切に燥々して來た氣味で、奧の方を見て眼を爛つかせたが、それでも耐えて、體を斜に兩足をブラり椽の板に落してゐた。",
+              "citation": {
+                "source": "青い顏",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それこそ空々寂々で、不圖立起ツて、急に何か思出したやうに慌しく書棚を覗きりながら、ポケットから金の時計を出して見て、何か燥々するので、頻にクン／＼鼻を鳴らしたり、指頭で髮の毛を掻※したり、または喉に痰でもひツ絡むだやうに妄と低い咳拂をしてゐた。",
+              "citation": {
+                "source": "解剖室",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と氣が激しく燥々して來て凝如としてゐては、何か此う敗頽の氣と埃とに體も心も引ツ括めて了ふかと思はれて、耐らなく家にゐるのが嫌になツて來た。",
+              "citation": {
+                "source": "昔の女",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "燥々しながら立つて毛布をはたいた、煙草の灰が蛇の抜殻のくづるる様にちる、私は熱湯の中に怖々と身体を沈める時に感ずる異様な悪感に顫へながら強ひて落着いた風をして沈と坐つて見た。",
+              "citation": {
+                "source": "新橋",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

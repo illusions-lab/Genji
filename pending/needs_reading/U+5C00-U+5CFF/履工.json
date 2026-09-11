@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "7726d996-6f08-58a2-a650-76bd5cee68be",
+    "entry": "履工",
+    "reading": {
+      "primary": "履工",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "尊者聞いてすなわち起ち、杖に縋って彼所に往きその履工を訪うと、履工かかる聖人の光臨に逢うて誠に痛み入った。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猪に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "履工これは畏れ入ります、もとより手と足ばかりの貧乏人故何たる善根も施し得ませぬ。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猪に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ラチマー曰く、この譚を聞いてまさに知るべし、上帝はそれぞれの職を勉め佯らず正しく暮す者を愛すと、アントニウスまことに大聖だったが、この貧乏至極な履工は、上帝の眼に、アントニウスと何の甲乙なかったと。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猪に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "7d81abc0-f0c6-508b-b250-3bcf86136833",
+    "entry": "麭屑",
+    "reading": {
+      "primary": "麭屑",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "午飯の客は皆去り尽して、二人が椅子を離れた頃はところどころの卓布の上に麺麭屑が淋しく散らばっていた。",
+              "citation": {
+                "source": "野分",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と、直ぐ有り合せの麺麭屑と、お説教本とを贈つて寄さうとするかも知れないが、犬を食つたのは何も肉が高くなつたからではない。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正六（一九一七）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "紳士は真新しい白い手帛で椅子の埃を払き、そこらに散らばつてゐる麺麭屑を払ひ落したりした。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正七（一九一八）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昨日少しばかりの麺麭屑を、この犬と二人で頒けて食べてから、まだ何も口に入れませぬ。",
+              "citation": {
+                "source": "幻想",
+                "author": "モーリス・ルヴェル　Maurice Level",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ウィインでは大型輸送自動車の陸軍飯場が街上に出張して、通行人と好奇な外国人の旅行者に羊の脂肪肉と麺麭屑と上官の命令とを煮込んだ熱湯汁を無料分配していた。",
+              "citation": {
+                "source": "踊る地平線",
+                "author": "Mrs. 7 and Mr. 23",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

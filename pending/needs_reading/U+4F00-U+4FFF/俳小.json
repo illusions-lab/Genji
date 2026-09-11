@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "7151b97d-44d8-5157-ba7e-68c996c387f2",
+    "entry": "俳小",
+    "reading": {
+      "primary": "俳小",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "俳小屋といふのは私の書斎の名前である。",
+              "citation": {
+                "source": "椿子物語",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は小諸でも自分の書斎にしてゐる処を俳小屋と呼んでゐたが、矢張りこゝも同じ名称で呼ぶことにした。",
+              "citation": {
+                "source": "椿子物語",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俳小屋の前の庭も矢張り乱雑にいろんな草木があるのである。",
+              "citation": {
+                "source": "椿子物語",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "女人形を　お側に置いて明け暮れ眺めしやんすが　気がかりなわしや人形に　悋気する　前にも言つたやうに俳小屋には俳書が積み重ねてあつたり俳句の反古が崩れかゝつたりしてゐる中に私が唯一人坐つてゐるのみであつて、外には誰一人居るものもない。",
+              "citation": {
+                "source": "椿子物語",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは此の椿子がいつの間にか俳小屋の箱の中から出て来て、座敷の床の間の真つ先きに立つてゐたからであらう。",
+              "citation": {
+                "source": "椿子物語",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから私も日暮方になつて俳小屋に入る時などは、箱の中に納つてゐてこちらを見てゐる椿子を見ることがなんとなく気味が悪いやうな心持もするのであつた。",
+              "citation": {
+                "source": "椿子物語",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "椿子が俳小屋の本棚の上に置かれてから殆ど三年の月日が経つた。",
+              "citation": {
+                "source": "椿子物語",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俳小屋の机の前に坐つてゐる私は愈々孤影悄然としてをる。",
+              "citation": {
+                "source": "椿子物語",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「先生がお留守になつてから奥様のお許しを得て俳小屋を一見しました。",
+              "citation": {
+                "source": "椿子物語",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "只、私の留守に叡子さんが俳小屋に這入つて、この椿子を見てなつかしく感じた、といふ事以外には其の理由は見出せなかつた。",
+              "citation": {
+                "source": "椿子物語",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "会者、京都の王城、所沢の俳小星、青峰、宵曲、一水、雨葉、しげる、湘海、岫雲、みづほ、霜山、今更、たけし、鉄鈴、としを、子瓢、夜牛、石鼎。",
+              "citation": {
+                "source": "五百句",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　・「其草稿を取って熟読するに及んで歌俳小説尽く疵瑕多くして残すに足らず。",
+              "citation": {
+                "source": "藤野古白句集",
+                "author": "藤野古白",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

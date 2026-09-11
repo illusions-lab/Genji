@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "145ed2fb-ea8c-5242-bdce-580fb73cf394",
+    "entry": "驂",
+    "reading": {
+      "primary": "驂",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "長城万里に亘り荒蕪落日に乱るゝの所、悵たる征驂をとゞめて遊子天地に俯仰すれば、ために万巻の史書泣動し、満天の白雲｜凝つて大地を圧するの思あり。",
+              "citation": {
+                "source": "閑天地",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "リャボーヴィチは、彼らの乗っている左手の馬が驂馬と呼ばれ、右手のが副馬と呼ばれることも承知しているが――これまたすこぶる詰らんことである。",
+              "citation": {
+                "source": "接吻",
+                "author": "ПОЦЕЛУЙ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天地｜有情の夕まぐれわが驂鸞の夢さめて鳳樓いつか跡もなく花もにほひも夕月もうつゝは脆き春の世や岑上の霞たちきりて縫へる仙女の綾ごろも袖にあらしはつらくとも「自然」の胸をゆるがして響く微妙の樂の聲その一音はこゝにあり。",
+              "citation": {
+                "source": "天地有情",
+                "author": "土井晩翠",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "晏嬰乃ち田穰苴を薦めて曰く、『穰苴は田氏の（四）庶馬の左驂とを斬り、以て三｜軍に徇ふ。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "司馬穰苴列傳第四",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

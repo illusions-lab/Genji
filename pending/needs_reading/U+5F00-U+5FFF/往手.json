@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "503a5663-cba5-52a5-a85b-8e4b7932a040",
+    "entry": "往手",
+    "reading": {
+      "primary": "往手",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "友は往手を指ざしていふやう。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我等の往手は巖の間なる細徑にて、熔巖の塊の蹄に觸るゝもの多し。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我等の往手に火の海の横れるありて、身幹數丈なる怪しき人影のその前にゆらめくを。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "往手のかたに稍を搖す手を急にしたり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "フランスの兵は小人数なので、土佐の兵に往手を遮られて、大阪へ引き返した。",
+              "citation": {
+                "source": "堺事件",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "突如往手に、白い高いものが闇黒に浮く。",
+              "citation": {
+                "source": "運命のＳＯＳ",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「そんなに急いでどこへ行くのこれ、お前には心配もなにもなくていいね」　こう言って弥生が往手をふさぐと、蜘蛛はすこしためらったのち、すぐ右へ抜けようとする。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "乾雲坤竜の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ち・ち・ち・ち――と手のなかの土耳古銀を鳴らして往手に立ち塞がる両替屋の群、掴み掛るように乗用を促す馬車屋の一隊、それらを撃退して市街へ出ると、町角、店先、往来のいたるところに同じ船の連中が三々伍々している。",
+              "citation": {
+                "source": "踊る地平線",
+                "author": "海のモザイク",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "往手は枯枝や、蜘蛛の巣、それに足許に竹の切口や、木の株や、凹みなどもあって、危ない。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "恐山の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "松並木になって、左右が畷に続いている札場のところまで来て、「ああ、怖――」と、殿として後ろにやや離れていたお角さんを別にして、一行の者が往手をのぞんで立ちすくんでしまいました。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "恐山の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その時、往手の林の中から、いかにもあわただしく転がり出して、こけつまろびつ、こちらへ向って走り来る二つの物体がありました。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "胆吹の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "往手にあたって黒い大きな門が見える。",
+              "citation": {
+                "source": "白峰の麓",
+                "author": "大下藤次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "農夫が山奥の焼畑へ通うための、一筋の道を暫くゆくと、西岸の山が急に折曲って、日を背にしたため、深い深い紫色に見える、その前を往手にあたって、数株の落葉松の若木が、真に燃え立つような、強い明るいオレンジ色をして矗々と立っている。",
+              "citation": {
+                "source": "白峰の麓",
+                "author": "大下藤次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "熊笹を分けて一筋道をゆくと、往手に新しい家が見える、飴の茶屋というのはこれであろう。",
+              "citation": {
+                "source": "白峰の麓",
+                "author": "大下藤次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 17
+      }
+    }
+  }
+]

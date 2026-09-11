@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "f5430275-d1a9-58cd-adbb-c374d09247f6",
+    "entry": "翊",
+    "reading": {
+      "primary": "翊",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "東晉時代に出た謝混が、その父兄の讎に當る張猛を殺して、その肝を食つたことが、『晉書』卷七十九の謝母翊を殺して、その肝を食つたことが、『十六國春秋』卷九十七の北涼録四の馬權傳に見えて居る。",
+              "citation": {
+                "source": "支那人間に於ける食人肉の風習",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孫権の弟、孫翊は、丹陽の太守となって、任地へ赴いた。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なにしろ、まだ若い上に、孫翊の性格は、短気で激越だった。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、孫翊は、若年ながら大剛の傑物である。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すぐ、許しが出たので、※覧はひそかに、孫翊の大将｜辺洪という者を同志に抱きこんで、県令や諸将に、評議の招きを発した。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孫翊も、もちろん欠かせない会合であるから、時刻がくると、身仕度して、「じゃあ、行ってくるぞ」と、妻の室へ声をかけた。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれど孫翊は、「ばかをいえ、男同士の会合に、そうは行かないよ。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大酒家の孫翊は、蹌踉と、門外へ出てきた。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かねてしめし合わせていた辺洪は、ふいに躍りかかって、孫翊を一太刀に斬り殺してしまった。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一方、孫翊の妻の徐氏は、良人の帰りがおそいので、「もしや、易に現れたように、何か凶事があったのではないか」　と、自分の卜が的中しないことを今はしきりに祷っていた。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あなたの良人｜孫翊は、こよい部下の辺洪のため、会館の門外で斬り殺された。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「もちろん、俺の妻になれというのにきまっている」「いいえ、良人の孫翊を殺させた張本人は」「げっ？",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……けれど、長男の孫策も若死してしまい、三男の孫翊も先頃横死してしもうた。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "周瑜は、それを聞いて、「どうだ、おれの計略は、名人が弓を引いて、翊ける鳥を射的てたようにあたったろうが」　と、魯粛へ誇った。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 16
+      }
+    }
+  }
+]

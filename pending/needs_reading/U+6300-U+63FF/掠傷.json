@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "6191166d-2d62-563d-8785-118c21ed9f6a",
+    "entry": "掠傷",
+    "reading": {
+      "primary": "掠傷",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "掠傷でも負わすものあらば、運命と諦めて生命を呉れる。",
+              "citation": {
+                "source": "赤格子九郎右衛門",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "南蛮｜頬といっている葡萄牙渡来の鉄の面甲には、悪魔、鬼、獅子、狼、鷲など、いろいろの型があり、矢弾の掠傷から面部を保護するための武具だが、いつもその目的のためばかりに使われるとはかぎらない。",
+              "citation": {
+                "source": "うすゆき抄",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "気の毒にも高木はいくつ掠傷をこしらえたか知れない。",
+              "citation": {
+                "source": "湖畔",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

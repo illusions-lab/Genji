@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "a7e3187c-b01b-5c2c-8872-9f23721a22ba",
+    "entry": "魅着",
+    "reading": {
+      "primary": "魅着",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "とにかく、父や自分の仇敵である都会文化の猛威に対して、少しも復讐の気持が起らず、かえって、その逞ましさに慄えて魅着する自分は、ひょっとして、大変な錯倒症の不良｜娘なのではあるまいか。",
+              "citation": {
+                "source": "渾沌未分",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "都会の空気に憧憬れる彼女等はスマートな都会青年の代表のように復一に魅着の眼を向けた。",
+              "citation": {
+                "source": "金魚撩乱",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "真実の美と嘆きと善良さに心身を徹して行かなければいられない者が、魅着し憑かれずにはいられない巴里――だが、そこからは必ずしも通俗的な獲物は取り出せないのだ。",
+              "citation": {
+                "source": "母子叙情",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "家というものを護らせられるように出来ている女の本能、老後の頼りを想う女の本能、そういうものが後先の力となって、自分で生むと生まないとに係らず、女が男の子というものに対する魅着は、第一義的の力であるのであろう。",
+              "citation": {
+                "source": "河明り",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの女の身として命に替えても魅着したがる愛しみを受ける可憐なところの性質さえも私は消してしまって、私は私の理想する通りの強くも秀でゝ、そして健康と自覚する女に私自身を改造しました。",
+              "citation": {
+                "source": "生々流転",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それがどうでしょうか、山上で安宅先生が、この男には何の魅着もなく、却って先生が悩まれた魅着の相手はわたくしであると聞かされたたった一言によって、わたくしは忽ちすーっと気を良くしてしまいました。",
+              "citation": {
+                "source": "生々流転",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「城」という言葉に魅着して本気で訪ねて来る連中がかなりある。",
+              "citation": {
+                "source": "バットクラス",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その点では女性が魅着するに何処といって非の打ち処はない。",
+              "citation": {
+                "source": "宝永噴火",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして肉体の苦しみということを一方では厭い乍らまた一方では不思議な魅着を覚える。",
+              "citation": {
+                "source": "宝永噴火",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "子ども等はその番人の派手で古風な制服に魅着してついて歩く。",
+              "citation": {
+                "source": "食魔に贈る",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

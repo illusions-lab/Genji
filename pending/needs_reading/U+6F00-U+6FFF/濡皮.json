@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "3cc77d4e-63ca-558f-bee5-5acaf8ebedd8",
+    "entry": "濡皮",
+    "reading": {
+      "primary": "濡皮",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――李、今度は、濡皮鞭だ、濡皮鞭を持って来い！",
+              "citation": {
+                "source": "武装せる市街",
+                "author": "黒島傳治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "工人達は、小山の骨ばった手に握られた濡皮鞭を見て、裸体にひンむかれて、筋肉がぼろぼろにちぎれるほどしぶきをあげられる、場面を眼の裏に描いた。",
+              "citation": {
+                "source": "武装せる市街",
+                "author": "黒島傳治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "濡皮鞭が、物体に巻きついた。",
+              "citation": {
+                "source": "武装せる市街",
+                "author": "黒島傳治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "濡皮鞭を持った小山の骨ばかりの手は、たくましい兵士の腕で、さかさまに、ねじ曲げられた。",
+              "citation": {
+                "source": "武装せる市街",
+                "author": "黒島傳治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

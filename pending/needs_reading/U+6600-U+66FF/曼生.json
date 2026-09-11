@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "09a9b2d5-9b99-5c4d-9c76-31e28107866b",
+    "entry": "曼生",
+    "reading": {
+      "primary": "曼生",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一琴一研高士尚志携琴登山滌研曲水吉金樂石興味何如竝置芸※聊以自娯丙子冬日琴生仁兄大人正曼生刻と細字で刻せられてゐる。",
+              "citation": {
+                "source": "我思古人",
+                "author": "堀辰雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これも確か明末の陳曼生といふ詩人の作――何も私がこんどの本にこんな風雅な印を用ひたのは深い意味があるわけではない。",
+              "citation": {
+                "source": "我思古人",
+                "author": "堀辰雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次に、陳曼生といふ人は、清の嘉慶の頃の文人である。",
+              "citation": {
+                "source": "我思古人",
+                "author": "堀辰雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "茶も嗜んで、みづから茶器などをつくつたが、いまもそれは「曼生壺」と稱されて、賞玩されてゐるさうだ。",
+              "citation": {
+                "source": "我思古人",
+                "author": "堀辰雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

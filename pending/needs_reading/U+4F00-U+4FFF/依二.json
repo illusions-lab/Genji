@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "d92a46de-432d-5367-ae3a-b16a7ae486e0",
+    "entry": "依二",
+    "reading": {
+      "primary": "依二",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "三七　処分可レ依二腕力一　「古事談」に次の如き一奇話が載せてある。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "衆弟子、その遺書に基づいて分配をなさんものと、打寄ってこれを開き見れば、定めて数箇条の定め書と思いの外、処分可レ依二腕力一の六字を見るのみであった。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十二月十日に白書院で開いた閣老の会議では、酒井｜讃岐守忠勝が浪人江戸払のことを発議し、阿部豊後守忠秋の反対論でその詮議は熄んだが、その翌日に養子法改正に関する法令を発し、五十歳以下の者の末期養子は「依二其筋目一」または「依二其品一」これを許し、跡式を立てしめることとした。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "とにかく、慶安以後の法令には「依二其筋目一」とか「依二其品一」とか「吟味之上」とかいう語があって、絶対の禁を弛べたのみならず、その実これを許さなかった例は極めて稀であったのである。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "d04bf479-887a-513d-a22c-037cc12dbe5e",
+    "entry": "蔽布",
+    "reading": {
+      "primary": "蔽布",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "と、忽ち血みどろになって大牛の死骸が投げ出され、騎士と牛の闘争が終ると、左手に赤い蔽布をひるがえし、右手に尖剣をきらめかした闘牛士が徒歩で牛と立向い、古武士的な闘牛士の動作を観衆は讚美熱狂するのです。",
+              "citation": {
+                "source": "バルザックの寝巻姿",
+                "author": "吉行エイスケ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この劇では、黒布で蔽われたシーザーの棺桶は、講堂の入口から、壇の下まで搬ばれる、そこにはアントニオ役の前田マサ子が立っていて、そこで棺の蔽布が除かれ、中からシーザーの死骸があらわれる、それを前にして有名なるアントニオの熱弁が始まるという順序になっていた。",
+              "citation": {
+                "source": "棺桶の花嫁",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――　講堂入口の、生徒用長椅子の並んだ蔭に、空虚の棺桶は下ろされ、黒い蔽布が取りさられた。",
+              "citation": {
+                "source": "棺桶の花嫁",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "箆台も針箱もきちんと壁際に片附けられ、蔽布を掛けたミシンの上にはまだ蕾の固い紅梅が一枝。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "uuid": "6ec48b4d-e4a8-5bfb-8afc-3f5a15e4a56a",
+    "entry": "鋳懸",
+    "reading": {
+      "primary": "い懸",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "茎立ちをクモジといった類とも考えられるが、イモジは古くは鋳懸屋のことであった。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "副将軍の薩摩守忠度は紺地の錦の直垂に、黒糸縅の鎧、逞しき黒馬に鋳懸地の鞍置いて打ちまたがった威風あたりを払う姿は、都でも大層な見物という評判であった。",
+              "citation": {
+                "source": "現代語訳　平家物語",
+                "author": "第五巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "莖立ちをクモジと謂つた類とも考へられるが、イモジは古くは鑄懸屋のことであつた。",
+              "citation": {
+                "source": "食料名彙",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "鑄懸"
+      ],
+      "needs_reading": true
+    }
+  }
+]

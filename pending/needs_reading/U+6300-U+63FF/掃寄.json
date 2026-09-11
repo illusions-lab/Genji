@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "cbfe87b5-0683-580f-9163-431860a6e565",
+    "entry": "掃寄",
+    "reading": {
+      "primary": "掃寄",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "あくる日、町の角々に雪達磨ができ、掃寄せられた雪が山をなしたが、間もなく、その雪だるまも、その山も、次第に解けて次第に小さく、遂に跡かたもなく、道はすっかり乾いて、もとのように砂ほこりが川風に立迷うようになった。",
+              "citation": {
+                "source": "雪の日",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あくる日、町の角々に雪達磨ができ、掃寄せられた雪が山をなしたが、間もなく、その雪だるまも、その山も、次第に解けて次第に小さく、遂に跡かたもなく、道はすつかり乾いて、もとのやうに砂ほこりが川風に立迷ふやうになつた。",
+              "citation": {
+                "source": "雪の日",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "台所の窓の下に、いかなる木、いかなる草の芽ばえともわからぬものが二、三本、芥を掃寄せた湿った土の中から生えているのを見た。",
+              "citation": {
+                "source": "枇杷の花",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「埃に日のさす」という言葉から見ると、一隅に掃寄せられたごみに日が当るという意味に解せられぬこともないが、それでは趣が少い。",
+              "citation": {
+                "source": "古句を観る",
+                "author": "柴田宵曲",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

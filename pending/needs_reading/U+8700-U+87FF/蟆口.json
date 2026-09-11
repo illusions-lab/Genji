@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "a3cca65b-a5bc-5715-a109-0a84318cd225",
+    "entry": "蟆口",
+    "reading": {
+      "primary": "蟆口",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "折れたか、と吃驚して、拾い直して、密と机に乗せた時、いささか、蝦蟆口の、これで復讎が出来たらしく、大に男性の意気を発して、（どうするものか！",
+              "citation": {
+                "source": "星女郎",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　それで相談が纒ツて、由三は殆ど蟆口の底をはたいて昔の女の肖像畫を購取ツた。",
+              "citation": {
+                "source": "昔の女",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それでも勘定だけはしておかうと思つて、女中を呼んで払ひのために懐中物を出しにかゝつた時、勃凸も気がついたやうに蟆口を取り出した。",
+              "citation": {
+                "source": "骨",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "勃凸は耳もかさずに蟆口をひねり開けて、半紙の切れ端に包んだ小さなものを取り出した。",
+              "citation": {
+                "source": "骨",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "勃凸はやがてまたそれを蟆口の中にはふり込んだ。",
+              "citation": {
+                "source": "骨",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ほれ、これ見れ」　といひながら皆の見てゐる前で蟆口から五円札の何枚かを取り出して見せてゐたが、急に顔色をかへて、慌てゝ蟆口から根こそぎ中のものを取り出して、「あれつ」　といふと立ち上つた。",
+              "citation": {
+                "source": "骨",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「どうぞよろしく」　勃凸はそれを取り上げると蟆口の底の方に押し込んだ。",
+              "citation": {
+                "source": "骨",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おんつぁん、俺この方が似合ふべ、なあ」　と呼びながら、蟆口を懐に抛りこんでその上を平手で軽くたゝいた。",
+              "citation": {
+                "source": "骨",
+                "author": "有島武郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

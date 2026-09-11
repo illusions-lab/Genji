@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "9afac091-458b-55fd-832f-b94117804270",
+    "entry": "癈頽",
+    "reading": {
+      "primary": "癈頽",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "家は以前から見ると、づツと癈頽して、今にも倒れるかと思はれるやうに傾いてゐた。",
+              "citation": {
+                "source": "昔の女",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秋が深くなるにつれて、父の衰弱も目に立ツたが、一家の癈頽も目に立ツて、綾さんはせツせと工場に通ひ出した。",
+              "citation": {
+                "source": "昔の女",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "埃深い癈頽の氣の漂ツた家に歸ると、何時でもドン底に落込むだやうな感じがする……其の感じが嫌だ！",
+              "citation": {
+                "source": "昔の女",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "微暗い火影は沈靜な……といふよりは停滞した空氣に漂ツて、癈頽した家のボロを照らした。",
+              "citation": {
+                "source": "昔の女",
+                "author": "三島霜川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ともかくも日本妖怪の味は概して、生々とした、病的感、癈頽した生きものの感じを持つ、或るものは癩病を思い出すように鼻などがなくつるりとしている。",
+              "citation": {
+                "source": "ばけものばなし",
+                "author": "岸田劉生",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朝から晩迄踊り続けると云ふ様な、人間の癈頽した状況が相当にあるのです。",
+              "citation": {
+                "source": "最近欧米に於ける財政経済事情",
+                "author": "井上準之助",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

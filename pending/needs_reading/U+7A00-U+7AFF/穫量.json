@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "ac6bf017-25d3-5d5e-b117-23f276de64c2",
+    "entry": "穫量",
+    "reading": {
+      "primary": "穫量",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "收穫量も多いし、強健でもある。",
+              "citation": {
+                "source": "東旭川村にて",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ふと彼はどつちかが思ひ違ひしてゐるのではないかと思つて一石といふのはやはり一段歩の全收穫量なのかと訊ねてみた。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、それにしてもやはり彼には分らず、一段歩に二俵半といふ異常に少い全收穫量もさることながら、年貢が全收穫量よりも多いといふことは一體どういふことなのか、どうしてさういふことがそもそも可能なのか、考へがつかなかつた。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "小作料が何に基づいてきめられ、どのやうにして今の平均に落ち着いてゐるかについては色々説明もされるでせうが、何れにしたつて全體の收穫量が根本の基準でせう。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "全收穫量がこれこれだから、その何割を地主、何割を小作、といふ風に分けてるんでせう。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さうでなくちや兩方が立つて行かんのだから……全收穫量より多い小作料なんて聞いたことも見たこともありやしない、徳川時代だつて、五公五民とか七公三民とか云つたんですからね。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼等と異なる所はただ、收穫の半ばを小作料として持つて行くのではなしに、全收穫量をそのまま運ぶといふことであつた。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今日の社會の通念でも、また農村の實情でも、收穫量の半ばの小作料が先づ普通といふことになつてゐる。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "收穫量を標準にすれば少しも驚くことはない。",
+              "citation": {
+                "source": "續生活の探求",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "區長さんは少年の日から島中の椿の實の收穫量を樹毎に就いて暗記してゐるのです。",
+              "citation": {
+                "source": "初島紀行",
+                "author": "與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（一四八）地代騰貴のもう一つの原因は、マルサス氏によれば、『一定の収穫量を生産するに必要な労働者の数を減少する如き農業上の改良または努力の増加』である。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "農民の運河工事費負担は、毎年収穫量の百分の一を、五十年納めればすむ。",
+              "citation": {
+                "source": "北海道開発に消えた八百億円",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

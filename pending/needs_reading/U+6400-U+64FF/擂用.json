@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "e05c395f-0117-5cad-9b86-3e32ba4f2a2a",
+    "entry": "擂用",
+    "reading": {
+      "primary": "擂用",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――それに味噌擂用人でも何でも武士たる者が、正面から曲者に咽喉を刺されるという間抜けな法があるものか。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "第廿七吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――もっとも証拠はみんな親分の智恵の受売りだがそれでも味噌擂用人をギューッと参らせたことは確かで」「フーム」　平次もだいぶおもしろくなった様子です。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "駕籠の行方",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "憚りながら――」「まあいい、今度はピカリと来ても、逃げ出さないようにしてくれ」「あれは、不意だから驚いたんで、覚悟さえ決めてかかれば、味噌擂用人なんかに脅かされるものですか」「その気でやってくれ。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "駕籠の行方",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "御用人の川前さんは、酒屋の伜の死んだのはどうでも宜いが、お鏡やお墨附を搜してくれと、そればかり言つて居たよ」「呆れた味噌擂用人ですね」「ところで、こいつは飛んだ奧行が深いよ。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "美女罪あり",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの味噌擂用人なんか、何處かの縁の下に劫を經た、蟇の精か何んかに違げえねえと思ふんだが」　八五郎はそんな氣樂なことを言つて彈んだやうに飛び出してしまひました。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "美女罪あり",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

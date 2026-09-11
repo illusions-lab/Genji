@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "b5d86c74-1c8c-543d-a577-670ce3288b57",
+    "entry": "刎返",
+    "reading": {
+      "primary": "刎返",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "め組が刎返した流汁の溝溜もこれがために水澄んで、霞をかけたる蒼空が、底美しく映るばかり。",
+              "citation": {
+                "source": "婦系図",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "押して出ると、不意に凄い音で刎返した。",
+              "citation": {
+                "source": "鷭狩",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と云うと刎返って、道ならものの小半町、膝と踵で、抜いた腰を引摺るように、その癖、怪飛んで遁げて来る。",
+              "citation": {
+                "source": "草迷宮",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "※と眞黄色な目を光らしたが、ギヤツと啼いて、ひたりと欄干を下へ刎返る、と橋を傳つて礫の走つた宿の中へ隱れたのである。",
+              "citation": {
+                "source": "二た面",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……扉を後ざまに突放せば、ここが当｜館の関門、来診者の出入口で、建附に気を注けてあるそうで、刎返って、ズーンと閉る。",
+              "citation": {
+                "source": "沼夫人",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "相手が上にのし掛ったのを、又兵衛素早く腰刀を抜いて、二刀まで刺して刎返したので、流石の剛の者も参って仕舞った。",
+              "citation": {
+                "source": "長篠合戦",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何故に以前藩に対してあれほど卑劣な男が後に至ては折角呉れようと云う扶持方をも一酷に辞退したか、辞退しなくっても世間に笑う者もないのに、打て変た人物になって、この間まで丸で朝鮮人見たような奴が、恐ろしい権幕を以て呉れる物を刎返して、伯夷、叔斉のような高潔の士人に変化したとは、何と激変ではあるまいか。",
+              "citation": {
+                "source": "福翁自伝",
+                "author": "福翁自伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）と菊弥は、抑え付けられた下から刎返そう刎返そうと※きながら、（烈士、別木荘左衛門の一味、梶内蔵丞の娘の自分が、こんな盗賊に！",
+              "citation": {
+                "source": "鸚鵡蔵代首伝説",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "足で床を蹴り、手を突張り、刎返そう刎返そうと反抗った。",
+              "citation": {
+                "source": "鸚鵡蔵代首伝説",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、その眼が俊助の冷やかな視線に刎返されると、彼は急に悪びれない態度で、「そうか。",
+              "citation": {
+                "source": "路上",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "折々ぴしりぴしりと生木の刎返る音がして、その毎に赤い火花が散った。",
+              "citation": {
+                "source": "捕われ人",
+                "author": "小川未明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（半ば刎返し）いけねえいけねえ、ここへ来ちゃあいけねえ。",
+              "citation": {
+                "source": "中山七里　二幕五場",
+                "author": "長谷川伸",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 15
+      }
+    }
+  }
+]

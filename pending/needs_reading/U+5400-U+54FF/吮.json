@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "2abcb363-5338-5f34-a6e3-4027f7e52c37",
+    "entry": "吮",
+    "reading": {
+      "primary": "吮",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "第六　如是縁上　種子一粒が雨露に養わる　自分｜妾狂しながら息子の傾城買を責る人心、あさましき中にも道理ありて、七の所業｜誰憎まぬ者なければ、酒｜呑で居ても彼奴娘の血を吮うて居るわと蔭言され、流石の奸物も此処面白からず、荒屋一トつ遺して米塩買懸りの云訳を家主亀屋に迷惑がらせ何処ともなく去りける。",
+              "citation": {
+                "source": "風流仏",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "頭を二つばかり撲れた」　手の甲の血を吮ひつつ富山は不快なる面色して設の席に着きぬ。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これを笑ふけれど、遊佐の如きは真面目で孝経を読んでゐるのだよ、既に借りてさ、天引四割と吃つて一月｜隔に血を吮れる。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　貫一は唯胸も張裂けぬ可く覚えて、言は出でず、抱き緊めたる宮が顔をば紛り下つる熱湯の涙に浸して、その冷たき唇を貪り吮ひぬ。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この草の葉に虎皮同様の条紋ありその条紋を擬して術士の身に描く、セマン人言う藪中に多き木蛭が人の血を吮るを引き離し小舎外で焼くと虎血の焦げる臭いを知って必ず急ぎ来る。",
+              "citation": {
+                "source": "十二支考",
+                "author": "虎に関する史話と伝説民俗",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蛭が尻っぺたに吮い附いて楽んでいるうちに、あいつは悪魔の祟も智恵の病も直るのです。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "起爲めに（七二）之を吮ふ。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "孫子呉起列傳第五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人曰く、『子は卒にして將軍自ら其疽を吮ふ。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "孫子呉起列傳第五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "往年、呉公、其父を吮ふ。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "孫子呉起列傳第五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "呉公、今又其子を吮ふ。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "孫子呉起列傳第五",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

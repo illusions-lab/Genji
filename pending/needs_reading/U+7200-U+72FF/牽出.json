@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "a22f8955-dff6-5ef7-bc0d-31107fd3dfe3",
+    "entry": "牽出",
+    "reading": {
+      "primary": "牽出",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この島山に住む人は、山のわたくし同様、驚異でいのちに傷目をつけられ、美しさにいのちの芽を牽出され、苦悩に扱かれて、希望へと伸び上がらせられなければならない。",
+              "citation": {
+                "source": "富士",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自分はまず黒白斑の牛と赤牛との二頭を牽出す。",
+              "citation": {
+                "source": "水害雑録",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自分は先づ黒白斑の牛と赤牛との二頭を牽出す。",
+              "citation": {
+                "source": "水害雜録",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼是空しく時間を送つた爲に、日の暮れない内に二回牽く積であつたのが、一回牽出さない内に暮れかゝつて終つた。",
+              "citation": {
+                "source": "水害雜録",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "假に此の如き心理作用が意識の奧に働いてゐたとしても、大將は之を意識の明るみに牽出して自ら解剖する樣な必要は寸毫も感じなかつたであらう。",
+              "citation": {
+                "source": "三太郎の日記　第一",
+                "author": "阿部次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "暫時して一緒に散歩しようと云ふ段になつて、自分は着物を着換へて机の牽出しから時計を取り出すと、芥川は「オイ、ちよつと／＼」　と、多少わざとらしい頓狂な声で笑ひ乍ら手を差出した。",
+              "citation": {
+                "source": "芥川龍之介を憶ふ",
+                "author": "佐藤春夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

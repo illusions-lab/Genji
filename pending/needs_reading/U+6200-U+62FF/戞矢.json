@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "36e68ddb-77e9-5027-9af1-d62cabb28ee2",
+    "entry": "戞矢",
+    "reading": {
+      "primary": "戞矢",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "腕におぼえの直江志津を抜き放ち、眼の前なる青竹の矢来を戞矢々々と斬り払ひて警固のたゞ中に躍り込み、「初花の怨み。",
+              "citation": {
+                "source": "白くれない",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これ見よやつ」　と叫ぶとひとしく名作、直江志津の大小の斬れ味鮮やかに、群がり立つたる槍襖を戞矢々々と斬り払ひ、手向ふ捕手役人を当るに任せて擲り斬り、或は海へ逐ひ込み、又は竹｜矢来へ突込みつゝ、海水を朱に染めて闘へば、四面数万の見物人は鯨波を作つて動揺めき渡る。",
+              "citation": {
+                "source": "白くれない",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

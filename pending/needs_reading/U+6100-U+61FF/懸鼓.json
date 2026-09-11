@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "097df71f-3dd4-5205-afe1-682c1ec0b933",
+    "entry": "懸鼓",
+    "reading": {
+      "primary": "懸鼓",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "日想觀において觀じ得た如來の姿を描くとすれば、西方海中に沒しようとする懸鼓の如き日輪を、心にして寫し出す外はない。",
+              "citation": {
+                "source": "山越しの彌陀",
+                "author": "釈迢空",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日想観において観じ得た如来の姿を描くとすれば、西方海中に没しようとする懸鼓の如き日輪を、心にして写し出す外はない。",
+              "citation": {
+                "source": "山越しの阿弥陀像の画因",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

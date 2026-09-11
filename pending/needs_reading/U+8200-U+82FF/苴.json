@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "881a5214-5986-5750-b847-0e4066e519f4",
+    "entry": "苴",
+    "reading": {
+      "primary": "苴",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その折には苞苴もてゆくことなるが、そはをぢが嗜めるおほ房の葡萄二つ三つか、さらずば砂糖につけたる林檎なんどなりき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鰐口は固より好かれようとしたとて好かれもすまいが、女を土苴の如くに視ている。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "帰途医科大学の前へ出るまでに納豆の苞苴のようなものを提げて行く人達を幾度も見かけた。",
+              "citation": {
+                "source": "ぐうたら道中記",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "-------------------------------------------------------箭内亙による譯司馬穰苴は田完の（一）苗裔也。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "司馬穰苴列傳第四",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "晏嬰乃ち田穰苴を薦めて曰く、『穰苴は田氏の（四）庶馬の左驂とを斬り、以て三｜軍に徇ふ。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "司馬穰苴列傳第四",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "既にして穰苴を見、尊んで大司馬と爲す。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "司馬穰苴列傳第四",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "齊の威王、大夫をして古者の司馬の兵法を（三五）追論せしめ、而して穰苴（ノ兵法）を其中に附け、因つて號して司馬穰苴の兵法と曰ふ。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "司馬穰苴列傳第四",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夫の穰苴の區區として小國の爲めに師を行るが若き、何ぞ司馬の兵法の（三九）揖讓に及ぶに暇あらんや。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "司馬穰苴列傳第四",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "世既に司馬の兵法多し、故を以て論ぜず、穰苴の列傳を著す。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "司馬穰苴列傳第四",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "因號曰司馬穰苴兵法。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "司馬穰苴列傳第四",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若夫穰苴區區爲小國行師。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "司馬穰苴列傳第四",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

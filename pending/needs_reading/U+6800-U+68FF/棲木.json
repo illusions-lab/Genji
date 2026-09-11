@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "f3163176-a1ac-5a6f-acc5-86b1e34994b2",
+    "entry": "棲木",
+    "reading": {
+      "primary": "棲木",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "第二十七章　「八銀貨」　船が傾いているために、檣はずっと遠く水の上へ突き出ていて、檣頭横桁の私の棲木の下には、湾の水面の他に何もなかった。",
+              "citation": {
+                "source": "宝島",
+                "author": "宝島",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "錦の小禽その棲木に居眠れば池の底には黄金の魚のひらめきて噴水のほとばしり切々として囁きたり。",
+              "citation": {
+                "source": "珊瑚集",
+                "author": "仏蘭西近代抒情詩選",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……　レオンハルトは今や※々として、自分の聖なる棲木の上から見おろした世界の美と調和とを述べたてていた。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その小鳥は、翼の下に頭をつっ込み、棲木の上に丸くなりながら、光の中に狂おしく飛び出すことを夢想してみずから慰めていた。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN-CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "皿を、もうすこしで手の届く場所まで差出してからかうと、彼等は私に向って眉をひそめ怖しい顔をし、棲木の上でピョンピョン跳ね、ドンドン足踏みをして、その場所の軽い木の建造物を文字通りゆすぶる。",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

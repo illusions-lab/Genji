@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "b83f79e0-14a5-52c6-8efb-79b174266a58",
+    "entry": "謬忌",
+    "reading": {
+      "primary": "謬忌",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "謬忌といふものは泰一をかつぎ出した。",
+              "citation": {
+                "source": "道教に就いて",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "泰一は謬忌から稱道されたと史上に明記されてゐるが、謬忌が突然として秦一神を稱へても、恐らくは其前から何か存在してゐて其主張の依據を爲すものが有つたのでなくては一世に認めらるゝには至るまいから、今日其考證は明白を得難くても、謬忌以前に泰一若くは泰一の如きものは夙くから存してゐたらしい。",
+              "citation": {
+                "source": "道教に就いて",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "後に至つて武帝の病んで甚しかりし時、游水發根といふものが申立てより現はれ來つた壽宮の神君の最も貴き者を太一といひ、其佐を太禁と曰ひ、司命の屬は皆之に從ふとされたが、其太一と謬忌の言から現はれて來た泰一とは、異なつたものでも有るやうだし、又同じものでも有るやうである。",
+              "citation": {
+                "source": "道教に就いて",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "泰一は謬忌より出で、長安城東南部に祠られ、太一は游水發根より出で、甘泉宮に祠られたものであるから、明らかに相異なつたものではあり、又泰一は其聲を聞くべきほど人に近いものではなく、太一は巫に因るとはいへ飮食に關することまで言ふほど非高貴のものであるから、二者の相異は認めぬ譯にはゆかぬ。",
+              "citation": {
+                "source": "道教に就いて",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "傳説は多く無智識者の玩物であるから、道ふに足るものではないが、其傳説を味はふと、其老人が謬忌の所謂太一ではないやうにも思はれるが、星の太一ではあるやうにも思はれる。",
+              "citation": {
+                "source": "道教に就いて",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "泰壱は漢の武帝の時に、済陰の謬忌が奏して祠らんことをいい出したもので、天神の最も尊いものとされている。",
+              "citation": {
+                "source": "古代東洋への郷愁",
+                "author": "――『仙書参同契』の解説――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "823715ad-7b45-5116-b528-454dbb306d5f",
+    "entry": "川々",
+    "reading": {
+      "primary": "川々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この氷河が消失して、従って新疆地方に灌漑する川々の水量が少なくなり、そのために土壌がかわき上がって今のような不毛の地になったらしい。",
+              "citation": {
+                "source": "ロプ・ノールその他",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伊豆の大瀬崎と、狩野川々口以東の海岸の圍み合ふ入江は二三里ほどの奥まりを持つて居る。",
+              "citation": {
+                "source": "樹木とその葉",
+                "author": "駿河灣一帶の風光",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やがて風が出て霧がちぎれ初めると紫色に染みながら、団々として飛んで行き、麓にひろがる三次平野や、めぐり流れる川々のパノラマが剥げ展がって行く。",
+              "citation": {
+                "source": "光り合ういのち",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのうちに一天にわかに掻き曇ってきて風雨となり大洪水を起こして川々のサケ場も破れたが、一夜またその川口の片岸浜に突如として一の奇巌が現われた。",
+              "citation": {
+                "source": "東奥異聞",
+                "author": "佐々木喜善",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところがその年の秋の出水に、あたりの川々が氾濫して川口の町の大橋が毀れ落ちてしまいました。",
+              "citation": {
+                "source": "東奥異聞",
+                "author": "佐々木喜善",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "川の埋り方も、他の利根川や鬼怒川北上川と云ふ川の埋り方と違つて、故らに土砂を流す仕懸になつて居りますから、川底が他の川々よりも急に高くなる。",
+              "citation": {
+                "source": "公益に有害の鑛業を停止せざる儀に付質問書",
+                "author": "田中正造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東海道の川々、大抵は舟渡しで、大井川と酒匂川だけは特別に台輿または肩クマで渡した。",
+              "citation": {
+                "source": "鳴雪自叙伝",
+                "author": "内藤鳴雪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "多くの平野の川々では、やがて復禁りょうの時期に入ろうとして居るのに、山の中ではまだ鮎が小さ過ぎると言って居る。",
+              "citation": {
+                "source": "山の湯雑記",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我国に大小の川々｜幾流もあるなかに、此｜渋海川にのみかぎりて毎年たがはず此事あるも奇とすべし。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あか川の事はこゝにいはず、千曲川一名を信濃川ともいふ、隈の字をも用ふ千曲川の水源は信濃越後飛騨の大小の川々あまた流れ併て此大河をなす也。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

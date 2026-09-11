@@ -1,0 +1,159 @@
+[
+  {
+    "uuid": "ee25b3ab-7520-5acd-a1a2-70f3b776d9d3",
+    "entry": "斐嫗",
+    "reading": {
+      "primary": "斐嫗",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "時々伺ひに出る中臣志斐嫗・三上水凝刀自女なども、來る毎、目を見合せて、ほうつとした顏をする。",
+              "citation": {
+                "source": "死者の書",
+                "author": "釋迢空",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "志斐嫗の負け色を救ふ爲に、身狹乳母も口を※む。",
+              "citation": {
+                "source": "死者の書",
+                "author": "釋迢空",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "志斐嫗の負け色を救ふ爲に、身狹乳母も口を插む。",
+              "citation": {
+                "source": "死者の書",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "時々伺ひに出る中臣｜志斐嫗・三上水凝刀自女なども、来る毎に顔見合せてほつとした顔をする。",
+              "citation": {
+                "source": "死者の書",
+                "author": "――初稿版――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "時々伺ひに出る中臣志斐嫗・三上水凝刀自女なども、来る毎、目を見合せて、ほうつとした顔をする。",
+              "citation": {
+                "source": "死者の書",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "志斐嫗の負け色を救ふ為に、身狭乳母も口を※む。",
+              "citation": {
+                "source": "死者の書",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "時々伺いに出る中臣志斐嫗・三上水凝刀自女なども、来る毎、目を見合せて、ほうっとした顔をする。",
+              "citation": {
+                "source": "死者の書",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "志斐嫗の負け色を救う為に、身狭乳母も口を挿む。",
+              "citation": {
+                "source": "死者の書",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "持統天皇と問答した志斐嫗（万葉集巻三）は（しひに二流あるが）中臣の複姓の人に違ひはない。",
+              "citation": {
+                "source": "国文学の発生（第四稿）",
+                "author": "唱導的方面を中心として",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "六　巫女から女房へ天皇賜志斐嫗御歌一首不聴跡雖云、強流志斐能我強語　比者不聴而、朕恋爾家里志斐嫗奉和歌一首不聴雖謂、話礼話礼常詔許曾、志斐伊波奏。",
+              "citation": {
+                "source": "日本文学の発生",
+                "author": "――その基礎論――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此点から見ると、此章の初めに援用した女帝と志斐嫗とのかけあひの歌も、さうした女の、幼少から御成人後までおつきしてゐた事を示す様である。",
+              "citation": {
+                "source": "日本文学の発生",
+                "author": "――その基礎論――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○否といへど強ふる志斐のが強ひがたりこの頃聞かずてわれ恋ひにけり　〔巻三・二三六〕　持統天皇否といへど語れ語れと詔らせこそ志斐いは奏せ強語と詔る　〔巻三・二三七〕　志斐嫗　この二つは、持統天皇と志斐嫗との御問答歌である。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『万葉集』には志斐嫗というのが戯言で持統女帝の御相手を申しあげているが、そうした役の女房が後宮にも必要であった。",
+              "citation": {
+                "source": "中世の文学伝統",
+                "author": "風巻景次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 16
+      }
+    }
+  }
+]

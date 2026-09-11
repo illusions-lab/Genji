@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "23e74e08-6661-5d71-80ff-180ab7ed25af",
+    "entry": "売毘",
+    "reading": {
+      "primary": "うり毘",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "かれここにその姉は、いと醜きに因りて、見｜畏みて、返し送りたまひて、ただその弟木の花の佐久夜賣毘を留めて、一宿婚しつ。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "賣毘"
+      ],
+      "needs_reading": true
+    }
+  }
+]

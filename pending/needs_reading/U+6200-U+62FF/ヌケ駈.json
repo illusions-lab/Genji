@@ -1,0 +1,130 @@
+[
+  {
+    "uuid": "f418b65c-43f1-5c2f-b482-a101dce78916",
+    "entry": "抜駈",
+    "reading": {
+      "primary": "ぬけ駈",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "敵陣に飛び込んで討死をするのは立派ではあるが、軍令にそむいて抜駈けをして死んでは功にはならない。",
+              "citation": {
+                "source": "阿部一族",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "美妙は硯友社の一人であったが、抜駈の功名に逸って終に孤立してしまった。",
+              "citation": {
+                "source": "硯友社の勃興と道程",
+                "author": "――尾崎紅葉――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然るに『我楽多文庫』公刊｜匆々二人が忽ち手を別ってしまったはいわゆる両雄｜聯び立たずであって、陽には磊落らしく見えて実は極めて狭量な神経家たる紅葉は美妙が同人に抜駈けして一足飛びに名を成したのを余り快よく思わなかったらしい。",
+              "citation": {
+                "source": "美妙斎美妙",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もう一つは、これも経済更生で有名になつた村は、隣村と折合ひが悪く、それも、あまりに村の当局が実利的、打算的で友誼的な交渉が常に円滑を欠ぐためであり、必要な協力を拒み、抜駈けの功名をのみ事とする傾向が強いといふ。",
+              "citation": {
+                "source": "農村の文化について",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "では」　むしろその恬淡さに、重盛のほうが抜駈けされたような心地だった。",
+              "citation": {
+                "source": "源頼朝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "実は、彼としては、軍法を犯してまで黄忠を抜駈けしたものの、序戦には大敗を喫し、多くの兵を損じたので、（何か一手柄たてねば味方の者にあわせる顔もないが）と、独り焦躁していたところに敵の一大将を捕虜にしたのであるから、その満足感はなおさら大きかった。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "魏延は抜駈けのことだと察したので、「それがし、若輩のため、気のみはやって、時刻や進路をあやまり、自ら危地へ陥ったこと、面目もありません。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "マーキュ　彼奴めは怜悧者ぢゃ、一定とうに拔駈して、今頃は（家に）臥てゐるのであらう。",
+              "citation": {
+                "source": "ロミオとヂュリエット",
+                "author": "ROMEO AND JULIET",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "マーキュ　いや、こんな阿呆らしい拔駈の競爭は最早中止ぢゃ。",
+              "citation": {
+                "source": "ロミオとヂュリエット",
+                "author": "ROMEO AND JULIET",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      },
+      "variant_writings": [
+        "拔駈"
+      ],
+      "needs_reading": true
+    }
+  }
+]

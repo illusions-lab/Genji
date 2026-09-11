@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "fa52c207-c807-5bd3-bada-1f8e0508dfa8",
+    "entry": "如々",
+    "reading": {
+      "primary": "如々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "物事、道に中って行われるようになれば、差別も平等も自ずと退いて淡々如々たる位置を守らしめるだけであります。",
+              "citation": {
+                "source": "仏教人生読本",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如々としてそれ自ら治めるところの生命ばかりである。",
+              "citation": {
+                "source": "阿難と呪術師の娘",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "即時而真　当相即道生々如々春有百花秋有月夏有涼風冬有雪若無閑事挂心頭便是人間好時節　七月一日　曇、また降りだした。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "釣は逃避行の上々なるものだ、魚は釣れなくとも句は釣れる、句も釣れないでよい、一竿の風月は天地悠久の生々如々である、空、水、風、太陽、草木、そして土石、虫魚、……人間もその間に在つて無我無心となるのである。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ここで成る程と早くも膝を打たれる人はやがてこの「心」と「鼻」とが如何に密接な「表現の関係」を持っているかという事を、如々実々に了解されるお方であります。",
+              "citation": {
+                "source": "鼻の表現",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこが私の信仰の頂点になるわけでありますが、それからこんどひるがえって如来というものは、私自身の言葉で如々としてくるさまざまのものであります。",
+              "citation": {
+                "source": "生活と一枚の宗教",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そういうようにいたしまして、どんなものもあるがままのもの如々としてきたるもの、すなわち如来である。",
+              "citation": {
+                "source": "生活と一枚の宗教",
+                "author": "倉田百三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我輩も直覚論者であって、おおよそ宇宙間の事物は冷静静思すれば、如々の姿を心眼の上に現出するとは思っているけれども、しかし物に依っては左様のみは行かず、大いに史的研究を要するものもある。",
+              "citation": {
+                "source": "現代の婦人に告ぐ",
+                "author": "大隈重信",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

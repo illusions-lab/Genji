@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "365ccd07-cb78-5924-ba79-8d37c70962a1",
+    "entry": "蹈破",
+    "reading": {
+      "primary": "蹈破",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "両人して刀を以てさん／″＼に切破り、足にて蹈破りなどして町に出て見｜礼バ人壱人もなし。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応二年十二月四日　坂本権平、一同あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "緑葉森森五月天、鉄車暁発古城辺、従今深入瑞西地、蹈破千山万壑煙。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吾人は読んでここに至るごとにあたかも木曽山中の旅客が、尺幅の天を眺め、寂々たる一※千巌万壑のうちを蹈破し、初めて碓氷嶺上に至り、茫々たる八州の平原を望むがごとく、実にその快活を感ぜずんばあらず。",
+              "citation": {
+                "source": "将来の日本",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もしそれ彼の蜻※州の頭尾を蹈破して、天下を狭しとするの雄心を生じたるが如きは、活ける学問の学問たる所以と知らずや。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同人を連れて此辺の山や沢を縦横に蹈破したならば面白かろうと思う。",
+              "citation": {
+                "source": "秩父の奥山",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こう云う少年少女たちでさえ、神戸から此処までの距離を今迄の時間に蹈破することが出来たとすれば、当然夫や妹も疾うに戻っていなければならない筈であるのに、それが戻って来ないと云うのは、何かしら間違いがあったものと思わなければならない。",
+              "citation": {
+                "source": "細雪",
+                "author": "中巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

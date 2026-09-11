@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "16d15487-d460-57a1-a0f0-59ffa6938936",
+    "entry": "揺振",
+    "reading": {
+      "primary": "揺振",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「姐さん、姐さん、」　小声で呼んでみたが返事がないので、もしやともう耐らず、夜具の上から揺振りました。",
+              "citation": {
+                "source": "湯女の魂",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「森本さん、森本さん」と二三度呼んで見たが、なかなか動きそうにないので、さすがの敬太郎もむっとして、いきなり室に這入り込むや否や、森本の首筋を攫んで強く揺振った。",
+              "citation": {
+                "source": "彼岸過迄",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "梧桐の葉の朝夕風に揺ぐのが、肌に応えるように眼をひやひやと揺振った。",
+              "citation": {
+                "source": "行人",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "橋本と余はこう云う馬車の中で、こう云う路の上に揺振られべく旧市街から出立した。",
+              "citation": {
+                "source": "満韓ところどころ",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宗助は蒲団へ手を掛けて二三度軽く御米を揺振った。",
+              "citation": {
+                "source": "門",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、物凄い、慄然とするような物音を立てて、その鎖を揺振ったので、スクルージは気絶してはならないと、しっかりと椅子に獅噛み着いた。",
+              "citation": {
+                "source": "クリスマス・カロル",
+                "author": "A CHRISTMAS CAROL",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、その鎖を揺振って、その幻影のような両手を絞った。",
+              "citation": {
+                "source": "クリスマス・カロル",
+                "author": "A CHRISTMAS CAROL",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "靴の先から頭の頂辺まで、身体中揺振って笑った。",
+              "citation": {
+                "source": "クリスマス・カロル",
+                "author": "A CHRISTMAS CAROL",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼女はわな／＼と顫ひながら、赤ん坊を揺振り揺振り台所を往つたり来たりしてゐた。",
+              "citation": {
+                "source": "河原の対面",
+                "author": "小寺菊子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、泣きもせぬ背中の赤ん坊を拍子を取つて揺振つて歩いた。",
+              "citation": {
+                "source": "河原の対面",
+                "author": "小寺菊子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私、腹が立ちましたから、揺振ってやりましたわ」　と中川夫人は口八丁手八丁である。",
+              "citation": {
+                "source": "髪の毛",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

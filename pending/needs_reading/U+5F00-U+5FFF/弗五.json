@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "daa99575-3970-599d-a2a5-b9dd24d2e904",
+    "entry": "弗五",
+    "reading": {
+      "primary": "弗五",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「そんなにどつさり注文してくれるなら、旦那さま、一つ七弗五十仙づつに、しときますべえ。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正十五（一九二六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『そんなにどつさり註文してくれるなら、旦那さま、一つ七弗五十仙づつにしときますべえ。",
+              "citation": {
+                "source": "価",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「相当以上の資財ある紳士」が、三千弗五千弗と、銘めい上着の下へ縫い込んで、近接諸州は元より、合衆国中から集まって来た。",
+              "citation": {
+                "source": "斧を持った夫人の像",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然るに乙者が二十五歳に成ると中々前の一弗の儘で無い、一弗五十仙にもなる、三十歳になれば益す良くなつて來て二弗も三弗も取り、四十歳になると益す多くの收入を得ると云ふやうな傾向である。",
+              "citation": {
+                "source": "教育の目的",
+                "author": "新渡戸稻造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然るに乙者が二十五歳になると中々前の一弗のままでない、一弗五十仙にもなる、三十歳になれば益す良くなって来て二弗も三弗も取り、四十歳になると益す多くの収入を得るというような傾向である。",
+              "citation": {
+                "source": "教育の目的",
+                "author": "新渡戸稲造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なおその渡仏の前、ボストンで英吉利の名優ヘンリー・アーヴィングの「マーチャント・オブ・ベニス」が当ったのにかぶせて日本風に改作し「シャイロック」として上演したが、その入場券一｜弗が三弗五弗というふうに競上げられたというのは、もの珍らしさが手伝ったとはいえ大成功といわなければならない。",
+              "citation": {
+                "source": "マダム貞奴",
+                "author": "長谷川時雨",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

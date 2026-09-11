@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "ea7c1842-0976-52c0-bbc0-68d8f73cfb00",
+    "entry": "巌々",
+    "reading": {
+      "primary": "巌々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "知れる目よりはこの大山巌々として物に動ぜぬ大器量の将軍をば、まさかの時の鉄壁とたのみて、その二十二貫小山のごとき体格と常に怡然たる神色とは洶々たる三軍の心をも安からしむべし。",
+              "citation": {
+                "source": "不如帰　小説",
+                "author": "徳冨蘆花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "堆石巌々たるは、ひとり南山に限るにあらず、これより北進するに従い、雪色天にみなぎるを見る。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "見よ、さしも人穴の殿堂すべて灰燼に帰し、まるで鬼の黒焼、巌々たる岩ばかりがまっ黒にのこっている。",
+              "citation": {
+                "source": "神州天馬侠",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "巌々たる岩と岩との間、水晶の簾を懸けたような女滝を浴びつつ、今しも痩せたる一人の行者は、一念一心に右手の鈴を振りながら、禁慾｜鍛身の苦行三昧。",
+              "citation": {
+                "source": "剣難女難",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

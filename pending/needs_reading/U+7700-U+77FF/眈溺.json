@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "d44da797-04ef-5b50-8791-43d09fc88e23",
+    "entry": "眈溺",
+    "reading": {
+      "primary": "眈溺",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "詩人たり、實業家たり、眈溺家たり、探檢家たることは、その人の生活の外形的變化であるなどと區別して、その生活者の内容もしくは進境だけが眞の人生や藝術だと云ふ樣な説は間違つてゐること。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "憑き物",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "を着けて、眈溺するんぢやから、なア。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "憑き物",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

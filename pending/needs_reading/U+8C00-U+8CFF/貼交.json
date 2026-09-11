@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "6e66c009-6655-5ec9-9025-02ad883c5290",
+    "entry": "貼交",
+    "reading": {
+      "primary": "貼交",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "二人は牛がどうとかいふことを符貼交りに云うて平内さんが相手の袂へ手を入れて二人で握り合うたと思つたら平内さんは其癖の大聲を出してそりやあんまり安く買つたなあといひながら口を鉗んで向鉢卷した頭を横に曲げた。",
+              "citation": {
+                "source": "佐渡が島",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "堀田伯爵のために描いた『徒然草』の貼交ぜ屏風一双は椿岳晩年の作として傑作の中に数うべきものであって、その下画らしいものが先年の椿岳展覧会にも二、三枚見えた。",
+              "citation": {
+                "source": "淡島椿岳",
+                "author": "――過渡期の文化が産出した画界のハイブリッド――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の足許へ身を寄せるようにして、色紙で貼交ぜの手筐のような物を作っていたさえは、「なにがでございます」　と眼をあげた。",
+              "citation": {
+                "source": "彩虹",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "木版奉書摺の雅なもので新年気分を漂わせ、後には貼交ぜの材料にも使われて風流趣味の名残りをとどめる。",
+              "citation": {
+                "source": "明治世相百話",
+                "author": "山本笑月",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

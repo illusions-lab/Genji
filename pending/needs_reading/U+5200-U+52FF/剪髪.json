@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "78b4b500-f6b6-5d34-ac68-6737cb5f8014",
+    "entry": "剪髪",
+    "reading": {
+      "primary": "剪髪",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "社会、婦人には女学校令が出た、女の剪髪禁止とか、戦争その他。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九四〇年（昭和十五年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "広東が独立して以来｜俄に断髪者が殖えたので剪髪店が大繁昌である。",
+              "citation": {
+                "source": "巴里より",
+                "author": "與謝野寛、與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其店頭の旗に「漢興剪髪」などと大書して居る。",
+              "citation": {
+                "source": "巴里より",
+                "author": "與謝野寛、與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今日でも、モスクワ市トゥウェルフスカヤ街に店舗を張っている理髪師は、巴里風と称するロシア式剪髪によって、盛に客の衿頸に毛を入れている。",
+              "citation": {
+                "source": "シナーニ書店のベンチ",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

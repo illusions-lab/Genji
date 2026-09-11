@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "fa93439a-76c6-56ab-8992-d722a7ff3340",
+    "entry": "聢乎",
+    "reading": {
+      "primary": "聢乎",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "私は精神さえ聢乎持っていれば神経衰弱なぞは寄りつくものでないと言って威張っていました」「然うは参りませんな。",
+              "citation": {
+                "source": "脱線息子",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「はあ」「お前もこの頃は精が出るそうで何より結構だ」「何う致しまして」「お前が聢乎してくれゝばこの通り覿面だ。",
+              "citation": {
+                "source": "脱線息子",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「兄さん、兄さんは一家の主人としてもう少し聢乎しなければいけない」　と歯ぎしりをしてくれるが、後が宜しくない。",
+              "citation": {
+                "source": "脱線息子",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「兄さんが聢乎していれば、五百や千の金は右から左へ俺に融通が出来る。",
+              "citation": {
+                "source": "脱線息子",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

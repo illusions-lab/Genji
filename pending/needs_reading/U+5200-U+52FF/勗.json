@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "1dc88353-b2c7-56c2-9a0d-f95dd67247aa",
+    "entry": "勗",
+    "reading": {
+      "primary": "勗",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "又曰く、予深く其の去るを惜み、為に是詩を賦す、既に其の素有の善を揚げ、復勗むるに遠大の業を以てすと。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昼間の程は勗めて籠りゐしかの両個の、夜に入りて後｜打連れて入浴せるを伺ひ知りし貫一は、例の益す人目を避るならんよと念へり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前述の如く、臣下は常に君主に迎合して、以て其の位地を固くするを勗め、苟くも隙あれば、直に之に乘じ、始めは君主を悦ばしめて信任を博し、漸次に其大權を竊むに至る。",
+              "citation": {
+                "source": "韓非子解題",
+                "author": "小柳司気太",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さて前に述る如く、支那では劉向の別録其子※の七略を始めとし、晉旬勗の中經新簿、宋王儉の四部書目録、及び七志、梁阮孝緒の七録、其他魏晉から隋までに出來た目録書と云ふものは實に夥い、さうして多くは當時學者の手に成つたものである。",
+              "citation": {
+                "source": "日本國見在書目録に就いて",
+                "author": "狩野直喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二七六　汝等須らく勗めよ、如來は説者なり、思惟して修行する人は魔の縛を脱る。",
+              "citation": {
+                "source": "法句經",
+                "author": "荻原雲來訳註",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

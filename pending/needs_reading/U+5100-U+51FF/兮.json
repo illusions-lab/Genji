@@ -1,0 +1,255 @@
+[
+  {
+    "uuid": "3ec13ac4-9d9f-5047-9697-5936194ebbca",
+    "entry": "兮",
+    "reading": {
+      "primary": "兮",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「神兮長に有無の間にあり。",
+              "citation": {
+                "source": "星女郎",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "時に年四十六、詞に曰く、｜天降乱離兮孰知其由。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "｜奸臣得計兮謀国用猶。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "｜忠臣発憤兮血涙交流。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "｜以此殉君兮抑又何求。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "｜嗚呼哀哉兮庶不我尤。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "気の欝結を伸び広げるのが「兮」であり、兮の上のノは徐諧が「声気｜上出して尽きるなり」と解説している。",
+              "citation": {
+                "source": "一貫章義（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蘭軒が幼時の師を榊原｜巵兮と云つた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蘭軒の「訳女戒跋」に、「翁氏榊原、姓藤原、名忠寛、字子宥、為東都書院郎、致仕号巵兮云」と云つてある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "跋は享和甲子即文化紀元の作で、「翁歿十有三年於茲」と云つてあるから、巵兮は寛政四年に歿したと見える。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "与兮」とあつて、伝に「は山海経に「呉林之山、其中多山蘭也」と云ひ、又「同」とも云つてある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "径万里兮度沙幕為君将兮奮匈奴路窮絶兮矢刃摧士衆滅兮名已※老母已死雖欲報恩将安帰　歌っているうちに、声が顫え涙が頬を伝わった。",
+              "citation": {
+                "source": "李陵",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我獨リ怕兮トシテ、嬰兒ノ未ダ咳ハザルガ如ク、儡レテ歸スル所ナキガ如シ。",
+              "citation": {
+                "source": "かめれおん日記",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして漸と出来上つたのが、平の蓋に、「咬得菜根百事可做」汁の蓋に、「不素餐兮」飯の蓋に、「粒々皆辛苦」といふ固苦しい文字であつた。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "藤田東湖が『瓢兮』の詩の中に曰く、『夭壽｜有命｜非汝罪。",
+              "citation": {
+                "source": "酒に死せる押川春浪",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「これは支那の項羽のことを引いたので、項羽が漢の高祖に負けて、……」と、虞美人のことから、「力拔山兮氣蓋世」の歌まで引き合ひに出して、淺野は自分一人で面白さうに講義をしてゐた。",
+              "citation": {
+                "source": "太政官",
+                "author": "上司小劍",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "妻を奪ひ行く夜半の暗きに　　　　　　　之兮　　妻は「め」と読むなり。",
+              "citation": {
+                "source": "俳諧大要",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「冬の日」で光彩を放つてゐる杜国と荷兮のうち、杜国の抒情味もさることながら、荷兮の作家的手腕にこの頃また今更のやうに感心してをります。",
+              "citation": {
+                "source": "書簡",
+                "author": "家族・親族宛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この荷兮といふ男はどうした男なのでせうか。",
+              "citation": {
+                "source": "書簡",
+                "author": "家族・親族宛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然ども我云所の俳諧は其俳諧にはことなりと云ふことにて、荷兮野水等に後見して『冬の日』『春の日』『あら野』等あり。",
+              "citation": {
+                "source": "芭蕉雑記",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼が蒼い顏をして澤畔に行吟してゐると、其所へやつて來た漁父が、『滄浪之水清兮、可以濯吾纓。",
+              "citation": {
+                "source": "教育の目的",
+                "author": "新渡戸稻造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "滄浪之水濁兮、可以濯我足』と歌つて諷刺した。",
+              "citation": {
+                "source": "教育の目的",
+                "author": "新渡戸稻造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼が蒼い顔をして沢畔に行吟していると、其所へやって来た漁父が、「滄浪之水清兮、可以濯吾纓。",
+              "citation": {
+                "source": "教育の目的",
+                "author": "新渡戸稲造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "滄浪之水濁兮、可以濯我足」と歌って諷刺した。",
+              "citation": {
+                "source": "教育の目的",
+                "author": "新渡戸稲造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――李白――　帰去来兮。",
+              "citation": {
+                "source": "二十歳のエチュード",
+                "author": "原口統三",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 27
+      }
+    }
+  }
+]

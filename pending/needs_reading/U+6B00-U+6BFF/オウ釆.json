@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "da90a812-1ba4-571b-a8a5-fa06bc7709e6",
+    "entry": "欧釆",
+    "reading": {
+      "primary": "おう釆",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "而シナガラ實ニ他ノ歐釆諸國ニ見ザル國字改良漢字廢止言文一致羅馬字採用等ノ議論百出ニ見ル如ク、國民全部ノ大苦惱ハ日本ノ言語文字ノ甚ダシク劣惡ナルコトニアリ。",
+              "citation": {
+                "source": "日本改造法案大綱",
+                "author": "北一輝",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "歐釆"
+      ],
+      "needs_reading": true
+    }
+  }
+]

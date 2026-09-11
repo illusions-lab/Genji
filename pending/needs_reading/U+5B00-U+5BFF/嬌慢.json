@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "1aa65ba6-18a8-52f5-9981-c21ef06acf9e",
+    "entry": "嬌慢",
+    "reading": {
+      "primary": "嬌慢",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "派手好みな、嬌慢な咲子の美しい姿が、もう彼の手のとゞかないところで、古い夢のやうに煙つてゐた。",
+              "citation": {
+                "source": "鏡地獄",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さつそくこの由を書きしたゝめて秀吉の本営に使者を送り、如水弾正の嬌慢を訴へる。",
+              "citation": {
+                "source": "二流の人",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "續いて、長崎屋の娘お喜多の浮氣心を嗾つて、圍ひの鍵を盜み出させようとしましたが、妹と觸れ込んだお京は、その實半之丞の女房と覺られて、嬌慢なお喜多の妬心を煽り、少し賢こくない利吉を煽動して、鐵三郎救ひ出しの手引をすると騙してお京をおびき寄せ、庭で刺し殺して、土塀越しに投り込むやうなことをしたのでした。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "捕物仁義",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "本所横網に住んでゐる女巾着切のお時、――一枚檜のやうな嬌慢のポーズと、恐しい早業とで名を取つた美女。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "盜まれた十手",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "妄想を憎むこと※の如く、懶惰と嬌慢をつつしむこと敵国を視るようだった。",
+              "citation": {
+                "source": "剣の四君子",
+                "author": "序",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "a7b50ca0-ff3b-5213-9261-f814228c664b",
+    "entry": "菟芽",
+    "reading": {
+      "primary": "菟芽",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "和名鈔の菫菜で、爾雅に、嬬らし春野の菟芽子採みて煮らしも」（巻十・一八七九）という歌のように直ぐ食用にして居る野菜として菫を聯想せずに、第一には可憐な菫の花の咲きつづく野を聯想すべきであり、また其処に恋人などの関係があるにしても、それは奥に潜める方が鑑賞の常道のようである。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○春日野に煙立つ見ゆ※嬬等し春野の菟芽子採みて煮らしも　〔巻十・一八七九〕　作者不詳　菟芽子は巻二の人麿の歌にもあった如く、和名鈔に薺蒿で、今の嫁菜である。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

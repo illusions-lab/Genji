@@ -1,0 +1,114 @@
+[
+  {
+    "uuid": "65ee113d-853f-5d5e-9480-83bad6452896",
+    "entry": "竄乱",
+    "reading": {
+      "primary": "竄乱",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "但だ其中で兩漢六朝以後に竄亂されたものは明かに之を僞書として鑑別することになつてゐるが、其以前に竄亂されたものは大抵之を看遁す傾になつてゐる。",
+              "citation": {
+                "source": "尚書稽疑",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今早くより竄亂附加あることの明かなる例を擧ぐれば、例へば管子の中にて末尾の諸篇即ち牧民解以下は牧民以下の諸篇の解釋が多く、其他のものも後から附け加へられたものと思はるゝに拘らず、史記管晏傳の贊には既に此の後に附加せられた諸篇中の輕重篇を讀んだ事を書いてある。",
+              "citation": {
+                "source": "尚書稽疑",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それでいづれかといへば九流諸子のごとく學派の發展が早く停止したものは、漢初までに其書籍の附加竄亂が止まつたのであるけれども、長く發展の繼續した儒家の六藝の如きは、却つて其移動が其後までも繼續したと見られ得るのである。",
+              "citation": {
+                "source": "尚書稽疑",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斯くの如き觀察點より總べての經籍を看るときは、六藝も九流諸子も大體に於て同樣の徑路を取れることが明かであつて、從つて諸子の方は竄亂ありて不確實であるが、六藝は確實で疑ふ餘地なしと考ふることはできぬ筈である。",
+              "citation": {
+                "source": "尚書稽疑",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故に諸子を以て經書の缺漏を補ふと云つてあるが、今から考へて見れば、實は經書と云ふ者を順次に晩出の書からして、上代にまで遡つて調べた上、割合に竄亂のない本に根據して、更に一段と舊い處を研究して行く方法を取るでなければ、確實に信憑すべき定論に達することが出來ないのである。",
+              "citation": {
+                "source": "支那古典學の研究法に就きて",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古書の竄亂の箇所は、晩出の書によりて判斷することが出來るものである。",
+              "citation": {
+                "source": "支那古典學の研究法に就きて",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殷墟の遺物によりて、虞夏書又は洪範などの眞僞竄亂を調べて見たならば、必ず發明する所が多い筈である。",
+              "citation": {
+                "source": "支那古典學の研究法に就きて",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      },
+      "variant_writings": [
+        "竄亂"
+      ]
+    }
+  }
+]

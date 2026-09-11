@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "69c4614d-89a3-5c01-8c64-974ffeef922b",
+    "entry": "嬌瞋",
+    "reading": {
+      "primary": "嬌瞋",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "小母さんも變だ、第一「嬌瞋」を發しようし……そこンところが何となく、いつのまにか、むかうが、姉が、姉が、といふから、年紀は私が上なんだが、姉さんも、うちつけがましいから、そこで、「お姉上。",
+              "citation": {
+                "source": "火の用心の事",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "たゞし嬌瞋火に似たりと云ふのを思つたばかりでも、此方も耳が熱るわけさ。",
+              "citation": {
+                "source": "みつ柏",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "柳眉をキリキリと釣り上げて、『騒々しいねえ』と嬌瞋をいただくわけのものでもなし、人間は至極柔和に出来ていらっしゃるに、無類のお話好きとおいでなさる。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "弁信の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、身扮は大したことも無く、顏には紅白粉の氣さへありませんが、嬌瞋を發すると、燃え立つやうな情熱が、ともすれば八五郎を壓倒するのです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "月待ち",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嬌瞋を發した顏が近々と薫じて、八五郎は思はず手を擧げて自分の額に迫るあやかしを拂ひ退けたほどです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "盜まれた十手",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一度はハツと驚いて逃げ身になりましたが、次の瞬間には構を直して、眞正面から嬌瞋の眼を平次に向けたのです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "死人の手紙",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "首尾よく舞臺の足場に辿り着いたら、私は默つてお園さん殺しの下手人になり、隨分お處刑臺の上へこの首を載つけて、都々逸の一つくらゐは歌つて上げてもいゝワ、隨分人を馬鹿にしてゐるのね、畜生ツ」　お組の爆發する嬌瞋の前に八五郎はまことに散々です。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "夕立の女",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "錢形平次の執拗な疑ひに對して、嬌瞋を發した姿です。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "毒酒藥酒",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの人が嬌瞋を発して、喜田川三郎氏に涙乍ら訴えると、実業界であんなに鳴らした喜田川三郎氏は、全く海月のようになってしまうのも有名な事でありました。",
+              "citation": {
+                "source": "奇談クラブ〔戦後版〕",
+                "author": "第四の場合",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

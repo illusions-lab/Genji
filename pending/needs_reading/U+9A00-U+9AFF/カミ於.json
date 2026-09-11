@@ -1,0 +1,82 @@
+[
+  {
+    "uuid": "14a660ae-7fb8-5aba-892b-62f19dfc43d1",
+    "entry": "髪於",
+    "reading": {
+      "primary": "かみ於",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "士民皆束髮於頂（中略）其辮髮推髻胡服胡語胡姓一切禁止。",
+              "citation": {
+                "source": "支那人辮髮の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故時衣横幅、結束相連而無縫、頭亦無冠、但垂髮於兩耳上。",
+              "citation": {
+                "source": "隋書倭國傳",
+                "author": "魏徴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "婦人束髮於後、亦衣裙襦裳、皆有、竹爲梳、編草爲薦、雜皮爲表、縁以文皮。",
+              "citation": {
+                "source": "隋書倭國傳",
+                "author": "魏徴",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 3
+      },
+      "variant_writings": [
+        "髮於"
+      ],
+      "needs_reading": true
+    }
+  }
+]

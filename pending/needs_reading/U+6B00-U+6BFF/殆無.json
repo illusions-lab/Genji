@@ -1,0 +1,175 @@
+[
+  {
+    "uuid": "6e19b106-c635-5dec-ab69-781fb3f8f292",
+    "entry": "殆無",
+    "reading": {
+      "primary": "殆無",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その時刻には散歩に出る人なんぞは殆無いのです。",
+              "citation": {
+                "source": "尼",
+                "author": "DAT FLEESCH",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "独り榛軒の養嗣子｜棠軒は、嘉永五年十一月四日より明治四年四月十一日に至る稍詳密なる「棠軒公私略」を遺し、僅に中間明治元年三月中旬より二年六月上旬に至る落丁があるに過ぎぬが、其文には取つて蘭軒榛軒二代の事跡を補ふべきものが殆無い。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」詩歌の石蒜を詠ずるものはわたくしの記憶に殆無い。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これには決心を促す動機としての価値は殆無い。",
+              "citation": {
+                "source": "大塩平八郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "坂本等の銃声が聞えはじめてからは、同勢が殆無節制の状態に陥り掛かる。",
+              "citation": {
+                "source": "大塩平八郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然るにそこに滿足を覺えたことは殆無い。",
+              "citation": {
+                "source": "高瀬舟",
+                "author": "森林太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "小栗栖村一揆の場は明智の落足を見する処なれど、光秀の代に溝尾が出るまでなれば殆無用に属す。",
+              "citation": {
+                "source": "明治座評",
+                "author": "三木竹二",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殆無意識に出て來る類型と擇ぶ所のない程度で、化尼になる前型らしいものでも感じて貰へればよいと思うたのだ。",
+              "citation": {
+                "source": "山越しの彌陀",
+                "author": "釈迢空",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殆無意識に出て来る類型と択ぶ所のない程度で、化尼になる前型らしいものでも感じて貰へればよいと思うたのだ。",
+              "citation": {
+                "source": "山越しの阿弥陀像の画因",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "殆無意識に出て来る類型と択ぶ所のない程度で、化尼になる前型らしいものでも感じて貰えればよいと思うたのだ。",
+              "citation": {
+                "source": "山越しの阿弥陀像の画因",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "初、縄は野生の植物を其儘用ゐて、綯ふ必要は殆無かつた。",
+              "citation": {
+                "source": "熟語構成法から観察した語根論の断簡",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「親のまんそく（完全）に生みつけた此顔に」と、「まうし、三婦さん」ときほつた後で反省風になるお辰――これなども幾度もくり返し乍ら――その表情、五十を過ぎて殆無欠なものになつて来た。",
+              "citation": {
+                "source": "街衢の戦死者",
+                "author": "――中村魁車を誄す――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは師匠の次に死ぬものは、この自分ではあるまいかと云ふ、殆無理由に近い恐怖である。",
+              "citation": {
+                "source": "枯野抄",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さればこの時代に在って上野の風景を記述した詩文雑著のたぐいにして数寄屋町の妓院に説き及ばないものは殆無い。",
+              "citation": {
+                "source": "上野",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "著作の小説頗る多けれど人の記憶に留るもの殆無きが如し。",
+              "citation": {
+                "source": "荷風戰後日歴　第一",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 14
+      }
+    }
+  }
+]

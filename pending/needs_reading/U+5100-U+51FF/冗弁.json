@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "6cecc3a3-9ddd-5009-b37b-a43b1f1e161f",
+    "entry": "冗弁",
+    "reading": {
+      "primary": "冗弁",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "いや、冗弁は御勘弁下さい。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "というのは実際この時まで、蛇のようにノラクラした冗弁をもって広太郎の蔭口をいっていたからで、痛いところへさわられたのである。",
+              "citation": {
+                "source": "剣侠受難",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それですから男子の前で話が少しでも智力を要する問題に及ぶと厚顔ましく支離滅裂な冗弁を並べるか、謙遜して口を噤んでしまうかの外ありません。",
+              "citation": {
+                "source": "婦人改造と高等教育",
+                "author": "与謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし少なくともジャン・ミシェルは、冗弁の楽しみにあれほど無邪気にふけってはいたが、やたらに注ぎかける同情心をももっていた。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ブローメ街だの、パメラだの、兵営だの、槍騎兵だのという冗弁は、マリユスの前を幻灯のように通りすぎた。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてたぶん二回目の冗弁に取りかかろうとしたが、その時新たな顔が階段の所の四角な穴から現われた。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まして、黒津武の冗弁などは、物の数でもなかったのです。",
+              "citation": {
+                "source": "判官三郎の正体",
+                "author": "野村胡堂",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

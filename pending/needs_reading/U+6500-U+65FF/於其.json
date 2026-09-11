@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "d2c2d8b4-a257-5180-a801-6b5f8a1ee5db",
+    "entry": "於其",
+    "reading": {
+      "primary": "於其",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "収之於其所輯逸存叢書中。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……人君致孝弟於其親長。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（『葬祭弁論』）物徂徠曰、由無而之有、謂之神、由有而之無、謂之鬼、惟夫於其之也、可以知鬼神之情状也。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "徂徠の『論語徴』に、「剖樹以求花於其中、烏能見之、謂之無花可乎哉。",
+              "citation": {
+                "source": "迷信と宗教",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "玄宗召術士羅公遠、與空※法、同在便殿、羅時時反手掻背、羅曰借尊師如意、時殿上有華石、空揮如意、撃碎於其前、羅再三取如意不得、帝欲起取、空曰三郎勿起、此影耳、乃擧手示羅、如意復完然在手とある。",
+              "citation": {
+                "source": "大師の時代",
+                "author": "榊亮三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "七八　物集於其所好、人也。",
+              "citation": {
+                "source": "南洲手抄言志録",
+                "author": "南洲手抄言志録",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "凡厥体像、髣‐髴丈夫、頭上加冠、鬢辺垂纓、成緋衫色、起居不同、遞各異貌、或所作女形、対丈夫而立之、臍下腰底、刻絵陰陽、搆几案於其前、置坏器於其上、児童猥雑拝礼、慇懃捧幣帛、或供香華、号曰｜岐神。",
+              "citation": {
+                "source": "オシラ神に関する二三の臆説",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "以賜金竊投於其家而出。",
+              "citation": {
+                "source": "遺篇",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

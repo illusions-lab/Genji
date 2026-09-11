@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "8e3f79ad-ab3a-5ae7-bf36-36729f2bd35e",
+    "entry": "攀柳",
+    "reading": {
+      "primary": "攀柳",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "が、若い時には相応に折花攀柳の風流に遊んだものだ。",
+              "citation": {
+                "source": "三十年前の島田沼南",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼が折花攀柳の遊宴を恣にしたるが如き、彼が一豎子の私怨よりして関白基房の輦車を破れるが如き、将彼が赤袴三百の童児をして、飛語巷説を尋ねしめしが如き、平氏が天下に対して其同情を失墜したる亦宜ならずとせず。",
+              "citation": {
+                "source": "木曾義仲論（東京府立第三中学校学友会誌）",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大本営の下、陛下が宸襟をなやましたもう国家存亡の場合を弁えず、某大臣が折花攀柳の醜聞を流したことである。",
+              "citation": {
+                "source": "渡良瀬川",
+                "author": "大鹿卓",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれど、お粂の嵐粂吉が、この甲府の柳町の小屋を打ってまだ日の浅いうちに、先生が安価な折花攀柳をやったのは、あらそい難い事実であると見えまして、「寄ってゆかない、この人は」「薄情者」「素どおりはひどい」　などと、この昼なか、多少人前というものもあろうに、容赦なく袂をつかんで、格子の前を離しません。",
+              "citation": {
+                "source": "江戸三国志",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

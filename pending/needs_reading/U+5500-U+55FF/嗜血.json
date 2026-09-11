@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "2e37e151-9f62-5db7-b55b-ce3d60b1e58f",
+    "entry": "嗜血",
+    "reading": {
+      "primary": "嗜血",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「時代は十六世紀の中葉フェリペ二世朝だが、この一つは、淫虐的な嗜血癖の、むしろ異例的標本とでも云うものなんだ。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "どうしてフォスコロの嗜血癖が、残忍な拷問刑具の整列裡では起らずに、美しいビスカヨ湾の自然のなかで生れたのだろうか。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの嗜血癖の起因は、僕にもようく判るんだ。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と云うのは、だいいち十四郎の気性が、粗暴になってきて、血腥い狩猟などに耽り、燔祭の生き餌までも、手ずから屠ると云ったように、いちじるしい嗜血癖が現われてきた事だった。",
+              "citation": {
+                "source": "白蟻",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

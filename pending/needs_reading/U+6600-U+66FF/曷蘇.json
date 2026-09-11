@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "a790e1c2-e052-5739-85bc-04ca3fed7ccc",
+    "entry": "曷蘇",
+    "reading": {
+      "primary": "曷蘇",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "即ち今の滿洲の復州・岫巖地方に當る處に置いたので、之を合蘇※とも曷蘇館とも稱して居た。",
+              "citation": {
+                "source": "女眞種族の同源傳説",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "曷蘇館といふのは、滿洲語で藩籬といふ意味に當ると云はれ、契丹人が生女眞を防禦する藩籬として之を用ひたのだと云はれてゐる。",
+              "citation": {
+                "source": "女眞種族の同源傳説",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "生女眞は騎射が非常に上手で、地が方千餘里、戸數が十餘萬あり、それが皆山谷の間に住居してゐると云はれてゐるが、曷蘇館といふのは契丹に歸化した所の女眞人であるけれども、其生活の爲方はやはり生女眞と同樣であつて、遼陽以南の土地に遷されてからも、依然として山谷に住居して居つたらしい。",
+              "citation": {
+                "source": "女眞種族の同源傳説",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さういふ風にして兄弟が分れたが、其後胡十門が曷蘇館人を引き連れて、金の太祖阿骨打に歸服した時に、自分の祖先は兄弟三人あつて、それ／″＼分れて去つたと云ふことであるが、自分が即ち其の長兄阿古迺の末孫だと稱した。",
+              "citation": {
+                "source": "女眞種族の同源傳説",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と、かう書いてあるから、曷蘇館といふ者は、生女眞と同じ種族であつても、其國語をば既に失つて居つたかも知れぬ。",
+              "citation": {
+                "source": "女眞種族の同源傳説",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "即ち曷蘇館が初め女眞から分離したのは、事實に於ては、其敵たる契丹人の壓迫を受けて、一部分が移住させられたのであるにも拘らず、後世になると、僅か百餘年を經過する間に、既に眞の事實を忘れて、兄弟が個々別れ／＼になつて、高麗から移つて來たといふやうな話に變化して居る。",
+              "citation": {
+                "source": "女眞種族の同源傳説",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "726f014e-f728-5030-9719-36152269fc67",
+    "entry": "渭之",
+    "reading": {
+      "primary": "渭之",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "……」「ウム、阿波はよいぞ阿波の国は――八重の潮に繞らされて渭之津の城の白壁がある。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "上方の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "たとえ、尊王の赤心、反徳川の意気、胸に炎々たるものがあっても、下手なことをしたひには、藩祖正勝以来の渭之津の城の白壁に、矢玉煙硝玉の穴があくはめとなる。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "上方の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「石田十太郎殿の組手が乗ります」「そちが代れ、都合がある」「はッ」「そして脇船の荷底へ、この一八郎とお鈴の二人、積み込んでまいるのじゃ」「心得てござります」「撫養の浦へ着船の節は、渭之津城へ寄るには及ばず、すぐ吉野川をさかのぼって、剣山の間者｜牢へ二人の奴を送りこむよう。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "上方の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ために、富田の浦は血に赤く、河原は鬼哭啾々として、無残というも愚かなこと、長く、渭之津の城に怪異妖聞やむことを知らず、という結果になりました」「オオ殺戮の祟り！",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "上方の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――四顧すれば海や空や本土のあなたにも、皇学新興の力、反徳川思想がみちみちて、ひとたび、この渭之津の城からのろしをあげれば、声に応じて西国の諸大名、京の堂上、それに加担するものなどが、ときの声をあげるだろう。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "船路の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "渭之津城を脚下にふみ、広大なる大海の襟度に直面しながら、思いのほか、重喜の心が舞躍してこないのも、かれの眉が、ともすると、針で突かれたようになるのも、そのすり減らされてきた神経のせいだろう。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "船路の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

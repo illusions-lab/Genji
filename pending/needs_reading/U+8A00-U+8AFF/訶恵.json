@@ -1,0 +1,90 @@
+[
+  {
+    "uuid": "ca61f2e5-679b-5fb1-af11-864ef877e9e4",
+    "entry": "訶恵",
+    "reading": {
+      "primary": "訶恵",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "記には御眞木入日子印惠命とあり此外にも孝昭天皇を紀に觀松彦香殖稻天皇記には御眞津日子訶惠志泥命とありと申し奉るも、并びに彌馬といへる地名と覺しきを冠したり。",
+              "citation": {
+                "source": "卑彌呼考",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この天皇、師木の縣主の祖、賦登麻和訶比賣の命、またの名は飯日比賣の命に娶ひて、生みませる御子、御眞津日子訶惠志泥の命、次に多藝志比古の命二柱。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かれ御眞津日子訶惠志泥の命は、天の下治らしめしき。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "〔孝昭天皇〕　御眞津日子訶惠志泥の命一、葛城の掖上の宮二にましまして、天の下治らしめしき。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      },
+      "variant_writings": [
+        "訶惠"
+      ]
+    }
+  }
+]

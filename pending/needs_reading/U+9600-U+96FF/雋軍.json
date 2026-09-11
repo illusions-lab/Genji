@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "62b33f8f-73fe-55b1-8581-3f177086c42c",
+    "entry": "雋軍",
+    "reading": {
+      "primary": "雋軍",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "朱雋軍も、張飛の蛇矛に斬り捨てられるよりはと、その後から、芋虫の群れが動くように這い上がった。",
+              "citation": {
+                "source": "三国志",
+                "author": "桃園の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "張宝の地公将軍とやらは、奸智に長けているとみえて、その自然の気象を、自己の妖術かの如く、巧みに使って、藁人形の武者や、紙の魔形など降らせて、朱雋軍の愚かな恐怖をもてあそんでいたものであろう」「さすがに、ご活眼です。",
+              "citation": {
+                "source": "三国志",
+                "author": "桃園の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朱雋軍の兵、約半分の数に、おびただしい旗や幟を持たせ、また、銅鑼や鼓を打ち鳴らさせて、きのうのように峡門の正面から、強襲するような態を敵へ見せかけた。",
+              "citation": {
+                "source": "三国志",
+                "author": "桃園の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一方、張飛、関羽の両将に、幕下の強者と、朱雋軍の一部の兵を率きつれた玄徳は、峡門から十里ほど北方の絶壁へひそかに這いすすみ、惨澹たる苦心のもとに、山の一端へ攀じ登ることに成功した。",
+              "citation": {
+                "source": "三国志",
+                "author": "桃園の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朱雋軍六万は、宛城の周囲をとりまいて、水も漏らさぬ布陣を詰めた。",
+              "citation": {
+                "source": "三国志",
+                "author": "桃園の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

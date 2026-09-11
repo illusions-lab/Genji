@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "17276bef-f74a-5aaf-96f6-65a785566aef",
+    "entry": "彳立",
+    "reading": {
+      "primary": "彳立",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "樹々の間から洩れて来る斜陽、蜩の声、ねぐらにかえる鳥の姿、近くの牧場からきこえてくる山羊の声――私はひとり丘の上に彳立んで、これらの情趣を心ゆくまで味わったのでした。",
+              "citation": {
+                "source": "書斎",
+                "author": "辻潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼女は外套を脱ぐとすぐ鏡の前に彳立って、美しい姿に自らを満足させようとした。",
+              "citation": {
+                "source": "頸飾り",
+                "author": "モウパンサン",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次をめくると薄いコットン・ボイルの布を身に纏って、彫像の如く彳立している姿がある。",
+              "citation": {
+                "source": "痴人の愛",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

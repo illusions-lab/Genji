@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "a73fad66-3b14-5c9a-be6e-e8a57eba780a",
+    "entry": "慮的",
+    "reading": {
+      "primary": "慮的",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "道徳的抑制とは、慎慮的動機に発する結婚の抑制で、この抑制の期間中厳重に道徳的な行為を行うことを、意味するものと理解されたい。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その結果と関係のない結婚の抑制を云おうと思う時は、私はそれを、慎慮的抑制と呼ぶか、または予防的妨げの一部――たしかにこれは予防的妨げの主たる部分である――と呼んでいるのである。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "従って出生、死亡、結婚の比率の減少、または慎慮的抑制の作用の増大こそが、当時の事情上吾々の期待すべきものである。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしそれはとにかくとして、もし吾々が、単に、主として、結果に関係なく慎慮的な思慮から結婚を延期するという意味の、一般的名辞のみを考えるならば、これは、かかる見解からして、近代ヨオロッパにおいて人口を生活資料の水準に抑止する妨げのうちで、最も有力なものと考え得よう。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『１）　道徳的抑制と私が云うのは、慎慮的動機による結婚の抑制で不正常な欲望満足を伴わないもののことであることを、常に想起せられたい。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしかかる場合において、強い義務感が慎慮的示唆に加えられ得るならば、問題全体は異った色を帯びるであろう。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かかる事態は当然に、便宜品や愉楽品を用いる慣習から最も多く生ずる慎慮的抑制の習慣を発生せしめる上に不利であり、そして人口増加は停止せずしてついに労働の労賃が食物で測定しても極めて低いものとなってしまうことが、期待されるのである。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしかかる結果が下層階級に慎慮的習慣が行われるために妨げられるとしても、上述の最終帰結は必ず生じなければならない。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こういうわけであるから、農業の増進に対する刺戟は、慎慮的抑制の励行その他の原因により労働者の給与がよい時の方が、遥かに容易であるということも、注意する価値がある。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

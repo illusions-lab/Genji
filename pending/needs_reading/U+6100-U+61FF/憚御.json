@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "72f09925-3e53-5eef-9d5f-8fb31661e139",
+    "entry": "憚御",
+    "reading": {
+      "primary": "憚御",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "私無事越年仕候乍憚御安意可被成下候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "乍憚御如才は御坐候間敷候得共、御道中切角御自愛専一奉存候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "乍憚御省慮可被下候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次に書中に見えてゐるのは、不音のわび、時候の挨拶、問安で、其末に「貧道無異に勤行仕候間乍憚御掛念被下間敷候」とある。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "別紙御銘々様へは、乍憚御三君より御礼｜可然御風語被成下度、此段貴答迄｜如此に御座候。",
+              "citation": {
+                "source": "明治劇談　ランプの下にて",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "小生も不相変頑強、小夜も息災に候えば、乍憚御休神｜可被下候。",
+              "citation": {
+                "source": "虞美人草",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "迷亭先生の手紙に真面目なのはほとんどないので、この間などは「其後別に恋着せる婦人も無之、いず方より艶書も参らず、先ず先ず無事に消光｜罷り在り候間、乍憚御休心｜可被下候」と云うのが来たくらいである。",
+              "citation": {
+                "source": "吾輩は猫である",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "乍憚御休意被下度候。",
+              "citation": {
+                "source": "手紙",
+                "author": "安政三年九月二十九日　相良屋源之助あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いよいよはがきに鉛筆を走らせるまでには、どうにか文句ができるだろうくらいな、おうちゃくな根性ですましていたが、こうなってみると、いくら「候間」や「候段」や「乍憚御休神下され度」でこじつけていっても、どうにもこうにも、いかなくなってきた。",
+              "citation": {
+                "source": "水の三日",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もし御都合よろしく候はゞ、十日か十一日頃、乍憚御来臨下され度｜希上げ候。",
+              "citation": {
+                "source": "鴎外の思い出",
+                "author": "小金井喜美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "隨而小弟此節｜供奉被仰付、昨日安著仕候間、乍憚御放意可被下候。",
+              "citation": {
+                "source": "遺牘",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

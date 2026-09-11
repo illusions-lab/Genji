@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "bbbe2c4b-af07-50d6-958c-4723fe6b81cf",
+    "entry": "尖々",
+    "reading": {
+      "primary": "尖々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "稀薄な空気がみんみん鳴っていましたがそれは多分は白磁器の雲の向うをさびしく渡った日輪がもう高原の西を劃る黒い尖々の山稜の向うに落ちて薄明が来たためにそんなに軋んでいたのだろうとおもいます。",
+              "citation": {
+                "source": "インドラ［※１］の網",
+                "author": "宮沢賢治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "小銭の音をちゃらちゃらとさして、女中が出そうにしましたから、（光かい、光や、）　と呼んで、二階の上り口へ来ましたのを、押留めるように、床の中から、（何んだね、）　と自分でも些と尖々しく言ったんです。",
+              "citation": {
+                "source": "春昼後刻",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ロミオ　姫よ、あの實を結ぶ樹々の梢の尖々をば白銀色に彩ってゐるあの月を誓語に懸け……ヂュリ　おゝ、※る夜毎に位置の變る不貞節な月なんぞを誓言にお懸けなさるな。",
+              "citation": {
+                "source": "ロミオとヂュリエット",
+                "author": "ROMEO AND JULIET",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何しろ痛ましく痩せおとろえて、殆んど骨と皮ばかりになって、顔なども尖々しく見えた。",
+              "citation": {
+                "source": "自責",
+                "author": "モーリス・ルヴェル　Maurice Level",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "抜身の槍の穂先が、尖々と月光にかがやいている。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "京の夢おう坂の夢の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

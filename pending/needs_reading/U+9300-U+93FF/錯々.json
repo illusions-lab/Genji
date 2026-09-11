@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "6c89f7a0-6a40-578b-9d47-bc7d05bbb25c",
+    "entry": "錯々",
+    "reading": {
+      "primary": "錯々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "女二人が錯々と籾を振ったり、稲こきしたりしているに引替え、この雇われた男の方ははかばかしく仕事もしないという風で、すこし働いたかと思うと、直に鍬を杖にして、是方を眺めてはボンヤリと立っていた。",
+              "citation": {
+                "source": "千曲川のスケッチ",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二人は腰に差した鎌を取出して、時々鍬に附着する土を掻取って、それから復た腰を曲めて錯々とやった。",
+              "citation": {
+                "source": "千曲川のスケッチ",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "馬場裏の往来に近く、南向の日あたりの好い障子のところに男や女の弟子を相手にして、石菖蒲、万年青などの青い葉に眼を楽ませながら錯々と着物を造える仕立屋が居る。",
+              "citation": {
+                "source": "千曲川のスケッチ",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私が表の方から古い大きな門を入つて玄關前の庭に遊んで居りますと、母が障子の影に腰掛けて錯々と梭の音をさせたものでした。",
+              "citation": {
+                "source": "幼き日",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "白い障子の箝硝子を通して錯々と時計を磨いて居る亭主の容子が見えます。",
+              "citation": {
+                "source": "幼き日",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は側目もふらずに、錯々と自分の道を歩き始めた時がありました。",
+              "citation": {
+                "source": "幼き日",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "錯々と水を担いで遠い井戸から主人の家へ通ふ娘のことを書いた。",
+              "citation": {
+                "source": "突貫",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼女の為とあらば、錯々と働いて得た報酬も惜しくない。",
+              "citation": {
+                "source": "船",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "錯々と働いて余分に貯めて来た金は、何に費したともなく費された。",
+              "citation": {
+                "source": "船",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

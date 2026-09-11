@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "76329096-d12c-53bf-b100-795bdec5f535",
+    "entry": "那倶",
+    "reading": {
+      "primary": "那倶",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その妻、子を産まず、家に那倶羅虫ありて一子を生む。",
+              "citation": {
+                "source": "十二支考",
+                "author": "犬に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "婆羅門これを自分の子のごとく愛し那倶羅の子もまた父のごとく彼を慕う。",
+              "citation": {
+                "source": "十二支考",
+                "author": "犬に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夫いわく那倶羅虫が子を生んだはわが子生まるる前兆だったと。",
+              "citation": {
+                "source": "十二支考",
+                "author": "犬に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "那倶羅の子我父母不在なるに蛇我弟を殺さんとするは忍ぶべからずと惟い、毒蛇を断って七つに分ち、その血を口に塗り門に立ちて父母に示し喜ばさんと待ちいた。",
+              "citation": {
+                "source": "十二支考",
+                "author": "犬に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "門に入らんとして那倶羅子の唇に血着いたのを見、さてはこの物我らの不在に我児を※い殺したと合点し、やにわに杖で打ち殺し、門を入ればその児庭に坐し指を味おうて戯れおり、側に毒蛇七つに裂かれいる。",
+              "citation": {
+                "source": "十二支考",
+                "author": "犬に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この那倶羅子我児を救いしを我善く観ずに殺したと悔恨無涯で地に倒れた。",
+              "citation": {
+                "source": "十二支考",
+                "author": "犬に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "那倶羅（ナクラ）は先年ハブ蛇退治のため琉球へ輸入された英語でモングースてふイタチ様の獣で、蛇を見れば神速に働いて逃さずこれを殺す。",
+              "citation": {
+                "source": "十二支考",
+                "author": "犬に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "従って音訳に虫の字を副えて那倶羅虫としたのだ。",
+              "citation": {
+                "source": "十二支考",
+                "author": "犬に関する伝説",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

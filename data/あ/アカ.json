@@ -2623,5 +2623,89 @@
         "aozora": 3
       }
     }
+  },
+  {
+    "uuid": "64b9080b-9584-55a9-b970-8603123c953b",
+    "entry": "阿伽",
+    "reading": {
+      "primary": "あか",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "いかだしは歌うてくだる川ぎしの、濃花つつじとしら藤と、山吹わけて阿伽くむに、よべ夢みたる黒髪を、うつさぬ水のただにうらめし。",
+              "citation": {
+                "source": "晶子詩篇全集拾遺",
+                "author": "與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この時代に鑑真和尚の医力が行われた、その薬に阿伽陀薬というのがある、アカダは毒消しの薬である。",
+              "citation": {
+                "source": "東洋文化史における仏教の地位",
+                "author": "高楠順次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その棺の前にはチベット風の純金の燈明台へバタの燈明、ならびに花のある時分には花、それからまた銀の七つの水器には阿伽と称うる清水、その他沢山な供養物も供えてある。",
+              "citation": {
+                "source": "チベット旅行記",
+                "author": "河口慧海",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "黒檀の森わけて、白檀の峰越えて、菱の葉うかべる沼にし杖すすぐ阿闇黎に問ひ、苔の花さく古井に阿伽を掬む尼に問へど、怪しみがほの答へに、『知らでや』と過ぎぬれば、脚絆ぞあだに破れ朽つる。",
+              "citation": {
+                "source": "信姫",
+                "author": "末吉安持",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
   }
 ]

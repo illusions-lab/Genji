@@ -1,0 +1,159 @@
+[
+  {
+    "uuid": "d47781d3-866b-5f41-bbdb-31ffd698f99c",
+    "entry": "聿庵",
+    "reading": {
+      "primary": "聿庵",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "春水は山陽を訪ふとき、養嗣子｜聿庵を伴つて往つた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これに代つたのは山陽が前妻御園氏に生ませた余一｜元協承緒、号は聿庵である。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聿庵の弟、支峰の兄で、里恵の始て生んだ男児である。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宗家を嗣いだ聿庵は此年戸田氏を娶つた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」聿庵元協が寺川氏を娶つた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "頼氏では、山陽の長子で春水の後を襲いだ聿庵協が江戸霞関の藩邸に来てゐた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "梅※は広島にあつて将に七十三の春を迎へんとし、山陽は京都、聿庵は江戸と、三人「三処」に分れてゐたのである。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "諸山陽伝には児玉旗山、牧百峰、宮原節庵が江戸にある宗家の当主｜聿庵元協と、広島にある達堂鉉とに与へた書数通、関五郎が復に代つて小野氏に寄せた書数通、里恵が小野氏に寄せた書、里恵が安井氏に寄せた書、梅※が後藤松陰に与へた書等を引いて、当時の状況が記してある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "里恵は次年癸巳の春｜聿庵の江戸より来るのを待つてゐる。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聿庵は二弟の中一人を安藝へ率て行く筈である。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "推するに聿庵よりは直接に、杏坪よりは間接に言つておこせたのであらう。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聿庵の帰郷は少し遅れて夏に入つたらしい。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "木崎好尚さんは篠崎小竹の「不可忘」を抄して寄せ、安東忠次郎さんは頼聿庵の野本第二郎に与ふる書を写して贈つた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

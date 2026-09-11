@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "6d0a1750-ee85-5211-966a-815fd32653ef",
+    "entry": "嫩筍",
+    "reading": {
+      "primary": "嫩筍",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「誕辰後諸君持詩来集」の七律に、「新荷嫩筍回塘夕、微暑軽寒熟麦時」の頸聯がある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嫩筍如黄犢　　嫩筍黄犢の如く、旨甘抵八珍　　旨甘八珍に抵る。",
+              "citation": {
+                "source": "閉戸閑詠",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "支那には果実の珍しきもの多けれど菜蔬に至つては白菜菱角藕子嫩筍等の外われまた多くその他を知らず、菜蔬と魚介の味美なるもの多きはこれ日本料理の特色ならずとせんや。",
+              "citation": {
+                "source": "矢はずぐさ",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

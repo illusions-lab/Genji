@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "05eba6db-582c-5898-8940-c1c562ba2fac",
+    "entry": "撲天",
+    "reading": {
+      "primary": "撲天",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "……もしや世間でもよく噂にのぼる撲天※の李応ではないのか」「そうです！",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "撲天※の李応は一人物です。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ここらのご城下だけでも一万戸の余もあるし、岡の東西にはまだ二つの村があって、東には撲天※の李応さま一族がひかえ、西には扈の大旦那をかしらに、あだ名を一｜丈青といって、ひとり娘だが、扈三娘というたいした腕前の女将軍もおいでなさる」「ほ。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれどいつかも申しあげた通り、東麓の一族、撲天※の李応だけは、本家の祝氏と気まずくなっているだけに、こんどは加勢に出ていません。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ただひとえに、ご主人｜撲天※李応どのへ拝姿をえたく伺った事、なにとぞお取次ぎを。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「それでこそ撲天※その人らしい。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かの撲天※の李応である。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "撲天※先生、どうぞてまえどもと一しょに、ひとまず梁山泊へお越しください。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "といっても、正道の士、撲天※李応のことだ。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "撲天※先生には、頻りにああいっていますが」「はははは。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それも久しい間、撲天※李応というお名を聞き及び、その為人をお慕い申していたからのことで、われらの内に、あなたを引入れたい一心のほかでしかありません。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "uuid": "ae1e1933-fe70-580a-8872-2f8d662e8663",
+    "entry": "頷付",
+    "reading": {
+      "primary": "頷付",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」と顎で頷付いて、「おぼし召でいいんです。",
+              "citation": {
+                "source": "申訳",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と蘿月は頷付いて、「さういふ事なら打捨つても置けまい。",
+              "citation": {
+                "source": "すみだ川",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "長吉は首ばかり頷付せてもぢ／＼してゐる。",
+              "citation": {
+                "source": "すみだ川",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　長吉は丁度茶を飲みかけた処なので、頷付いたまゝ、口に出して返事はしなかつた。",
+              "citation": {
+                "source": "すみだ川",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　長吉は唯だ首を頷付かせて、何処と当もなしに遠くを眺めてゐた。",
+              "citation": {
+                "source": "すみだ川",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と蘿月は頷付いて、「そういう事なら打捨っても置けまい。",
+              "citation": {
+                "source": "すみだ川",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "長吉は首ばかり頷付せてもじもじしている。",
+              "citation": {
+                "source": "すみだ川",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　長吉は丁度茶を飲みかけた処なので、頷付いたまま、口に出して返事はしなかった。",
+              "citation": {
+                "source": "すみだ川",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　長吉は唯だ首を頷付かせて、何処と当もなしに遠くを眺めていた。",
+              "citation": {
+                "source": "すみだ川",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　男は道子が口から出まかせに何を言ふのかといふやうな顔をして、ウム／＼と頷付きながら、重さうな折革包を右と左に持ちかへつゝ、手を引かれて橋をわたつた。",
+              "citation": {
+                "source": "吾妻橋",
+                "author": "永井壮吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と礼のしるしにと頷付く拍子に黄楊の櫛の落ちたのを取つて、結髪をかき、「白井さん、葡萄酒は。",
+              "citation": {
+                "source": "来訪者",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　常子は頷付きながら通り過る藝者の姿をながめ、「お岩さまつて、あすこなの。",
+              "citation": {
+                "source": "来訪者",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　中島はお千代の事についてはあまり深く問われたくないので、唯頷付きながら四、五枚の封筒に同じ名宛を書きつづけている。",
+              "citation": {
+                "source": "ひかげの花",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と玉子は頷付いて、「おとまりね。",
+              "citation": {
+                "source": "ひかげの花",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　住職は頷付いて折から手桶に樒と線香とを持って来た寺男に掃除すべき墓石を教え示して静に立ち去った。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　自分は餘りに唐突な話題の變轉に唯だ首を頷付せたまゝ高佐君の顏を見た。",
+              "citation": {
+                "source": "新歸朝者日記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　流水は頷付いたのみで別に答へはせず更に新しい卷煙草に火をつけて居た。",
+              "citation": {
+                "source": "新歸朝者日記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　自分は默つて頷付いてゐた。",
+              "citation": {
+                "source": "新歸朝者日記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と頷付いて、「僕は時々一人で飮みに行くです。",
+              "citation": {
+                "source": "新歸朝者日記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　男は道子が口から出まかせに何を言うのかというような顔をして、ウムウムと頷付きながら、重そうな折革包を右と左に持ちかえつつ、手を引かれて橋をわたった。",
+              "citation": {
+                "source": "吾妻橋",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "優しき囁きに愛する人の口より漏るゝ「然り」と頷付く初めての声。",
+              "citation": {
+                "source": "珊瑚集",
+                "author": "仏蘭西近代抒情詩選",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 14
+      }
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "0a3593e8-f16c-56bd-a07b-2d981d4dc2b4",
+    "entry": "寄一",
+    "reading": {
+      "primary": "寄一",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "文礼子青森より帰途立寄一泊。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "石川厚安青森行に而前後立寄一泊。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "黒石城下通りより浅瀬石村大病院へ立寄一宿。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「どうしたえ、口寄一つやつて見ねえかえ」大勢の中から切り出したものがあつた。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、もし三日のうちに下手人が相知れぬにおいては、庄屋を初め名主、村年寄一統を下手人の代りに磔に上げるかも知れないぞ、とこう仰せられるのじゃ。",
+              "citation": {
+                "source": "義民甚兵衛",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おきん及び甚吉続いて現れる）村年寄一　おきんさん、お前さんも気の毒じゃのう。",
+              "citation": {
+                "source": "義民甚兵衛",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "母が行くとすれば年寄一人を汽車に乗せるのは心配だから、是非共僕がついて行かなければならなかった。",
+              "citation": {
+                "source": "彼岸過迄",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして「おお、美しい女中衆じゃ、年寄一人だから頼んます」　と、図々しく、坐った。",
+              "citation": {
+                "source": "南国太平記",
+                "author": "直木三十五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "早耳三次は家主甚右衛門ならびに茶屋町町年寄一統とともに、改めて辰のために何分のお慈悲を願い出たという。",
+              "citation": {
+                "source": "早耳三次捕物聞書",
+                "author": "霙橋辻斬夜話",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "申上候一札之事町内居住婦女頻々行方不知相成候段近頃覚奇怪候之御膝下天狗並降魔神業存候爾来如斯悪戯付一切無用左様被度承知置候事畢依之於上所払被仰出候前早々退散諸州遠山江分山可有之候　　文久元酉年　夏至　　　　　　　町年寄一同　　　　大小天狗中　　　　降魔神中　彦兵衛はにやりと笑った。",
+              "citation": {
+                "source": "釘抜藤吉捕物覚書",
+                "author": "巷説蒲鉾供養",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "裕福な上州屋のことですから、御得意に大名方も三軒五軒、手持ちの材木もうんとあり、遺族が困るの、店がどうのといふ事はなかつたのですが、兎も角、うんとあるだらうと思はれた現金がほんの當座の帳面尻を合せるだけ、二つの錢箱に少々ばかり入つてゐたのでは、身寄一｜統、奉公人も世間の人も承知しません。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "北冥の魚",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

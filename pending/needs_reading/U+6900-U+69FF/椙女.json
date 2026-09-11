@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "8f5aa5e9-2177-5a55-a34e-3982b12196ce",
+    "entry": "椙女",
+    "reading": {
+      "primary": "椙女",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "大四郎のこういうすなおさは類が少ない、椙女は継ぎ物をしていた。",
+              "citation": {
+                "source": "ひやめし物語",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「中の戸納をあけてごらんなさい」はいって来た大四郎を見ると、椙女は例のとおり茶箪笥のほうへ振返った。",
+              "citation": {
+                "source": "ひやめし物語",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "椙女は縫目を爪で緊めながら、「お茶を淹れましょうか」と云った。",
+              "citation": {
+                "source": "ひやめし物語",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「なにか菓子も頼みますよ、御中老の中川八郎兵衛殿ですからね」「堤町のかえ」椙女は眼を瞠った、「本当かえ大四郎、それならどうしてまあ早くそう云わないんですか」「なに騒ぐことはないんです、訳はあとで話しますよ」　茶と菓子を持って、母親が挨拶に出た。",
+              "citation": {
+                "source": "ひやめし物語",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "八郎兵衛は、椙女を暫くひきとめて話した。",
+              "citation": {
+                "source": "ひやめし物語",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

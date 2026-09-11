@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "3ebebb93-60be-562c-923d-ba9f7628433b",
+    "entry": "貶称",
+    "reading": {
+      "primary": "貶称",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "或いは彼らの感覚的作物に対する貶称意味が感覚の外面的糊塗なるが故に感覚派の作物は無価値であると云うならば、それは要するに感覚の性質の何物なるかをさえ知らざる文盲者の計略的侮辱だと見ればよい。",
+              "citation": {
+                "source": "新感覚論",
+                "author": "感覚活動と感覚的作物に対する非難への逆説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "或いはまたその貶称意味が、「生活から感覚的にならねばならぬ。",
+              "citation": {
+                "source": "新感覚論",
+                "author": "感覚活動と感覚的作物に対する非難への逆説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "時として感覚派の多くの作品は古き頭脳の評者から「拵えもの」なる貶称を冠せられる。",
+              "citation": {
+                "source": "新感覚論",
+                "author": "感覚活動と感覚的作物に対する非難への逆説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「えびす」とはいうまでもなく古史に見ゆる蝦夷、すなわち今日北海道になお約二万の遺紳これを賤みて東夷と貶称し、さらに一般に武士のことをも「えびす」という。",
+              "citation": {
+                "source": "武士を夷ということの考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかるにもかかわらず、本書を始めとして、鎌倉時代の記録文書、一もこの敗軍の将たる泰衡らのことを記するに、夷をもって貶称するものあることなし。",
+              "citation": {
+                "source": "武士を夷ということの考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "されば武士を夷ということにつきては、もとよりこれを貶称するの意味もあるべきなれど、種族的にこれが解説を求むること、また一の見解たるを失わざるべしと信ずるなり。",
+              "citation": {
+                "source": "武士を夷ということの考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "土蜘蛛の民族的研究は、いずれ本誌上で詳論する予定であるが、結局は先住民族の或る者に対した貶称で、摂津風土記に説明してある如く、彼ら穴中に居たからの名であろう。",
+              "citation": {
+                "source": "手長と足長",
+                "author": "土蜘蛛研究",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さればこそ彼等を覇者と貶称し、誠実に仁義を行わんとする王道とはこれを甄別したゆえんである。",
+              "citation": {
+                "source": "永久平和の先決問題",
+                "author": "大隈重信",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

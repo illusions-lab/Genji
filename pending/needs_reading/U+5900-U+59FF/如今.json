@@ -1,0 +1,159 @@
+[
+  {
+    "uuid": "e16c7e13-3af2-54e3-8bdf-93e808215cf1",
+    "entry": "如今",
+    "reading": {
+      "primary": "如今",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「如今独君在、余子尽墳塋。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）　凭欄　　　　　蒙齋幾度凭欄約夜深夜深情緒不如今如今強倚闌干立月滿空階霜滿林（夜、深、如、今、滿の五字各※重出）（幾度か欄に凭りて夜深を約す、夜深うして情緒今に如かず、如今強ひて闌干に倚りて立てば、月は空階に満ち霜は林に満つ。",
+              "citation": {
+                "source": "閑人詩話",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如今覓得金丹術　　如今覓め得たり金丹の術、六十衰翁初學詩　　六十の衰翁初めて詩を学ぶ。",
+              "citation": {
+                "source": "閉戸閑詠",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如今把得奇書坐　　如今奇書を把り得て坐せば、盡日魂飛萬里天　　尽日魂は飛ぶ万里の天。",
+              "citation": {
+                "source": "閉戸閑詠",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十月二十日自画像に題す鏡せばおさなくて見しおほははと見まがふばかりわれふけにけり十二月十四日余年二十六歳之時、初號千山萬水樓主人、連載社會主義評論于讀賣新聞紙上、名顯夙號千山萬水樓　　夙に号して千山万水楼といふ、如今草屋似扁舟　　如今草屋扁舟に似たり。",
+              "citation": {
+                "source": "閉戸閑詠",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如今以這篇年譜為最後工作。",
+              "citation": {
+                "source": "新生",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俺如今耐うべからず。",
+              "citation": {
+                "source": "岷山の隠士",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第三十五囘に掲陽嶺の酒店裏で、宋江一行が、如今江湖上｜歹人。",
+              "citation": {
+                "source": "支那人間に於ける食人肉の風習",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其の朽貝腐殻如今なほ存す。",
+              "citation": {
+                "source": "手長と足長",
+                "author": "土蜘蛛研究",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如今紺屋為染屋之通称。",
+              "citation": {
+                "source": "エタ源流考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如今更閲幾星霜　　城墟只見草茫々、田火有時拾遺瓦　猶認桐花旧徽章。",
+              "citation": {
+                "source": "松浦あがた",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼が門下の一人なる伊藤博文はいわずや、「如今｜廟廊棟梁の器、多くはこれ松門に教えを受けし人」と。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十二時半迄休んで又始まるといふのでダレてゐたら突如今夜は中止となり、すぐ入浴して帰る。",
+              "citation": {
+                "source": "古川ロッパ昭和日記",
+                "author": "昭和十二年",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 25
+      }
+    }
+  }
+]

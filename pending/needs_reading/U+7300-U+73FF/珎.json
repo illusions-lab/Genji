@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "eda2ae47-c647-5322-8c3c-0e9f1297861b",
+    "entry": "珎",
+    "reading": {
+      "primary": "珎",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "武蔵国よりの和銅献上に依つて、和銅と改元せられると共に、鋳銭司を置いて、初めて銅銭を鋳せしめられたのが、和同｜開珎である。",
+              "citation": {
+                "source": "二千六百年史抄",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "兎に角秩父の名は和銅開珎と共に世に流布されていたにも拘らず、其山に就ては近頃まで多く知られていなかった。",
+              "citation": {
+                "source": "秩父の奥山",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "竜神より神仏へ供と云が普通の説なれど、こゝに珎き竜燈の談あり、少しく竜燈を解べき説なれば姑くしるして好事家の茶話に供す。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二百四五十帋の自筆なり嘗梱外へ出さゞりしを、狂哥堂真顔翁｜珎書なれば懇望してかの家より借りたる時｜余も亡兄とともに読しことありき。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "件の亀の化石、本草家の鑒定を得て秦亀ならば一｜層の珎を増べし。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "図の化石は体全く且大なり、珎とすべし。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "猶雪の奇談他事の珎説こゝに漏したるも最多ければ、生産の暇ふたゝび編を嗣べし。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

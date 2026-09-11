@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "c64793b2-9db8-5c1a-9356-a5bc2c989e4e",
+    "entry": "濡板",
+    "reading": {
+      "primary": "濡板",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――　濡板敷のすべる足もとに近い一箱を透かすと、小魚が眞黒に瀬を造る。",
+              "citation": {
+                "source": "深川淺景",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　逞くましい体格の黒眼鏡が、濡板と、研ぎすました短刀をひっ提げて這入って来た。",
+              "citation": {
+                "source": "放浪の宿",
+                "author": "里村欣三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして抛り出した濡板の上に、短刀を突っ立てた。",
+              "citation": {
+                "source": "放浪の宿",
+                "author": "里村欣三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と、二つ三つ言い争った揚句、支那服が濡板の上に犬をひきずり上げた。",
+              "citation": {
+                "source": "放浪の宿",
+                "author": "里村欣三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「え、どうぞ」「出来上がるまで、上って休んでいなよ」　もうこの時、鮮かな支那服の短刀で動脈を切り開かれた濡板の犬は、まるで洗濯物のように胴なかを揉みしぼられていた。",
+              "citation": {
+                "source": "放浪の宿",
+                "author": "里村欣三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "赤い生血が、小気味よく切口から溢れ奔って、それが濡板を染めて、五寸四方位の大きさに掘り抜かれた穴に流れ込んでいた。",
+              "citation": {
+                "source": "放浪の宿",
+                "author": "里村欣三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　血がすっかり絞り取られると、犬はぐったりと濡板の上に伸びて、毛並すらも青ばんでゆくように感ぜられた。",
+              "citation": {
+                "source": "放浪の宿",
+                "author": "里村欣三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と、支那服の手が、その溢れ出た臓腑をかき分けて、胸骨の間に辷り込んで、二三度胸壁を指さきで抉ぐると、綺麗に二つの肺臓がはがれて、肝臓や胃袋などと一緒くたに濡板の上に掻き出された。",
+              "citation": {
+                "source": "放浪の宿",
+                "author": "里村欣三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして大腸をたぐって、その最後の部分に刃がはいると、見事に肛門から切断されて、一抱えほどの臓腑が、ずるずると濡板を辷って、血を絞り捨てた同じ穴へ雑作もなく落こってしまった。",
+              "citation": {
+                "source": "放浪の宿",
+                "author": "里村欣三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "濡板に這いつくばって後悔するな」　血だらけの短刀が、支那服の手からさっと閃めいて、壁の腰板をぐさっと突通した。",
+              "citation": {
+                "source": "放浪の宿",
+                "author": "里村欣三",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

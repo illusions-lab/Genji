@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "7d27b419-7b7e-5bef-85c2-ff206af64f75",
+    "entry": "已殺",
+    "reading": {
+      "primary": "已殺",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『明律』に已行と已殺とを區別したのは、實務的に便宜であらうが、儒教の傳統的精神から觀ると、必ずしも感服出來ぬ。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "所が『明律』に已行と已殺とを區別してから、この傳統的精神は失はれた。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

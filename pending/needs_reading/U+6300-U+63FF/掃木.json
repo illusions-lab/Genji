@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "147efca4-38a9-5142-8cca-2f43679fa04c",
+    "entry": "掃木",
+    "reading": {
+      "primary": "掃木",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その柵内に直立して、天を突くさかさ掃木の樣に高い白楊樹の數々と、昨年の火災に燒け殘つた輪廓ばかりの道廳の赤煉瓦とを再び見ると、急になつかしい友人に近づいて來た氣になる。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "放浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから猫を打つ掃木、それから掃木を焼く火、火を消す水、水を飲んで咽喉の渇くのを止める牝牛、牝牛をさす蠅、蠅をかつさらふ燕、その燕を捕へる罠、それから――』『そんなにして何時までも同じ事が続くんぢやないの？",
+              "citation": {
+                "source": "科学の不思議",
+                "author": "STORY-BOOK OF SCIENCE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "女工は其の握つた小さなヒーザアの掃木で湯の中の繭を攪きまはして順に糸の端を見出して取り上げる。",
+              "citation": {
+                "source": "科学の不思議",
+                "author": "STORY-BOOK OF SCIENCE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夜、うちへ帰ると道子が鼠を部屋へとぢ込めたところ、裸で掃木持って鼠退治。",
+              "citation": {
+                "source": "古川ロッパ昭和日記",
+                "author": "昭和十二年",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

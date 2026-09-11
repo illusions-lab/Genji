@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "3a1f6a6c-7b63-5fff-ac38-172b4db8399b",
+    "entry": "薙町",
+    "reading": {
+      "primary": "薙町",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "育ててもらった家のことを悪く云うように聞えては困るし、またその必要もないから、詳しいことは省略するが、薙町にあるその家は、いつもひっそりとして、氷室のように湿っぽく、暗く、そして冷たかった。",
+              "citation": {
+                "source": "やぶからし",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "正直なところそれにも心を惹かれたが、なにより薙町の家を出たかった。",
+              "citation": {
+                "source": "やぶからし",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのまま忍び出るつもりだったが、薙町の家とは違って構えも大きく、わたくしは来たばかりで、どこから出たらいいのか見当もつかなかった。",
+              "citation": {
+                "source": "やぶからし",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "よし里帰りがゆるされていたとしても、わたくしは薙町へ帰る気持はなかった。",
+              "citation": {
+                "source": "やぶからし",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こう云うと恩知らずで薄情のように聞えるかもしれないが、薙町の家族もわたくしの帰るのをよろこびはしない。",
+              "citation": {
+                "source": "やぶからし",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "薙町にいたとき聞いた知恵で、松井町の杵屋という店を訪ね、どうやら三両という金を借りることができた。",
+              "citation": {
+                "source": "やぶからし",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "薙町で育った十六年に比べれば、細貝での十年は一生にも当るくらいだ。",
+              "citation": {
+                "source": "やぶからし",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

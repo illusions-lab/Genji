@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "cda63757-bec8-50e9-8a5c-2888919606b5",
+    "entry": "随蓮",
+    "reading": {
+      "primary": "随蓮",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "沙弥随蓮は後に法然が四国へ流された時もお伴をしていた程のお弟子であるが、法然が亡くなって後、建保二年の頃或人が来て云うのに、「如何に念仏をしたからとて、学問をして三心を知らない者は往生することは出来ないそうですね」といいかけたものがあるので、随蓮が、それを説明して、「故上人は念仏は様なきを様とす。",
+              "citation": {
+                "source": "法然行伝",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「お退き下さい」「念仏は、おつつしみ下さい」弟子のうちでも、大力の聞こえある角張成阿随蓮が先に立ち、そのほか十二、三名の随身が、群集の涙の中を、頻りに宥めて道を開かせていた。",
+              "citation": {
+                "source": "親鸞",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

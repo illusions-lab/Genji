@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "e0ac5029-1a61-5b0f-b42d-638c8b12b333",
+    "entry": "瑣児",
+    "reading": {
+      "primary": "瑣児",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それは、瑣児肝失喇の娘で合爾合姫――その恋にはおれが勝って、合爾合姫は今、わしの妃となっているが、成吉思汗の身になってみれば、失恋の恨みが、そのままこのおれへの敵意となって、長い間、あの、狼のような胸の奥に燻っていたに相違ない。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――札木合　（突然回顧的に）なあ合爾合、お前がまだ瑣児肝失喇家の娘で、余も成吉思汗も、名もなき遊牧の若者だったころ、二人でお前の愛を争った。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "合爾合姫　（独語）この札荅蘭族へ輿入れする時、父の瑣児肝失喇から渡されたこの守り刀が、こんな役に立とうとは思わなかった。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "成吉思汗　それより、滑稽だったのは、いくら捜してもいないもんだから、泰赤宇徒の奴らが君の瑣児肝失喇の荘園を出て行ってからさ。",
+              "citation": {
+                "source": "若き日の成吉思汗",
+                "author": "――市川猿之助氏のために――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "656ee1a1-ceae-52b4-abb0-7dfb079cfbee",
+    "entry": "郊行",
+    "reading": {
+      "primary": "郊行",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "享和三年には蘭軒が二月二日に吉田仲禎狩谷※斎と石浜村へ郊行した。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蘭軒の集には又「春日郊行。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "下総は市川、中山、船橋辺の郊行の興深からず、秋風の嚏となるを覚えたる時の事に候。",
+              "citation": {
+                "source": "もゝはがき",
+                "author": "斎藤緑雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（嗹国郊行）（嗹の郊外の地は独の野に連なり、平坦にして遠望するも果てはない。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（嗹国郊行））独北路漫漫、農田随処寛、又知工業盛、烟柱聳林端。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）　　英国郊行（英国郊行）車行竜動外、山遠望無辺、草色春如染、青青総牧田。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）　　露国郊行（露国の郊野を行く）麦田欧北野、木壁露人家、五月春猶浅、寒林未着花。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昨日の郊行に日和下駄書き著したる頃の興をおぼえたれば、今日も亦晴天を幸に、有楽町より山の手線の電車に乗る。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之三大正八年歳次己未",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

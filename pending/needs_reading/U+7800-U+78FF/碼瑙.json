@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "ae88b3a5-4fe2-5851-bea3-050ce22fd610",
+    "entry": "碼瑙",
+    "reading": {
+      "primary": "碼瑙",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "身には袖の広い裾の長い白絹の着物を着て、上に黒狐の皮の外套を重ね、頭に碼瑙の冠を戴いて、手に黄薔薇の籠を持ちました。",
+              "citation": {
+                "source": "白髪小僧",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "六日の日ね、そちらからのかえり、私は大変可愛い碼瑙のようなかざりものを見たのよ。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九四一年（昭和十六年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何だか光線の工合であかい碼瑙の円い珠のような飾りもので、今時あんなものもあるのでしょうか、泉子がみたら、知らず知らず口をもってゆきそうなの。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九四一年（昭和十六年）",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "fe479adc-b3f1-58ba-b2a7-ab876b03f76a",
+    "entry": "鵆月",
+    "reading": {
+      "primary": "鵆月",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "鍋焼うどんが東京に入り込んで来たのは明治以後のことで、黙阿弥の「嶋鵆月白浪」は明治十四年の作であるが、その招魂社鳥居前の場で、堀の内まいりの男が夜そばを食いながら、以前とちがって夜鷹そばは売り手が少なくなって、その代りに鍋焼うどんが一年増しに多くなった、と話しているのを見ても知られる。",
+              "citation": {
+                "source": "綺堂むかし語り",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二十三年の七月、市村座――その頃はまだ猿若町にあった――で黙阿弥作の『嶋鵆月白浪』を上演した。",
+              "citation": {
+                "source": "源之助の一生",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○十二月、新富座の二番目に「島鵆月白浪」を初演。",
+              "citation": {
+                "source": "明治演劇年表",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "町中の堀割に沿うて夏の夕を歩む時、自分は黙阿弥翁の書いた『島鵆月白浪』に雁金に結びし蚊帳もきのふけふ――と清元の出語がある妾宅の場を見るような三味線的情調に酔う事がしばしばある。",
+              "citation": {
+                "source": "夏の町",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "4933983f-f2e3-593b-b2b4-cbec4cab4f9c",
+    "entry": "悍勇",
+    "reading": {
+      "primary": "悍勇",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "然るに悍勇なる松平忠直は、自ら先登を企てた。",
+              "citation": {
+                "source": "大阪夏之陣",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なぜといって、ヤッペもド・エスコバアルも、騎士的名声をになう精悍勇猛の連中で、それが敵として相まみえるとなれば、きっと見ていて胆が冷えるだろうと思われたのである。",
+              "citation": {
+                "source": "なぐり合い",
+                "author": "WIE JAPPE UND DO ESCOBAR SICH PRUGELTEN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「彼らは、時を得ない草莽の悍勇でござります。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第三分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孫子、田忌に謂つて曰く、『彼の（四三）三｜晉の兵は、素（四四）悍勇にして齊を輕んじ、齊を號して怯と爲す。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "孫子呉起列傳第五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "威震八｜荒の許※、「おうっッ」　と、吠えて、馬上、相手へ迫ると、馬超もまた、壮年｜悍勇、さながら火焔を噴くような烈槍を、りゅうりゅう眼にもとまらぬ早業で突き捲くってくる。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

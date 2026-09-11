@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "65d4f9ca-e4f5-5b28-97ad-b7cfac858964",
+    "entry": "諂佞",
+    "reading": {
+      "primary": "諂佞",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "学者思想家政治家達が、皆な此の氷山の如き伝統的圧力の前に萎縮逡巡忌避諂佞、其の暴威に触れないやうにと努めた時、島田先生は常に其の独自中正の脚地に立ちて、堅信博学、機に会ひ事に遇ふ毎に此の固陋の民心を啓発することを怠りなさらなかつた。",
+              "citation": {
+                "source": "自由の使徒・島田三郎",
+                "author": "木下尚江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "貫兵衛が父の跡を継いだのは十年前、ちょうど二十五の歳、金持のお坊っちゃんに育って、阿諛と諂佞に取巻かれ、人を見下してばかりきた貫兵衛は、自分の世帯になって、世の中に正面から打つかった時、初めて、自分の才能、容貌、魅力――等に対する、恐ろしい幻滅を感じさせられたのです。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "笑い茸",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "貫兵衞が父の跡を繼いだのは十年前、丁度二十五の歳、金持のお坊ちやんに育つて、阿諛と諂佞に取卷かれ、人を見下してばかり來た貫兵衞は、自分の世帶になつて、世の中に正面から打つかつた時、初めて、自分の才能、容貌、魅力――等に對する、恐ろしい幻滅を感じさせられたのです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "笑ひ茸",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――で、彼が曹操にまみえて、降服の礼を執ることや、実に低頭百拝、辞色諂佞をきわめたものだった。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あんな諂佞の小人に、高官を授けて、水軍をまかせるおつもりだろうか」　彼らの帰ったあとで、慨然と、はばからずこう放言していた者は、荀攸であった。",
+              "citation": {
+                "source": "三国志",
+                "author": "赤壁の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しからば、魏人は諂佞だというか」「おや、誰だ？",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "44cb9687-f5b4-515f-9f38-250a83092cd7",
+    "entry": "浸込",
+    "reading": {
+      "primary": "浸込",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "狭い町の、ものの気勢にも暗い軒下を、からころ、からころ、駒下駄の音が、土間に浸込むように響いて来る。",
+              "citation": {
+                "source": "歌行燈",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それが岩に浸込んで次第に消える。",
+              "citation": {
+                "source": "魔法罎",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "陰気な、鈍い、濁った――厭果てた五月雨の、宵の内に星が見えて、寝覚にまた糠雨の、その点滴が黴びた畳に浸込む時の――心細い、陰気でうんざりとなる気勢である。",
+              "citation": {
+                "source": "沼夫人",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "黒表紙には綾があって、艶があって、真黒な胡蝶の天鵝絨の羽のように美しく……一枚開くと、きらきらと字が光って、細流のように動いて、何がなしに、言いようのない強い薫が芬として、目と口に浸込んで、中に描いた器械の図などは、ずッしり鉄の楯のように洋燈の前に顕れ出でて、絵の硝子が燐と光った。",
+              "citation": {
+                "source": "国貞えがく",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "馬車を棄てて山にかかったときなどは、その強い日の光が毛孔から総身に浸込むように空気が澄徹していた。",
+              "citation": {
+                "source": "満韓ところどころ",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "春の青菜香しと雖ども、一昨日かけし小便は深く其葉に浸込たらん。",
+              "citation": {
+                "source": "肉食之説",
+                "author": "福澤諭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其れから日本で喉を焼けば直ぐ含嗽をするのだが、此医者はぐつと嚥下して仕舞へ、然うすると薬が喉の奥へ善く浸込むからと云ふ。",
+              "citation": {
+                "source": "巴里より",
+                "author": "與謝野寛、與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "沢山の肉を焼く時にはその味を浸込ませるため鉄串か箸でポツポツと肉へ孔を明けてもようございます。",
+              "citation": {
+                "source": "食道楽",
+                "author": "秋の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "君は何となしまだ此の社会の灰汁が骨まで浸込んでいないようだ。",
+              "citation": {
+                "source": "別れたる妻に送る手紙",
+                "author": "近松秋江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "愛ちやんは當惑して、知らず／＼衣嚢に片手を入れ、乾菓子の箱を取出し、（幸ひ鹹水は其中に浸込んで居ませんでした）褒美として周圍のものに殘らず其れを渡してやりました。",
+              "citation": {
+                "source": "愛ちやんの夢物語",
+                "author": "ALICE'S ADVENTURES IN WONDERLAND.",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

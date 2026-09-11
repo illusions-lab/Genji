@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "d4535230-3f83-5988-a083-0073d1940afd",
+    "entry": "掻浚",
+    "reading": {
+      "primary": "掻浚",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　翌日の夜彼は途中のデパートで、掻浚へるやうにして買ひ集めた食料品や菓子をもつて、海岸の家へ帰つて行つた。",
+              "citation": {
+                "source": "青い風",
+                "author": "徳田秋聲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "瞬きをしてゐる間に、誰かが自分を掻浚つて來て恁麼曠野に捨てて行つたのではないかと思はれる。",
+              "citation": {
+                "source": "散文詩",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やがて、御盃や御羽織を掻浚うようになすって、旦那様は御部屋から御座敷の方へいらっしゃる。",
+              "citation": {
+                "source": "旧主人",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "紙屑の御払はございませんか」　と呼んで来たのを幸、すっかり掻浚って、籠に積った紙屑の中へ突込んで売りました。",
+              "citation": {
+                "source": "旧主人",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

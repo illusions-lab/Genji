@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "d3708bbe-0490-50a2-b71c-9444784b81bb",
+    "entry": "剳青",
+    "reading": {
+      "primary": "剳青",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "想うに渠が雪のごとき膚には、剳青淋漓として、悪竜焔を吐くにあらざれば、寡なくも、その左の腕には、双枕に偕老の名や刻みたるべし。",
+              "citation": {
+                "source": "義血侠血",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まずどうするとお思いなさる、……後で聞くとこの蝋燭の絵は、その婦が、隙さえあれば、自分で剳青のように縫針で彫って、彩色をするんだそうで。",
+              "citation": {
+                "source": "菎蒻本",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もう一人は色の白い、どちらかと云へば小柄な男だが、手首まで彫つてある剳青が目立つせゐか、糊の落ちた小弁慶の単衣物に算盤珠の三尺をぐるぐる巻きつけたのも、意気と云ふよりは寧ろ凄味のある、自堕落な心もちしか起させなかつた。",
+              "citation": {
+                "source": "鼠小僧次郎吉",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　色の白い、小柄な男は、剳青のある臂を延べて、親分へ猪口を差しながら、「あの時分の事を考へると、へへ、妙なもので盗つ人せえ、懐しくなつて来やすのさ。",
+              "citation": {
+                "source": "鼠小僧次郎吉",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「だつとつて御前さん、そんな駈け出しの胡麻の蠅に鼠小僧の名をかたられちや――」　剳青のある、小柄な男は、まだ云ひ争ひたい気色を見せたが、色の浅黒い、唐桟の半天を羽織つた男は、悠々と微笑を含みながら、「はて、このおれが云ふのだから、本望に違え無えぢや無えか。",
+              "citation": {
+                "source": "鼠小僧次郎吉",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

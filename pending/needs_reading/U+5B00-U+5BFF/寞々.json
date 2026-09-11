@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "0d118982-897e-5ca5-a291-607db496b691",
+    "entry": "寞々",
+    "reading": {
+      "primary": "寞々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼は積極的に生きようといふ欲望にも燃えず、凡ての事柄に興味を失ひ、只々現實を嫌惡し、空々寞々たる隱者のやうな生活を夢のやうに頭のなかにゑがいて、ぼんやり一日をくらすやうになつた。",
+              "citation": {
+                "source": "癩",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は積極的に生きようという欲望にも燃えず、すべての事柄に興味を失い、ただただ現実を嫌悪し、空々｜寞々たる隠者のような生活を夢のように頭のなかにえがいて、ぼんやり一日をくらすようになった。",
+              "citation": {
+                "source": "癩",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　やがて、女が一言二言何かつぶやきながら、廊下へ出て行くと、パチンと頬を殴る音が続けざまに聞えていたが、やがてまた外は無気味な、汚水のような寞々とした静かさになった。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　女が、一言二言つぶやきながら、廊下へ出ると、パチンと頬を打つ音が続けざまに聞えて、無意味な、汚水のような寞々とした静かさが続いて、女の乱して行った空気が、仲々しずまらなかった。",
+              "citation": {
+                "source": "放浪記（初出）",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秋の深夜はいつか曇って、寞々とした雲棚引き、東の涯にただ一つ糠星が瞬いているばかり、四方を囲繞く峨々たる山は、闇を凌いで黒く聳え嵐に吹かれて唸りをあげ、山裾を流れる大河の水は岩に遮かれて叫んでいる。",
+              "citation": {
+                "source": "蔦葛木曽棧",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "詩形の標準　新体詩は嘗て一たび秋の芒の如く出でたり、而して今や即ち寂々寞々たり。",
+              "citation": {
+                "source": "詩人論",
+                "author": "山路愛山",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "5aee2bf0-8a3f-5c2c-9229-a9815991c97c",
+    "entry": "困乏",
+    "reading": {
+      "primary": "困乏",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "計営窘蹙困乏するも、卑劣なる奸詐の事を為す勿れと也。",
+              "citation": {
+                "source": "囲碁雑考",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此等の文句は何れも城守困乏の甚しき状況を形容したものとも解し得るけれども、後世飢饉の際に、支那人は彼此その子を易へて食に充てた實例に照らすと、又籠城久しきに亙る場合、支那人はよく人肉を糧食に供した實例に照らすと、此等の文句は、單なる形容以上に、幾分の事實を傳へたものと斷ぜねばなるまい。",
+              "citation": {
+                "source": "支那人間に於ける食人肉の風習",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "平民的の困乏あるがゆえなり。",
+              "citation": {
+                "source": "将来の日本",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "尊氏の謀叛によって、吉野へ落ちられた後は、薨去まで約五十年、全く流離困乏の御生活であった。",
+              "citation": {
+                "source": "中世の文学伝統",
+                "author": "風巻景次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自分は六歳から他国の人質となって、一衣一飯にも、つぶさに辛苦をなめて来たが、それにもまさる貧苦困乏の味を知っている譜代の家中すら、みなこう変って来たかと思うと、恐るべきものを感じる。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第四分冊",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "8d23c0da-0642-551f-9028-338d8c380b66",
+    "entry": "褒州",
+    "reading": {
+      "primary": "褒州",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "かくて、曹操が自負していた智謀も、かえって曹操の黒星を増すばかりとなって、ここ甚だしく生彩を欠いた魏軍は、南鄭から褒州の地も連続的に敵の手へ委して、一挙、陽平関にまで追われてしまった。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蜀の大軍は、すでに南鄭、※中、褒州の地方にまで浸透して来て、宣撫や治安にまで取りかかり、遺漏のない完勝ぶりを示していた。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが、気概は反対に凜々たるものがあり、奉行が、褒州の境にある敵について注意すると、「安心しろ。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "宵に出て、夜半頃、この蜿蜒たる輜重の行軍は、褒州の難所へかかった。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

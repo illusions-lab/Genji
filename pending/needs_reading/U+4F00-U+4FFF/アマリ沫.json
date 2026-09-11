@@ -1,0 +1,146 @@
+[
+  {
+    "uuid": "8cdc274e-1e31-561b-8de1-9d927f973476",
+    "entry": "余沫",
+    "reading": {
+      "primary": "あまり沫",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "樹明居を往訪する、病気見舞でもあるし、お詑びでもある（私のワヤの余沫が同君へまで飛んだのである）、対坐してゐるのも気の毒だから、水を腹いつぱいよばれて戻つた（こゝの井戸はもう水が涸れて濁つて、とても生水は飲めない）。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは、蔭で云って居る河野の悪口のホンの余沫が出たのに過ぎなかった。",
+              "citation": {
+                "source": "神の如く弱し",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その余沫を、いつも彼の嘲罵の的になっている福島と云う青木の家と丁度背中合せで、近頃新築した可成り大きい家の主人に向けたものらしかった。",
+              "citation": {
+                "source": "琥珀のパイプ",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのためには、余沫をうけて書かでもがなの人のことや秘事までが出されたりして、余計にその事件に関係をもった当事者たちを苛立たせ迷惑をかけもした。",
+              "citation": {
+                "source": "芳川鎌子",
+                "author": "長谷川時雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その余沫が頻に飛んで来るのを覚えると同時に、顔一杯に火のほてりを感じた。",
+              "citation": {
+                "source": "公孫樹",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "猶、そのいみじき灌奠の余沫は枝より、屋根より、はらはらと降らせぬ、水晶の粒を、銀の粒を、真珠の粒を。",
+              "citation": {
+                "source": "晶子詩篇全集",
+                "author": "與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ゆっくりと果し合い――それは至極面白そうだ」　竜之助は、微笑を以て言下に果し合いの申込みを引受けて、その微笑の余沫を冷やかに壮士の面に投げる。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "壬生と島原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "右の眼玉は抉り取られ、空洞になった眼窩には、タップリと血潮が湛えられ、そこから流れ出した余沫が、口から溢れ出る血と合流して首筋の方へ滴り落ちている。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "路地の雪はもう大抵両側の溝板の上に掻き寄せられていたが人力車のやっと一台通れるほどの狭さに、雪解の雫は両側に並んだ同じような二階｜家の軒からその下を通行する人の襟頸へ余沫を飛している。",
+              "citation": {
+                "source": "雪解",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "哲学者が称号の余沫とでも呼びそうなものを、彼らは自分の身にまとって喜ぶ。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この時｜賊は周章の余り、有り合わせたる鉄瓶を春琴の頭上に投げ付けて去りしかば、雪を欺く豊頬に熱湯の余沫飛び散りて口惜しくも一点｜火傷の痕を留めぬ。",
+              "citation": {
+                "source": "春琴抄",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "餘沫"
+      ],
+      "needs_reading": true
+    }
+  }
+]

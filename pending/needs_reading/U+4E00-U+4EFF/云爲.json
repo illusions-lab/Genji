@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "6cffc26a-32c1-5a66-bf7f-a55be754a853",
+    "entry": "云爲",
+    "reading": {
+      "primary": "云爲",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そも／＼我は誓約の良心を縛するあるにあらず、責任の云爲を妨ぐるあるにあらずして、何故に我前に湧ける愛の泉を汲まざりしぞ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "詩文の中なる個々の人物、おの／＼其特質ありて云爲するさま是なり。",
+              "citation": {
+                "source": "柵草紙の山房論文",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その特質ある人物の云爲する間に、これを支配すべき因縁果の理法ありて一貫するさま是なり。",
+              "citation": {
+                "source": "柵草紙の山房論文",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼ノ投票神權説ニ累セラレテ、鮮人ニ先ヅ參政權ヲ與ヘテ政治的訓練ヲナスベシト考フルハ、其ノ權利ノ根本タル覺醒的生長ヲ閑却シタル愚人ノ云爲ナリトス。",
+              "citation": {
+                "source": "日本改造法案大綱",
+                "author": "北一輝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然れども讀者よ、吾人は何の宿罪ありて道學先生の云爲に傚はざるべからざる乎。",
+              "citation": {
+                "source": "美的生活を論ず",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かように戀人「机龍之助」を心に持つ私が、例えいかに力めるにしても、その他の「机龍之助」を批判し云爲することは、これこそ評される「机龍之助」にとつて有利な譯がない、これは避くべきであると同時に、またその時期でもあるまいと信ずる。",
+              "citation": {
+                "source": "私の龍之助感",
+                "author": "――舞臺上の愛人――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "若しそれ、金剛智三藏より以前の龍猛・龍智神の事蹟に至りては、これを無責任なる俗學者の云爲に任せず、眞言宗全體の碩學と共に研究して余は更に合理的説明をなさんとするものであります。",
+              "citation": {
+                "source": "金剛智三藏と將軍米准那",
+                "author": "榊亮三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此智と情との關係は、今日人間に於て一身上動靜云爲の細行よりして、國家天下を治むるの大事に至るまで、其成敗利鈍は悉く此關係の相協ふ所に止らざること莫し。",
+              "citation": {
+                "source": "情智關係論",
+                "author": "西周",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

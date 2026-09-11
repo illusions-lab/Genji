@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "0be8f016-5b70-56f0-9570-f60eb3a76e72",
+    "entry": "而爲",
+    "reading": {
+      "primary": "而爲",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『韓非子』に秦の甘茂といふ人が、太僕といふ官につき、兼ねて行人の職を執つたことを、佩僕璽而爲行事と記してある。",
+              "citation": {
+                "source": "秦始皇帝",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如去惡遷善而爲修己之要。",
+              "citation": {
+                "source": "創建清眞寺碑",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "豐後風土記日田郡ノ條ニ「昔者纒向日代宮御宇大足彦天皇、征伐球磨贈於凱旋之時、發筑後國生葉行宮、幸於此郡、有神名曰津媛、化而爲人、參迎辨申國消息、因斯曰久津媛之郡、今謂日田郡者訛也」上ノ津媛ノ上ニ、久字落チタルカ、生葉ハ、景行紀ニ的邑トアリ、今ノ生葉郡ナリ。",
+              "citation": {
+                "source": "倭女王卑彌呼考",
+                "author": "白鳥庫吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故感性、與覺作二性相待、而爲用者。",
+              "citation": {
+                "source": "靈魂一元論",
+                "author": "西周",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

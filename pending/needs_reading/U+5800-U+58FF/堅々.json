@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "bc3fa002-6f20-5ca9-9cf8-2f763f363bce",
+    "entry": "堅々",
+    "reading": {
+      "primary": "堅々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "脱ぎすてると、彼女は、ただの堅々しい御寮人さまか、武家の奥さんという風の女としか見えない。",
+              "citation": {
+                "source": "大岡越前",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いったい、誰にむかって、何を渡せといっておるのか」　かごの垂れを刎ねて、そこへ出て来た人影を見ると、父楽翁とおもいのほか、黒い夜露頭巾を被り、黒つむぎの袷に、袴もきちんと着け、年ごろ四十五、六の堅々しい感じの中に、どこか眼には鋭さのある武家だった。",
+              "citation": {
+                "source": "大岡越前",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金蓮、良人の目を縫うこと　堅々しい古舗の旦那も、あてにはならない。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "仲の町の老妓らしいのや、辰巳の羽織かと思われる仇ッぽいのや、堅々しい奥様風や、町娘や、雑多にいた。",
+              "citation": {
+                "source": "脚",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だから昼は爪弾きの音が流れ、夕めくと、店の前を芸妓の木履の鈴が通り、金春の姐さんなどが、湯上がりの上ゲ鬢を涼やかに見せて行くなど、濃厚な脂粉の気も漂うのだが、それが堅々しい商店やそこらの家庭とも道路の裏表で交錯しながら、新古、何の不調和もなく町の色を組み立てていたのであった。",
+              "citation": {
+                "source": "忘れ残りの記",
+                "author": "――四半自叙伝――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

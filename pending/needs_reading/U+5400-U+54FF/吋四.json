@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "fa593f78-9cda-55fa-b16c-e9d40f218582",
+    "entry": "吋四",
+    "reading": {
+      "primary": "吋四",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "帽子は舶来の緑色ベロアに同じ色のリボン七｜吋四分の三。",
+              "citation": {
+                "source": "暗黒公使",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』　そしてその申訳のように、彼女は父の分と良人のぶんと二｜吋四方ほどの黒の絹はんけちを二枚、靴下の腿のところから摘み出して、別々のハンケチで左右の眼から桃色の蝋のしたたりのような涙を拭くのである。",
+              "citation": {
+                "source": "踊る地平線",
+                "author": "Mrs. 7 and Mr. 23",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（レーマンのレコードは歌劇全曲物とドイツ歌曲集以外は全部コロムビアに入っている）　レーマン夫人の最大傑作は、コロムビアのレコードに入っている、シューマンの『女の愛と生涯』（Ｊ五三九二―五）十｜吋四枚の、全曲レコードであろう。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

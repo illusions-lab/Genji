@@ -1249,5 +1249,137 @@
         "マチマチ"
       ]
     }
+  },
+  {
+    "uuid": "567f7d2e-6299-52ba-b4b4-07286000a973",
+    "entry": "市々",
+    "reading": {
+      "primary": "まちまち",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "坦々たる平原のあいだに建の低い市々が、まるで点か記号のように突起しているだけで、何ひとつ人の眼を惹き、心を魅惑するものがない。",
+              "citation": {
+                "source": "死せる魂",
+                "author": "または　チチコフの遍歴　第一部　第二分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "壮観な市々の中を、青銅の車に乗つて見上げるやうに美しかつたかのシベールが、走り廻つてゐたといふ時代を私は追惜します。",
+              "citation": {
+                "source": "ランボオ詩集",
+                "author": "OEVRES D'ARTHUR RIMBAUD",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アダムが神の御名を呼んで世界の王となつたその日、西と東と北と南のその市々に大きな溜息がきこえて、朝が来ても地の娘たちは天上の恋人たちの朝日にひかる翼のうごきにももう目を覚さなかつた。",
+              "citation": {
+                "source": "四つの市",
+                "author": "片山廣子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アダムの側にイヴが目をさまして、とこしへの不思議を湛へた眼でアダムを見た時、黄昏の嘆きと告別の声が市々にきこえてゐた、海ぎしのムリアスに、高山の嶺に立つゴリアスに、ひそかな静かな園のファリアスに、月光が槍のやうに射す平野のフィニアスに。",
+              "citation": {
+                "source": "四つの市",
+                "author": "片山廣子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かうしてリリスの娘らは塵のやうに、露のやうに、影のやうに、枯葉のやうに過ぎ去つて、四つの無人の市々ができたのである。",
+              "citation": {
+                "source": "四つの市",
+                "author": "片山廣子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アダムは立ち上がり、イヴに住む人のないその四つの市々を見て歩き、世界の四つの古い秘密を探して持つて来るやうにと言つた。",
+              "citation": {
+                "source": "四つの市",
+                "author": "片山廣子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かういふ伝説をまるのみにして書いて見たところで、その大古の四つの市々はいまの私たちにはひどく遠い無縁のものである。",
+              "citation": {
+                "source": "四つの市",
+                "author": "片山廣子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "わが臣下等はフランドル、独逸の国々より、馬耳塞、ジエノアの市々に亘つて、不思議の報知を送つて来る。",
+              "citation": {
+                "source": "法王の祈祷",
+                "author": "RECIT DU PAPE INNOCENT 3",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "処々の市々は黙したる裸形の女人等が走り歩るくを見た。",
+              "citation": {
+                "source": "法王の祈祷",
+                "author": "RECIT DU PAPE INNOCENT 3",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は人間の市々に来た、凡ての人々は震い怖れた、彼等も太古の神の代の戦争を記臆していて、今また新しい戦争を怖れ、人間の種族のために懸念したのだ。",
+              "citation": {
+                "source": "人馬のにひ妻",
+                "author": "ロード・ダンセイニ　Lord Dunsany",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
   }
 ]

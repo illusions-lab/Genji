@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "7d1ee537-7600-5ce4-bff6-39f2c2645bb0",
+    "entry": "吻々",
+    "reading": {
+      "primary": "吻々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "親鳥も、とりめにでもならなければ可い、小児の罰が当りましょう、と言って、夫人は快活に吻々と笑う。",
+              "citation": {
+                "source": "婦系図",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　で、わざと慰めるように吻々と笑った。",
+              "citation": {
+                "source": "歌行燈",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "珍客に驚きて、お通はあれと身を退きしが、事の余りに滑稽なるにぞ、老婆も叱言いう遑なく、同時に吻々と吹き出しける。",
+              "citation": {
+                "source": "妖僧記",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吻々吻と花やかな、笑い声、浜のあたりに遥に聞ゆ。",
+              "citation": {
+                "source": "悪獣篇",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」といって、塗盆を片頬にあてて吻々と笑った、聞えた愛嬌者である。",
+              "citation": {
+                "source": "黒百合",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「鉄さんぐうの音も出ずさ、こりゃお時さんが道理だ、はははは、」　歯の抜けた笑いに威勢の可い呵々が交って哄となると、件の仕舞屋の月影の格子戸の処に立っていた、浴衣の上へちょいと袷羽織を引掛けた艶なのも吻々と遣る。",
+              "citation": {
+                "source": "三枚続",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "新造に取着かれる覚はないから、別に殺そうというのじゃあなかろう、生命に別条がないと極りゃ、大威張りの江戸児、」「吻々々々、」「ほんとうに度胸を据えました、いえ、大したことじゃありません。",
+              "citation": {
+                "source": "三枚続",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "答　川安に連れて行ったと申立てようと思いましたが、川安に行っていると申して、直ぐ探偵の結果連れて行き居らぬと云うことが分ると、頭蓋骨との接吻々々。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "返答に困った所々は当惑々々と云う文字を挟み、或いは頭蓋骨との接吻、単に接吻々々などと読む人をして思わず失笑せしめる位に軽妙に書いてある。",
+              "citation": {
+                "source": "支倉事件",
+                "author": "甲賀三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斯う思いながら縁から見て居ると、頭上の日はカン／＼照りながら、西の方から涼しいと云うより寧冷たい気が吻々と吹っかけて来る。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

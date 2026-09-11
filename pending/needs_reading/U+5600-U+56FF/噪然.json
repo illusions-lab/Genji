@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "ec5b8638-1e3a-51cf-95a9-8e9b5b2901b5",
+    "entry": "噪然",
+    "reading": {
+      "primary": "噪然",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "たしかに主人公がいないと見極めて、急に悪性がこみ上げて来て、この蛮行に出でたものかも知れない――この雑然、噪然、困惑の中に、金椎のみは別世界にいるように、いっかな夢を破られてはいないことがかえって不憫でもある。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "年魚市の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは震災前後の、雑音だらけなレコードであったが、ケンプの若さと情熱は、噪然として粗悪な録音から湧きこぼれたものである。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "d664dac5-b06c-54af-b694-e0d7bf44411c",
+    "entry": "除々",
+    "reading": {
+      "primary": "除々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そして、その一団の密雲は、ちょうど渓谷の対岸辺りを縁にして、除々と西北の方角に動きはじめたのであったが、そのうち、いやにぬくもりを含んだ風が、峰から吹き下りて来たかと思うと、やがて轟々たる反響が、広い地峡の中を揺ぶりはじめた。",
+              "citation": {
+                "source": "白蟻",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "車除々として進行を止めず。",
+              "citation": {
+                "source": "草津行",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は実は、学校を卒えても父母の財産で生活していって、除々に創作などをする、そういった呑気な気持でいた。",
+              "citation": {
+                "source": "父母に対する私情",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ひどく頭を打たれたのから除々に回復するのはしばしばかなり平均を失う仕事である。",
+              "citation": {
+                "source": "金の十字架の呪い",
+                "author": "チェスタートン",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

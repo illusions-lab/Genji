@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "ad1c1c8a-bd26-5f66-9c30-a2ffce1626ef",
+    "entry": "穆々",
+    "reading": {
+      "primary": "穆々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そこで、此が転じて来ると、宮殿其ものゝ意味ともなり、又更に転じては、ある解釈に於ける、穆々たる文王といつた、ほのぐらい処に奥深くいます、といふ意味にもなるのである。",
+              "citation": {
+                "source": "神道に現れた民族論理",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "穆々たる宮の内の明りは、ほのかな香氣を含んで、流れて居た。",
+              "citation": {
+                "source": "死者の書",
+                "author": "釋迢空",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "穆々たる宮の内の明りは、ほのかな香気を含んで流れて居た。",
+              "citation": {
+                "source": "死者の書",
+                "author": "――初稿版――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "穆々たる宮の内の明りは、ほのかな香気を含んで、流れて居た。",
+              "citation": {
+                "source": "死者の書",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

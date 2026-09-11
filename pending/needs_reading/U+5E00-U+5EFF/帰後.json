@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "28719419-9bed-5057-ab2f-8dc2d0b2b4e3",
+    "entry": "帰後",
+    "reading": {
+      "primary": "帰後",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "帰後｜独坐感慨これを久うす。",
+              "citation": {
+                "source": "突貫紀行",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又「帰後已一年」と云つてあるのも、十二箇月に満ちた一年とは看做されない。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "茶山は神辺に還つた後、「帰後入城途上」の作がある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "扨帰後早速に何か可申上候処、私も病気こゝかしこあしくなり、漸此比把筆出来候仕合、延引御断も無御坐候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "帰後はをかしき咄もきかず、日々東望いたし、あはれ、江戸が備中あたりになればよいとのみ痴想いたし候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "茶山は帰後時々それを用つて興を添へると云つてゐる。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "帰後はなしとも礫とも不承候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三人の帰後余は夫人の為に手紙の代筆などし少しく語りたる後辞し帰りぬ。",
+              "citation": {
+                "source": "「或る女」についてのノート",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一劫すらなおしかり、いわんや無量劫をや」と）山堂清話曰、五蘊初起、名之為生、乃至四大分散、名之為死、識神随業旋帰後有。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東帰後はいうもさらなり。",
+              "citation": {
+                "source": "新撰組",
+                "author": "服部之総",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "帰後、高梨の家で不味く酒を呑んだ。",
+              "citation": {
+                "source": "青べか日記",
+                "author": "――吾が生活　し・さ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "予は帰後責任を問う手紙をしようと思ったが止める。",
+              "citation": {
+                "source": "青べか日記",
+                "author": "――吾が生活　し・さ",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

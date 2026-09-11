@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "81682d73-87d4-51ea-9f79-4281fd7e2fde",
+    "entry": "柮",
+    "reading": {
+      "primary": "柮",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "聲をかけはいつて行くと、熊吉は消えかけた榾柮火を前にしてうす暗がりのなかにひとりつくねんとして坐つてゐた。",
+              "citation": {
+                "source": "黎明",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "熊吉も太田も無言のままに向ひ合ひ、消えかけて最後の煙をあげてゐる榾柮火をぢつと見つめてゐた。",
+              "citation": {
+                "source": "黎明",
+                "author": "島木健作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "訶和郎は野犬と狼とを防ぐために、榾柮を焚いた。",
+              "citation": {
+                "source": "日輪",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "卑狗の大兄の幻が彼女の眼から消えてゆくと、彼女は涙に濡れながら、再び燃え尽きる榾柮の上へ新らしく枯枝を盛り上げた。",
+              "citation": {
+                "source": "日輪",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "榾柮の次第に尽きかけた頃、山麓の闇の中から、突然に地を踏み鳴らす軍勢の響が聞えて来た。",
+              "citation": {
+                "source": "日輪",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "臺所の圍爐裡に榾柮を燻べて家ぢゆうの者は夜を更かします。",
+              "citation": {
+                "source": "業苦",
+                "author": "嘉村礒多",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まず、ぬすびとの御馳走をくえ」　彼等は手に手に榾柮をとり、ところかまわず大納言を打ちのめした。",
+              "citation": {
+                "source": "紫大納言",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ひとり、ふたり、彼等は自然に榾柮をなげた。",
+              "citation": {
+                "source": "紫大納言",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうして、いちばん最後まで榾柮をすてずにいたひとりが、榾柮の先に火をつけて、大納言のあらわな股にさしつけた。",
+              "citation": {
+                "source": "紫大納言",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

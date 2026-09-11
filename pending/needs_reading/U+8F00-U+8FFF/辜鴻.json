@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "494f547b-430b-56af-aaed-27fdee962e7b",
+    "entry": "辜鴻",
+    "reading": {
+      "primary": "辜鴻",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "尠くとも西洋の文化に、必然的に隨伴するが如く見える、權利思想や反抗氣分や、乃至辜鴻銘のいはゆる群氓禮贊（Mob-worship）の如き、好ましからざる諸事相も、之によつて幾分緩和されるかと思ふ。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "數年前に日本に來て居りました辜鴻銘と云ふ學者の本には此の二人は支那夫人の典型だと云ふことを書いて、支那の男子は蓄妾を行ふが支那の婦人は嫉妬をしない。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二　辜鴻銘先生　辜鴻銘先生を訪う。",
+              "citation": {
+                "source": "北京日記抄",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "勿論辜鴻銘先生なり。",
+              "citation": {
+                "source": "北京日記抄",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕の上海を去らんとするに当り、ジョオンズ、僕の手を握って曰、「紫禁城は見ざるも可なり、辜鴻銘を見るを忘るること勿れ。",
+              "citation": {
+                "source": "北京日記抄",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "先日もある支那の學者で非常に保守的な傾向を持つた辜鴻銘と云ふ人が我國に來たので私も京都大學で遇ひました。",
+              "citation": {
+                "source": "支那研究に就て",
+                "author": "狩野直喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "辜鴻然といふ図書館長と、アルクヰン聖書に就てかたる。",
+              "citation": {
+                "source": "希臘十字",
+                "author": "高祖保",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

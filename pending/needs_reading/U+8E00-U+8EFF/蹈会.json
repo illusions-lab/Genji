@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "cccda17e-9c91-518c-9fed-09aa47876fa2",
+    "entry": "蹈会",
+    "reading": {
+      "primary": "蹈会",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "上流の夫人令嬢は、洋髪洋装で舞蹈会に出た。",
+              "citation": {
+                "source": "娘",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "親を欺き、夫婦｜喧嘩をし、さんざ泣いたり笑ったりした揚句の果てに、己が味わった舞蹈会と云うものは、こんな馬鹿げたものだったのか？",
+              "citation": {
+                "source": "痴人の愛",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十二閑散であった大森の家には、浜田や、熊谷や、彼等の友達や、主として舞蹈会で近づきになった男たちが、追い追い頻繁に出入りするようになりました。",
+              "citation": {
+                "source": "痴人の愛",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "このユスタスと云う男は、マッカネル以上に不愉快な奴で、ナオミの御機嫌を取ることが実に上手で、一度私は、腹立ち紛れに、舞蹈会の時｜此奴を打ん殴ったことがあります。",
+              "citation": {
+                "source": "痴人の愛",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

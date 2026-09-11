@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "f029d39f-abbb-5a81-87f7-19973ab57ea4",
+    "entry": "蠎",
+    "reading": {
+      "primary": "蠎",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "大連が一台ずつ、黒塗り真円な大円卓を、ぐるりと輪形に陣取って、清正公には極内だけれども、これを蛇の目の陣と称え、すきを取って平らげること、焼山越の蠎蛇の比にあらず、朝鮮｜蔚山の敵軍へ、大砲を打込むばかり、油の黒煙を立てる裡で、お誓を呼立つること、矢叫びに相斉しい。",
+              "citation": {
+                "source": "燈明之巻",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われ近ごろ、猛き獅子と巨蠎と、沙漠の真中にて苦闘するさまを描ける洋画を見たり。",
+              "citation": {
+                "source": "わかれ",
+                "author": "国木田独歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蠎蛇の鳥を呑むときは、鳥自ら飛びて其｜咽に入るといふ類にやあらん。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蠎蛇にはかなり大きいのがいる。",
+              "citation": {
+                "source": "青蛙堂鬼談",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "内には桶の胴のような白い蠎蛇がいて、それが燃盞のような両眼を光らし、炎のような舌を出して、戴先生を一呑みにしようとするように口を持って来た。",
+              "citation": {
+                "source": "蛇性の婬",
+                "author": "雷峯怪蹟",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして寝台の中にもぐりこむが早いか、蠎のような寝息をたてだした。",
+              "citation": {
+                "source": "暗号数字",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "麹町へ巨蠎なんか出つこはねえ」「今度のは巨蠎ぢやねえ、丈吉の野郎が井戸で死んで居るんだ」「何だと」　駒次郎は、跣足で飛降りました。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "くるひ咲",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

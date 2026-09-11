@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "f4b15318-f839-53d5-a6d9-92db1aa2e9c1",
+    "entry": "鉱埋",
+    "reading": {
+      "primary": "こう埋",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "岬の丘に登ると、太平洋炭鑛埋立地が南の防波堤に續き、まるで海を二ツに切つたやうに見える。",
+              "citation": {
+                "source": "摩周湖紀行",
+                "author": "――北海道の旅より――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "鑛埋"
+      ],
+      "needs_reading": true
+    }
+  }
+]

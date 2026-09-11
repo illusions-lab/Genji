@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "fd81bbe7-6c01-5178-b913-060136bda90d",
+    "entry": "攪擾",
+    "reading": {
+      "primary": "攪擾",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "もしもこの際に流行の洋学者か、または有力なる勤王家が、藩政を攪擾することあらば、とても今日の旧中津藩は見るべからざるなり。",
+              "citation": {
+                "source": "旧藩情",
+                "author": "福沢諭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吾々は外界に起る種々の出來事や事變に始終攪擾されて居る、其れが爲めに内心の不安が起る、これが人生に於ける不幸の淵源である。",
+              "citation": {
+                "source": "懷疑思潮に付て",
+                "author": "朝永三十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "眞正の幸福を得んと欲するならば、外界に如何なることが起らうとも毫末も之によりて攪擾されぬといふ境界即ち「アタラクシア」の状態に到達しなければならぬ。",
+              "citation": {
+                "source": "懷疑思潮に付て",
+                "author": "朝永三十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "苦なるものはもと精神の攪擾、不均衡に基くのであるから、此絶對的服從によつて我々の精神は平和と均衡とを囘復し、以て苦を脱することが出來るのであります。",
+              "citation": {
+                "source": "學究漫録",
+                "author": "朝永三十郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

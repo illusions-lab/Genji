@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "7ce2648b-d6ff-5108-b2e0-93645645a439",
+    "entry": "已十",
+    "reading": {
+      "primary": "已十",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "終日尋春不見春　　杖藜踏破幾重雲帰来拭把梅花看　　春在枝頭已十分　その梅はもう盛りをすぎたけれど、あちらこちらにしろじろと立っている。",
+              "citation": {
+                "source": "三八九雑記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "余及今猶迷取捨）六月四日天涯孤客、不歸郷已十年山村一去路千里　　山村一去路千里、雲間空望阿母家　　雲間空しく望む阿母の家。",
+              "citation": {
+                "source": "閉戸閑詠",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "余はかつて古人の詩を思い出し、尽日尋春不見春、芒鞋蹈遍隴頭雲、帰来笑撚梅花嗅、春在枝頭已十分。",
+              "citation": {
+                "source": "おばけの正体",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一別以来已十霜、西天夢跡去茫茫、濠陽今日再相会、依旧喜君心自芳。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

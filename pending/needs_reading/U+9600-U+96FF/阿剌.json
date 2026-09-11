@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "1d2a4a5a-3079-5353-ba61-f10da5380def",
+    "entry": "阿剌",
+    "reading": {
+      "primary": "阿剌",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "埃及、印度、支那、阿剌比亜、波斯、皆魔法の問屋たる国※だ。",
+              "citation": {
+                "source": "魔法修行者",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿剌比亜夜話の魔法にかかった王子や王女たちの羊の、一千匹も捕えて来て、それらの胃袋を断ち割って、中のどろどろを掻きさらって、一ところに集めたら、成程こうでもあろうか。",
+              "citation": {
+                "source": "フレップ・トリップ",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ちょうど阿剌比亜の沙漠を渡る隊商ですね。",
+              "citation": {
+                "source": "狂人は笑う",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてアフロヂテの泡と呼ばれている、阿剌比亜の香水のはいった石鹸を丁寧に塗りながら、……皇帝の朝の化粧は終りに近づいた。",
+              "citation": {
+                "source": "大衆文芸作法",
+                "author": "直木三十五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "西部東洋の土耳古・阿剌比亞・波斯・印度等はヨーロツパにやられた。",
+              "citation": {
+                "source": "季節の馬車",
+                "author": "佐藤惣之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此説話は、忠犬グレルトの話として、欧羅巴の諸国に広く物語らるるものにして、其はじめ、東方より伝わりし者なることは、大抵明かなるも、其本源地の波斯なるや、阿剌比亜なるや、或は印度より、かの二国を経て来りしや、今日より之を判断すること難し。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十世紀の頃、阿剌比亜の記録に之を加えしは、オイティウスなりき。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日は醉ひぬ、緑は蒸しぬ、ゆをびかに野はうるみたり、揚雲雀――阿剌吉のみ魂、軟風や輕き舞ぎぬ。",
+              "citation": {
+                "source": "有明集",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "久々で帰る故国への途……その故国には懐かしい貴方の顔が見え……兄の顔、嫂の顔が泛び……友達たちの顔……その懐かしい故国への途々、埃及阿剌比亜あたりの沙漠や、ペルシャ湾印度洋の白波を、雲海遥かの下に俯瞰しながら、そうした取り留めもない空想に耽っていたことは、どんなに楽しい夢だったか知れません。",
+              "citation": {
+                "source": "仁王門",
+                "author": "橘外男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "埃及、印度、支那、阿剌比亜、波斯、皆魔法の問屋たる国々だ。",
+              "citation": {
+                "source": "露伴先生と神仙道",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

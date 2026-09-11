@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "b11686d8-fa47-58f1-836e-e0fe8b87296d",
+    "entry": "阿芳",
+    "reading": {
+      "primary": "阿芳",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "由平は其の村の油屋｜九平の娘の阿芳と心中を企てたのであったが、泳ぎを知っていたので夢中で泳いだものらしく、我にかえった時には、自分一人だけが波打際に身を横たえていた。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "由平は阿芳だけ殺してはすまないと思って、三度海の方へ歩いて往ったが、黝ずんだ海の色を見ると急に怖気がついた。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "翌朝阿芳の死体は漁師の手で拾いあげられた。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "由平と阿芳の間は村の人だちにうすうす知られていたので、村の人だちの眼は由平に集った。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは死んだはずの阿芳であった。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿芳の顔は蒼くむくみあがって、衣服はぐっしょりと濡れていた。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "由平は椀を取って阿芳の顔へ投げつけた。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「何人だ」　それは阿芳の姿であった。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "燈の無い真暗の室の中で阿芳の姿ははっきり見えた。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "由平はそれを取って阿芳に斬りつけた。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿芳の自殺した江此間の海岸は、今は海水浴場になって、附近には立派な別荘や旅館などが建っているが、阿芳の投身したと云われる所は、三百坪ばかりの空地になっていて、何人もそれに手をつける者がなかった。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "万一手をつける者があると阿芳の怨霊に祟られると云われていた。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿芳の怨霊の事は、明治の終り比までは有名であったが、其の後は次第に忘れられていた。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは其の空地で芝居をやったところで、好天気でもあり客は満員の盛況であったが、一幕終った比から天気が急変して大雨になり、続いて其の翌日も、翌々日も、五日続けて同じような時刻になって雨が降ったので、芝居はめちゃめちゃになり、土地の人は阿芳の怨霊をそれに結びつけたのであった。",
+              "citation": {
+                "source": "阿芳の怨霊",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 15
+      }
+    }
+  }
+]

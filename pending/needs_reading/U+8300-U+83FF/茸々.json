@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "76c5aca9-c0fc-5e1f-87f9-3b81a8278c26",
+    "entry": "茸々",
+    "reading": {
+      "primary": "茸々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "脱けても知らずに口を開いて、小さな舌を出したなりで、一向正体がない……其時忽ち暗黒から、茸々と毛の生えた、節くれ立った大きな腕がヌッと出て、正体なく寝入っている所を無手と引掴み、宙に釣す。",
+              "citation": {
+                "source": "平凡",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "車に引添うてまだ一人、四十許りの、四角な面の、茸々と髭の生えた、人相の悪い、矢張草鞋穿の土方風の男が、古ぼけて茶だか鼠だか分らなくなった、塵埃だらけの鉢巻もない帽子を阿弥陀に冠って、手ぶらで何だか饒舌りながら来る。",
+              "citation": {
+                "source": "平凡",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "茸は茸々と続けて草がゾクゾクと生えている形容詞であって、それを毛がゾクゾクと生えている貌に見立ててそこで毛茸の字が生れたわけだ。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "キノコの中にはハハキタケ（ホーキタケ）一名ネズミタケ（またの名ネズタケ）の様に叢生している者があるのでそれで草の茸々と叢生する有様に見立てられそこで我邦で茸がキノコという様に成ったに外ならないのである。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

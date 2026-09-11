@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "b00a3ece-b0f4-57eb-952b-e748997cbb17",
+    "entry": "磅貨",
+    "reading": {
+      "primary": "磅貨",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一三〇｜磅の純良な英国｜磅貨幣をハムブルグへ送ることによって、五｜磅の費用を要しても、私はハムブルグで一二五｜磅を得るであろう。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しからばハムブルグにおいて一〇〇｜磅を私に与える手形に対し一三〇｜磅を支払うことを私に承諾せしめるものは、私の磅が純良な磅貨幣でないということ以外の理由で有り得ようか？",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――私の磅は減価せられたのであり、その内在価値においてハムブルグの磅貨幣以下に低下せしめられたのであり、そしてもし実際五｜磅の費用でその地へ送られるならば一〇〇｜磅にしか売れぬであろう。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金属｜磅貨幣をもってすれば私の一三〇｜磅はハムブルグにおいて私に一二五｜磅を与えるであろうが、しかし磅貨幣をもってすれば私は単に一〇〇｜磅を取得し得るに過ぎないということは、否定されていないが、しかし紙幣での一三〇｜磅は銀または金での一三〇｜磅と等しい価値を有つ、と主張されたのである。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金が我国においてもっぱら標準である間は、金が一般価値において騰貴すると下落するとにかかわらず、磅貨幣が本位たる金の五ペニウェイト三グレインと等しい価値を有たない時には、貨幣は減価されていることになるであろう。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もし通商の一般的作用によって、既知の量目と品位とを有つ地金で作られた一千万｜磅貨が英国の持分であり、そして一千万の紙幣｜磅がそれに代えられるならば、為替には何らの影響も生み出されないであろう。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

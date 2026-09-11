@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "000e65fa-6c23-51d5-9f85-754622ac983c",
+    "entry": "屈身",
+    "reading": {
+      "primary": "屈身",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」と、例の女は腕組みをしたまま、前へ屈身むようにして、笑いながら返辞をした、「寝台の帷幄だよ。",
+              "citation": {
+                "source": "クリスマス・カロル",
+                "author": "A CHRISTMAS CAROL",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのとき、一同やや屈身して敬礼をなす。",
+              "citation": {
+                "source": "欧米各国　政教日記",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "コンジャックによれば、呼吸の行動、物を見るために眼を開く行動、川で水を汲むために屈身する行動等は、これらの財に対して支払う犠牲である。",
+              "citation": {
+                "source": "純粋経済学要論",
+                "author": "ELEMENTS D'ECONOMIE POLITIQUE PURE OU THEORIE DE LA RICHESSE SOCIALE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その巨杉の横枝へ、馬上の謙信のすがたは支えられたかと思われたが、屈身、一躍すると、もう混雑の人々の中へ放生月毛の脚は踏みこんでいた。",
+              "citation": {
+                "source": "上杉謙信",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "客に仕え、自分に慎み、低頭屈身、すこしの粗相もないように、終始、おのれの心を人の満足と歓びのために提供しきるなどという行いは、とても信長の性には合わぬことと思われもするのだが、それがこの茶室では極めて自然に行えるのだった。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第六分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "で金吾、なんでその剣風に当り得ましょうか、あとへ退くよと思われましたが、途端に、パッと屈身をのばし、一跳足に手元へとび込み、「むッ」　と、刀の柄頭で、かれの肱を打ち当てますと、その勢いで了戒の一刀は、鍔を眉間に加えるばかり深く相手にのぞみました。",
+              "citation": {
+                "source": "江戸三国志",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "で――孫兵衛は抜刀を後ろ廻しにひそめたまま、屈身を伸ばして、ジッと自分の息を殺した。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "剣山の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あいつに出来るのは「遊動振」ぐらいなもので、「遊動振手ヲ前ヨリ廻シ横デ止メ体ノ前屈身四回宛」などかけられると、どうしていいのか判らないのだ。",
+              "citation": {
+                "source": "赤い駱駝",
+                "author": "梅崎春生",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

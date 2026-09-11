@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "f354cc43-e6c7-5e0c-8dc1-d306755d8205",
+    "entry": "搏撃",
+    "reading": {
+      "primary": "搏撃",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "更に第三の搏撃が加えられた。",
+              "citation": {
+                "source": "太十と其犬",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又熊が前肢を挙げて搏撃せんとして迫つて来た時は、彼は橡の大樹を繞つて遁げながら其狙が敵の咽喉部を貫いたことがあつた。",
+              "citation": {
+                "source": "しらくちの花",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "刃とやいば――とよりも、むしろそれは、気と気、心と心の張りあい、そして、搏撃であった。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "乾雲坤竜の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてその煽りが鋭く私の心臓を搏撃したように感じられた。",
+              "citation": {
+                "source": "ふるさとに寄する讃歌",
+                "author": "夢の総量は空気であった",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてその煽りが鋭く私の心臓を搏撃したやうに感じられた。",
+              "citation": {
+                "source": "ふるさとに寄する讃歌",
+                "author": "――夢の総量は空気であつた――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その叫びは、私の立腹を虞れるあまり、いたく自ら羞ぢらうあまり、徒らに潰れ掠れて、殆んど幽かな呟きでさへなかつたのに、鼓膜を搏撃されたかにビリビリと感じてしまふ私は、怒りのために涙さへ滲むばかりの思ひ詰めた形相をして、重苦しげに立ち上り、「ああ、騒がしい。",
+              "citation": {
+                "source": "蝉",
+                "author": "――あるミザントロープの話――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鎌倉の新府には今、その骨太い性格の持主ばかりが、何万となくひとつに住んで、事ごとに搏撃しあっていた。",
+              "citation": {
+                "source": "源頼朝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "傍からは窺い知れない血液と血液とが搏撃する。",
+              "citation": {
+                "source": "源頼朝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また組んず解ぐれつの肉闘や、一団の武者と一団の武者との陣列的な搏撃など、いまやここの終局は悽愴極まる屍山血河を描いていた。",
+              "citation": {
+                "source": "黒田如水",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

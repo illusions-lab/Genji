@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "c5cba639-3ed8-5023-9a55-a070fbc311cf",
+    "entry": "呎六",
+    "reading": {
+      "primary": "呎六",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "狩勝停車場　海抜一千七百五十六｜呎、一二狩勝トンネル　延長参千九｜呎六｜吋釧路百十九｜哩八｜分旭川七十二哩三分札幌百五十八哩六分函館三百三十七哩五分室蘭二百二十哩　三千｜呎の隧道を、汽車は石狩から入って十勝へ出た。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "狩勝停車場　海抜一千七百五十六｜呎、一二狩勝トンネル　延長參千九｜呎六｜吋釧路百十九｜哩八｜分旭川七十二哩三分札幌百五十八哩六分函館三百三十七哩五分室蘭二百二十哩　三千｜呎の隧道を、汽車は石狩から入つて十勝へ出た。",
+              "citation": {
+                "source": "熊の足跡",
+                "author": "徳冨蘆花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シプトン氏の案内人の一人は、二年前にこのヤティに遭ったといっているが、それは半人半獣の怪物で、背丈は五呎六吋くらい、全身赤味がかった栗色の毛で蔽われていたが、顔だけは毛がなかったという話である。",
+              "citation": {
+                "source": "イグアノドンの唄",
+                "author": "――大人のための童話――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

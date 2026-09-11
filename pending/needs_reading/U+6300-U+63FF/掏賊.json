@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "bb173e77-d519-5c74-becd-7b4e4f3ebfb5",
+    "entry": "掏賊",
+    "reading": {
+      "primary": "掏賊",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "また掏賊を助けたりなんか、不可ないことをしたのじゃないの。",
+              "citation": {
+                "source": "婦系図",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は掏賊だ、はじめから敵に対しては、機謀権略、反間苦肉、有ゆる辣手段を弄して差支えないと信じた。",
+              "citation": {
+                "source": "婦系図",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吃驚して、這奴等、田舎ものの風をする掏賊か、ポン引か、と思った。",
+              "citation": {
+                "source": "妖術",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「何の塩煎餅の二枚ぐらい、貴方が掏賊でも構やしない――私はね、あの。",
+              "citation": {
+                "source": "売色鴨南蛮",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "掏賊の手伝いをしたッて、新聞に出されて、……自分でお役所を辞職した事なんでしょう。",
+              "citation": {
+                "source": "湯島の境内",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蹈んだり蹴たりされるのを見ちゃ、掏賊だって助けまいものでもない、そこが男よ。",
+              "citation": {
+                "source": "湯島の境内",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "早瀬　それでなくッてさえ、掏賊の同類だ、あいずりだと、新聞で囃されて、そこらに、のめのめ居られるものか。",
+              "citation": {
+                "source": "湯島の境内",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ことの起原といふのは、醉漢でも、喧嘩でもない、意趣斬でも、竊盜でも、掏賊でもない。",
+              "citation": {
+                "source": "迷子",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もとより掏賊の用に供するために、自分の持物だった風変りな指環であるから、銀流を懸けろといって滝太が差出したのを、お兼は何条｜見免すべき。",
+              "citation": {
+                "source": "黒百合",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

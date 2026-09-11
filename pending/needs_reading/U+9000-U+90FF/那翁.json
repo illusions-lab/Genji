@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "72934560-39bf-5815-a19c-ff7ab9469108",
+    "entry": "那翁",
+    "reading": {
+      "primary": "那翁",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この御大は犯罪界の那翁なのだ、ワトソン。",
+              "citation": {
+                "source": "最後の事件",
+                "author": "THE FINAL PROBLEM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "余り評判にもならなかったが、那翁三世が幕府の遣使栗本に兵力を貸そうと提議した顛末を夢物語風に書いたもので、文章は乾枯びていたが月並な翻訳伝記の『経世偉勲』よりも面白く読まれた。",
+              "citation": {
+                "source": "四十年前",
+                "author": "――新文学の曙光――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また那翁戦争に依り欧州協調が出来て、ウェストファリヤ条約に依りて作られたる列国組織を一層｜鞏固にすることとなったのも、要するに大戦争の結果である。",
+              "citation": {
+                "source": "大戦乱後の国際平和",
+                "author": "大隈重信",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

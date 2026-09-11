@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "c72165bb-f1e3-5232-bdaa-47923ded8dcf",
+    "entry": "掖導",
+    "reading": {
+      "primary": "掖導",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その情緒を擽り、その安価な涙を誘い、その安易な感激をそそるばかりで、その生活に対する掖導的作用に至っては、殆ど零に近い。",
+              "citation": {
+                "source": "異邦人の意欲",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "娯楽そのものが労働生活の有機的な一環として社会的に公認掖導されねばならぬものであろう。",
+              "citation": {
+                "source": "娯楽論",
+                "author": "――民衆と娯楽・その積極性と社会性・――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夫が素質の掖導であるとか性格の形成であるとか人間性の陶冶であるとか、其の他其の他様々に云われている。",
+              "citation": {
+                "source": "現代科学教育論",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "教育は人間の生理や社会環境に於ける自然の成長を補佐掖導するにすぎないから、別に改めて何かを造ると称するには当らないとも考えられるかも知れないが、併し人間のやる一切の生産は、凡て自然な発達や行程の補佐掖導以外に出るものではない。",
+              "citation": {
+                "source": "技術へ行く問題",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "1ccacd3d-00ca-5eff-a0e1-6b51973b1e4b",
+    "entry": "鶻語",
+    "reading": {
+      "primary": "鶻語",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「これがすなわち回鶻語じゃ。",
+              "citation": {
+                "source": "沙漠の古都",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "回鶻語で記した木片が天幕へ投げ込まれたそれ以前から、誰が入れるのか解らないが、私の服のポケットへは女文字で記した仏蘭西語の紙が一再ならずはいっていた。",
+              "citation": {
+                "source": "沙漠の古都",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幸い誰にも咎められず英国大使館へ馬車を着け大使に乙女を任せて置いて妾は王宮へ取って返して乙女から貰った鉄の手箱を何気なく開けて見ますると、古代｜回鶻語で記された羅布の沙漠の秘密の謎があらわれて来たではありませんか。",
+              "citation": {
+                "source": "沙漠の古都",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから回鶻語の暗示に任かせ沙漠へ来たというものです。",
+              "citation": {
+                "source": "沙漠の古都",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あなたは難解な回鶻語を――羊皮紙に書いてあった回鶻語を、どうして妾が読み得たかきっと不思議に思われるでしょう、がそれには理由がございます。",
+              "citation": {
+                "source": "沙漠の古都",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "土耳古宮廷にいるほどの者は必ず回鶻語の初歩ぐらいは大概読めるのでございます。",
+              "citation": {
+                "source": "沙漠の古都",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "老人は黙って聞いていたが、「お前は回鶻語が読めるのか？",
+              "citation": {
+                "source": "沙漠の古都",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "袁世凱の勢力で回鶻語の学者を呼びよせてひそかに訳させたのかもしれません」　老人はなるほどと頷いて、それっきり何んにも云わなかった。",
+              "citation": {
+                "source": "沙漠の古都",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それに刻まれた回鶻語を博士が朗々と読んだ時、ラシイヌもレザールもダンチョンも息をひそめて傾聴した。",
+              "citation": {
+                "source": "沙漠の古都",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

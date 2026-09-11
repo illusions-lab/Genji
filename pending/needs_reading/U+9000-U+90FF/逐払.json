@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "e3888492-dba1-5444-9f39-7a2362ce6cf3",
+    "entry": "逐払",
+    "reading": {
+      "primary": "逐払",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「こらつ、たつちやいかん、」と云つて査公がやかましく逐払つてゐる。",
+              "citation": {
+                "source": "二黒の巳",
+                "author": "平出修",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "弥兵衛等もただ者で無いとは見て取ったろうが、関白の威光を背中に背負って居るのであるから、先ず第一に朝命を軽んじて早く北条攻に出陣しなかったこと、それから蘆名義広を逐払って私に会津を奪ったこと、二本松を攻略し、須賀川を屠り、勝手に四隣を蚕食した廉々を詰問した。",
+              "citation": {
+                "source": "蒲生氏郷",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五月三日の夜のは小田原勢がまだ勢の有った時なので中々猛烈であったが、蒲生勢の奮戦によって勿論｜逐払った。",
+              "citation": {
+                "source": "蒲生氏郷",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「アルフレッド大王の面影があるだらう」「エッセクスを逐払はれた時の面影だ。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さらば又と来ざらんやうに逐払ふべき手立のありやと責むるに、害を為すにもあらねば、宿無犬の寝たると想ひて意に介るなとのみ。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "至極元気の宜い活溌な男で、この松岡の云うに、僕が見事に彼の女共を物干から逐払て見せようと云いながら、真裸体で一人ツカ／＼と物干に出て行き、お松どんお竹どん、暑いじゃないかと言葉を掛けて、そのまゝ傾向きに大の字なりに成て倒れた。",
+              "citation": {
+                "source": "福翁自伝",
+                "author": "福翁自伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昔は一箇の美人が枕頭に座して飯の給仕をしてくれても嬉しいだろうと思うたその美人が、今我が枕頭に座って居ったとすれば我はこれに酬いるに「馬鹿野郎」という肝癪の一言を以てその座を逐払うに止まるであろう。",
+              "citation": {
+                "source": "病牀苦語",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此処に居るに相違ない、敵を逐払って此処を守っているに相違ない。",
+              "citation": {
+                "source": "四日間",
+                "author": "ガールシン",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は、フランシス上人が、帰つて来ると共に、神聖なペンタグラマの威力によつて、とうとう、その土地から、逐払はれた。",
+              "citation": {
+                "source": "煙草と悪魔",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "空地を劃する曲線の所に、巡査が四、五人歩き廻っていて、寄って来ようとする群集を逐払っていた。",
+              "citation": {
+                "source": "群集",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二人の騎馬の兵士が、その辺を二三度往復するうちに、電車道からはすっかり群舞が逐払われてしまった。",
+              "citation": {
+                "source": "群集",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "雄蜂を逐払ふやうな風に手軽にやらないのだらう？",
+              "citation": {
+                "source": "科学の不思議",
+                "author": "STORY-BOOK OF SCIENCE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

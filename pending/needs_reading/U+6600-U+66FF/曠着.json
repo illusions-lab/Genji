@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "7ba274aa-b232-5ab9-aa00-3d18feeef7c3",
+    "entry": "曠着",
+    "reading": {
+      "primary": "曠着",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "曠着を着まして、足を爪立てまして、手には花束を持ちまして。",
+              "citation": {
+                "source": "白",
+                "author": "リルケ　Rainer Maria Rilke",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――それ姪が見合をする、従妹が嫁に行くと言って、私の曠着、櫛笄は、そのたびに無くなります。",
+              "citation": {
+                "source": "山吹",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　お丹は勝手次第に綾子の箪笥より曠着を取出し、上下すっかり脱替えて、帯は窮屈と下〆ばかり、裳を曳摺り、座蒲団二三枚積重ねて、しだらなき押立膝、烟草と茶とを当分に飲み分けて、飽けば火鉢の縁に肱つき、小楊枝にて皓歯をせせりながら、「こう、お松どん、何か食べてえものは無えか。",
+              "citation": {
+                "source": "貧民倶楽部",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さて、お鶴がその日の扮装には、頬に浪打つ黒髪を、頸に結んで肩にかけ、手織｜縞の筒袖は曠着も持たねば、不断のなり、襦袢の襟と帯だけは、桔梗の花、女郎花、黄菊白菊の派手模様。",
+              "citation": {
+                "source": "わか紫",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

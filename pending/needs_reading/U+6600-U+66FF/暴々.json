@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "776b71a6-dfd2-55f2-8f63-1c9f79eee231",
+    "entry": "暴々",
+    "reading": {
+      "primary": "暴々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "形のいい鼻の粗い魅力がうす黒い建物に吸いこまれると灰色のホテルの壁にそって彼女の影がコンクリートの階段を中年女の靴音をのこして一歩、一歩、女の強い忍従が右に折れると、或る部屋の扉を繊奢な澱みもなく暴々しくノックした。",
+              "citation": {
+                "source": "女百貨店",
+                "author": "吉行エイスケ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　暴々しく引き解きて、手早くぐるぐる巻きにせり。",
+              "citation": {
+                "source": "義血侠血",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は八蔵にむかって、この鶏はいっそ打ち殺してしまおうと思うのだが、おかみさんがぐずぐず云うから持って行ってくれと暴々しく云った。",
+              "citation": {
+                "source": "半七捕物帳",
+                "author": "大森の鶏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "薄衣　　別にかうといふこともござりませぬが、兎かくにお氣が暴々しくなつて……。",
+              "citation": {
+                "source": "佐々木高綱",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "時々、暴々しく席を蹴つて立ちあがると、両手を打ち振り打ち振り、何ものかを捉まへようとでもするやうに、じつと眼を凝らすことがあつた。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　前篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "自分も彼も粉々にし、ざま見ろと叫びたいほどの暴々しさ。",
+              "citation": {
+                "source": "伸子",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "怖ろしい大外套の襟をたてて、北方ハンガリヤの暴々たる野末だ。",
+              "citation": {
+                "source": "逸見猶吉詩集",
+                "author": "逸見猶吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "街上では（寒気が厳しかったので）人々は各自の住家の前の舗石の上や、屋根の上から雪をこそげ落しながら、暴々しい、しかし快活な、気持ちの悪くない一種の音楽を奏していた。",
+              "citation": {
+                "source": "クリスマス・カロル",
+                "author": "A CHRISTMAS CAROL",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いけない」　火のようなお美津の息吹と、「お美津さん」　という暴々しい正吉の喘ぎとが縺れた。",
+              "citation": {
+                "source": "お美津簪",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「起て」宗利は叱※した、「沙汰するまで閉門を申付ける」　そして暴々しく奥へ去った、一揆は、然しそれで逆転した、八郎兵衛の思切った方法が功を奏したのであろうか、騒擾は其日の内に鎮まって、検地の事もいつ始めてもよいという状態にまで解決した。",
+              "citation": {
+                "source": "松風の門",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そんな暴々しいことまで考え詰めながら町は泣いていたのであった。",
+              "citation": {
+                "source": "松林蝙也",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道之進は起きようとした姿勢をそのまま、本能的に防禦のかたちに振り向けた……つり上った眸子と、まくれた唇のあいだから剥きだしになっている歯と、暴々しく喘ぐ息と……伊兵衛は路上の雪の仄明りにそれを見やりながら、　――これがこいつの正体だ。",
+              "citation": {
+                "source": "夜明けの辻",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 22
+      }
+    }
+  }
+]

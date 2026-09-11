@@ -1,0 +1,63 @@
+[
+  {
+    "uuid": "cb57ab96-146a-51aa-9210-9ee87149fe60",
+    "entry": "穿去",
+    "reading": {
+      "primary": "穿去",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これに引き続いて円柱を円柱にて穿去したものの問題が処理され、それに成功すると二つの円柱を一つの円柱で穿去したもの、球を円柱で穿去したもの、角柱で穿去したもの、円錐を円柱で穿去したものなどが現われ、初めは穿去体の体積の問題であったものが、穿去した交叉線の周、内面積などの問題も考えられるようになる。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

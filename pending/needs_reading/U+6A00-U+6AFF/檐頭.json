@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "fc710255-9328-5eeb-8987-57d5cb36b81b",
+    "entry": "檐頭",
+    "reading": {
+      "primary": "檐頭",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "病気にいいという白屈菜という草が、障子を開け払った檐頭に、吊るされてあった。",
+              "citation": {
+                "source": "黴",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "檐頭に立寄りて、何にてもよし食ふべきものありやと問ふに、素麺の外には何物もあらずと答ふ。",
+              "citation": {
+                "source": "秋の岐蘇路",
+                "author": "田山花袋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われは喜悦のあまり、疾く走りてそこに至り、戸を叩きて案内を乞ひ、檐頭を借りて暫く此處に疲勞を休め、更に湯西川に至るの里程を問へば、猶是より二里餘もありといふ。",
+              "citation": {
+                "source": "日光山の奧",
+                "author": "田山花袋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十数畳の大広間片側に金屏風を繞らし、十四、五の少女一枝の牡丹を伐り来りてこれを花瓶に挿まんとすれば頻りにその名を呼ぶ者あり、少女驚いて耳を欹つればをかしや檐頭の鸚鵡永日に倦んでこの戯を為すなり。",
+              "citation": {
+                "source": "俳諧大要",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

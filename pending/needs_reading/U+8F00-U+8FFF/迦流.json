@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "07e0c895-1984-5b36-b297-0a3deb3defa4",
+    "entry": "迦流",
+    "reading": {
+      "primary": "迦流",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "江畔老といつしよに閼迦流山へ遊ぶ、尻からげ、地下足袋、帽子なしの杖ついて、弥次さん喜多さん、とてもほがらかである。",
+              "citation": {
+                "source": "旅日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一杯の水も仏の涙かな――といふ風の閼迦流山くづしがむき出してある、放浪詩人三石勝五郎さんの作。",
+              "citation": {
+                "source": "旅日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日置弾正を流祖とした日置流弓道は後世に至って、露滴派、道雪派、花翁派、雪荷派、本心派、道怡派の六派に別れ、いわゆる日置流六派として武家武術の表芸となり長く人々に学ばれたがこの六派の他に尚八迦流という一流があり武芸を好む町人や浪人達に喜ばれたがこの八迦流の流祖こそすなわち猟師多右衛門なのである。",
+              "citation": {
+                "source": "日置流系図",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俺は忍術葉迦流では、これでも一流の境にある。",
+              "citation": {
+                "source": "鵞湖仙人",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところで葉迦流は水遁を主とし、葉迦良門の開いたもので、上杉謙信の家臣である。",
+              "citation": {
+                "source": "鵞湖仙人",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これ葉迦流の跳躍術の一つ。",
+              "citation": {
+                "source": "鵞湖仙人",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その他水を利用して、さまざまの忍びを行うのが、葉迦流忍術の目的なのである。",
+              "citation": {
+                "source": "鵞湖仙人",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "どうやら葉迦流をお学びと見える、が、まだまだ少しお若い。",
+              "citation": {
+                "source": "鵞湖仙人",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また天知る迦流美豆比賣に娶ひて生みませる子、奧津日子の神。",
+              "citation": {
+                "source": "古事記",
+                "author": "校註　古事記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

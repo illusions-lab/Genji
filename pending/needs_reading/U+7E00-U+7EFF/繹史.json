@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "80446826-9aba-5784-a05b-ff05b93673bc",
+    "entry": "繹史",
+    "reading": {
+      "primary": "繹史",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『考信録』は完全無缺とはいへぬけれど、之を馬繍の『繹史』や、李※の『尚史』や、さては羅泌の『路史』などいふ支那の古代史に比較して見ると、材料の選擇といひ、斷案の明快といひ、到底日を同くして談るべからずである。",
+              "citation": {
+                "source": "那珂先生を憶ふ",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此郡の所在地は那珂氏の説に從へば、今の京畿道臨津江の江口にありしなり（『外交繹史』第二八章魏志倭人傳）。",
+              "citation": {
+                "source": "倭女王卑彌呼考",
+                "author": "白鳥庫吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "狗奴國に就きては、『外交繹史』に菅氏云、大隅ヨリ南ニハ、種子屋久ナドイフサヽヤカナル島々ハアレド、共ニ攻撃スル程ノ國無ケレバ、此狗奴國ハ、モト下ノ「女王國東、渡海千餘里、復有國、皆倭種」トアル地ノ内ナルヲ、陳壽ガ、東ヲ南ト誤リタルナラン。",
+              "citation": {
+                "source": "倭女王卑彌呼考",
+                "author": "白鳥庫吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して此解釋の當を得ざることは、那珂氏の『外交繹史』卷二八魏志倭人傳に精はしく論ぜられたれば、左にその一節を引用すべし。",
+              "citation": {
+                "source": "倭女王卑彌呼考",
+                "author": "白鳥庫吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "那珂博士は其『外交繹史』第二八に『書紀』・『風土記』に見たる女酋の例を擧げたれば、左に之を引用すべし。",
+              "citation": {
+                "source": "倭女王卑彌呼考",
+                "author": "白鳥庫吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

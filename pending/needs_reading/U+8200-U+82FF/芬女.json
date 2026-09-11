@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "ec41e69c-4409-5ad7-98f2-94ed69bfc0d8",
+    "entry": "芬女",
+    "reading": {
+      "primary": "芬女",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "又は呉青秀を慕う芬女の熱情が、思う男の手にかかって死んだ姉の身の上を羨ましがる位にまで高潮していたと認められる節もある。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……それを黛夫人の妹の芬女を初め、呉家の代々の人々から正木博士に到るまで、唯、常識で考えて、この中に描いてある死像を六体限りとアッサリきめているような事がありはしまいか。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "呉青秀が痴呆状態に陥ったものとすれば、自分が古今無類の馬鹿者であった、当もない忠義立てのために最愛の妻を犬死にさせた……という事を、義妹の芬女の説明でハッキリ思い当った刹那に、茫然自失してからの事であろう。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又、芬女にしてからが同じ事で、自分の恋い慕っている男が、大事な大事な姉を犠牲にして企てた事業の成績品を披いて見ながら、千年も経った今日になって赤の他人の私が思い付く位の事を気付かずにいるような事は万に一つもありそうにない……こう思うと私は一遍に気が抜けてゲンナリとしてしまった。",
+              "citation": {
+                "source": "ドグラ・マグラ",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

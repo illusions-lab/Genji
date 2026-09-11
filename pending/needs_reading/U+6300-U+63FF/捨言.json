@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "e4aaa85d-1f7d-58f6-a550-ba6a744288d2",
+    "entry": "捨言",
+    "reading": {
+      "primary": "捨言",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "余所の垣根の梅を折つて今や帰らんとする時、貰ひますよと一言の捨言葉を残したるを「もらふ声あり」と手短かに言ひたる、さすがに老熟と見えたり。",
+              "citation": {
+                "source": "俳諧大要",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "慚しげに面を赧らむる常の樣子と打つて變りし、さてもすげなき捨言葉に、冷泉｜訝しくは思へども、流石は巧者、氣を外さず、『其の御心の強さに、彌増す思ひに堪へ難き重景さま、世に時めく身にて、霜枯の夜毎に只一人、憂身をやつさるゝも戀なればこそ、横笛樣、御身はそを哀れとは思さずか。",
+              "citation": {
+                "source": "瀧口入道",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私の貧しい知識でいつても、ごく稀な場合「幕府譯官」などと敬稱されるが、普通には「長崎通辯何の何兵衞」といつた卑しい言葉で、そこらの輕輩武士からも捨言葉される傾きがあつたやうだ。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "例へばのちにみるやうに、土佐侯容堂の造船企畫について昌造が與かつた當時のことを、同藩家來寺田志齋が、その日記のうちで、かなりの捨言葉で誌してゐるのにもみることが出來る。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今夜は月夜じゃけ、足元は明かるいわ」　腹立ちまぎれ、無茶のような捨言葉を残して、妾宅を出た。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "後で嘆くな）　と、最後の捨言葉を吐いて、千鳥庵の運座の帰りを待ちうけていたか、或はそこへ行く摺れ交いに、先夜の暴行をかっとしてやったものだった。",
+              "citation": {
+                "source": "※かみ浪人",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして「預言者は自分の郷里、自分の親戚、自分の家族以外の所に行けば、どこででも尊敬せられるのだ」と捨言葉を残され、彼らの不信仰を怪しみつつ郷里の村を去り給うたのです（六の四―六）。",
+              "citation": {
+                "source": "イエス伝",
+                "author": "マルコ伝による",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

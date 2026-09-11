@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "c708236b-2bf6-5f18-bd02-5430d5d7e8a9",
+    "entry": "併此",
+    "reading": {
+      "primary": "併此",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "乍併此詩集を読んで、吾輩の敬服に堪へない一事がある。",
+              "citation": {
+                "source": "『悲しき玩具』を読む",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "乍併此場合に區々たる口頭の辭禮位で衆の憤怒をなだめやうのないことは太都夫も承知して居る。",
+              "citation": {
+                "source": "古代之少女",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

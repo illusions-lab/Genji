@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "96b35df0-315d-5a63-a7bb-478b668f6e26",
+    "entry": "夙昔",
+    "reading": {
+      "primary": "夙昔",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "遮莫、わがルーソー、ボルテイアの輩に欺かれ了らず、又た新聞紙々面大の小天地に※翔して、局促たる政治界の傀儡子となり畢ることもなく、己が夙昔の不平は転じて限りなき満足となり、此満足したる眼を以て蛙飛ぶ古池を眺る身となりしこそ、幸ひなれ。",
+              "citation": {
+                "source": "三日幻境",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "本と本と二葉亭は軍事であれ外交であれ、左に右く何であろうとも東亜の舞台に立って活動したいのが夙昔の志であった。",
+              "citation": {
+                "source": "二葉亭四迷の一生",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "軍人たらんと欲して失敗し、外交家たらんと願うてまた蹉躓し、拠ろなしに一時横道に外れて文学三昧に遊んでいたが、夙昔の志望は決して消磨したのではなかった。",
+              "citation": {
+                "source": "二葉亭四迷の一生",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "実業側の友人から余り対手にされなかったはこれがためであったが、二葉亭の夙昔の希望からいえば一貫した国際的興味を有する問題であった。",
+              "citation": {
+                "source": "二葉亭四迷の一生",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二葉亭の対露問題は多年の深い研究とした夙昔の抱負であったし、西伯利から満洲を放浪し、北京では中心舞台に較や乗出していたし、実行家としてこそさしたる手腕を示しもせず、また手腕がなかったかも知れぬが、頭の中の経綸は決して空疎でなかった。",
+              "citation": {
+                "source": "二葉亭追録",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "当座の中こそ訪問や見物に忙がしく、夙昔の志望たる日露の問題に気焔を吐きもしようし努力もするだろうが、暫らくしたら多年の抱懐や計画や野心や宿望が総て石鹸玉の泡のように消えてしまって索然とするだろう。",
+              "citation": {
+                "source": "二葉亭追録",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

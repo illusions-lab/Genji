@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "026d6b74-3199-549f-8dd6-2f0f2840725f",
+    "entry": "麪桶",
+    "reading": {
+      "primary": "麪桶",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "乞「はい／＼、まア結構なお薬を頂くのみならず、お料理の残余物まで下され、有難う存じます、左様ならこれへ頂戴致しますと、襤褸手拭へ包んであつた麪桶を取出して、河合金兵衛の前へ突出すのを、金兵衛手に取つて見ますると、遠州所持の南蛮砂張の建水でございます。",
+              "citation": {
+                "source": "大仏餅。袴着の祝。新まへの盲目乞食",
+                "author": "三遊亭円朝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "主「まアお前、結構な建水だが此建水をお前は、何か麪桶の代りに使ふのか。",
+              "citation": {
+                "source": "大仏餅。袴着の祝。新まへの盲目乞食",
+                "author": "三遊亭円朝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "乞「はい最う何にも彼も売り尽しましたが、此品は私の秘蔵でございますから、此品だけは何うも売却すことが忌嫌でございますから、只今もつて麪桶代りに傍離さずに使つて居ります。",
+              "citation": {
+                "source": "大仏餅。袴着の祝。新まへの盲目乞食",
+                "author": "三遊亭円朝",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

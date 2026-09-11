@@ -1,0 +1,175 @@
+[
+  {
+    "uuid": "976e9211-0b78-58af-9225-7803e2522afe",
+    "entry": "膓亭",
+    "reading": {
+      "primary": "膓亭",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "午前中断膓亭に帰りて臥す。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之一大正六年丁巳九月起筆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "断膓亭窗外の樹木二三株倒れ摧かる。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之一大正六年丁巳九月起筆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "無用庵雨漏りいよ／＼甚しき由留守居の者知らせに来りし故寐道具取片づけ断膓亭に送り戻さしむ。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之一大正六年丁巳九月起筆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "断膓亭襍稾出版についての用談なり。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之一大正六年丁巳九月起筆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "断膓亭に瓦斯暖炉を設く。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之一大正六年丁巳九月起筆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "断膓亭襍稾表帋板下絵を描く。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之一大正六年丁巳九月起筆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "断膓亭襍稾印刷校正に忙殺せらる。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之一大正六年丁巳九月起筆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "断膓亭襍稾校正終了。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之一大正六年丁巳九月起筆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "断膓亭屠蘇の用意なければ倶に牛門の旗亭に徃きて春酒を酌む。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "断膓亭の小窗に映る樹影墨絵の如し。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "過日断膓亭襍稾を知友に贈呈す。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今村次七君金沢より出京、断膓亭を訪はれ浮世絵の事を談ぜらる。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夕刻建物会社※員永井喜平来り断膓亭宅地買手つきたる由を告ぐ。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "春陽堂主人の請ふにまかせ、自ら断膓亭尺牘を編む。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之三大正八年歳次己未",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此の断膓亭日記をかき始めてより早くも五年とはなれるなり。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断腸亭日記巻之五大正十年歳次辛酉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 16
+      }
+    }
+  }
+]

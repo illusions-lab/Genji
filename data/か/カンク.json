@@ -1237,5 +1237,89 @@
         "aozora": 1
       }
     }
+  },
+  {
+    "uuid": "2c8c52f7-265f-5f13-96a5-89575748efdc",
+    "entry": "寰区",
+    "reading": {
+      "primary": "かんく",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "山の麓に見ゆるは土河内村なり、谷迫りて一｜寰区をなしことさらに世と離れて立つかのごとく見ゆ、かつて山の頂より遠くこの村を望み炊煙の立ちのぼるを見てこの村懐かしくわれは感じぬ。",
+              "citation": {
+                "source": "小春",
+                "author": "国木田独歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それであるから、自分の目には彼が半身に浴びている春の夕陽までがいかにも静かに、穏やかに見えて、彼の尺八の音の達く限り、そこに悠々たる一｜寰区が作られているように思われたのである。",
+              "citation": {
+                "source": "女難",
+                "author": "国木田独歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二　満島は松浦川の口に構へられたる一｜小寰区なれども商業活溌なり、唐津の旧城下とあひむかへて、共に益々発達の勢を示せり。",
+              "citation": {
+                "source": "松浦あがた",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "支那は揚子江、黄河の大河が平野の間を串流し、大小の支流もあって、その辺に水寰区が多いから、従ってこの草は極めて普通に生じているであろう。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "4c984ed0-afa3-5d33-ae2c-5d28cc965997",
+    "entry": "弗半",
+    "reading": {
+      "primary": "弗半",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "椅子は大抵一｜弗半の定めださうだから、支那人にとつてもそんな勿体ない事は出来ない。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正六（一九一七）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "支那人に一弗半の持合せがあつたら、屹度天国をでも払ひ下げるやうな素晴しい事を仕出来すに相違ない。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正六（一九一七）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "基督の身体を銀三十で売つた耶蘇教徒は、支那人の掌面から一弗半を受取る事が出来たら、二つ返事で天国をも抵当に入れ兼ねまい。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正六（一九一七）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "短期期限附金解禁　前に述べた樣に七｜月二｜日に爲替相場が一｜割一｜分下つて居つたが、貿易が段々改善せられるに從つて爲替相場は段々騰貴して、さうして十一｜月二十｜日には爲替相場は四十八｜弗半まで上つたのである。",
+              "citation": {
+                "source": "金解禁前後の經濟事情",
+                "author": "井上準之助",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

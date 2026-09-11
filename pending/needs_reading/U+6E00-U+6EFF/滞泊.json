@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "45835ee1-5f71-5fa0-a4f1-ad817e7ae6d5",
+    "entry": "滞泊",
+    "reading": {
+      "primary": "滞泊",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そのアバス・ヌリ殿下が、留学生問題の後始末のためパリーからコンスタンチノウプルへ急行の途、ベルリンを通って二、三日は滞泊するらしいというのだ。",
+              "citation": {
+                "source": "戦雲を駆る女怪",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして今度は先にいた旅館には行かず、ずっと上京の方の、気の張らない、以前から馴染みのある家に往って滞泊することにした。",
+              "citation": {
+                "source": "狂乱",
+                "author": "近松秋江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十八日滞泊、十九日正午出帆、二十日朝門司着。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これよりエジプトの古都カイロに入り、ピラミッドを見る予想なりしも、汽船滞泊の時間なきをもって果たさず。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "午前十時、フランス・マルセイユに着港し、ここに滞泊す。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "）　午後五時、スイスのバーゼル市に着し、ここに滞泊す。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "予は甞て長崎に在りし時、幕府の軍艦にて咸臨丸は長崎滞泊中は該艦に乗組の医官無くして、予は臨時傭として病者及び衛生上に関する事を取りたる事あり。",
+              "citation": {
+                "source": "関牧塲創業記事",
+                "author": "関寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この滞泊中に、私の専属だったニットーレコードが上京して、東京側芸能人の吹き込みを開始したので、先代春團治と金語楼君以外はてんで落語レコードの売れなかったその時代、私は一計を案じて同君の十八番「居酒屋」のＡ面冒頭へさのさ節を配し、Ｂ面で夜更けの感じに新内流しを奏でさせて吹き込んだ。",
+              "citation": {
+                "source": "わが寄席青春録",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "神奈川の陣屋に着く予定だったが、ちょうど、国元へ帰る備前岡山侯が滞泊しているので、わざと、囚人駕を避けて、一つ手前の保土ヶ谷に泊ったのである。",
+              "citation": {
+                "source": "牢獄の花嫁",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

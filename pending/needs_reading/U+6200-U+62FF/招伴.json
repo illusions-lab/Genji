@@ -1,0 +1,159 @@
+[
+  {
+    "uuid": "fad469f7-bf05-512c-b179-f2d6d99e5934",
+    "entry": "招伴",
+    "reading": {
+      "primary": "招伴",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "戻ると、あけておいた障子がしめてある、さては昨夜の樹明再来だなと、はいつてみると案の定、ぐうぐう寝てゐる、昨日から御飯を食べないからと鮨をたくさん持参してゐる、私もお招伴した、暮れかけてから、おとなしく別れる。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "余は無論｜御招伴に過ぎん。",
+              "citation": {
+                "source": "草枕",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "御招伴でも呼ばれれば行く。",
+              "citation": {
+                "source": "草枕",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "樽の上で踊った長吉もお招伴をして、帆村の側らにグウグウ鼾をかいた。",
+              "citation": {
+                "source": "蠅男",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さっきから眼を覚まし、むき出しの梁の上で巣を片づけていた鼠やげじげじは、木鉢に箸の鳴る音を聞くと、揃って床に降りて来て、お婆さんの御招伴をするのでした。",
+              "citation": {
+                "source": "ようか月の晩",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其れに招伴をする者は主婦と、特別に下宿人の中から僕一人が選ばれる。",
+              "citation": {
+                "source": "巴里より",
+                "author": "與謝野寛、與謝野晶子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "本来ならばそんな事は、恐れ多い次第なのですが、御主人の仰せもありましたし、御給仕にはこの頃御召使いの、兎唇の童も居りましたから、御招伴に預った訳なのです。",
+              "citation": {
+                "source": "俊寛",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕も晩の大御馳走をお招伴しますからなるたけ腹を減らしておきます。",
+              "citation": {
+                "source": "食道楽",
+                "author": "春の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その外酒飲会へ出席するとか、芸者買の招伴をするとか、無用無益な贅沢を廃したらば日本人の富の程度でも随分上等な食物が得られます。",
+              "citation": {
+                "source": "食道楽",
+                "author": "秋の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼はしばしば猟の獲物を土産に持ってきてくれたので、僕もそのお招伴にあずかった。",
+              "citation": {
+                "source": "石ころ路",
+                "author": "田畑修一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大ていは女たちの御招伴である。",
+              "citation": {
+                "source": "観て忘れる",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「あつしが孫の招伴に預りましたよ」　源太郎は少し耄碌した、首を振ります。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "御落胤殺し",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「あっしが孫の招伴に預りましたよ」　源太郎は少し耄碌した、首を振ります。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "御落胤殺し",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

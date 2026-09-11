@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "764e45ca-68c7-5ee8-945b-8f7bcbe3a91d",
+    "entry": "爼橋",
+    "reading": {
+      "primary": "爼橋",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そこを通り過ぎると、右へ廻って爼橋の手前の広い町に出る。",
+              "citation": {
+                "source": "雁",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは袋町めいた、爼橋の手前の広い町を盲腸に譬えたものである。",
+              "citation": {
+                "source": "雁",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "末造は爼橋を渡った。",
+              "citation": {
+                "source": "雁",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "末造は紅雀の籠を提げて爼橋の方へ引き返した。",
+              "citation": {
+                "source": "雁",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は後には馴れて、爼橋外の撒水車の井戸のあるところに行きに帰りに寄つて、その鉄管に口をつけて、灰燼の中の炎熱に渇した咽喉をうるほすのを例とするやうになつた。",
+              "citation": {
+                "source": "地震の時",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "松村書店の、あの哲学者のヘーゲルに似た魁偉な風貌の老主人は今も健在のようだが、爼橋際の堅木屋の、店はあっても、洋書のよくわかる老夫妻はとうに姿がみえない。",
+              "citation": {
+                "source": "神田界隈",
+                "author": "楠山正雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "神田の古本屋、一握の灰燼、爼橋通れぬ為、ずっと右を廻って九段上からずっと下町を見渡したら、両国の国技館のドームの骨が、きなくさい霞の間に見えた。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二三年（大正十二年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "爼橋の停留場に近づいた時、堀尾君に叱られた男が決然として立ち上って、堀尾君に、「やい。",
+              "citation": {
+                "source": "負けない男",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

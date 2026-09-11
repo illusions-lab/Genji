@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "f0ef2665-a5a1-509b-b384-63f1b318092d",
+    "entry": "噛切",
+    "reading": {
+      "primary": "噛切",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それでは私が御介錯、舌を噛切ってあげましょう。",
+              "citation": {
+                "source": "天守物語",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "顔はかくれて、両手は十ウの爪紅は、世に散る卍の白い痙攣を起した、お雪は乳首を噛切ったのである。",
+              "citation": {
+                "source": "木の子説法",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前刻から幾度か、舌を噛んで、舌を噛んで死のうと思っても、三日、五日、一目も寝ぬせいか、一枚も欠けない歯が皆｜弛んで、噛切るやくに立ちません。",
+              "citation": {
+                "source": "多神教",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　老婦人は奥歯を噛切め、御気色荒く、「華族じゃぞ。",
+              "citation": {
+                "source": "貧民倶楽部",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「アノネ、内の文さんは昨日御免にお成りだッサ」「ヘーそれは」「どうしても働のある人は、フフン違ッたもんだヨ」　ト半まで言切らぬ内、文三は血相を変てツと身を起し、ツカツカと座舗を立出でて我｜子舎へ戻り、机の前にブッ座ッて歯を噛切ッての悔涙、ハラハラと膝へ濫した。",
+              "citation": {
+                "source": "浮雲",
+                "author": "二葉亭四迷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "むろん疑いもない電燈コードによる絞殺死体で、格闘の際の出来事であろう、舌の途中を大きく噛切っている事が間もなく警察医によって発見された。",
+              "citation": {
+                "source": "Ｓ岬西洋婦人絞殺事件",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "するとある時、ライオンが猟人に捕つて縛られたとこへ例の鼠が来て「おぢさん、待つといで」と言つて縛つた縄を噛切つてやりました。",
+              "citation": {
+                "source": "コドモノスケッチ帖",
+                "author": "動物園にて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "仮令彼女が死力を尽して猿轡を噛切り、縄を抜けたところで、男の残していった言葉が気になって、迂闊な事も出来ないように思われた。",
+              "citation": {
+                "source": "Ｐ丘の殺人事件",
+                "author": "松本泰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大きな猪と大きな熊が、二｜疋共引掻かれて、噛切られて、大怪我をして死んで居るぢやありませんか。",
+              "citation": {
+                "source": "熊と猪",
+                "author": "沖野岩三郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "口から溢れる血が、両手で圧えていた為に、顔中に拡がったのだ、彼は舌を噛切って自殺しようとしたのだが、気力が足らず、失敗した。",
+              "citation": {
+                "source": "魔術師",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから、舌でも噛切ったと見えて、口や鼻からも同じ様に出血しています。",
+              "citation": {
+                "source": "赤い部屋",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

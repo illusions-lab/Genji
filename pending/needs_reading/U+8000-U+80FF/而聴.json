@@ -1,0 +1,74 @@
+[
+  {
+    "uuid": "7cc6867e-ab97-5718-8d70-eef4e6236720",
+    "entry": "而聴",
+    "reading": {
+      "primary": "而聴",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（四）遇樂而聽とは、自身の發意にあらずして、遇然途中で樂隊に出遇ひし時、又は我が門前に樂隊來りし時、その奏樂を聽くをいふ。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "遇樂而聽と云ふのは道路を流して歩く音樂を聽くのを杖一百に處すと云ふのであります。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      },
+      "variant_writings": [
+        "而聽"
+      ]
+    }
+  }
+]

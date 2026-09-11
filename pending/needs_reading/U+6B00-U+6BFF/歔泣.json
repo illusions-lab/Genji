@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "560a52f2-eeb3-565c-8fee-ec2f32789157",
+    "entry": "歔泣",
+    "reading": {
+      "primary": "歔泣",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その空に、その苑に、ほのの青みに静かなる欷歔泣きもいでつつ、いづくにか、さまだるる愛慕のなげき。",
+              "citation": {
+                "source": "邪宗門",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三吉は子供の傍の方で妻の歔泣の音を聞くまでは安心しなかった。",
+              "citation": {
+                "source": "家（上巻）",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やがて彼女は炉辺の方で寝る仕度をしたが、三吉の耳に歔泣の音が聞えた。",
+              "citation": {
+                "source": "家（上巻）",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "寝床の裾のところで、歔泣の声が起った。",
+              "citation": {
+                "source": "風宴",
+                "author": "梅崎春生",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

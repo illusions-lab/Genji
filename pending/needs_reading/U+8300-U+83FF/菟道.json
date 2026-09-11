@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "9df00d1e-4656-5772-a894-273df622b96f",
+    "entry": "菟道",
+    "reading": {
+      "primary": "菟道",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "現に今から百余年｜前、天明年間に日向国の山中で、猟人が獣を捕る為に張って置いた菟道弓というものに、人か獣か判らぬような怪物が懸った。",
+              "citation": {
+                "source": "飛騨の怪談",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "菟道川や蛍を見ると板橋の桁にもたれて更けぬこの夜は蜩四首。",
+              "citation": {
+                "source": "禮嚴法師歌集",
+                "author": "與謝野禮嚴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "菟道稚郎子が高麗の上表の無禮を發見した傳説などは其の一例であるが、これらは稀に有つたことで、大體は依然として通譯外交が繼續したのである。",
+              "citation": {
+                "source": "聖徳太子",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又、菟道・鹿路に目柴立て、射部｜配ゑたゞけでは適はぬ猛獣の場合に構へたらしいこと、今尚、此風の矢倉構へる猟師があるのでも訣る。",
+              "citation": {
+                "source": "桟敷の古い形",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古事記に、宇遅能和紀郎子とあるを、書紀に菟道稚郎子とあるなど思ひあはすべし。",
+              "citation": {
+                "source": "わかしとおゆと",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「日向国｜飫肥領の山中にて、近き年｜菟道弓にて怪しきものを取りたり。",
+              "citation": {
+                "source": "山の人生",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この菟道弓のウジというのは、野獣が踏みあけた山中の通路である。",
+              "citation": {
+                "source": "山の人生",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

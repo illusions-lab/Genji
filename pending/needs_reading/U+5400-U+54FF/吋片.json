@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "4b4af958-4912-5cbc-a6a4-29404dc97980",
+    "entry": "吋片",
+    "reading": {
+      "primary": "吋片",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "十二｜吋片面の半分で片づけたもので、耳にも止らぬテンポの速さだが、思い入れ沢山に、芝居味をたっぷりに弾いたこの曲には想像も出来ない美しさがある。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昔の民謡『アライズ・レッド・サン』などは、電気の十｜吋でも入っているが、ピンク色十二｜吋片面ＨＭＶのすばらしさは格別だ。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "電気以前のピンク色十二｜吋片面盤はもはや手に入る見込みもあるまいが、電気のビクター現役レコードでも、充分面白さは味わえる筈だ。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十字屋あたりが計画的に大量のシャリアピンを輸入したのは、ＨＭＶピンク十二｜吋片面の『ボリス・ゴドノフ』「ボリスの死」と「ボリスの臨終」あたりだ。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ほぼ同じ頃入った『プリンス・イゴール』の「ガリキー公の歌」は最初十二｜吋片面で、後十｜吋に吹込み直したものだが、十二｜吋の方は合唱付きで十｜吋の方は録音が良く、古いものあさりの物好きさえ言わなければ、十｜吋の方がレコードとしてすぐれている。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十｜吋片面もので、早く絶盤となり、珍品中に数えられたものだ。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

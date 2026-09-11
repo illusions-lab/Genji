@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "0385b555-dbef-5f1d-b718-a68e7aa14293",
+    "entry": "桙根",
+    "reading": {
+      "primary": "桙根",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "比々良木八尋桙根底不附国（播磨風土記逸文）とあるのから見ても、此桙は人を斬るものでなく、地に樹てゝ、神を祈る物なる事は訣る。",
+              "citation": {
+                "source": "幣束から旗さし物へ",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "八尋桙根などをすたんだぁどに比べて見ると、幾分の似よりは見える。",
+              "citation": {
+                "source": "幣束から旗さし物へ",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本紀・続日本紀を見ると、八尋桙根と言ふのが国々から奉られて居る。",
+              "citation": {
+                "source": "花の話",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "八尋桙根は、柊の棒で作つたもので、立ち木のまゝで地を胴突くと花が咲くといふのである。",
+              "citation": {
+                "source": "花の話",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

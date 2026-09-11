@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "2d23ee19-39c9-567c-af84-efc8c89ee019",
+    "entry": "蜒女",
+    "reading": {
+      "primary": "蜒女",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これを聞きこんだのが花川戸の親分と呼ばれていた御用聞きの早耳三次で、「女白浪だから、蜒女あたりが動かねえところだろう。",
+              "citation": {
+                "source": "早耳三次捕物聞書",
+                "author": "海へ帰る女",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蜒女上りの莫連女が情夫とぐるで仕組んだ手品にちげえねえ。",
+              "citation": {
+                "source": "早耳三次捕物聞書",
+                "author": "海へ帰る女",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "根が蜒女だから平気なわけだ。",
+              "citation": {
+                "source": "早耳三次捕物聞書",
+                "author": "海へ帰る女",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "間もなく、江の島で蜒女をしてたことがあるという女を深川の古石場で押えた。",
+              "citation": {
+                "source": "早耳三次捕物聞書",
+                "author": "海へ帰る女",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

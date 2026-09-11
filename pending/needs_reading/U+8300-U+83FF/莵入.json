@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "277728fa-8a93-5ac4-884a-cda9932d6da9",
+    "entry": "莵入",
+    "reading": {
+      "primary": "莵入",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "兵馬を一室に寝かしておいて、かの木莵入と金公とは、酒を飲み出します。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "女子と小人の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ガバと刎ね起きて雨戸を推し、燭台を取って外の闇を照して見ると、二人とも打倒れてウンウンと唸っているのは金助と木莵入であるらしい。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "女子と小人の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

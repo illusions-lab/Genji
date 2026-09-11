@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "67530e89-a488-5bc5-b6b3-56a6245a0d41",
+    "entry": "捨扶",
+    "reading": {
+      "primary": "捨扶",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "日本の半分は云ふもおろか、四半分の又その四半分にも足らぬ捨扶持をくれたばかりで、おのれはあつぱれ主人顏ぢや。",
+              "citation": {
+                "source": "佐々木高綱",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "捨扶持五千石をくれているはずだ。",
+              "citation": {
+                "source": "銅銭会事変",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "非常な学者だというところから、特に助命して大岡家に預け、幕府執政の機関とし、捨扶持をくれていたのかもしれない。",
+              "citation": {
+                "source": "銅銭会事変",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それを知った木村｜常陸介は、何かの用に立つこともあろうと、莫大な捨扶持を施して、ここ二三年養って置いた。",
+              "citation": {
+                "source": "血ぬられた懐刀",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで水府お館から、永世捨扶持を給されることになった。",
+              "citation": {
+                "source": "任侠二刀流",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この婆さんの娘はさる高名な占師（これが兄弟の叔父さんだ）の妾であったが、若死して、婆さんは三十円の捨扶持で占師に余世の保証を受けていた。",
+              "citation": {
+                "source": "二十一",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その間じゅう、若い頃も年とった今も、僕はあんたから、年額五百ルーブリ也の、乞食も同然の捨扶持を、ありがたく頂戴しているにすぎないんだ。",
+              "citation": {
+                "source": "ワーニャ伯父さん",
+                "author": "ДЯДЯ　ВАНЯ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この婆さんの娘はさる高名な占師（これが兄弟の叔父さんだ）の妾であつたが、若死して、婆さんは三十円の捨扶持で占師に余世の保証を受けてゐた。",
+              "citation": {
+                "source": "二十一",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで安く積っても四千石や五千石の捨扶持と、笹の間詰番頭のお役付が、帰る先にはブラ下がっている。",
+              "citation": {
+                "source": "鳴門秘帖",
+                "author": "鳴門の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "で、自然、捨扶持、隱し扶持といふものを、牢人に與へてゐた。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

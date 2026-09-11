@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "7e45fce8-985a-554d-b96d-a8f84cf49cc4",
+    "entry": "馴棹",
+    "reading": {
+      "primary": "馴棹",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "靜けき夕の心やりか、※乃一ふし歌ひさして、ほのかに笑まひぬ、水馴棹にくだくる小波をあとに見つつ人皆煩らふ空のもとに、自然の愛子か、君はひとり赤丹穗に見る顏の色に、心の平和うかがわれぬ。",
+              "citation": {
+                "source": "泣菫詩抄",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それを、米友ほどの豪傑が、水馴棹を取落さぬばかりに驚いて、「あっ！",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "恐山の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伏鐘の三羽烏といわれる毛抜の音、阿弥陀の六蔵、駿河の為と、この三人はもちろん、船頭に化けて水馴棹をつかっていた一味十二人、そのままそっくりこっちの網に入りました」「そんならなんでこんな騒ぎをする」「いけないことには、伏鐘重三郎が茅場町あたりで上ってしまったんです。",
+              "citation": {
+                "source": "顎十郎捕物帳",
+                "author": "両国の大鯨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "眠元朗は水馴棹を把った。",
+              "citation": {
+                "source": "みずうみ",
+                "author": "室生犀星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "眠元朗はその娘の瞳を悲しげに眺め、なかば諦めたような顔つきをして、ぐいと、水馴棹を立てると、大きな島影は石油色をした虹のような小波を立てて、ゆらりとその静かな影を揺れくずし初めた。",
+              "citation": {
+                "source": "みずうみ",
+                "author": "室生犀星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と鮮やかな水馴棹は、たちまち舸を本流へ出して、向う岸へと突ッ切って行った。",
+              "citation": {
+                "source": "剣難女難",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「いや、何気のう河原の小舟に乗りとうなって、独りで水馴棹を持ってみたが、舟と水とは相性のものと思うていたが、さて流れに出てみると、なかなかままに動かぬものじゃな。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第二分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "で、じつは俄に」「えっ」　菊王の手の水馴棹が、水の中で、ぶると顫えた。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "みなかみ帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

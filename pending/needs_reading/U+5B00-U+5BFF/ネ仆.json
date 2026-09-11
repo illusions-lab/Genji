@@ -1,0 +1,82 @@
+[
+  {
+    "uuid": "a8d9e2ba-b56e-5dd1-864c-a384d2b65558",
+    "entry": "寝仆",
+    "reading": {
+      "primary": "ね仆",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それも出所当時は、久しい断酒で、すぐ酔いの廻る風であったが、だんだん以前のような底抜けの酒量を発揮し出し、終日、飯茶碗は手にもせず、酒に初まって酒中に寝仆れる日もままであった。",
+              "citation": {
+                "source": "忘れ残りの記",
+                "author": "――四半自叙伝――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ぼくは二度と見かけなかつたが、人のはなしによると、醉ツぱらつて、公園や六區の街上に、寢仆れると、群集の男へ、「やい、何が面白いんだ、色餓鬼め。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "老大觀の歌ふのを見て、ひそかに、杯中に涙をたれた人もあるさうだが、分らない者は、ポカンとして、大觀が寢仆れたのを、風癲病でも見るやうにクス／＼笑つてゐたといふ。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "寢仆"
+      ],
+      "needs_reading": true
+    }
+  }
+]

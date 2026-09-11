@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "bfa663cc-4081-51c5-923f-010c58f3d4ed",
+    "entry": "倒々",
+    "reading": {
+      "primary": "倒々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "自分もすゝめられたが倒々手を触れなかつた――。",
+              "citation": {
+                "source": "毒気",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "父の事業熱、放蕩、母の嫉妬、そんなものゝ間にはさまれて、倒々彼は逃げ出すより外はなくなつたのである。",
+              "citation": {
+                "source": "「悪」の同意語",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで、倒々阿母さんまでが――と、云ひかけてさ……。",
+              "citation": {
+                "source": "「悪」の同意語",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして彼は、取り縋るやうに可細い声を挙げて、倒々斯んなにわざとらしいことを云つた。",
+              "citation": {
+                "source": "「悪」の同意語",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "などゝいふ話から、ユキ子が倒々私のランプ係りになつて此処に詰めかけてゐるといふことになつてゐたのです。",
+              "citation": {
+                "source": "ランプの便り",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――町にゐる私の憐れな年寄つた母親は、老眼に涙を湛へて、私のたつたひとりの倅は倒々気狂ひになつてしまつた、案ぜられる――と日夕悲しみの祈りをあげてゐるといふ話であつた。",
+              "citation": {
+                "source": "歌へる日まで",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その家は倒々美しく、諸道具も備つて居ます。",
+              "citation": {
+                "source": "新浦島",
+                "author": "RIP VAN WINKLE. EINE NACHGELASSENE SCHRIFT VON DIETRICH KNICKERBOCKER.",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "8fa8a6ff-c4c5-5771-a3c7-65153f0a078a",
+    "entry": "向々",
+    "reading": {
+      "primary": "向々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "心当りの向々へ問い合せて見ようといった。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これを概するに、荷を負う畜にもそれぞれ向々があって、馬は平原に宜しく、象は藪林に適し、砂漠に駱駝、山岡に驢がもっともよく役に立つ。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それも一つの特色として結構なことであるし、それはそれとして又その向々の人によって、定めて大入繁昌をしていることと思うが、私としては往時をしのぶにつけて何となくさびしい思いをせざるを得ないのである。",
+              "citation": {
+                "source": "早稲田神楽坂",
+                "author": "加能作次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一、同じ古本屋にても唐本和本漢籍雑書詩歌俳諧各其の向々あり。",
+              "citation": {
+                "source": "古本評判記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

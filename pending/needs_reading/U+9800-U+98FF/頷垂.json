@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "8429bfae-b8c4-51dd-af5c-64c264429145",
+    "entry": "頷垂",
+    "reading": {
+      "primary": "頷垂",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "第四はジャワ等諸島に住むガルス・ヴァリウス、全く頷毛なく冠大にして切り込みなく、頷垂れただ一なるのみ、羽色多く緑で家鶏との間種は稀に種を伝う。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鶏に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一難去ってまた一難とはこのことかと、黙ったまま彼は頷垂れていた。",
+              "citation": {
+                "source": "釘抜藤吉捕物覚書",
+                "author": "怪談抜地獄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "新見は頷垂れて涙を拭うた。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "栄一は頷垂れて指をもじ／＼して居たが、父を見て『お父様……』と云つた。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は兄さんひとりしか頼りにする人が無いのですから』と云つてまた頷垂れて終つた。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あはてゝ起き上つて、机の上に両臂をついて頷垂れて黙つて居ると、『兄様、そんなにして寝て居つて、足で机の上のランプでも引繰り返して、火事でも放つた事なら大変ですよ、お父様のお留守に危い。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "笑子は頷垂れて居た。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "520451de-ebdd-5f4b-a731-54161a5abecd",
+    "entry": "逢申",
+    "reading": {
+      "primary": "逢申",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一、養子の事ハ如何様之武士に候哉、逢申度候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応二年十二月四日　坂本権平、一同あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一目お見下さるようにと、おねだり申した金持も、あなたにお逢申すや否や、自分は同時に乞食の9275貧しさと、王侯の富とを得たと感ずるでしょう。",
+              "citation": {
+                "source": "ファウスト",
+                "author": "FAUST. EINE TRAGODIE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "隨而小弟にも無異罷在、當分は宿替にて獨居いたし、間々夢中には貴丈に御逢申上候。",
+              "citation": {
+                "source": "遺牘",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まげ度程まげ申せは、それには光さし申世にて候間、中々我等躰之者｜罷出、世に逢申儀にて無御座候、世にあわせ申ても、はや無余候間、今日／＼と存、死をまつばかりにて御座候。",
+              "citation": {
+                "source": "随筆　宮本武蔵",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

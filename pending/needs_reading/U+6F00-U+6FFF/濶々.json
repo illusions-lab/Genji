@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "69901f89-0028-505c-8dcf-a9876a4f851a",
+    "entry": "濶々",
+    "reading": {
+      "primary": "濶々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その石も、樹も、皆、水の威力に牽引されているようで、濶々とした河原に、一筋水が走っている。",
+              "citation": {
+                "source": "白峰山脈縦断記",
+                "author": "小島烏水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "雨を含んだ雲が時々遮るとはいへ、暑い日のもとに黄熟した麥が刈られた時畑はからりと成つて境木に植られてある卯木のびつしりと附いた白い花が其處にも此處にも目に立つて、俄に濶々としたことを感ずると共に支へるものが無くなる丈目に入る女の姿が殖えるのである。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さつき土手の上で見たのとは違つて――狭く、小さく、錆びた川か何ぞのやうに見えたのとは違つて、いかにも濶々とした沼らしい感じを私に与へた。",
+              "citation": {
+                "source": "ある日の印旛沼",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "濶々とした北浦はいつか後に、次第に川らしい感じになつて来た。",
+              "citation": {
+                "source": "船路",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それにあの眺望――濶々としたあの谷と山との眺め、雲の眺め、赤城山の大きな姿を前にした形は、家庭の煩瑣にのみ精神を疲らせられた細君達に取つて、どれほど生き返つた心持を漲らせる対象となるか知れなかつた。",
+              "citation": {
+                "source": "女の温泉",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だから迂濶々々歩けないの隠れていなけりゃならないの。",
+              "citation": {
+                "source": "天草四郎の妖術",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

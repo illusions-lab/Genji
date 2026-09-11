@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "64dd2b50-92a7-5147-8e4a-f5141b7767fc",
+    "entry": "已前",
+    "reading": {
+      "primary": "已前",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "十年已前までは素質なるを近年彩色を加ふといふ。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "美醜が現れて已後のことを問うのではなくして、その二つが未だ分れぬ已前の境地を追求しようとするのである。",
+              "citation": {
+                "source": "民藝四十年",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "求めるところは美醜已前の世界なのである。",
+              "citation": {
+                "source": "民藝四十年",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "已前とは未生の意である。",
+              "citation": {
+                "source": "民藝四十年",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが二つに未だ分れない已前の美をこそ訪わねばならない。",
+              "citation": {
+                "source": "民藝四十年",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もっともこの已前とか已後とかここでいうのは、時間の前後を指してのことではない。",
+              "citation": {
+                "source": "民藝四十年",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "已前とは時間のない世界、過去も未来もない世界のことを語っているのである。",
+              "citation": {
+                "source": "民藝四十年",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それらが二に分れる已前に自らを戻すことである。",
+              "citation": {
+                "source": "民藝四十年",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

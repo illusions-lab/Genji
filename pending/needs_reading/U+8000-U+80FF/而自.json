@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "4e76d436-9537-5bdc-88cc-659403226f77",
+    "entry": "而自",
+    "reading": {
+      "primary": "而自",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "私たちの頭が戦争呆けをしていない限り、もはや節操なき人人の似而自由主義には欺されないであろう。",
+              "citation": {
+                "source": "終戦前後",
+                "author": "織田作之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嚢中自有銭、然而自無銭だ。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又「到速見邑、有女人、曰速津媛、爲一處之長、其聞天皇車駕、而自奉迎之云々」速見邑ハ、今ノ豐後國速見郡ナリ。",
+              "citation": {
+                "source": "倭女王卑彌呼考",
+                "author": "白鳥庫吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又、新羅王は、素旆｜而自服、素組以面縛、封図籍、降於王船之前といふ風で、念の入つた誓ひを立てた（神功紀）。",
+              "citation": {
+                "source": "幣束から旗さし物へ",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "従而自分は入院ののち、一にも二にも修養に心を砕いた。",
+              "citation": {
+                "source": "盗まれた手紙の話",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また曰く、『其爲人拗、不師古、專而自用、喜快心、惡衰、破醇就漓』と、莊重の辭、晩季の風詢に此の如きもありしならむ。",
+              "citation": {
+                "source": "春鳥集",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "uuid": "bc4fb2cc-59c7-590b-9b43-20ff5ccf0198",
+    "entry": "冊紛",
+    "reading": {
+      "primary": "さつ紛",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『やられたな』と思って、私は二人を玄関のホール迄送って来た時『実は今、珍本が一冊紛失した。",
+              "citation": {
+                "source": "愛書癖",
+                "author": "辰野隆",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてその死後もしはらく同じやうに亡き弟にあてて書きつづけてゐたが、それが全部で十四册（そのうち一册紛失す）ある。",
+              "citation": {
+                "source": "モオリス・ド・ゲランと姉ユウジェニイ",
+                "author": "堀辰雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "册紛"
+      ],
+      "needs_reading": true
+    }
+  }
+]

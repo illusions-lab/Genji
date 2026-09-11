@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "8ed69ec8-b078-5e18-8ba0-24f64e8cc851",
+    "entry": "贖償",
+    "reading": {
+      "primary": "贖償",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "人の子の来たれるも事えらるるために非ず、かえって事うることをなし、また多くの人の贖償として己が生命を与えんためなり。",
+              "citation": {
+                "source": "イエス伝",
+                "author": "マルコ伝による",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人の背負いきれぬ罪の負債をば代わって支払い、これによって多くの人が神の国に入ることができるよう、贖償として己の生命を与えるのだ。",
+              "citation": {
+                "source": "イエス伝",
+                "author": "マルコ伝による",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかもイエスの死は「多くの人の贖償として己が生命を与える」ものであって（一〇の四五）、彼の事業と生涯との完成でありました。",
+              "citation": {
+                "source": "イエス伝",
+                "author": "マルコ伝による",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ことに神の国を来たらせるについてイエスの取り給うた方法が罪の悔い改めによる霊魂の新生であり、そのためにイエス御自身が贖償の死を遂げ給うというに至っては、ユダはとうていこれを解しえなかったのです。",
+              "citation": {
+                "source": "イエス伝",
+                "author": "マルコ伝による",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十字架の死による贖償のメシヤ観は、イエス御自身にとりてもおそらく最初からわかっていたわけでなく、その御生涯の経過においてしだいに分明となった真理でありましょう。",
+              "citation": {
+                "source": "イエス伝",
+                "author": "マルコ伝による",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その中に彼の死の深い意味――彼の血は多くの人のために流されるのであり（一四の二四）、彼の生命は罪祭の供物として（イザヤ五三の一〇）、多くの人の贖償として与えられる（一〇の四五）のであることが、最も力強く象徴せられたのです。",
+              "citation": {
+                "source": "イエス伝",
+                "author": "マルコ伝による",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

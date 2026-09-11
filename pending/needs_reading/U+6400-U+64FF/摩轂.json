@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "39ffd6c4-8369-541f-8377-96c3e8540af9",
+    "entry": "摩轂",
+    "reading": {
+      "primary": "摩轂",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一刻毎に集り来る人の群、殊に六時の神戸急行は乗客が多く、二等室も時の間に肩摩轂撃の光景となった。",
+              "citation": {
+                "source": "蒲団",
+                "author": "田山花袋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "座敷著姿の艶っぽい芸者や雛妓等があの肩摩轂撃的の人出の中を掻き分けながら、こちらの横町から向うの横町へと渡り歩いている光景は、今も昔と変りなくその善い悪いは別として、あれが余程神楽坂の空気や色彩を他と異なったものにしていることは争われない。",
+              "citation": {
+                "source": "早稲田神楽坂",
+                "author": "加能作次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いつも賑やかな浅草は、その日も素晴らしい賑わいで、奥山のあたりは肩摩轂撃、歩きにくいほどであった。",
+              "citation": {
+                "source": "八ヶ嶽の魔神",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大師時代の洛陽は、さして長安に劣らぬ繁華で、その城内を貫通する洛水の上に架せる天津橋は、實に肩摩轂撃の熱閙を極めたが、今は城外に淋しい名殘を存するのみである。",
+              "citation": {
+                "source": "大師の入唐",
+                "author": "桑原隲蔵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今日不忍池の周囲は肩摩轂撃の地となったので、散歩の書生が薄暮池に睡る水禽を盗み捕えることなどは殆ど事実でないような思いがする。",
+              "citation": {
+                "source": "上野",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "各エレベーターはことごとく満員で、そのエレベーターが吐き出す人数は、下の十字路を通る群衆の中になだれ込んで、肩摩轂撃の修羅場を現出する。",
+              "citation": {
+                "source": "丸の内",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かたへに神官の御くじを振るけしきは従前と変らざれども、賽銭の降るものなく肩摩轂撃の雑沓なければ警官も手持ぶさたなるごとし。",
+              "citation": {
+                "source": "東京の風俗　序",
+                "author": "木村荘八",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伝え聞いた諸郡の人々は、「相馬殿の御威勢を以て、どんな大祭典をやるのか」　と、ここ大宝郷へ、蝟集して、肩摩轂撃の人波をその日には見せた。",
+              "citation": {
+                "source": "平の将門",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一番の人出は向島、枕橋を渡ると花の世界で目鬘売りや花かんざしの立売りが並ぶ間を、三囲から白鬚、遠くは木母寺まで肩摩轂撃、土手際にはよしず張りの茶店、くわいの串ざしや、きぬかつぎを売り物に赤前垂が客を呼ぶ。",
+              "citation": {
+                "source": "明治世相百話",
+                "author": "山本笑月",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

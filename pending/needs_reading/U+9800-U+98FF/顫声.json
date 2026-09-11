@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "a0d2a590-61fe-5529-af89-7d5b30233516",
+    "entry": "顫声",
+    "reading": {
+      "primary": "顫声",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "母も夜時々眼をさましてみると、民子はいつでも、すくすく泣いている声がしていたというので、今度は母が非常に立腹して、お増と民子と二人呼んで母が顫声になって云うには、「相対では私がどんな我儘なことを云うかも知れないからお増は聞人になってくれ。",
+              "citation": {
+                "source": "野菊の墓",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夫は出でて未だ帰らざれば、今日｜若し罵り噪ぎて、内に躍入ることもやあらば如何せんと、前後の別知らぬばかりに動顛して、取次には婢を出し遣り、躬は神棚の前に駈着け、顫声を打揚げ、丹精を抽でて祝詞を宣りゐたり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『竹山さん、私は、』と哀し気な顫声を絞つた。",
+              "citation": {
+                "source": "病院の窓",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "とうとうマリイが堪え兼て、顫声をして言い出した。",
+              "citation": {
+                "source": "みれん",
+                "author": "シュニッツレル　Arthur Schnitzler",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私の背後で彼女が少し顫声で言った。",
+              "citation": {
+                "source": "風立ちぬ",
+                "author": "堀辰雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』と、彼は顫声して、冷汗を拭きながら。",
+              "citation": {
+                "source": "六号室",
+                "author": "アントン・チエホフ　Anton Chekhov",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

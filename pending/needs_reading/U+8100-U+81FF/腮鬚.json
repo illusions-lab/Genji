@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "75e021af-2814-5dee-bf8f-c7cdbbf04ab2",
+    "entry": "腮鬚",
+    "reading": {
+      "primary": "腮鬚",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "痩せたクリストフが刈株のやうな腮鬚で領をこすりながら、ゆつくり何やらを咬んでゐる音と、ペピイががつがと痰を吐きながら、折々余り近くに寄つて来た子供や犬を叱る声とを聞いてゐる。",
+              "citation": {
+                "source": "老人",
+                "author": "GREISE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかもその小さな下唇を前歯で噛み破ったらしく鼻の下から乳の間へかけてベットリとコビリ付いている血が、水銀燈に照らされて妙に黝ずんだ腮鬚みたいに見えるのです。",
+              "citation": {
+                "source": "人間腸詰",
+                "author": "夢の久作（夢野久作）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一人二人を除いては、初対面の人許りなので、私は暫時の間名刺の交換に急がしかつたが、それも一しきり済んで、莨に火をつけると、直ぐ、真黒な腮鬚の男は未だ来て居ないと気がついた。",
+              "citation": {
+                "source": "菊池君",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ぼろぼろの法衣を着た、痩せて銀のような腮鬚を生やした旅僧が立って念仏を唱えていた。",
+              "citation": {
+                "source": "妖怪記",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "胡麻鹽の腮鬚の長い受付の老爺の顏を、半圓形の硝子窓の中に、覗きカラクリのやうに見て、右へ曲つて行くと、白い壁の長い廊下が續いて、其の片側には、下駄箱を横にしたやうに、一つ／＼扉の附いた入口が幾つも並んでゐた。",
+              "citation": {
+                "source": "天滿宮",
+                "author": "上司小劍",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

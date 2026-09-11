@@ -1,0 +1,191 @@
+[
+  {
+    "uuid": "d37134c1-9ce4-5446-a295-a3ef81bc7b67",
+    "entry": "雕開",
+    "reading": {
+      "primary": "雕開",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（先進篇）行蔵の弁子｜漆雕開をして仕えしめんとす。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "座には顔渕、子路、子貢、閔子騫など高弟の外に、このごろ蔡からやって来た漆雕開が顔を出していた。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孔子は、永いこと默って、みんなのいうことに耳を傾けていたが、急に思い出したように、漆雕開にいった。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし――」　と、漆雕開は少し顔を赧らめて、みんなの顔を見ながら、「どうもまだ仕官などする自信が、私にはありません。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すると子路が、あわれむように漆雕開を見ながら、口を出した。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「しかし漆雕開君は、それほど初心でもないだろう。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "漆雕開君がどうのこうの、といっているわけではない。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……どうでしょう、先生、僕は漆雕開君だけの力量があれば、あの位の役目は大丈夫つとまると思いますが。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――」　と、孔子は子路と子貢とを見くらべながら、「わしは漆雕開の慎重な思慮と、反省と、謙譲の徳と、それから高遠な志とを、この場合生かしてやりたいと思うのじゃ。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　漆雕開はいかにも感激したらしく、眼をかがやかして孔子を見た。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「なるほど、漆雕開君や閔子騫君の場合は、それでいいと思います。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "漆雕開はただもじもじと両手を膝の上でもんでいた。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "顔渕と、閔子騫と、漆雕開の顔には、かすかな微笑が浮んだが、それは一秒とたたないうちに消えてしまった。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五（九七）　先師が漆雕開に仕官をすすめられた。",
+              "citation": {
+                "source": "現代訳論語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すると、漆雕開はこたえた。",
+              "citation": {
+                "source": "現代訳論語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○　漆雕開＝＝孔子の門人。",
+              "citation": {
+                "source": "現代訳論語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然るに漆雕開は、孔子が進んで仕官をすすめたにも拘らず、なお自重したのである。",
+              "citation": {
+                "source": "現代訳論語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 17
+      }
+    }
+  }
+]

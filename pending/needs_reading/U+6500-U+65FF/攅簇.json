@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "6c2cba2b-d2fa-5aa6-9d92-511abef7e2e3",
+    "entry": "攅簇",
+    "reading": {
+      "primary": "攅簇",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "右手は遠く松林、草原が断続して、天気の好い日ならばその果てに松本の市街が小さく見え、安曇野を隔てて遠く、有明山、屏風岳、槍ヶ岳、常念ヶ岳、蝶ヶ岳、鍋冠山などが攅簇して、山の深さの幾許あるか知れない様を見せているのだが、これらの山影も今日は半ば以上雲に包まれて見えない。",
+              "citation": {
+                "source": "木曾御嶽の両面",
+                "author": "吉江喬松",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "右手は遠く松林、草原が斷續して、天氣の好い日ならば其果てに松本の市街が小さく見え、安曇野を隔てゝ遠く、有明山、屏風嶽、槍ヶ嶽、常念ヶ嶽、蝶ヶ岳、鍋冠山などが攅簇して、山の深さの幾許あるか知れない樣を見せてゐるのだが、此等の山影も今日は半ば以上雲に包まれて見えない。",
+              "citation": {
+                "source": "山岳美觀",
+                "author": "吉江喬松",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "年已に十三、瘡珠攅簇、肌膚鮫魚の皮の如く、痛痒忍ぶべからず。",
+              "citation": {
+                "source": "親子遠足の感",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この種は山地に生じて高さ二尺内外から一丈ばかりに及ぶ落葉灌木で、その小さい黄色花は小枝頭に攅簇して頭状をなし、花にも葉にも細白毛が多い。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "緑葉が枝に対生し五、六月の候枝梢の傘房状をなして多数の五雄蕊小白花を聚め開き、その時分に山野へ行くとそこここでこれに出会いその攅簇せる白花がよく眼に着く。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "赤色の美花を攅簇して開く（故に紅繍毬あるいは珊瑚毬の名もある）熱国の常緑灌木で我が内地には固より産しない。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昔の学者はこのソバノキのソバを稜の意に取ったからよくその語原が呑み込め無かったが、これは決して稜の意味では無く、それはこの樹上に群集｜攅簇して一面に満開する白花の姿が、宛かもソバすなわち蕎麦の花に似ているから、それでそう名づけられた者に外ならないのである。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

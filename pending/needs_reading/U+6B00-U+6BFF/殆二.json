@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "d5ad7bf5-ba20-5dec-98d9-bc1d42220ac9",
+    "entry": "殆二",
+    "reading": {
+      "primary": "殆二",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（一月二十七日）　　　　　尾崎紅葉　紅葉の歿後殆二十年。",
+              "citation": {
+                "source": "骨董羹",
+                "author": "―寿陵余子の仮名のもとに筆を執れる戯文―",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "銀座通にカッフェーの流行し始めてから殆二十年の歳月を経たことは既に述べた。",
+              "citation": {
+                "source": "申訳",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秋山小島ノ二氏雲如ノ亡ヲ距ルコト殆二十年ニシテコノ挙アリ。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

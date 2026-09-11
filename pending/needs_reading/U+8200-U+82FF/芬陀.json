@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "d0e7fb59-ce4b-5815-a911-72900d78f8c8",
+    "entry": "芬陀",
+    "reading": {
+      "primary": "芬陀",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "天晴れ仏果を得て人中の芬陀利華と咲くことを望んだ身が、畜生も蹄を避ける醜草と変るのだ。",
+              "citation": {
+                "source": "阿難と呪術師の娘",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前にちょっと述べた通り長享二年からの催促には、ひととおりならぬ手数をつくしたもので、義尚将軍薨去につき土岐右京太夫が斎藤越後守を従えて四月入洛し、土岐は芬陀利花院に、斎藤越後守は東福寺に宿営すると、早速にまたたびたび催促の使者を差し向けた。",
+              "citation": {
+                "source": "東山時代における一縉紳の生活",
+                "author": "原勝郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これも文和の昔、後芬陀利花院さま（一条｜経通）御在世の砌、折からの西風に煽られてお屋敷の寝殿二棟が炎上の折にも、幸いこの御秘蔵の文庫のみは恙なく残りました。",
+              "citation": {
+                "source": "雪の宿り",
+                "author": "神西清",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これも文和の昔、後芬陀利花院さま（一条｜経通）御在世の砌、折からの西風に煽られてお屋敷の寝殿二棟が炎上の折にも、幸ひこの御秘蔵の文庫のみは恙なく残りました。",
+              "citation": {
+                "source": "雪の宿り",
+                "author": "神西清",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

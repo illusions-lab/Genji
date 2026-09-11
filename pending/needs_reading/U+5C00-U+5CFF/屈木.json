@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "29982406-26ad-5d96-a19e-c7367b4f9fb6",
+    "entry": "屈木",
+    "reading": {
+      "primary": "屈木",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "するとストーブを独占しながら新聞を読んでゐる屈木の姿がすぐ眼についた。",
+              "citation": {
+                "source": "閑人",
+                "author": "原民喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と屈木は敏捷さうな顔を彼の方に対けながら、飲みかけの茶碗を持ち上げた。",
+              "citation": {
+                "source": "閑人",
+                "author": "原民喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と屈木は得意さうに笑って、「君は相変らずだね。",
+              "citation": {
+                "source": "閑人",
+                "author": "原民喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "屈木はチョッキから懐中時計を取出すと、「おっと、もう二時か、ぢゃまた遇はう。",
+              "citation": {
+                "source": "閑人",
+                "author": "原民喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は屈木の姿を見送ると、何故か不思議な気もした。",
+              "citation": {
+                "source": "閑人",
+                "author": "原民喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの男も以前は彼以上に病態が昂進してゐて、今にも死にさうな姿を巷に晒してゐたが、屈木は血を喀きながらも酒を飲んだり女に戯れた。",
+              "citation": {
+                "source": "閑人",
+                "author": "原民喜",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "気持一つで無理に無理を支へてゐる屈木の姿が、彼に何か物凄い発奮を強ひてゐるやうであった。",
+              "citation": {
+                "source": "閑人",
+                "author": "原民喜",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

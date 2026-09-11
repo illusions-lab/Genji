@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "90133e2a-ce7e-5b42-ae81-a6ce66d38f65",
+    "entry": "逢候",
+    "reading": {
+      "primary": "逢候",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "此中も逢候へば辞安様はいかがと申ゐ候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "途中雨｜少にて、僅一両日微雨に逢候｜而已、只入京之日半日雨降申候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其後蒸気船の将武藤早馬に行逢候得ども、是ハ重役の事又ハ御国に帰れなど云ハれん事を恐れ、しらぬ顔して通行しに、広之丞再三参り、私之存念を尋候ものから認め送り候処、内々武藤にも見セシ様子。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応二年十二月四日　坂本権平、一同あて",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

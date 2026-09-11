@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "eff11ef6-7557-57a7-be05-6f2b67e1113b",
+    "entry": "怎那",
+    "reading": {
+      "primary": "怎那",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "内容は怎那者だ一体』と今迄本の体裁許り見て居たが三十頁もあらうと思ふ序文をめくつて大きな文字で印刷してある本文から読み始めた。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "君塚本は怎那嘘を云ひました？",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し徳島に帰つて父と対面すれば怎那感じがするであらうと思ふと胸がどき／＼する。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ほだつて五度｜喫るのですからない』『さうだね』『兄さん東京つて、怎那処です？",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕には怎那子が産るだらう。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それで、『お父様怎那御用で御座りますか？",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

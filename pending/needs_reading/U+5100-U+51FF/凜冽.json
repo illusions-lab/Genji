@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "a16b20be-f923-5e79-a849-7b509b36d462",
+    "entry": "凜冽",
+    "reading": {
+      "primary": "凜冽",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "昼頃近くになっても霜柱の消えないような玄関の前に立って呼鈴を鳴らしてもなかなかすぐには反応がなくて立往生をしていると、凜冽たる朔風は門内の凍てた鋪石の面を吹いて安物の外套を穿つのである。",
+              "citation": {
+                "source": "新年雑俎",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霜威の凜冽たる冬の夜に、見る目も寒く水を浴びしと覚しくて、真白の単衣は濡紙を貼りたる如く、よれよれに手足に絡いて、全身の肉附は顕然に透きて見えぬ。",
+              "citation": {
+                "source": "黒壁",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本の社会の雰囲気には、破滅のうちに生きていながらその破滅を意識の正面にうけとってゆくリアリスティックな凜冽さが足りない。",
+              "citation": {
+                "source": "偽りのない文化を",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すでに斯うして武装した軍隊を見ると秋霜凜冽、矢も楯もたまらぬ、戦わざるにすでに一触即発の肉弾になりきっている。",
+              "citation": {
+                "source": "百姓弥之助の話",
+                "author": "第一冊　植民地の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "つまり、女性的魅力に凜冽たる一面を必ず附け加へたいのである。",
+              "citation": {
+                "source": "妻の日記",
+                "author": "岸田國士",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれども凜冽な魂の気魄と気品の高雅が、いつも道鏡をびっくりさせた。",
+              "citation": {
+                "source": "道鏡",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なぜなら女帝の凜冽な魂の気魄が、夜の心を目の前ではっきりと断ち切ってしまうから。",
+              "citation": {
+                "source": "道鏡",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この偉大なる人、高雅なる人、可憐なる人、凜冽たる魂の気品の人の姿がなしに、内裏の虚空に坐したところで、何ものであろうか。",
+              "citation": {
+                "source": "道鏡",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然し、彼は、凜冽たる一つの気品を胸にいだいて放さなかった。",
+              "citation": {
+                "source": "道鏡",
+                "author": "坂口安吾",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其胴体から放散する凜冽の気は、触るる所の何物をも凍らせずには置かないような気がする。",
+              "citation": {
+                "source": "奥秩父の山旅日記",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

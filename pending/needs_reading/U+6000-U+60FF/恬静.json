@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "5b6e4502-9cca-575a-bf3e-fc724541e730",
+    "entry": "恬静",
+    "reading": {
+      "primary": "恬静",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "パリーのある音楽の快楽的な恬静さに対抗して、彼は激しい意志を、雄々しい健全な悲観思想を称揚していた。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN-CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（a）さて、彼ら〔ピュロン学者〕の判断の、こういう真直で・曲らない・すべての物を順応もせず賛成もせずに受け容れる・態度は、彼らをそのアタラクシア〔恬静〕に導く。",
+              "citation": {
+                "source": "モンテーニュ随想録",
+                "author": "ESSAIS DE MONTAIGNE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "39c96a61-fe82-5afb-bada-15abd71addff",
+    "entry": "蹈込",
+    "reading": {
+      "primary": "蹈込",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "草原の草を縛り合わせて通りかかった人を躓かせたり、田圃道に小さな陥穽を作って人を蹈込ませたり、夏の闇の夜に路上の牛糞の上に蛍を載せておいたり、道端に芋の葉をかぶせた燈火を置いて臆病者を怖がらせたりと云ったような芸術にも長じていた。",
+              "citation": {
+                "source": "重兵衛さんの一家",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なりたけまあ大事にして、ものを見ないようにする方が可いっていうもんだから、ここはちょうど人通の少い処、密と目を塞いで探って来たので、ついとんだ羂に蹈込んださ、意気地はないな、忌々しい。",
+              "citation": {
+                "source": "黒百合",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "弱虫ばかり、喧嘩の対手にするほどのものも居ねえ処だから、そン中へ蹈込んで、骨のある妖物にでも、たんかを切ってやろうと、おいら何するけれども、つい忙いもんだから思ったばかし。",
+              "citation": {
+                "source": "黒百合",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "水なら踵まで浴ろう深さ、そうして小刻に疾くなったが、水田へ蹈込んで渡るのを畔から聞く位の響き。",
+              "citation": {
+                "source": "沼夫人",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "兼次が其子の籠へ土足を蹈込んだのである。",
+              "citation": {
+                "source": "芋掘り",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お代の言告口を聞きてよほど心の激昂しけん、足音荒くツカツカと奥へ蹈込み来り「コレお国、東京の満から手紙が来たそうだ。",
+              "citation": {
+                "source": "食道楽",
+                "author": "春の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "徳川家康（従五位上侍従このとき三十一歳）は紺いろに葵の紋をちらした鎧直垂に、脛当、蹈込たびをつけたまま、じっと目をつむって坐っていた。",
+              "citation": {
+                "source": "死處",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "uuid": "4a774bc0-9fd2-512c-a86c-454d38286286",
+    "entry": "両聯",
+    "reading": {
+      "primary": "りょう聯",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "後首の両聯に花火が点出してある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "両聯は措いて問はない。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第一にこの絶句的命題――前後兩聯から成立してゐて、各聯はのみによつて接合されたる二句から成立してゐるから――を常識的に解釋するために、假にＣ君特愛ののみを除いて考へる。",
+              "citation": {
+                "source": "三太郎の日記　第三",
+                "author": "阿部次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:58:42Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "兩聯"
+      ],
+      "needs_reading": true
+    }
+  }
+]

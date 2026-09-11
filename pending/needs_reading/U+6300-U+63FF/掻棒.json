@@ -1,0 +1,175 @@
+[
+  {
+    "uuid": "389d5be2-f8da-592c-87a7-a69c83e6eee8",
+    "entry": "掻棒",
+    "reading": {
+      "primary": "掻棒",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――見張人の頭骸骨は、背後より加えられし、火掻棒ようのものの一撃によってめちゃめちゃとなりおりたり。",
+              "citation": {
+                "source": "株式仲買店々員",
+                "author": "コナンドイル　Arthur Conan Doyle",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鼠が壺をバリバリ引つ掻くとか、自身で火掻棒につまづくとかすると――さあ大変だ！",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　前篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの森の中にはジプシイが住んでをつて、妖女が火掻棒に跨がつて空を翔けまはるやうな晩に限つて、巣窟から出てきて、鉄を煉つのぢや。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　前篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが、二人がほつとする暇もなく、女房は土間へ降りて、火掻棒を手にしてゐた。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　後篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして逸早く亭主の両手と、織匠の背中とへ火掻棒で一撃を与へておいて、袋の傍へ駈け寄つた。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　後篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「あんたとこの火掻棒は鉄ぢやと見えるね！",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　後篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「うちの女房が去年の市で二十五｜哥出して買つた火掻棒は、こんなに……痛かあねえだが……。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　後篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "女房は再び火掻棒に手を掛けたが、ちやうどその時、袋のなかからチューブが這ひずり出して、たつた今、長い眠りから眼が覚めたといはんばかりに、伸びをしながら、玄関のまん中にぬつと突つ立つた。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　後篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところがその都度、番犬が得たり賢しとその美味い麺麭菓子をぱつくりくはへては、ガツガツ言ひながら食つてしまふので、その物音に初めて我れに返つた叔母さんはいつも火掻棒で犬を打つたものだ。",
+              "citation": {
+                "source": "ディカーニカ近郷夜話　後篇",
+                "author": "VECHERA NA HUTORE BLIZ DIKANIKI",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "加害者は、この傷口やそれから後頭部の下部の骨折から見て、幅約〇・八｜糎、長さ約五｜糎の遊離端を持つ鈍器――例えば、先の開いた灰掻棒みたいなもので、背後から力まかせにぶん殴ったものですな」「他に損傷はないですか？",
+              "citation": {
+                "source": "気狂い機関車",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "即ち屍体は、推定時間当時に於てこの下り一番線上を通過した機関車から、灰掻棒で殺害後｜突墜されたものに違いないと言う事――私のこの考え方を裏書してくれる確実な手掛りを御覧下さい」　司法主任はそう言って、軌条と屍体との中間に当る路面に、懐中電燈の光を浴びせ掛けた。",
+              "citation": {
+                "source": "気狂い機関車",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "及川の足元に近く、ストーブの鉄の灰掻棒が、鈍いくの字型にひん曲って投出されていた。",
+              "citation": {
+                "source": "寒の夜晴れ",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから僕が、涙を流しながら、灰掻棒でなにをしたか、もう君は知っている筈だ。",
+              "citation": {
+                "source": "寒の夜晴れ",
+                "author": "大阪圭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "火掻棒が落ちて大きな音をたてた。",
+              "citation": {
+                "source": "ジャン・クリストフ",
+                "author": "JEAN CHRISTOPHE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "兇器に使われた火掻棒までに、唐草模様の象眼がされていた。",
+              "citation": {
+                "source": "雪",
+                "author": "楠田匡介",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

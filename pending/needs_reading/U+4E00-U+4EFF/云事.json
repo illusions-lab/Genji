@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "94417938-8742-53c6-816a-016b28cfd60e",
+    "entry": "云事",
+    "reading": {
+      "primary": "云事",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "正しいと云事は言へると思ふ。",
+              "citation": {
+                "source": "假名遣意見",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まあ、生きていると云事は、どんなに美しい事だろう。",
+              "citation": {
+                "source": "みれん",
+                "author": "シュニッツレル　Arthur Schnitzler",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」国助曰、惣じて物をかすに期限なしと云事ハある間敷候。",
+              "citation": {
+                "source": "坂本龍馬手記",
+                "author": "イロハ丸航海日記",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 35
+      }
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "3791859c-f7c2-5c6e-a3d8-9ae2d274de29",
+    "entry": "犖",
+    "reading": {
+      "primary": "犖",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "滔々として天地と共に流れている卓犖不覊の大河の流れと知られ、歪めば歪んだなりに直く、切ない痛苦は痛苦のままにして、息詰まるほどの快楽でもございましょう。",
+              "citation": {
+                "source": "生々流転",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秉忠は実に奇偉卓犖の僧なり。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "引力によりて相繋纏する物質の力、自由を以て独自｜卓犖たる精神の力、この二者が相率ひ、相争ひ、相呼び、相結びて、幾千幾百年の間、一の因より一の果に、一の果より他の因に、転々化し来りたる跡、豈に一朝一夕に動かし去るべけんや。",
+              "citation": {
+                "source": "国民と思想",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古へより卓犖不覊の士、往々にして文章を事とするを喜ばず、文字の賊とならんより心中の文章に甘んじたればならむ。",
+              "citation": {
+                "source": "山庵雑記",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "要するに戦争上りのことでもあるから、人気は一般に荒っぽく、不羈卓犖というようなことを尚ぶので、それだけ勉強するものは因循党と見做された。",
+              "citation": {
+                "source": "鳴雪自叙伝",
+                "author": "内藤鳴雪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これほど卓犖高遠なベートーヴェン魂を把握した演奏は滅多にあるものでない。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "マレシャルと対照すると、その豪宕卓犖な気魄に、ただ茫然とするばかりだ。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、その得意とするベートーヴェンの演奏などになると、精緻極まる演奏のうちに、強靱卓犖なナポレオン的な力が漲る。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "清朗｜卓犖な、実に品の良い演奏で、ベートーヴェンの晩年の境地がさながらに胸を打つ。",
+              "citation": {
+                "source": "名曲決定盤",
+                "author": "野村長一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

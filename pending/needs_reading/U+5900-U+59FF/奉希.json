@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "63947740-f056-5361-9c27-8f07bb298dc5",
+    "entry": "奉希",
+    "reading": {
+      "primary": "奉希",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "これらのことちと御尋被下度奉希候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしたとひ閙敷とも、折節寸札御返事は奉希候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "偖三木三郎君事、昼後は日々あとくり有之候様、公より御加鞭被下候様奉希候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "乍末行御家内皆様へ宜御伝声｜奉希上候。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故ニ今夜伏水ニ下り明朝上京と存付候間、吉井への状一封今夜中、何卒御遣しの程｜奉希。",
+              "citation": {
+                "source": "手紙",
+                "author": "文久三年七月八日か　村田巳三郎あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又承り候得バ、早明日御出船と、定而此頃御多用ニ候べしと奉存候得バ、事ニより近日山口までも御尋申べきかと奉存候間、何卒御面遠ながら御足お止められ候所を一筆｜御印置可被遣よふ｜奉希候。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応二年十二月十五日　木戸孝允あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さて先般御注意被下候護国寺境内石燈燈碑文此の程やうやく改彫を終り候間御序の節御高覧奉希上候。",
+              "citation": {
+                "source": "高橋箒庵氏の書道観",
+                "author": "北大路魯山人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ますます御奮励のほど奉希望候。",
+              "citation": {
+                "source": "漱石氏と私",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "就而は此度歸省に付而は、是非亡父の思ひ煩ひ居候義を相解度｜念願に御座候而、元利相｜揃差上候こそ相當の譯に御座候得共、只今｜迚も多人數の家内を相抱居候上、全｜無高之事に候へば、十分之義も不相｜調候に付、何卒右｜邊之處御憐察被成下度奉希候。",
+              "citation": {
+                "source": "遺牘",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然れば亡父之｜靈魂をも安ぜしめ申度御座候に付、其節差上置候｜證文、御返被下候はゞ、亡父へも右之首尾相濟候儀を申解候半歟と相考候付、宜敷｜御了解被成下候處、偏奉希候。",
+              "citation": {
+                "source": "遺牘",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

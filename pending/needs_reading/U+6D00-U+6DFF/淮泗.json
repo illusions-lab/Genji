@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "3980c30f-6915-55e8-8875-2fdaeebc3a44",
+    "entry": "淮泗",
+    "reading": {
+      "primary": "淮泗",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "漢武帝の時、黄河大に漲り、瓠子を決して、鉅野に注ぎ、淮泗に通じたることあり。",
+              "citation": {
+                "source": "囲碁雑考",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "南は淮泗から会稽に入り、時に魯中に家を持ったりした。",
+              "citation": {
+                "source": "岷山の隠士",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（大正十年三月發行「支那學」第壹卷第七號）　　自注（一）孟子縢文公上に決汝漢排淮泗而注之江とあり、今の尚書禹貢では江水と淮水とは各々獨立して海に入るので、相通ずることがない。",
+              "citation": {
+                "source": "尚書稽疑",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

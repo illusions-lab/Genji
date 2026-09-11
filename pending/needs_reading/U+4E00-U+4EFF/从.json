@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "45539eef-6767-56d4-b906-36805dbba811",
+    "entry": "从",
+    "reading": {
+      "primary": "从",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "説文に樗は「从木は「从木、丑居切」と云ひ、※の下には只「同樗」と云つてゐる。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "説郛本は鄭景壁と署してあつて、「土」に从ふ「壁」に作つてある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「手」に从ふ字の如くである。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "雑誌『太陽』の陽の字のつくり時に易に从ふものあり。",
+              "citation": {
+                "source": "墨汁一滴",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "从子承老也」（卷八上）とある。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故其（仁）字从人二（『段注説文解字』第八篇上）。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "仁とは从であり、人間関係に就いての現実的表象だ。",
+              "citation": {
+                "source": "道徳の観念",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一體筮の字は説文には筮易卦用蓍也、从竹古文巫字とあり、段玉裁は之に注して从竹者蓍如以竹爲之、从之名、巫更、巫咸、巫式、巫目、巫易、巫比、巫祠、巫參、巫環、字皆作巫、と言ひ、何れも筮と巫との關係のあることを見はしてゐる。",
+              "citation": {
+                "source": "易疑",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "の類、人を螫とあれば蜂の類也、雪中の虫は蛆の字に从ふべし、しかれば雪蛆は雪中の蛆蠅也。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "雪頽の図多く方形に从ふものは、其七八をとりて模様を為すのみ。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こゝには姑く※に从ふ。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然ども里言は多く俗訛なり、今姑俗に从もあり。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "姑俗に从うて駅沢に作り、以｜梓繁を省く。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "余の省字は皆｜古法に从ふ。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

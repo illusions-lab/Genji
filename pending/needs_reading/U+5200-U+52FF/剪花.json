@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "1d217588-3ff9-5c3b-88e4-8edc8920a12b",
+    "entry": "剪花",
+    "reading": {
+      "primary": "剪花",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "剪花屋、ロシヤパン、ドラ焼屋、魚の干物屋、野菜屋、古本屋、久々で見る散歩道だ。",
+              "citation": {
+                "source": "新版　放浪記",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夕御飯が済んで、小さい女中と二人で、油ものは油もの、茶飲み茶碗は茶飲み茶碗と、あれこれと近所の活動写真の話などをしながらかたづけものをして、剪花に水を替えてやっていると、もうその頃はたいてい八時が過ぎている。",
+              "citation": {
+                "source": "生活",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "冬の剪花は、手入れがいいので三週間位もたせる事がある。",
+              "citation": {
+                "source": "生活",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "剪花屋、ロシヤパン、ドラ焼屋、魚の干物屋、野菜屋、古本屋、久々で見る楽しい路上風景だ。",
+              "citation": {
+                "source": "放浪記（初出）",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

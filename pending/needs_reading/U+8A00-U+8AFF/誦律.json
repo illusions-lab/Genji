@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "324bcc93-bbf2-5726-9490-cd208edcf414",
+    "entry": "誦律",
+    "reading": {
+      "primary": "誦律",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『十誦律毘尼序』にこの譚の異伝あり。",
+              "citation": {
+                "source": "十二支考",
+                "author": "蛇に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『十誦律』に、大雨で伏蔵｜露れたのを仏が見て、毒蛇だというと、阿難も悪毒蛇だといって行き過ぎた。",
+              "citation": {
+                "source": "十二支考",
+                "author": "蛇に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『十誦律』に、優波離が仏に詣り、〈比丘の呪術をもって、自ら畜生形と作り、行婬す〉、また〈三比丘の呪術をもって、倶に畜生形と作って行婬〉する罪名を問う事あり。",
+              "citation": {
+                "source": "十二支考",
+                "author": "蛇に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『十誦律』四七、比丘尼に具足戒を授くるに先だち、あらゆる事どもを問うて真実に答えしむ。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『大般涅槃経』に馬｜獅の臭いを怖るといい、『十誦律毘尼序』にはその脂を脚に塗らば象馬等｜嗅いで驚き走るという、ラヤード言う、クジスタンの馬獅近づけば見えもせぬに絆を切って逃げんとす、諸｜酋長獅の皮を剥製し馬をして見｜狎れ嗅ぎ狎れしむと。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "インドで『十誦律』巻一に、動物を二足四足多足無足と分類して諸鳥｜猩々および人を二足類とし、巻十九に孔雀、鸚鵡、※々、諸鳥と猴を鳥類に入れあり。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猴に関する伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "仏これを聞いてかかる事した比丘を突吉羅罪とした（東晋訳『十誦律毘尼序』巻下）。",
+              "citation": {
+                "source": "十二支考",
+                "author": "虎に関する史話と伝説民俗",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "無障無礙なること、なお虚空のごとし」と）十誦律云、比丘疑火葬殺身中八万戸虫、仏言人死虫亦死。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（『十誦律』にいわく、「比丘、火葬を疑う、身中の八万戸の虫を殺さんと。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 21
+      }
+    }
+  }
+]

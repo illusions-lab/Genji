@@ -1,0 +1,215 @@
+[
+  {
+    "uuid": "c39e383d-fdf1-5b03-8af4-5bd45feab9a0",
+    "entry": "吃度",
+    "reading": {
+      "primary": "吃度",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "又生徒達は、彼の修身の時間、吃度三つは引用される、カーライルかそれでなければスマイルスかの言葉を、暗誦してはその後に「さう、なくちや――さうなくちやならぬ」と喰ッ付けた。",
+              "citation": {
+                "source": "校長",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "九十八度には吃度なる。",
+              "citation": {
+                "source": "その頃の生活",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで月末には吃度数人の被解雇者を見るといふ現象も、遂には此の会社の常習となつてしまつた。",
+              "citation": {
+                "source": "蜻蛉",
+                "author": "――飜弄さる",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "えゝさうよ、如何なつたつて好いと思つてるんだわ、吃度。",
+              "citation": {
+                "source": "夢",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "技巧を考慮する男は吃度価値ある内容を持つてゐます。",
+              "citation": {
+                "source": "（最も純粋に意地悪い奴）",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もしか指先の代りに首根つこを押へつけられてゐても、夫人は吃度辛抱してゐたに相違なかつた。",
+              "citation": {
+                "source": "茶話",
+                "author": "初出未詳",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「してみると、50とあるのは、サンチイムぢやなくて、フランですよ、吃度。",
+              "citation": {
+                "source": "茶話",
+                "author": "初出未詳",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伯父さんもいることですから、小母さんの為には、どんな事でもして吃度小母さんの御心配を取除くに違いありません。",
+              "citation": {
+                "source": "Ｐ丘の殺人事件",
+                "author": "松本泰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吃度何者かに誘拐されたのです」　坂口は顔色を変えて言葉もなくエリスの顔を視詰めた。",
+              "citation": {
+                "source": "Ｐ丘の殺人事件",
+                "author": "松本泰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吃度今晩中には帰ってきます。",
+              "citation": {
+                "source": "Ｐ丘の殺人事件",
+                "author": "松本泰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それを反射光線を使い顕微鏡で拡大すれば吃度足跡が出るに違いない。",
+              "citation": {
+                "source": "階段",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "扉を破って入ったときに、室内に圧力の高い瓦斯と空気が充満していたものだったら、私は吃度強く吹きとばされた筈です。",
+              "citation": {
+                "source": "崩れる鬼影",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こんな鳥瞰的の記事に対しても、吃度叱る人がありますとね。",
+              "citation": {
+                "source": "大衆文芸問答",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "審理後自家の酒場の部屋でエグナア親父は誓言して曰くこの怨みの返報にシリングの命は吃度取つてくれると、その後もこの威嚇を彼は數度の機會に繰返してゐた。",
+              "citation": {
+                "source": "無法な火葬",
+                "author": "VIOLENT CREMATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし吃度我々が暗示した程に多くは認知してはゐなかつたらう。",
+              "citation": {
+                "source": "無法な火葬",
+                "author": "VIOLENT CREMATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "正造が吃度｜敵打ちをしてあげますよ』。",
+              "citation": {
+                "source": "大野人",
+                "author": "木下尚江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "松さんの前で、そう言っちゃ何だが、でも船頭に限って吃度忘れ物をするのでね。",
+              "citation": {
+                "source": "大利根の大物釣",
+                "author": "石井研堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうして改札口では吃度僕を押し退けて先へ出るから目を突かれそうで危くて仕方がない。",
+              "citation": {
+                "source": "ぐうたら道中記",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "長州の伊藤助太夫の家内が、阪本さんは平生きたない風をして居つて顔付も恐ろしい様な人だつたが、此間は顔も奇麗に肥え大変立派になつて入らつしやつた、吃度死花が咲いたのでせう、間もなく没くなられたと云ひました、コレは後ちの事です。",
+              "citation": {
+                "source": "千里駒後日譚",
+                "author": "楢崎龍、川田雪山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "食べものなんかも、吃度うるさくて、江戸前の料理ばっかり食べて居られるに違いあるまい。",
+              "citation": {
+                "source": "食べたり君よ",
+                "author": "古川緑波",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 25
+      }
+    }
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "uuid": "bdcdae9b-97e5-5976-94f1-f9b8325cce44",
+    "entry": "瀟",
+    "reading": {
+      "primary": "瀟",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "あっさり、すっきり、瀟洒たる心持でなくてはならぬ。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうして「いき」のうちの「諦め」したがって「無関心」は、世智辛い、つれない浮世の洗練を経てすっきりと垢抜した心、現実に対する独断的な執着を離れた瀟洒として未練のない恬淡無碍の心である。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「当世顔は少し丸く」と西鶴が言った元禄の理想の豊麗な丸顔に対して、文化文政が細面の瀟洒を善しとしたことは、それを証している。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "直角的屈折を六回までもして「両己相背」いている亜字には、瀟洒なところは微塵もない。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なお一般に瀟洒を要求する点において、しばしば「いき」な模様と同様の性質を示している。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "却々瀟洒な不平だよ、高級でいらつしやいますね。",
+              "citation": {
+                "source": "心理的と個性的",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "旧館のほうはそれほどでもないが、新館はとても瀟洒な明るい建物だ。",
+              "citation": {
+                "source": "パンドラの匣",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "装幀瀟洒な美本である。",
+              "citation": {
+                "source": "パウロの混乱",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかも瀟洒な家さへ建ててゐる。",
+              "citation": {
+                "source": "清貧譚",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "外面の瀟洒と典雅だけを現世の唯一の「いのち」として、ひそかに信仰しつづけるのではないでしょうか。",
+              "citation": {
+                "source": "おしゃれ童子",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私の瀟洒なフランス流の友人河村は日本の女によって恋の重荷をになう。",
+              "citation": {
+                "source": "恋の一杯売",
+                "author": "Love on Drought",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ノラの棲むフランスタウンの瀟洒なバンガロウも白粉を落さなくてはならなかった。",
+              "citation": {
+                "source": "新種族ノラ",
+                "author": "吉行エイスケ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "予は其を聞くと整しく口をつぐみて悄気返れば、春雨恰も窓外に囁き至る、瀟々の音に和し、長吁短歎絶えてまた続く、婦人の泣音怪むに堪へたり。",
+              "citation": {
+                "source": "妖怪年代記",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "渠は色白く瀟洒なりき。",
+              "citation": {
+                "source": "義血侠血",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは、まったく翡翠が杭の上から魚影を覗う敏捷でしかも瀟洒な姿態である。",
+              "citation": {
+                "source": "渾沌未分",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "浅夜に瀟洒な鉄線を組み立てている清洲橋を渡って、人形町の可愛らしい灯の中で青苦い香気のある冷し白玉を喰べ、東京でも東寄りの下町の小さい踊り場を一つ二つ廻って、貝原はあっさり小初の相手をして踊る。",
+              "citation": {
+                "source": "渾沌未分",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ちょっとした庭もあり、十二畳の本座敷なぞは唐木が使ってある床の間があって瀟洒としている。",
+              "citation": {
+                "source": "食魔",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "フリジヤがあっさり挿されたかの女の瀟洒とした応接間で、春日規矩男にかの女は逢った。",
+              "citation": {
+                "source": "母子叙情",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "傾斜の末に、青木に囲まれて瀟洒なイエナ橋が可愛らしく架っている。",
+              "citation": {
+                "source": "母子叙情",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "男の兒の兄は瀟洒とした明るい寂しい風貌を備え弟はやや鈍角なる短面に温和と鋭氣をただよはす。",
+              "citation": {
+                "source": "雜煮",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

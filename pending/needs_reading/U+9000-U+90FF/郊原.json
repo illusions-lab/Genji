@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "88aab74f-08ca-5934-a971-8d0f9ce2506f",
+    "entry": "郊原",
+    "reading": {
+      "primary": "郊原",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "北には暗黒なるアルピイの山聳え、南には稍※低き藍色のアペンニノ横はりて、此間を填むるものは、唯だ緑なる郊原のみ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "例へば山嶽、河海、郊原、田野、一も順序ある者なし。",
+              "citation": {
+                "source": "俳諧大要",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "晴日一タビ照セバ郊原空シ。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其時のスケッチに題せる詩に郊原駅路※相連　　　行望名山隴畝辺試問農夫頷且笑　　　樹梢遥指浅間巓というのがある。",
+              "citation": {
+                "source": "嘉陵紀行",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○　雪｜道　冬の雪は脆なるゆゑ人の蹈固たる跡をゆくはやすけれど、往来の旅人一｜宿の夜大雪降ばふみかためたる一｜条の雪道雪に埋り途をうしなふゆゑ、郊原にいたりては方位をわかちがたし。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

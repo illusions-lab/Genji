@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "d2177b0d-c043-560d-a51f-83cebf342d53",
+    "entry": "滾転",
+    "reading": {
+      "primary": "滾転",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "といった時には、その赭い頬に涙の玉が稲葉をすべる露のようにポロリと滾転し下っていた。",
+              "citation": {
+                "source": "蘆声",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "営中｜紛擾し、人馬｜滾転す。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが此の火の玉より今少しく大きい火の玉が西の方より滾転殺到して来た。",
+              "citation": {
+                "source": "蒲生氏郷",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一つは自分が歩きながらに絶えず変化して吾が眼前に展開し行く奇岩や峭壁や、高い嶺の雲や近い渓の水や、風に揺ぐ玉樹の翠や、野に拡がる※草の香や、姿を見ぬ仙禽の声や、然様いう種々のものの中を、吾が身が経巡り、吾が魂が滾転し行いて、そして自分というものを以て幽秘神異の世界を縫って行く場合である。",
+              "citation": {
+                "source": "穂高岳",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

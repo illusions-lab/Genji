@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "7427d55a-fb7e-5999-bce0-a4f65e3c1957",
+    "entry": "院々",
+    "reading": {
+      "primary": "院々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "虚子選三座の句に院々の高き若葉や京の月　　　　石泉とある。",
+              "citation": {
+                "source": "病牀六尺",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "院々といふのは叡山か三井寺かのやうな感じがするけれど、それでは京の月といふのに当てはまらぬ。",
+              "citation": {
+                "source": "病牀六尺",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "木村病院長白昼殺害さる　麹町区富士見町×丁目木村病院々長医学博士木村貞一氏（四二）は本日午後二時頃、同病院応接室で、何者かのために、心臓部を刺されて即死した。",
+              "citation": {
+                "source": "紫外線",
+                "author": "小酒井不木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同仁病院々長であつた義弟の關係やら何かで、大勢の出迎へをうけたので、荷物は馴れた人達がどんどん運んでくれてしまつたが、停車場の裏手の方へ出るのに、高い橋のやうなところを渡つてゆくと、若い兵隊たちが化粧鞄をあけたりして、しやがんで、細かいものを見はじめた。",
+              "citation": {
+                "source": "北京の生活",
+                "author": "長谷川時雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「當時の人にしては奇想天外より落つるといふ樣なことばかりされた人である」とさもほこりかに詰問者は書立ててゐるが、「先生」の偉らかつたのは、最も吾々の生活を時勢の進歩に伴はせつつ合理的に導いた事にあるのであつて、滿洲浪人や衆議院々外團のやうな奇行を賣物にする徒輩と同列に見られては堪らない。",
+              "citation": {
+                "source": "貝殼追放",
+                "author": "愚者の鼻息",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

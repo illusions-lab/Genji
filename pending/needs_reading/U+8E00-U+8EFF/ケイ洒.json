@@ -1,0 +1,82 @@
+[
+  {
+    "uuid": "67f57d57-6be1-5296-a9c8-1b23ddc42959",
+    "entry": "軽洒",
+    "reading": {
+      "primary": "けい洒",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "だが、相手が瓢軽洒脱、甚だ愛嬌のある狸であつてみれば腹もたつまい。",
+              "citation": {
+                "source": "たぬき汁",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが、相手が瓢軽洒脱、甚だ愛敬のある狸であってみれば腹もたつまい。",
+              "citation": {
+                "source": "たぬき汁",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "喘ぐ馬を驅る　日曜の朝、毛竝の艶艶とした二頭の駿馬を驅つて、輕洒な馬車を郊外の竝木路に走らせる。",
+              "citation": {
+                "source": "宿命",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "輕洒"
+      ],
+      "needs_reading": true
+    }
+  }
+]

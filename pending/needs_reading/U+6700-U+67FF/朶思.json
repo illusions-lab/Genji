@@ -1,0 +1,183 @@
+[
+  {
+    "uuid": "43d1c314-216a-5af9-911f-8ff7a4318df0",
+    "entry": "朶思",
+    "reading": {
+      "primary": "朶思",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "だから今度は、俺のほうから孔明を計略にかけてやろうと思って、ぐっと智慧をしぼっているところだ」「南蛮国での智慧者ならばあの朶思王だがなあ」「そうだ。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なぜ俺は朶思王を思い出さなかったろう。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "弟、朶思王のところへ使いに行ってくれ」　急に孟優に旨をふくめて、禿龍洞の朶思王へ遣った。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孟獲からの頼みを聞くと、朶思王は一議に及ばず、洞兵を集合して、蛮王孟獲を自領に迎えた。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして孟獲から度重なる敗戦の状と、孔明の智謀に長じていることを聞くと、朶思王は噴笑して、「心配ない心配ない。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と、孟獲が聞くと、朶思王はなおつぶさに語っていう。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "初めのうちは、朶思大王も孟獲兄弟も、「そんな筈はない」　と、信じられない顔つきだったが、ひんぴんたる部下の知らせに、山へ登って遥か彼方を眺めると、蜀軍の屯営する幕舎が数十里にわたって、翩翻と旌旗をつらねている有様に、「これは一体、どこを通ってきた軍勢か。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "尋常のことではない」　と、朶思大王のごときは、髪わななき、顔色を変えて、昏絶せんばかりだった。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが、その朶思大王も、「もうこうなっては、わが洞界も蜀軍にふみにじられ、一族妻子も助かるまい。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朶思大王は、額を叩いて、歓び躍った。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "軍は勝ちだ」　と、朶思大王も孟獲も、有頂天によろこんで、いよいよ大量に酒瓶を開き、肉を盤に盛り、血を杯にそそいで夜に入るまで歓呼していた。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "楊鋒も大いに飲み、大いに酔って、孟獲や孟優と杯を交わしていたが、ふと朶思大王を見て、「わしの連れてきた眷族の中には、年頃の娘も大勢いる。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朶思大王も、逃げんとするところを、楊鋒に足をすくわれて、これも難なく、彼の手下に絡め捕られた。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "弟の孟優も朶思大王も、同時に免した。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孟獲は、そこへ朶思大王を籠めて、前衛の総大将たることを命じた。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "朶思大王はこの時乱軍の中で討たれたという噂がある。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 17
+      }
+    }
+  }
+]

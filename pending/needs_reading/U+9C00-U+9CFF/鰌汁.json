@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "ca36d1d5-c0b0-5ee1-9ba5-81e9483ff1c5",
+    "entry": "鰌汁",
+    "reading": {
+      "primary": "鰌汁",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "はま鍋、あをやぎの時節でなし、鰌汁は可恐しい、せい／″＼門前あたりの蕎麥屋か、境内の團子屋で、雜煮のぬきで罎ごと正宗の燗であらう。",
+              "citation": {
+                "source": "深川淺景",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今日の買物九銭　バツト　十銭　なでしこ　十五銭　小鰯　壱円三十五銭　酒　七銭　茗荷　三十四銭　干うどん　二十銭　薬　五銭　茄子　十銭　電車賃　六銭　胡瓜　十銭　ハガキ　十弐銭　泥鰌汁　十銭　唐辛　三十五銭　削り節八月廿五日　雨、午後は曇、後晴。",
+              "citation": {
+                "source": "一草庵日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「海岸はまだでしょうか」　謙作は鰌汁の荷をおろしている老人に訊いた。",
+              "citation": {
+                "source": "港の妖婦",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "炉に懸けた泥鰌汁の大鍋からは盛に湯気が起ちまして、そこに胡座をかいた源の顔へ香いかかるのでした。",
+              "citation": {
+                "source": "藁草履",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あつしはまた、自分の身に引き比べて、親分もさぞ退屈だらうと、今夜の鰌汁を喰ひ損ねるのを覺悟で、此處まで飛んで來ましたが」「來るに及ぶものか、歡喜天樣の女體の額の珠が見付かつたんだらう」「あツ、親分はどうしてそれを？",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "江戸の夜光石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は泥鰌汁のお代りをし、たっしゃにたべながら、休みなしに話した。",
+              "citation": {
+                "source": "ちゃん",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鍋の蓋をとって、泥鰌汁を掬おうとすると、昼間の元気なお祖父さんの姿が思いだされ、胸がいっぱいになってとうとう泣きだしてしまった。",
+              "citation": {
+                "source": "柳橋物語",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

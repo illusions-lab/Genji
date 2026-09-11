@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "3a74f540-ba79-573c-9464-ab194950e125",
+    "entry": "弗四",
+    "reading": {
+      "primary": "弗四",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一番短いのは七十六語で、その作家は雑誌社から百四十二弗四十仙を貰つて、にこ／＼してゐたさうだ。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "応募者は少くとも百四十二弗四十仙位は手に握れる勘定だ。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "料金は、二個で四弗四十五仙とある。",
+              "citation": {
+                "source": "アリゾナの女虎",
+                "author": "牧逸馬",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "爲替相場の騰貴　濱口内閣の出來たときは、對米爲替相場は四十三｜弗四｜分の三まで下落して居つた。",
+              "citation": {
+                "source": "金解禁前後の經濟事情",
+                "author": "井上準之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "解禁後の爲替相場は四十九｜弗四｜分の一か或は四十九｜弗八｜分の三であらうから、これに此らぶれば一｜割一｜分餘下つて居り、これを日米兩貨幣の平價四十九｜弗八四六に比ぶれば一｜割二｜分餘下つて居つたのである。",
+              "citation": {
+                "source": "金解禁前後の經濟事情",
+                "author": "井上準之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して其の時の貿易の改善の状態、及び對外關係を見ると、爲替相場は段々騰貴して、凡そ本年の一｜月十｜日過には解禁後の推定相場である四十九｜弗四｜分の一｜乃至四十九｜弗八｜分の三｜迄は騰貴することは確に算定が出來たのである。",
+              "citation": {
+                "source": "金解禁前後の經濟事情",
+                "author": "井上準之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それが昨年の六｜月三十｜日に四十三｜弗四｜分の三、即ち一｜割一｜分も下つたのは何故であるか。",
+              "citation": {
+                "source": "金解禁前後の經濟事情",
+                "author": "井上準之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "不可能であるならば、あの時の爲替相場四十三｜弗四｜分の三は到底維持は出來ないのであつて、段々下つて來ることは明かなことで、あの時期に爲替相場が極端に下つたならば、日本の經濟界は其の爲に破壞されて居ることは、殆ど火を睹るより明かなことである。",
+              "citation": {
+                "source": "金解禁前後の經濟事情",
+                "author": "井上準之助",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "譬へて見れば去年の一｜月始めの爲替相場が四十六｜弗であつてそれが六｜月三十｜日には四十三｜弗四｜分の三に下つて居るから、僅か六｜箇月の間に四｜分五｜厘の低落である。",
+              "citation": {
+                "source": "金解禁前後の經濟事情",
+                "author": "井上準之助",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

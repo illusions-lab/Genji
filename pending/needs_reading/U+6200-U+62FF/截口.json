@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "07ed9540-0157-52ac-97e2-55045aaef06b",
+    "entry": "截口",
+    "reading": {
+      "primary": "截口",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "お餅を截る時｜庖丁へ截口が粘着いて困りますが好い法はありませんか」お登和「大きな大根を側へ置いて先ず庖丁でザクリと截ってはお餅を截りまた大根を截ってお餅を截るとお餅が粘着きません」妻君「それは好い事を伺いました、貴嬢はよくそんなに料理の事をお覚えですね。",
+              "citation": {
+                "source": "食道楽",
+                "author": "春の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "初めは長方形のものに限っているけれど、後には円形の底を有するものが現われ、さらに楕円底のものも取り扱われ、初めは体積の問題が主であったが、後には円楔等の表面積も問題になり、截口の曲線も問題になる。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "初めは体積及び表面積の問題であったものが、後にはその立体内に球を幾つも容れたものを問題にすることも起こり、またその立体面の截口の曲線も論ぜられるようになった。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "即ち袋綴じであって、截口が綴る方にある、西洋の逆態である。",
+              "citation": {
+                "source": "書籍の風俗",
+                "author": "恩地孝四郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

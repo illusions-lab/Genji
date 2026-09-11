@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "e4cebc75-2c22-59af-90b2-089ef2031672",
+    "entry": "径磽",
+    "reading": {
+      "primary": "けい磽",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "此瀧を過ぎて小一町、道のほとり、山の根の巖に清水滴り、三｜體の地藏尊を安置して、幽徑磽※たり。",
+              "citation": {
+                "source": "逗子だより",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "徑磽"
+      ],
+      "needs_reading": true
+    }
+  }
+]

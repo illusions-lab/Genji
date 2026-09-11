@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "2f68aca9-bdba-593f-906c-84fbcc9fd9eb",
+    "entry": "弉三",
+    "reading": {
+      "primary": "弉三",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "支那で佛教を最初に飜譯した時と玄弉三藏の時とは、既に數百年も經て居りますから、その間に印度の元の言葉にも、音の變化もあれば意味の變化もある。",
+              "citation": {
+                "source": "大阪の町人學者富永仲基",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道昭は古い帰化人の裔であり、定慧は鎌足の子であるが、共に唐に入って玄弉三蔵に学び、当時の世界文化の絶頂をきわめて来た。",
+              "citation": {
+                "source": "古寺巡礼",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十七奈良京の現状、聖観音の作者――玄弉三蔵――グプタ朝の芸術、西域人の共働――聖観音の作者――薬師寺について――神を人の姿に――Ｓ氏の話　薬師寺の裏門から六条村へ出て、それからまっすぐに東へ、佐保川の流域である泥田の原のなかの道を、俥にゆられながら帰る。",
+              "citation": {
+                "source": "古寺巡礼",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "シナで玄弉三蔵が十八年にわたるインド西域の大旅行をおえて目ざましい新文化と共に長安に帰ったのは、ちょうど我が国の大化元年に当たる。",
+              "citation": {
+                "source": "古寺巡礼",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聖観音を作った偉大な天才は、恐らく玄弉三蔵と関係のあるものであろう。",
+              "citation": {
+                "source": "古寺巡礼",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

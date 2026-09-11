@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "3167d203-a261-5510-adbe-c67fffdbc5ad",
+    "entry": "呎以",
+    "reading": {
+      "primary": "呎以",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "少し海軍の事に通じた人は誰でも知つて居る、すでに海水中十四｜呎以下に沈んだる或物に向つては、世界最強力のガツトリング機砲でも、カ子ー砲でも、些少の打撃をも加ふる事が出來ぬのである。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その人物は、フォールスタッフの道化面を冠っていて、身長は六｜呎以上、着衣はやはり、我々と異ならないものを、身につけておりました。",
+              "citation": {
+                "source": "潜航艇「鷹の城」",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "血痕は厩から百呎以上離れた汽鑵室の入口まで續いてをり更に調べて見るとそれらの血痕は竈の瓦斯室の入口へ眞直に導いてゐた。",
+              "citation": {
+                "source": "無法な火葬",
+                "author": "VIOLENT CREMATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二万｜呎以上のエヴェレストの探検家の運ぶ足どりと同様に、弁信の身が吹き倒され、吹きまろばされるから、寸進尺退の有様、見るも歯痒いばかりであります。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "胆吹の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "つまり、五｜呎以内にある物体なら、なんでも手元へ呼び寄せることができるんですナ」　といいながら、チョッキの衣嚢から、朱色の模擬貨幣を取り出して、大きな白鳥を薄浮彫した机の上に置いた。",
+              "citation": {
+                "source": "ノンシャラン道中記",
+                "author": "南風吹かば　――モンテ・カルロの巻――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

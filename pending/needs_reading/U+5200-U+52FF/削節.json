@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "b79cdf6b-2c72-5202-b052-d54ed2a80ded",
+    "entry": "削節",
+    "reading": {
+      "primary": "削節",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "買物いろ／＼、小鍋、削節、なでしこ（これはやうやくその大袋を八木デパートで見つけた）、そして古本。",
+              "citation": {
+                "source": "其中日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "庄兵衛の狼狽ぶりは目ざましいほどで、せっせと水をやったり削節の汁をやったりするが、一向に生気がつかない。",
+              "citation": {
+                "source": "顎十郎捕物帳",
+                "author": "稲荷の使",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

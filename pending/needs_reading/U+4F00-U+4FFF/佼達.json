@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "db6ddaab-8777-5577-9244-3fbd800655aa",
+    "entry": "佼達",
+    "reading": {
+      "primary": "佼達",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "平太郎は心の中におかしかったが、「それはありがたい」と、云って寝る時分が来ると、後を其の壮佼達に頼んで置いて己は別室へ往って寝た。",
+              "citation": {
+                "source": "魔王物語",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "壮佼達は襟を掻き合せて顔を見あわした。",
+              "citation": {
+                "source": "魔王物語",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "壮佼達は驚いて後に飛び退いた。",
+              "citation": {
+                "source": "魔王物語",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "平太郎は其の騒ぎに眼を覚して壮佼達のいた室へ往って見ると、壮佼達は皆逃げて畳の上が二尺四方位薄く焦げていた。",
+              "citation": {
+                "source": "魔王物語",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

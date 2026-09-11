@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "d77a1862-3d96-5d61-b6e1-e2a335a628bd",
+    "entry": "櫓々",
+    "reading": {
+      "primary": "櫓々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そこを目がけて櫓々から、大石大木を投げ下ろした。",
+              "citation": {
+                "source": "あさひの鎧",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ある日世子は二の丸から本丸へかけての櫓々の武器の検査された。",
+              "citation": {
+                "source": "鳴雪自叙伝",
+                "author": "内藤鳴雪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "御本丸から始めて天守台、櫓々、曲輪曲輪、門々、御米蔵、役所、お目付小屋、徽典館、御破損小屋、調練場の掃除や、武具の改めや何かが毎日手落ちなく取り行われます。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "お銀様の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道頓堀の櫓々にはまだ、数人の仕打ちががん張つてゐて、三栄・大清の対抗時代は過ぎても尼野・高木・尾張屋等の競争が、五つの櫓を、ともかくも空ける事なく、多くの役者をとり捌いてゐた時代はよかつた。",
+              "citation": {
+                "source": "街衢の戦死者",
+                "author": "――中村魁車を誄す――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斎入右団治が角芝居に、鴈治郎が中芝居にと謂つた風に、当時道頓堀の櫓々は、梵天幣を立て列ねて、盛つてゐた。",
+              "citation": {
+                "source": "街衢の戦死者",
+                "author": "――中村魁車を誄す――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして殊さらに、飲め飲めと左右にすすめ、櫓々の武者たちへも、庫中の銘酒を豊富に配って、「名残を存分にせよ。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第九分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "櫓々から、唄が聞え、笑声が流れてくる。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第九分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "座には、一族｜股肱の者八十余名はあり、櫓々にはなお一死を辞せざる鉄甲二千以上は優に数えられるのに、賤ヶ嶽の一｜蹉跌以来、彼自身が自身のうちで“負けた”と観念していたことは、畢竟するに、玄蕃允の若気以上、北ノ庄滅亡の最大な敗因ではあるまいか。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第九分冊",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

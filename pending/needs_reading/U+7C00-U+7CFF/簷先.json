@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "194d0e94-4883-588e-bc3c-75b121c9aac6",
+    "entry": "簷先",
+    "reading": {
+      "primary": "簷先",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "やがて黒羽町に入込むと、なるほど、遊廓と背中合せに、木賃宿に毛の生えたような宿屋が一軒、簷先には△△屋と記してある。",
+              "citation": {
+                "source": "本州横断　癇癪徒歩旅行",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と、間もなくして簷先から不意に鳥の堕ちて来るようにおりて来た者があった。",
+              "citation": {
+                "source": "五通",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "正造はまた眉根をつりあげて簷先の黒雲に眼を放っていたが、「なんの必要で警察がそんな調査をするのか。",
+              "citation": {
+                "source": "渡良瀬川",
+                "author": "大鹿卓",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "畏多いことだ」　正造は語尾をふるわせて簷先へ眼を放った。",
+              "citation": {
+                "source": "渡良瀬川",
+                "author": "大鹿卓",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「こんなに降っては、また水が出るにちがいない」　正造は何回となく縁側に立って暗い簷先を覗いた。",
+              "citation": {
+                "source": "渡良瀬川",
+                "author": "大鹿卓",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

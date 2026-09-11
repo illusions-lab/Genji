@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "d2c58cde-6552-5b5e-811c-df6b506391c6",
+    "entry": "掻攫",
+    "reading": {
+      "primary": "掻攫",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「不可いよ、」　と強く云う、お蔦の声が屹としたので、きょとんとして立つ処を、横合からお源の手が、ちょろりとその執心の茶碗を掻攫って、「失礼だわ。",
+              "citation": {
+                "source": "婦系図",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "掻攫ひ尾島伝吉は、夜は稼ぎにゆかない、夜は怖い、どういふ風の吹きまはしか、珍しく彼は夜の稼ぎに出掛けた。",
+              "citation": {
+                "source": "小熊秀雄全集−15−",
+                "author": "小説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伝吉にとつては大いに昼間の掻攫ひと調子が違つた。",
+              "citation": {
+                "source": "小熊秀雄全集−15−",
+                "author": "小説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "暗闇を恐怖し、昼の明るさを恐れない、いつもの調子に戻つたことを、彼自身で気がつかなかつたのだ、掻攫でなく、大盗になつた自信で、一番明るい煌煌と電燈のついた邸に向つた垣根を身軽に乗りこえて、芝生に立つた。",
+              "citation": {
+                "source": "小熊秀雄全集−15−",
+                "author": "小説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吾輩なんかは乞食以下の掻攫いルンペンと誤解されている世界的偉人だ……と云ってやりたかったが、折角、花のような姿をして葉巻や珈琲を御馳走してくれるものを泣かしても仕様がないと思って黙っていた。",
+              "citation": {
+                "source": "超人鬚野博士",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人格的に、無責任な、すれた一種の移民根性とでもいうべきもののみで、富を掻攫う姿は、心を傷ませる。",
+              "citation": {
+                "source": "南路",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と云つて、ちよいと小弁慶の肩を落したが、こちらは忽ち又元気な声になつて、「私だつて何も盗つ人の肩を持つにや当ら無えけれど、あいつは懐の暖え大名屋敷へ忍びこんぢや、御手許金と云ふやつを掻攫つて、その日に追はれる貧乏人へ恵んでやるのだと云ひやすぜ。",
+              "citation": {
+                "source": "鼠小僧次郎吉",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

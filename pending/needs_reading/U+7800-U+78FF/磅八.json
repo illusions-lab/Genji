@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "7c8274c5-09b8-5154-a0ef-0c977d679606",
+    "entry": "磅八",
+    "reading": {
+      "primary": "磅八",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（訳註――この文は第二―三版では次の如くある、『一七〇〇年以前五十年間に小麦の一クヲタア当りの平均価格は三｜磅一一ペンスであり、一六五〇年以前にはそれは六｜磅八シリング一〇ペンスであった１）。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "両端を含めて一六三七年ないし一七〇〇年において、穀物の平均価格は、スミス博士によれば、二｜磅一一シリング〇・三分の一ペンスであるが、しかし一六八八年は、栽培価格は、スミス博士が正確と考えているグレゴリ・キングの見積りによれば、わずかに一｜磅八シリングである。",
+              "citation": {
+                "source": "人口論",
+                "author": "AN ESSAY ON THE PRINCIPLE OF POPULATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "小麦が｛四｜磅四シリング八ペンス／四｜磅一〇シリング〇ペンス／四｜磅一六シリング〇ペンス／五｜磅二シリング一〇ペンス｝の時には、労賃は｛二四｜磅一四シリング〇ペンス／二五｜磅一〇シリング〇ペンス／二六｜磅八シリング〇ペンス／二七｜磅八シリング六ペンス｝であろう。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかる時は価格は四｜磅八シリングに騰貴するであろう。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして穀物は第三等地に用いられる資本の利潤が資本の一般利潤と同一水準になるように四｜磅八シリングに騰貴するのである。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし穀価は四｜磅から四｜磅八シリング一〇・三分の二ペンスに騰貴するであろう。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けだし一四四クヲタアが四｜磅に対する割合は、一六〇クヲタアが四｜磅八シリング一〇・三分の二ペンスに対する割合であるからである、従って貨幣地代は第一等地に対しては八〇｜磅であり（註一）、また第二等地に対して四〇｜磅であろうから（註二）、貨幣地代は引続き不変であろう。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（註一）四｜磅八シリング一〇・三分の二ペンスで一八クヲタア（註二）四｜磅八シリング一〇・三分の二ペンスで九クヲタア　十分一税に対する主たる反対論は、それは永続的なかつ固定的な租税ではなくて、穀物を生産する困難が増加するに比例して価値において増加する、ということである。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一〇〇、〇〇〇クヲタアの穀物が一定の地方、一定の時に一クヲタアにつき四｜磅で売られ、そして一クヲタアにつき八シリングの直接税の結果として、穀物が四｜磅八シリングに騰貴すると仮定すれば、思うに、この穀物をこの騰貴せる価格において流通せしめるために必要な貨幣量は同一であって、より多くはないであろう。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 23
+      }
+    }
+  }
+]

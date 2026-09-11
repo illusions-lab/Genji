@@ -1,0 +1,287 @@
+[
+  {
+    "uuid": "fa589965-6185-5bef-80a0-884159222f94",
+    "entry": "霽波",
+    "reading": {
+      "primary": "霽波",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "或日その会で三輪崎霽波という詩人と近附になった。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その霽波が云うには、自分は自由新聞の詞藻欄を受け持っているが、何でも好いから書いてくれないかと云う。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし霽波が立って勧める。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうすると霽波から催促の手紙が来る。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "とうとう霽波が遣って来た。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あははははは」　こんな話をして霽波は帰った。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕は霽波が帰るとすぐに机に向って、新聞の二段ばかりの物を書いて、郵便で出した。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霽波の礼状が添えてある。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一週間程立って、或日の午後霽波が又遣って来た。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "相客は原口安斎という詩人だけで、霽波が社主に代って主人役をするというのである。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕は車を雇って、霽波の車に附いて行った。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霽波が一人で飲んで一人で騒ぐ。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三人の客は、壮士と書生との間の子という風で、最も壮士らしいのが霽波、最も普通の書生らしいのが安斎である。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "安斎は大人しいが気の利いた男で、霽波と一しょには騒がないまでも、芸者と話もする。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それを着たままで、霽波に連れられて出たのである。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "むやみに大声を出して、霽波と一しょに騒いでいる。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霽波が先に立って門口に出て車に乗る。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霽波の車が真先に駈け出す。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "小菅に帰るには、仲町へ曲ってはだめであるが、とにかく霽波と別れさえすれば、跡はどうでもなると思ったのである。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この時霽波の車は一旦三橋を北へ渡ったのが、跡へ引き返してきた。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霽波は車の上から大声にどなった。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "逃げては行けない」　僕の車は霽波の車の跡に続いた。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霽波は振り返り振り返りして、僕の車を監視している。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕が強いて争ったなら、霽波もまさか乱暴はしなかったのだろう。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕は上野の辻で、霽波と喧嘩をしたくはない。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕は霽波に馬鹿にせられるのが不愉快なのである。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから僕を霽波に附いて行かせた今一つの factor のあるのを忘れてはならない。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霽波の車夫が、「お茶屋は」と云うと、霽波が叱るように或る家の名をどなった。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霽波が戸を叩くと、小さい潜戸を開けて、体の恐ろしく敏速に伸屈をする男が出て、茶屋がどうのこうのと云って、霽波と小声で話し合った。",
+              "citation": {
+                "source": "ヰタ・セクスアリス",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 33
+      }
+    }
+  }
+]

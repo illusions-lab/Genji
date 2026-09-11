@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "65d963a2-6179-5108-aeff-bcbb251b20fc",
+    "entry": "添手",
+    "reading": {
+      "primary": "添手",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そして内儀から宿泊の許諾を得、番人へ宛てての添手紙をも貰う事が出来た。",
+              "citation": {
+                "source": "みなかみ紀行",
+                "author": "若山牧水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして内儀から宿泊の許諾を得、番人へ宛てゝの添手紙を貰ふ事が出來た。",
+              "citation": {
+                "source": "みなかみ紀行",
+                "author": "若山牧水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "拾って開けると小判が五両に添手紙一封。",
+              "citation": {
+                "source": "釘抜藤吉捕物覚書",
+                "author": "槍祭夏の夜話",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "氏の慇懃丁寧なる、もし書斎のデスクの上へ、迂濶り腸を忘れて行こうものなら、後から小包郵便にして、添手紙と共に送り返される。",
+              "citation": {
+                "source": "小酒井不木氏スケッチ",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼はスティーフンに流行の着物をととのえかつ楽な旅のよう出来るだけ金を送って添手紙には簡単に書いてやったんだ。",
+              "citation": {
+                "source": "サレーダイン公爵の罪業",
+                "author": "THE SINS OF PRINCE SARADINE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

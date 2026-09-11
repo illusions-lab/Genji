@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "4139ba7d-49b9-5620-b74d-782f59bd9050",
+    "entry": "寄波",
+    "reading": {
+      "primary": "寄波",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その絶壁の陰鬱な感じは、永遠に咆哮し号叫しながら、それにぶつかって白いもの凄い波頭を高くあげている寄波のために、いっそう強くされているばかりであった。",
+              "citation": {
+                "source": "メールストロムの旋渦",
+                "author": "A DESCENT INTO THE MAELSTROM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "船はいま、渦巻のまわりにはいつもあるあの寄波の帯のなかにいるのです。",
+              "citation": {
+                "source": "メールストロムの旋渦",
+                "author": "A DESCENT INTO THE MAELSTROM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "風は私どものいるところまで吹いて来ることができないのです、――というわけは、さっきご覧になったとおり、寄波の帯は海面よりかなり低いので、その海面は今では高く黒い山の背のようになって私どもの上にそびえていたのですから。",
+              "citation": {
+                "source": "メールストロムの旋渦",
+                "author": "A DESCENT INTO THE MAELSTROM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この寄波の帯を何回ほどまわったかということはわかりません。",
+              "citation": {
+                "source": "メールストロムの旋渦",
+                "author": "A DESCENT INTO THE MAELSTROM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そよとの風もなかったし、また、半マイルも彼方に、外洋の磯に打ち寄せ岩石に激して、どどうっと響いている寄波の他には、何の物音もしなかった。",
+              "citation": {
+                "source": "宝島",
+                "author": "宝島",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "喬木の森を縫うようにしてどんどん歩いて行くと、ずっと前の方から間断なく雷のように轟いている寄波の音が聞えたばかりではなく、樹の葉のざあざあ鳴る音や大枝の擦れ合う音までが聞えて来たので、海風がいつもよりも強く海岸に吹きつけていることがわかった。",
+              "citation": {
+                "source": "宝島",
+                "author": "宝島",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてさらに数歩行くと、森の縁の開けたところへ出て、見渡すと、海は水平線までも青々として日に照され、寄波は磯に沿うてのたうち白波を立てているのだった。",
+              "citation": {
+                "source": "宝島",
+                "author": "宝島",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は大喜びで寄波のそばをずっと歩いて行き、とうとう、もう十分に南の方まで来たと思って、何かのこんもり茂った灌木に身を隠して、用心しながら出洲の背へ這い上った。",
+              "citation": {
+                "source": "宝島",
+                "author": "宝島",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、磯が険難で寄波が高く荒立っている上に、この動物の恰好を見ては、私がその上陸所が厭になるのには十二分であった。",
+              "citation": {
+                "source": "宝島",
+                "author": "宝島",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前には、樹々の梢の上に、寄波で縁取られている｜森の岬が見えた。",
+              "citation": {
+                "source": "宝島",
+                "author": "宝島",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山内は泳げるほうではなかったので、いくども寄波に巻かれて防材の下になり、強く胸を打って血を吐いた。",
+              "citation": {
+                "source": "ノア",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われは知る、霹靂に碎くる天を、龍卷を、寄波を、潮ざゐを。",
+              "citation": {
+                "source": "醉ひどれ船",
+                "author": "LE BATEAU IVRE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

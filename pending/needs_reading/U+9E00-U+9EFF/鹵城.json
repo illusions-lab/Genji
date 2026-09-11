@@ -1,0 +1,159 @@
+[
+  {
+    "uuid": "474d1e16-a047-51a8-92ad-4434ebdea83c",
+    "entry": "鹵城",
+    "reading": {
+      "primary": "鹵城",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "時しも孔明は、隴西の麦を押える目的で、鹵城を包囲し、守将の降を容れて、「麦は今、どの地方がよく熟しているか」　と、その降将に質問していた。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それに隴上のほうが麦の質も上等です」　こう聞いたので、孔明は、占領した鹵城の守りには、張翼と馬忠をとどめ、自ら残余の軍をひきつれて、隴上へ出て行った。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "調べてみると、青麦を刈って鹵城へ運送していた者だという。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「鹵城にある蜀兵を、深く探ってみましたところ、案外少数です。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "良策もなきまま以後、消極的に堕し過ぎていたことを自身も反省していた仲達は、彼に説かれて、「では、動かずと見せて、急に前進し、一挙に鹵城を包囲してしまおう。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鹵城はさして遠くない。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一条の縄から縄が鹵城のすぐ下までつながっていた。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三　鹵城は決して守るにいい所ではないが、魏軍の動向は容易に測り難いものがあるので、孔明もじっと堅守していた。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「まず、すみやかに祁山を退くべきである」　と鹵城から使いを急派して、祁山に残して来た王平、張嶷、呉班、呉懿の輩に宛てて、「自分がここにあるうちは、魏も迂濶には追うまい。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一面、孔明はまた、楊儀、馬忠の二手を、剣閣の木門道へ急がせ、後、鹵城には擬旗を植え並べ、柴を積んで煙をあげ、あたかも、人のおるように見せておいて、急速に、彼とその麾下もことごとく木門道さして引き退いた。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "迂濶には深入りできぬ」「大都督にはどうしてそう孔明を虎の如く恐れ給うか、天下の笑い種になろうに」　時に、一兵が来て、鹵城の変を告げた。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "司馬懿は張※を伴って、高きに登り、鹵城の旗や煙をややしばし眺めていたが、突然、哄笑して、「何様、旗も煙も、たしかに擬勢だ。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鹵城は今や空城にちがいない。",
+              "citation": {
+                "source": "三国志",
+                "author": "五丈原の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

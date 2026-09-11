@@ -396,5 +396,89 @@
         "aozora": 2
       }
     }
+  },
+  {
+    "uuid": "5f808350-7fc1-5dc7-9328-bf9dcb0b1581",
+    "entry": "魘夢",
+    "reading": {
+      "primary": "えんむ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "血書　われは眠ることを期せずして、身を藁蓆の上に僵しゝに、前の日よりの恐ろしき經歴は魘夢の如く我心を劫し來りぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然はれそは一瞬の間にして、身の在るところを顧み、四邊なる男等の蹙みたる顏付を見るに及びては、我魘夢の儼然として動すべからざる事實なるを認めざることを得ざりき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "常に美しいとばかり思っていた面貌の異様に変じたのに驚いて、肌に粟を生じたが、忽また魘夢に脅されているのではないかと疑って、急に身を起した。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夜になると、それが幻視錯覚になつて、とうとうしまひには魘夢になつて身を苦しめる。",
+              "citation": {
+                "source": "笑",
+                "author": "アルチバシェッフ・ミハイル・ペトローヴィチ　Artsybashev Mikhail Petrovich",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

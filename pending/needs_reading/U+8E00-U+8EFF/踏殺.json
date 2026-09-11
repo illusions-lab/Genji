@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "c634d334-086f-5451-bf1c-6c1e3bd781f4",
+    "entry": "踏殺",
+    "reading": {
+      "primary": "踏殺",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ヘヘ……義理も人情も、神も仏も踏殺して行けるんだ。",
+              "citation": {
+                "source": "骸骨の黒穂",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうして今日までに彼が見たり聞いたりした幾多の所謂成功者、すなわち立志伝中の人々が……如何に残忍な、血も涙も無い卑怯な方法をもって弱者を蹂躙し、踏殺して来たかを聯想し、想起し続けていた。",
+              "citation": {
+                "source": "笑う唖女",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "どうしてまたあんな者が出来たものですかサ」「もう少し病人らしくしていると可いんですけれど、我儘なんですからねえ――森彦さんはああいう気象でしょう、真実に宗蔵のような奴は……獣ででもあろうものなら、踏殺してくれたいなんて……」　お倉やお種が笑えば、お俊も随いて笑った。",
+              "citation": {
+                "source": "家（上巻）",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昔年、馬に乗れば切捨てられたる百姓町人の少年輩が、今日借馬に乗て飛廻わり、誤って旧藩地の士族を踏殺すも、法律においてはただ罰金の沙汰あらんのみ。",
+              "citation": {
+                "source": "徳育如何",
+                "author": "福沢諭吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして子供や婆さんが踏殺される……そう云う祭日のさまを思い浮べた。",
+              "citation": {
+                "source": "花火",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "現代の祭には女が踏殺される。",
+              "citation": {
+                "source": "花火",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの騒ぎの中に割って入りゃ、見りゃ子供衆で、ひどい怪我をするのは知れたこと、悪くすれば踏殺される。",
+              "citation": {
+                "source": "天狗外伝　斬られの仙太",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "どんな苦しみ怪我を受けるくらい、たとえ踏殺されても、それは村を出る時からの覚悟、三百人の中、百人二百人と殺されても、江戸までは行きまする。",
+              "citation": {
+                "source": "天狗外伝　斬られの仙太",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

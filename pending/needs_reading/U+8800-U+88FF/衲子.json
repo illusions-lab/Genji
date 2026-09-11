@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "ec25f0e3-b2f4-5f4f-b60d-f8dd36233192",
+    "entry": "衲子",
+    "reading": {
+      "primary": "衲子",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "なるほど韓駒の詩の、「言う莫かれ衲子の籃に底無しと、江南の骨董を盛り取って帰る」などという句を引いて講釈されると、そうかとも思われる。",
+              "citation": {
+                "source": "骨董",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（下略）　嘯詠寒山に擬すの句は、此老の行為に照せば、矯飾の言に近きを覚ゆれども、若夫れ知己に遇わずんば、強項の人、或は呉山に老朽を甘んじて、一生｜世外の衲子たりしも、また知るべからず、未だ遽に虚高の辞を為すものと断ず可からず。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "なるほど韓駒の詩の、「言ふ莫かれ衲子の籃に底無しと、江南の骨董を盛り取つて帰る」などといふ句を引いて講釈されると、然様かとも思はれる。",
+              "citation": {
+                "source": "骨董",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "参禅の衲子に限った現象とは認められぬ。",
+              "citation": {
+                "source": "虞美人草",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……　後年｜黄檗慧林の会下に、当時の病み耄けた僧形とよく似寄った老衲子がいた。",
+              "citation": {
+                "source": "或敵打の話",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「生春仙館」といふのがある、「痩虎」といふのがある、「破衲子」といふのがある、それからまた「淡烟疎雨」なんとかいふ詩の一句らしいのもある。",
+              "citation": {
+                "source": "我思古人",
+                "author": "堀辰雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "道元はこの物語を結んで言った、「今の衲子もこれほどの心を一度発すべきなり。",
+              "citation": {
+                "source": "日本精神史研究",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「俗は天意に合はんと思ひ、衲子は仏意に合はんと思ふ。",
+              "citation": {
+                "source": "日本精神史研究",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「学道の人」、「衲子」にのみ言うのである。",
+              "citation": {
+                "source": "日本精神史研究",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "寛永五年師五十二歳、堀尾｜吉晴の女婿たる石川｜忠総の外護により、法山に瑞世し、紫衣を賜り、爾来諸国｜餉参の衲子、師の道風をしたひその会裡に集るもの無慮――　愚堂の伝は、略伝としても、なかなかこんなことでは尽きない。",
+              "citation": {
+                "source": "随筆　宮本武蔵",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

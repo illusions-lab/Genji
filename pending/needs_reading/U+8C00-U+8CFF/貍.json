@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "8eba7cb2-f5db-5606-bfee-418a7a65ff96",
+    "entry": "貍",
+    "reading": {
+      "primary": "貍",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「じゃがお前、東京と代が替って、こちとらはまるで死んだ江戸のお位牌の姿じゃわ、羅宇屋の方はまだ開けたのが出来たけれど、もう貍穴の狸、梅暮里の鰌などと同一じゃて。",
+              "citation": {
+                "source": "註文帳",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "白髪を抜くと同時に女は毛の黒い貍のような獣になった。",
+              "citation": {
+                "source": "劉海石",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と、豕はそのまま貍になった。",
+              "citation": {
+                "source": "劉海石",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あれは艇長と一つ穴の貍みたいなものだ。",
+              "citation": {
+                "source": "宇宙尖兵",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また次の頁には猫貍橋とて無気味な名の、さゝ流れにわたされた一本橋を、向ふから鍬を担いで咬へ煙管の百姓がわたつて来るところで、流れのふちには村の男女が抜いて来た許りの芋茎の根をば洗つてゐる。",
+              "citation": {
+                "source": "巣鴨菊",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "猫貍橋は後掲氷川の杜の「西の方、小石川の流れに架」したもので、「昔、大木の根木の橋なのであると本文にはかく説明されてゐる。",
+              "citation": {
+                "source": "巣鴨菊",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

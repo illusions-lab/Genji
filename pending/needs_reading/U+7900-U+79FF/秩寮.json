@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "a6cd87fd-7e05-5cd9-94e3-569c4ef9ecb0",
+    "entry": "秩寮",
+    "reading": {
+      "primary": "秩寮",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "良子嬢が東郷元帥の孫としてのつまらない生活の反対物をカフェーに見出したところに、子供のうちから消費生活にだけ馴らされた娘の気分と、今日の貴族階級が生活感情の実質においては、赤化子弟に対する宗秩寮の硬化的態度に逆比例するデカダンスや低俗なエロティシズムに浸透されていることが分る。",
+              "citation": {
+                "source": "花のたより",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やむをえない場合の手段とは、華族令の規程に則る、宗秩寮審議会に附して厳重な審議の上、処分法を講じて御裁可を仰ぎ、宮内大臣が施行するというのである。",
+              "citation": {
+                "source": "芳川鎌子",
+                "author": "長谷川時雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二、華族の平民化　宮内省は六年目に宗秩寮審議会を開かなければならなくなった。",
+              "citation": {
+                "source": "社会時評",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで治安維持法で起訴されるだろう華族の三子弟に対しては、例の宗秩寮審議会は除族乃至位記返上の処分を発表するだろうし、転向を誓って釈放された六名の者に対しては訓戒を加えるだろうと報じられている。",
+              "citation": {
+                "source": "社会時評",
+                "author": "戸坂潤",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

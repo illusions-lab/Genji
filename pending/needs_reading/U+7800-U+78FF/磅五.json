@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "e04925f7-7608-5663-9fb3-bcc97fb3f39a",
+    "entry": "磅五",
+    "reading": {
+      "primary": "磅五",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "カラタール氏は、一｜哩について五｜志という規定の特別乗車賃の割合で、総額五十｜磅五｜志を支払うが早いか、あくあくしながら、例の連れの男を促して、まだ三十分はたっぷり間があろうというに、はや仕立てられた客車に乗込んで定めの室に席を占めた。",
+              "citation": {
+                "source": "臨時急行列車の紛失",
+                "author": "コナン・ドイル",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ホテルの女中がこっそり団体一人の旅費を訊ねたので六｜磅五｜志だと答えると、びっくりして云うには、六磅あればカイロから巴里まで行って自分たちは帰って来るのが習慣だと云っていたから、万事はこの調子だろう。",
+              "citation": {
+                "source": "欧洲紀行",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "Ａ　は四｜磅十四｜志六｜片Ｂ　は五磅五志Ｃ　は五磅十五志六片　で、ＡＢＣと出発の時間が違い、各機の大小、新旧、速力、設備、二エンジンか三エンジンかによって運賃にも保険的性質の差異をきたすわけ。",
+              "citation": {
+                "source": "踊る地平線",
+                "author": "虹を渡る日",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ちなみに私たちは、大型スウツケイス二個、帽子箱一個、グリップ一個、小鞄二個、ホウルド・オウル一個、ケインサック一個、シネ・コダック及附属品一個、これだけ持ち込んで超過二｜磅五｜志九｜片を払った。",
+              "citation": {
+                "source": "踊る地平線",
+                "author": "虹を渡る日",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もし彼れの貨物が以前には七二〇｜磅で売れたとすれば、それは引続き同一の価格で売れるであろうが、しかし以前には二四〇｜磅であった労働の労賃は、穀物が五｜磅二シリング一〇ペンスの時には二七四｜磅五シリングに騰貴するであろう。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五分利公債での一〇〇｜磅の資本が九五｜磅で売れている時に、一〇〇｜磅の大蔵省証券は時に一〇〇｜磅五シリングで売れるであろうが、この大蔵省証券に対しては、年々四｜磅一一シリング三ペンス以上の利子は支払われないのである。",
+              "citation": {
+                "source": "経済学及び課税の諸原理",
+                "author": "PRINCIPLES OF POLITICAL ECONOMY AND TAXATION",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

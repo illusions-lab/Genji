@@ -1,0 +1,138 @@
+[
+  {
+    "uuid": "ad215b6f-9e67-5593-9af0-79ebdc29bdd8",
+    "entry": "独棲",
+    "reading": {
+      "primary": "どく棲",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "しかし、浄土教系統の法然上人、親鸞聖人の宗教、および山中独棲の道元禅師の宗教にもこの民族精神の暢達、現実生活の理想化という大乗精神が強く含まれているのであります。",
+              "citation": {
+                "source": "仏教人生読本",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "明石ではまた秋の浦風の烈しく吹く季節になって、源氏もしみじみ独棲みの寂しさを感じるようであった。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "明石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「私は静かな独棲みというものもしてみとうございますから、あちらへおいでになって、宮様のお心のお慰みになりますまでずっといらっしゃい」　夫人からこんな勧めを聞いておいでになるうちに日数がたった。",
+              "citation": {
+                "source": "源氏物語",
+                "author": "若菜（下）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それからまた奇談といわば、アントニウス尊者｜荒寥地に独棲苦行神を驚かすばかりなる間、一日天に声ありてアントニウスよ汝の行いはアレキサンドリヤの一｜履繕い師に及ばずと言う。",
+              "citation": {
+                "source": "十二支考",
+                "author": "猪に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "六　そこがあまりおり心が好かったので、何年の間という長い独棲生活に飽いていた私は、そうして母子の者の、出来ぬ中からの行きとどいた待遇ぶりに、ついに覚えぬ、温かい家庭的情味に浸りながら一カ月余をうかうかと過してしまった。",
+              "citation": {
+                "source": "黒髪",
+                "author": "近松秋江",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○　そもそもわたくしは索居独棲の言いがたき詩味を那辺より学び来ったのであろう。",
+              "citation": {
+                "source": "西瓜",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その翌年草の芽再び萌出る頃なるを、われも一夜大久保を去りて築地に独棲しければかの矢筈草もその後はいかがなりけん。",
+              "citation": {
+                "source": "矢はずぐさ",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この年の作には独棲の不便なるを歎じた作が二、三首に及んでいる。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "山中の一軒家、さぞ寂しからむと云へば、この春、妻死して、今は獨棲の身、雨の降る夜などは、寂しさに堪へざることあり。",
+              "citation": {
+                "source": "鹿野山",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "紫陌九衢傍　　　　紫陌九衢の傍、獨棲白雲郷　　　　独り棲む白雲の郷。",
+              "citation": {
+                "source": "閉戸閑詠",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "獨棲"
+      ],
+      "needs_reading": true
+    }
+  }
+]

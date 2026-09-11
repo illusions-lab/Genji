@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "11b8c196-d00e-57cb-86b5-ec7f26c850a3",
+    "entry": "惑情",
+    "reading": {
+      "primary": "惑情",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "其文言を見ると、仏教・道教に厳重な区劃は考へてゐなかつた様であるが、万葉巻五の憶良の「令反惑情歌」は、其禁令の直訳なのに拘らず、道教側の弊ばかり述べてゐる。",
+              "citation": {
+                "source": "国文学の発生（第四稿）",
+                "author": "唱導的方面を中心として",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "万葉集巻五にある憶良の「令反惑情歌」（神亀五年作か）の如きも、聖武天皇の詔詞を飜訳したものなることは明らかだ。",
+              "citation": {
+                "source": "日本文学の発生",
+                "author": "――その基礎論――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今、その要点を一口につまんで申せば、余おもえらく、世人が迷心、惑情を去り難きは、全く天運といえる一大怪物が目前にかかりて、なにほど己の心をたずねてみても、サッパリ分からぬ故であります。",
+              "citation": {
+                "source": "おばけの正体",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○ひさかたの天道は遠しなほなほに家に帰りて業を為まさに　〔巻五・八〇一〕　山上憶良　山上憶良は、或る男が、両親妻子を軽んずるのをみて、その不心得を諭して、「惑情を反さしむる歌」というのを作った、その反歌がこの歌である。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「女」というものについても武蔵は、その魅力を、吉野に見ているし、自分という実体の中からも多分に「女」に持つ人間のあらゆる惑情を知りかけている――で今の武蔵は、その対象を恐れるよりも、自分の心を恐れるのだった。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "風の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

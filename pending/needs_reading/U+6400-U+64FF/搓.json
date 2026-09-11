@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "45146cb0-0efc-5077-b88b-3f07730142eb",
+    "entry": "搓",
+    "reading": {
+      "primary": "搓",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "怪しい者たちは、その大異の体へそれぞれ両手をかけて搓みだした。",
+              "citation": {
+                "source": "太虚司法伝",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俯向けにしたり、横にしたり、そうしてせっせと搓んでいると、その体がずんずんと延びてきた。",
+              "citation": {
+                "source": "太虚司法伝",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『温い家庭の内に育つて、それほど生活の方の苦痛も知らずに済む人もあれば、又、貴方のやうに、若い時から艱難して、其｜風波に搓まれて居るなかで、自然と性質を鍛へる人もある。",
+              "citation": {
+                "source": "破戒",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "というのは、嗅煙草を包んだ紙搓のことであるが、眠っていた中学生は、夢うつつのこととて思いきりその煙草を鼻へ吸いこんで、はっと眼をさますなり、跳び起きて、寝ぼけ眼をみはり、馬鹿のように四方八方をキョロキョロと見驃騎兵※が押しこまれていることに気がつくのである。",
+              "citation": {
+                "source": "死せる魂",
+                "author": "または　チチコフの遍歴　第一部　第二分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三人の裸形の女が下から狂わしげに身を搓じらせて仰いでいる真上に、ぬっと半身を浮かべたベルレーヌの烱烱とした眼光が、何物をかうち貫き、パンテオンの尖塔をはるかに見詰めて立っている。",
+              "citation": {
+                "source": "旅愁",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　みち子も同様に軽く応酬したが、二人の搓りを前に戻そうとする風では少しもなかった。",
+              "citation": {
+                "source": "旅愁",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『花彙』のジャコウソウの文中にはこれを誇張して述べ「茎葉ヲ採リ遠ク払ヘバ暗ニ香気馥郁タリ宛モ当門子ノ如シ親シク搓揉スレバ却テ草気アリ」と書いてある。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――これは懸け枠といって、的串を左右に立て、蝉の緒という二重に搓った綿紐で吊っておくのである。",
+              "citation": {
+                "source": "備前名弓伝",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

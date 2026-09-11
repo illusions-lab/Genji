@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "a3d6a84a-a05d-571f-96ea-83627f06a06e",
+    "entry": "棲架",
+    "reading": {
+      "primary": "棲架",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "雄鶏は、何段にもなつてゐる棲架の、いちばん上の段に飛びあがつて元気な声で『さあ、みんな棲架にとまつたか、子供たちは片脚で止まる練習もしなければ駄目だよ、片脚で立つて片脚を休ませ、かはるがはる疲れたらやるのだよ、卵箱の中に入つて寝るのは、弱虫か、病人だよ、元気なものは、いちばん高い棲架に止まるんだよ。",
+              "citation": {
+                "source": "小熊秀雄全集-14",
+                "author": "童話集",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "』　と、なかなか強情で、棲架に止まらうとはしませんでした。",
+              "citation": {
+                "source": "小熊秀雄全集-14",
+                "author": "童話集",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "婆さん鶏は、地べたの上に、他の鶏たちは棲架の上に、棲架の上の鶏たちは、自分の羽に首をいれたり、また隣の鶏の脇の下に、首をいれさして貰つたりして、仲善くそして静かに眠りにをちいりました。",
+              "citation": {
+                "source": "小熊秀雄全集-14",
+                "author": "童話集",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "雄鶏は、高い棲架の上から下を見て、みなと一羽離れて、惨めな容子で寝てゐる、強情な婆さん鶏を憎むよりも、なにか哀れな同情の気持になりました。",
+              "citation": {
+                "source": "小熊秀雄全集-14",
+                "author": "童話集",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 18
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "edfdcda6-cbe2-5e62-87c1-f9ccf0bc47c9",
+    "entry": "萓",
+    "reading": {
+      "primary": "萓",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "林にはどこにも見るような萓や女郎花、桔梗、萩などの秋草が乱れ咲いて朝露が粒だって葉末にとまっている。",
+              "citation": {
+                "source": "茸をたずねる",
+                "author": "飯田蛇笏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は腰を伸ばして傍らに生い立った萓の茎を抜き取る。",
+              "citation": {
+                "source": "茸をたずねる",
+                "author": "飯田蛇笏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "滑らかに細長い萓の茎はいいあんばいに煙管の中を通りぬけて苦もなく旧に復し、又彼をして好い工合に煙草を吸わせる。",
+              "citation": {
+                "source": "茸をたずねる",
+                "author": "飯田蛇笏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 18
+      }
+    }
+  }
+]

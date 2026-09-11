@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "a5b83cc5-0035-543f-aea0-1116517b84d4",
+    "entry": "憑着",
+    "reading": {
+      "primary": "憑着",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "幸い前の縁の雨戸一枚、障子ばかりを隔てにして、向うの長土間へ通ずる処――その一方だけは可厭な声がまだ憑着きません。",
+              "citation": {
+                "source": "星女郎",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だいたい、憑着性の強い人物というものは、一つの懐疑に捉えられてしまうと、ほとんど無意識に近い放心状態になって、その間に異様な偶発的動作が現われるものだ。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "たしか、レヴェズの心中には、何か一つの狂的な憑着があるに相違ない。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "実は、妙な憑着が一つあってね。",
+              "citation": {
+                "source": "黒死館殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "で、先刻この本を見たとき、ふと思いあたったことだが、君はシャバネーが｜運命の先行者と云った、憑着心理を知っているかね。",
+              "citation": {
+                "source": "潜航艇「鷹の城」",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「成程、心理試験か……」検事が訊ねるともなしに呟くと、この一葉の上に、法水が狂的な憑着をかけているのが判った。",
+              "citation": {
+                "source": "夢殿殺人事件",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのように、滝人には一つの狂的な憑着があって、その一事は、すでに五年越しの疑惑になっていた。",
+              "citation": {
+                "source": "白蟻",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "がその時はそう云いながらも、何かそれ以外に、一つの憑着が頭の中にあるとみえて、いくつかの鳥や獣の、名前を口にするごとに、首を振っては、何ものかを模索している様子だった。",
+              "citation": {
+                "source": "白蟻",
+                "author": "小栗虫太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

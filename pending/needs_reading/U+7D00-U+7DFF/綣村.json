@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "f6004a0e-fb9b-5ed2-8e34-883f8ecbbd5f",
+    "entry": "綣村",
+    "reading": {
+      "primary": "綣村",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そのときのそちらのご気分次第で、娘にでも年増にでもなりますわ、どうぞよろしく……あたし、綣村愛子……でも、今村と呼んでいただきますわ。",
+              "citation": {
+                "source": "ハムレット",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "北山は掌で髯を撫でながら窓越しに庭を見ていましたが、綣村のほうが一段落つくと、ではこれから患者にひきあわせるからと長い廊下の突きあたりの、頑丈な樫の扉をあけて内部へ入り、しばらくここで待っていてくれといって、どっしりと床まで垂れた暗赤色の天鵞絨のカーテンの奥へ綣村と二人で入って行きました。",
+              "citation": {
+                "source": "ハムレット",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ポローニヤスの扮装をした老人は北山で、ブロンドの鬘をつけた少女は要するに綣村だと、わたしはすぐ意識をとりもどしましたが、この東京の一隅、しかもこんな戦争の最中にエリザベス朝の生活がそのまま寛闊に繰りひろげられていようとはさすがのわたしも想像さえもしませんでした。",
+              "citation": {
+                "source": "ハムレット",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "北山や綣村を相手にして気狂いの真似をしながら生涯を終ることにしよう……この諦観に達するまでにハムレットはどれほど懊悩したことか。",
+              "citation": {
+                "source": "ハムレット",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "f3d4e324-fe19-5e74-9e92-b6a90ce22194",
+    "entry": "陀堀",
+    "reading": {
+      "primary": "陀堀",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「世に美しいものとはこの姫のことか」　陀堀多は畑の中から輿の姫を眺めた。",
+              "citation": {
+                "source": "百喩経",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "陀堀多は知らず知らず黍の蔭に身を隠しながら姫の姿を追った。",
+              "citation": {
+                "source": "百喩経",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "野の土くれの存在をああいう虹にうつしとめて置くということは――何だか分らないが、一生の生甲斐になるように思える」　黒黍の蔭を匍ってついて行った陀堀多は、そこで身を伸び上り声を叫ぼうとした。",
+              "citation": {
+                "source": "百喩経",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "陀堀多はその柄を取上げた。",
+              "citation": {
+                "source": "百喩経",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "姫に一つの強い感銘を与えたということで陀堀多はほっと満足した。",
+              "citation": {
+                "source": "百喩経",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "陀堀多は黍の中で泣いた。",
+              "citation": {
+                "source": "百喩経",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

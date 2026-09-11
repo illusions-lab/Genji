@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "fb88693a-29ad-542c-ac39-ae9cde596f7a",
+    "entry": "抹語",
+    "reading": {
+      "primary": "抹語",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "文辞佳麗｜論鋒鋭利にしてしかも芸術的感情に富みたる完全なる好著なりしが、惜しむべし丁抹語にて書かれたるがため広く世の迎ふる所とならざりき。",
+              "citation": {
+                "source": "江戸芸術論",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前から五両目の一等車の車室には、――丁抹語でこれをヒュッテという。",
+              "citation": {
+                "source": "グリュックスブルグ王室異聞",
+                "author": "橘外男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

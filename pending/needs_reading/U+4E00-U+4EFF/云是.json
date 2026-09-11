@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "5853d601-2e1e-5dd8-8002-9ea376c912c8",
+    "entry": "云是",
+    "reading": {
+      "primary": "云是",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「真野松宇宅集、園中瞿麦花盛開、云是先人竹亭先生遺愛之種、因賦一絶為贈。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "樵歌に「宅西竹林、偶見有遺礎、問之土人、云是師（涌蓮）故居、廃已久矣」と云つてある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「秋日偶成、次茶山菅先生韻」三首、「園楓殊紅、和多田玄順所贈、云是立田種」一首、並に七絶である。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『混効験集』に「さしぼ（またはむつき）はくでの事、またくでとは託女の事也、今神人と云是也」ということがあります。",
+              "citation": {
+                "source": "ユタの歴史的研究",
+                "author": "伊波普猷",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

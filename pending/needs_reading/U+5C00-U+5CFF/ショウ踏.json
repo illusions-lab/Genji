@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "1e341e92-f1a6-5cd0-ab34-9370ad7b4c1f",
+    "entry": "将踏",
+    "reading": {
+      "primary": "しょう踏",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "730やがて勇將踏みとまり槍を揮ひていつ迄も、船に猛火を掛けんずるトロイア勢を防ぎとめ、ものすごき迄高らかの聲を放ちて叫びいふ、729　原語ヘプタポデーン。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "將踏"
+      ],
+      "needs_reading": true
+    }
+  }
+]

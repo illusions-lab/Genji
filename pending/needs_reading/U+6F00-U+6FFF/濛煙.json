@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "7a99c3be-7376-5f14-9b7e-5519c54e1d5b",
+    "entry": "濛煙",
+    "reading": {
+      "primary": "濛煙",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――　――　三拍子と杯の音――喧騒、濛煙、うなり、そして舞踏の足どり……みんなはわれわれを識っている。",
+              "citation": {
+                "source": "ある幸福",
+                "author": "EIN GLUCK",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――　三拍子と杯の音――喧騒、濛煙、うなり、そして舞踏の足どり……これがハリイの世界であり、王国であった。",
+              "citation": {
+                "source": "ある幸福",
+                "author": "EIN GLUCK",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二どめの爆音とともに、ふたつに裂けた望楼台は、そのとき、まっ黒な濛煙と、阿鼻叫喚をつつんで、大紅蓮を噴きだした殿堂のうえへぶっ倒れた。",
+              "citation": {
+                "source": "神州天馬侠",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すぐ妙覚寺へ行ったが、ここの一隊もすでに二条へたてこもり、城内は濛煙につつまれている様子。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第七分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "程なく、はたと止むと、城楼の一端から、ボウと赤い焔が映して、月の夜空へ濛煙を吐き出した。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第八分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……焼きおったの」　と、秀吉は東浅井の半ばにもわたる辺土のいちめんな濛煙を見て、ふと唇をかむかの如く呟いて、「見よ、やがてこの火が、柳ヶ瀬を越え、北ノ庄まで焼き払うであろうことを」　急に早足になった。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第九分冊",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

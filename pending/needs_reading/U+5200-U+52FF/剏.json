@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "6f4633e9-073e-5f51-b506-80f045507149",
+    "entry": "剏",
+    "reading": {
+      "primary": "剏",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "裴氏慧琳が音義一百巻を著したのは、「以建中末年剏製」とも云つてあり、又「起貞元四年」とも云つてある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あれはハルトマンが剏めたのでハルトマンの前には無かつた。",
+              "citation": {
+                "source": "妄想",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今の主人の祖父いさんの代で、其人からさつき云つた、あのセンツアマニと云ふ名が剏まつたのだ。",
+              "citation": {
+                "source": "センツアマニ",
+                "author": "FAMILIE OHNEHAND",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "佐藤一斎の撰んだ墓誌に、「ソノ剏ク所ノ園林ハ方向位置自ラ一種ノ幽致アリ世好ト同ジカラズ。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "是時｜剏めて異邦の人魚獵するを見るを得たり。",
+              "citation": {
+                "source": "他計甚※（竹島）雜誌",
+                "author": "松浦武四郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何んとならばこの嘉永四年は『気海観瀾広義』全十五巻（後刷りの本は五篇を五冊に合巻）の中、初めの第一、二、三巻が剏めて新たに開版せられた年であるからである。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは国の面目としても確かに一の大欠点であるから、それは是非ともわれら植物分類研究者の手によってその完成を理想として、新たに作り創めねばならんと痛感したもんだから、私は早速にそれに着手し、その業を剏める事に決心した。",
+              "citation": {
+                "source": "植物記",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "7af42349-7efa-5529-bad4-29734f730cd2",
+    "entry": "様疼",
+    "reading": {
+      "primary": "さま疼",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "神經質の神經痛樣疼痛でさへも其の通りで、何時から治つたのか分らぬ。",
+              "citation": {
+                "source": "神經質に對する余の特殊療法",
+                "author": "森田正馬",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "樣疼"
+      ],
+      "needs_reading": true
+    }
+  }
+]

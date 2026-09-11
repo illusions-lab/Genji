@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "0b3cedfe-367e-5132-bb10-4b49e8b7d70b",
+    "entry": "驕魔",
+    "reading": {
+      "primary": "驕魔",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その『神々敗れるところ』というペルシア語の意味から、あすこは『驕魔台』とかいわれている」「そうだ。",
+              "citation": {
+                "source": "人外魔境",
+                "author": "地軸二万哩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "驕魔台へゆかぬうちに、夜が明けてしまう。",
+              "citation": {
+                "source": "人外魔境",
+                "author": "地軸二万哩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "突兀とみえる驕魔台のうえに、まるで目の狂いかのような、人影がみえるのだ。",
+              "citation": {
+                "source": "人外魔境",
+                "author": "地軸二万哩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おい、セルカーク、あれを見ろ」　いわれて、目をこすりこすり驕魔台のうえをみると、今いた――ほんの秒足らずの瞬前までくっきりと見えていた、ザチの姿が掻き消えたように見えないのだ。",
+              "citation": {
+                "source": "人外魔境",
+                "author": "地軸二万哩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、驕魔台のうえでザチを発見したことから、いよいよ「大盲谷」の実存性が濃くなってきた。",
+              "citation": {
+                "source": "人外魔境",
+                "author": "地軸二万哩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その、クライマックスが大塩沙漠、たぶん、夜、飛行機で驕魔台へ降り、折竹らをみるや、覗き穴を下ったのだろう。",
+              "citation": {
+                "source": "人外魔境",
+                "author": "地軸二万哩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

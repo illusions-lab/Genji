@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "de6e6040-eab8-56a3-bad8-0ec1b8137976",
+    "entry": "拮屈",
+    "reading": {
+      "primary": "拮屈",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "幼時から漢の字風の固い字を書きつけてゐた上に、拮屈な気性の私は、こゝでも、自分には縁のない字として諦めてしまつた。",
+              "citation": {
+                "source": "私の書に就ての追憶",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "謎の女の姓名は園原雪枝と呼ばれていたが、雪枝は時々洋装姿を黒の逸物にゆらりと載せ拮屈たる木曾の峠路を風のように駛らせる事があったが、大概は男の伴侶があった。",
+              "citation": {
+                "source": "温室の恋",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かく考へたのは間違つてゐるかも知れず又幸に當つてゐるかも知れないが、何のためかゝる拮屈※牙なる文句を書綴り、畏れ多くも天皇の御名を附し奉つたか怪むべきである。",
+              "citation": {
+                "source": "天津教古文書の批判",
+                "author": "狩野亨吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのため、時には、荘重ではあっても拮屈のきらいがあるかも知れない。",
+              "citation": {
+                "source": "レ・ミゼラブル",
+                "author": "LES MISERABLES",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古さから来る拮屈傲峨と、新しさから来る自由暢達と、両者を具有してしっくりと落付いたものである。",
+              "citation": {
+                "source": "梅花の気品",
+                "author": "豊島与志雄",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

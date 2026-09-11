@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "91a3965e-5620-54b5-9447-96f3e3dc376e",
+    "entry": "匿不",
+    "reading": {
+      "primary": "匿不",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "匿不擧哀」の祖父母、父母の喪を聞くと云ふのは、例へば官吏になつて故郷を遠く離れて居る時のことを謂ふのであり、匿不擧哀の哀を擧ぐは、支那では親が死んだと云ふ知らせを聞くと、哭と云つて――泣くと云ふのは涙を流すのでありますが――聲を立てて近隣に聞えるやうに大聲で泣かねばならぬことになつてゐます。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これを匿不擧哀と稱し、自分の一身の利害の爲めに匿すのであるから、不孝の中に數へるのであります。",
+              "citation": {
+                "source": "支那の古代法律",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

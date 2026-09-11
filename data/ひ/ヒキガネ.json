@@ -443,5 +443,145 @@
         "aozora": 3
       }
     }
+  },
+  {
+    "uuid": "25df153e-ff1a-5ea0-be19-4e271852567b",
+    "entry": "曳金",
+    "reading": {
+      "primary": "ひきがね",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼女は曳金に手をあてて、じっと床の上の猫を覗った。",
+              "citation": {
+                "source": "ウォーソン夫人の黒猫",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして狙いを定め、指で曳金を強く引いた。",
+              "citation": {
+                "source": "ウォーソン夫人の黒猫",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "狗が尾を振つて此方を一顧する、曳金に指をかける、狗は一躍する、鴫はパツと立つ、ドーンと撃ち放す、濛々たる白煙の消える時には、ハヤ狗が其の手柄の獲物を銜へて駈けて來る、といふ調子に行つたら實に愉快だナア、などと考へる。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "李は振放そうと争うはずみに、ピストルの曳金は外れて、我手でわが胸を撃ちて倒れかかる。",
+              "citation": {
+                "source": "青蛙神",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "曳金を曳きさえすれば、つづけ射ちに打てるのです。",
+              "citation": {
+                "source": "雪之丞変化",
+                "author": "三上於菟吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "射って見せますよ」　たのしげにいって、曳金にかけた細い指に、かそかに力を加える。",
+              "citation": {
+                "source": "雪之丞変化",
+                "author": "三上於菟吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この曳金に、お初ちゃんの細い細い、ほ、ほ、白魚のような指がさわりゃあ、この可愛らしい銃口から、小ちゃい小ちゃい、小豆つぶのような弾丸が飛び出して、まあ、蝋で作ったといおうか、珠玉をみがいたようだと言おうか、何とも言われず美しい、おまえさんの、その額の真ん中に、ボーンと食い込んでゆくのだよ。",
+              "citation": {
+                "source": "雪之丞変化",
+                "author": "三上於菟吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "安部は、すこしばかり石黒にからかってやれと思って、銃口を曖昧に自分の胸に向け、合図と同時に笑いながら曳金をひいた。",
+              "citation": {
+                "source": "予言",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これはへんだと、正親町と松久が眼を見合せた瞬間、銃口を胸に向けたまま、いきなり曳金をひいてしまった。",
+              "citation": {
+                "source": "予言",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "曳金にかかった教授の指が、ピクッと痙攣した。",
+              "citation": {
+                "source": "地底獣国",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "当然銃の曳金を引いてもいいのに、「何の為にそんなことをしたのか」まず知ろうとしたところに、ハッピイの人間味がある。",
+              "citation": {
+                "source": "比島投降記",
+                "author": "ある新聞記者の見た敗戦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 14
+      }
+    }
   }
 ]

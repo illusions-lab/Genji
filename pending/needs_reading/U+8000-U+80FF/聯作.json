@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "403a49d4-3b48-5d3f-9c96-16d463345dc7",
+    "entry": "聯作",
+    "reading": {
+      "primary": "聯作",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「癸未以病辞相、短述※懐」として七律一首、又「同前七絶八首」として聯作の絶句がある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此處の歌は七首の聯作で、ほかの歌には、『後悔いむかも鈍の亞米利加』とあつたり、『罪をはや知りて贖ひまつれ亞米利加｜奴』とあつたりして、堂々のいきほひを示して居る。",
+              "citation": {
+                "source": "愛國歌小觀",
+                "author": "齋藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聯作詞「堀君」四曲はずっと後に作られた作品だが、「村の子を　友として　遊べとぞ　君を思ふ。",
+              "citation": {
+                "source": "我が愛する詩人の伝記",
+                "author": "室生犀星",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

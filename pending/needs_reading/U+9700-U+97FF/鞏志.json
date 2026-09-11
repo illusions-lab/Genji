@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "e912b559-1a80-5fc5-b8a0-2f8a37165d96",
+    "entry": "鞏志",
+    "reading": {
+      "primary": "鞏志",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――その軍に向って抗戦は無意味でしょう」　こういって、太守｜金旋をいさめたのは、城将のひとり鞏志という者だった。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さては敵に内通の心を抱いているな」　金旋は怒って、鞏志の首を斬ろうとした。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして城中へ逃げてきたところ、楼門の上から鞏志が弓に矢をつがえて、「城内の民衆は、みな自分の説に同和して、すでに玄徳へ降参のことにきまった」　と、呶鳴りながら、びゅうんと弦を反らした。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鞏志は、首を奪って、城門をひらき、張飛を迎え入れて、元来、玄徳を景慕していた由を訴えた。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "張飛は、軍令を掲げて、諸民を安んじ、また鞏志に書簡を持たせて、桂陽にいる玄徳のもとへ、その報告にやった。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "玄徳は、鞏志を、武陵の太守に任じ、ここに三郡一｜括の軍事もひとまず完遂したので、荊州に留守をしている関羽のところへもその由を報らせて、歓びをわけてやった。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

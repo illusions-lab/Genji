@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "c0c6c87a-be8a-5f94-ab03-6a47cf6726f6",
+    "entry": "箇出",
+    "reading": {
+      "primary": "箇出",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "膳も大きなのを一箇出してあるばかりであつた。",
+              "citation": {
+                "source": "朝",
+                "author": "田山花袋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この刹那に箱の蓋をあけると、案の通り土で造った円筒状の煙管の雁首が一箇出た。",
+              "citation": {
+                "source": "土塊石片録",
+                "author": "伊波普猷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "七｜月二十三｜日には、幻翁、望生、及び余の三｜人で出掛けたが、此時も亦幻翁は完全なる小土瓶を一｜箇出し、望生は砧形を成す小角器（用法不明。",
+              "citation": {
+                "source": "探檢實記　地中の秘密",
+                "author": "嶺の千鳥窪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幻翁は土器を二三｜箇出した。",
+              "citation": {
+                "source": "探檢實記　地中の秘密",
+                "author": "馬籠と根方",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如何に不有望の貝塚だとて、これだけの大部分を發掘して、小破片一｜箇出ぬといふ、そんなのは未だ曾て無い。",
+              "citation": {
+                "source": "探檢實記　地中の秘密",
+                "author": "疑問の加瀬貝塚",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして佐伯はずるそうに笑いながら、物入れから鶏卵を二箇出して、之を中尉殿に上げます、と言った。",
+              "citation": {
+                "source": "日の果て",
+                "author": "梅崎春生",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

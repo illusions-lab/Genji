@@ -1,0 +1,159 @@
+[
+  {
+    "uuid": "64a07e6d-807a-525e-87bc-9101deeb0db7",
+    "entry": "苅賀",
+    "reading": {
+      "primary": "苅賀",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "四、苅賀由平二　　鉄炮足軽組頭　某年某月某日。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第四に苅賀由平二である、これは人を教誨するだけあって、いまだに健在であり、鉄炮足軽の組頭から支配にぬかれていた。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「――これなら用心することはあるまい」　そして又四郎は苅賀を訪問した。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "苅賀の家は組屋敷の中にあり、支配役のことで、厩や長屋や三棟の土蔵などを擁して、なかなか堂々たる構えであった。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの蝗を使った教誨の件を、……苅賀はすぐ思いだしたらしい、だが相変らず反りかえって、こちらを睨んで、指の先で鼻下髭の端を捻った。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「このおれを相手に、この苅賀由平二を相手にか、わっはっは、盲人蛇に怯じず、藪を突ついて蛇、毛を吹いて傷を求め、飛んで火に入る夏の虫か、蟷螂の竜車に向う斧、いやはや、いやはや、おかしくって臍が茶を沸かすぞ」　大略このように嘲弄したうえ、日は明後日、時刻は朝五時、場所は水車場の河原ということに定めた。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……苅賀へいった日の夜になって、彼は唐川運蔵を訪ねた。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "明後日は苅賀と果し合がある、明日は城でどんな用ができるかもわからない、こう思って、彼はその夜でかけていったのである。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "淀井川の河原で又四郎は苅賀を待っていた。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "筋骨の逞しい、髭の濃い、眼のぎょろっとした苅賀の相貌と、あの豪放な嘲弄とを思いうかべたのである。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "苅賀はとうとう来なかったのである、けれども又四郎としては、なにか急用でも起こったか、家に病人でも出たのだろうと思い、帰りに二条町の苅賀へまわってみた。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "苅賀由平二が出奔したということは、忽ち家中一般の評判になり、その原因について根もないような話が次から次へと伝わった。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "豪傑笑いをして夜半に逃亡した苅賀由平二、庭へ土下座をした運蔵。",
+              "citation": {
+                "source": "百足ちがい",
+                "author": "山本周五郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 15
+      }
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "9d4fbdab-8502-5676-8c73-5fab1717bba5",
+    "entry": "於竹",
+    "reading": {
+      "primary": "於竹",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "彼は文化七年に「於竹大日忠孝鏡」という敵うち物を出して相当のあたりを取った。",
+              "citation": {
+                "source": "仇討たれ戯作",
+                "author": "林不忘",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この「於竹大日」は、安永六年に芝の愛宕で開帳した出羽国湯殿山、黄金堂玄良坊、佐久間お竹大日如来の縁起を材料にしたもので、その時にも青本が行われたのを三馬がいま黄表紙に仕立てたものである。",
+              "citation": {
+                "source": "仇討たれ戯作",
+                "author": "林不忘",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこへ翌年三馬の「於竹大日」の原稿が廻って来た。",
+              "citation": {
+                "source": "仇討たれ戯作",
+                "author": "林不忘",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのために京伝の作は早くできたが、三馬の「於竹大日」は肝心の正月の間に合わなかった。",
+              "citation": {
+                "source": "仇討たれ戯作",
+                "author": "林不忘",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、春亭にしてみれば、京伝のはお夏清十郎の華やかな明るい場面だのに、三馬の「於竹大日」はのべつに出てくる幽霊と暗い陰惨な世界の連続なので嫌気がさしてしまったのだった。",
+              "citation": {
+                "source": "仇討たれ戯作",
+                "author": "林不忘",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「於竹大日」のあらすじはこうである。",
+              "citation": {
+                "source": "仇討たれ戯作",
+                "author": "林不忘",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

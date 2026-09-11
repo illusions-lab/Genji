@@ -1,0 +1,98 @@
+[
+  {
+    "uuid": "469e7b71-0086-523b-a1f4-5db059cbf1a9",
+    "entry": "声耆",
+    "reading": {
+      "primary": "こえ耆",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "倭王復遣使大夫伊聲耆掖耶等約八人上獻。",
+              "citation": {
+                "source": "卑彌呼考",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伊聲耆掖邪狗　　倭人傳に此人名を出すこと三處なるが其の始めて出せる時のみ伊聲耆掖邪狗とありて、後の二處は、單に掖邪狗とのみありて、伊聲耆の字なし。",
+              "citation": {
+                "source": "卑彌呼考",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "按ずるに伊聲耆の音はイ、サン、ガと訓むべく、掖邪狗も亦イ、サ、カと訓むべし、蓋し魏人が同一の人を兩樣の對音にて記せる者が、一は重複して記され、一は單に一方のみ記されたるならん。",
+              "citation": {
+                "source": "卑彌呼考",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "因て姑らく伊聲耆、即ち掖邪狗を以て此命に擬す。",
+              "citation": {
+                "source": "卑彌呼考",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其四年、倭王復遣使大夫伊聲耆・掖邪狗等八人、上獻生口・倭錦・絳青・短弓矢。",
+              "citation": {
+                "source": "魏志倭人傳",
+                "author": "陳壽",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
+      },
+      "variant_writings": [
+        "聲耆"
+      ],
+      "needs_reading": true
+    }
+  }
+]

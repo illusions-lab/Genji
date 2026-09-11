@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "cd3615e8-edaa-533d-b47b-76ee35a13071",
+    "entry": "瘠肉",
+    "reading": {
+      "primary": "瘠肉",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "＊　　　＊　　　＊　　　＊　　　＊　余｜嘗て維新革命前の故老を訪い、以て彼が風骨、枯皮瘠肉、衣に勝えざるが如く、嘗て宮部鼎蔵と相伴い、東北行を為すや、しばしば茶店の老婆のために、誤って賈客視せらる。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やや瘠肉の清楚な書体で、しかも溌剌たる勢いがあり、書翰などは行間に構わずちらし書きのように達筆に書かれます。",
+              "citation": {
+                "source": "明治世相百話",
+                "author": "山本笑月",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "b7cf2b81-32be-536d-8196-41e16d62f638",
+    "entry": "弄筆",
+    "reading": {
+      "primary": "弄筆",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "特に月々の「文藝春秋」に出すアフォリズム風の文字（侏儒の言葉）は、機智のために機智を弄する弄筆者流の惡皮肉で、憎惡的にさへ不滿を感ぜずに居られなかつた。",
+              "citation": {
+                "source": "芥川龍之介の死",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "米鹽のために心にもないことを書いてる、賤しい戲文弄筆の徒だ。",
+              "citation": {
+                "source": "室生犀星に與ふ",
+                "author": "萩原朔太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秋夜弄筆　日かず経て呼子鳥啼かずなりしを、それかともききあやしみて外のもに出づれば、音に澄みて鳴けるは遠き蟋蟀なりけり。",
+              "citation": {
+                "source": "測量船",
+                "author": "三好達治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私よりもずつとずつとあなたの近くにゐる、一人の男が顔に蠅をとまらせて昼寝をしてゐる頃に――秋夜弄筆　我が性は生れて粗野なりければ、初めは嗜むでものを感ぜしが、いつしかその嗜は病の如くに、心はともすれば顫へて止まらず、幾たびか人に軽んぜらる。",
+              "citation": {
+                "source": "測量船拾遺",
+                "author": "三好達治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

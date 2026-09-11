@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "dae1c853-3fa6-5c23-90ab-77e343bd9d64",
+    "entry": "苅薦",
+    "reading": {
+      "primary": "苅薦",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」と何の事やら、わけのわからんやうな事を悟り澄ましたみたいな口調で言ひ、両腕をうしろに組み、ひとり家を出て、あちらこちら海岸を逍遥し、苅薦の乱れ出づ見ゆ海人の釣船　などと、れいの風流めいた詩句の断片を口ずさみ、「人は、なぜお互ひ批評し合はなければ、生きて行けないのだらう。",
+              "citation": {
+                "source": "お伽草紙",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と何の事やら、わけのわからんやうな事を悟り澄ましたみたいな口調で言ひ、兩腕をうしろに組み、ひとり家を出て、あちらこちら海岸を逍遙し、苅薦の亂れ出づ見ゆ海人の釣船　などと、れいの風流めいた詩句の斷片を口ずさみ、「人は、なぜお互ひ批評し合はなければ、生きて行けないのだらう。",
+              "citation": {
+                "source": "お伽草紙",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "○苅薦の一重を敷きてさ寐れども君とし寝れば寒けくもなし　〔巻十一・二五二〇〕　作者不詳　作者不明。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古事記に、「うるはしとさ寝しさ寝てば苅薦の乱れば乱れさ寝しさ寝てば」という歌謡があり、この巻にも、「河上の根白高萱あやにあやにさ寝さ寝てこそ言に出にしか」（三四九七）というのがあって参考になる。",
+              "citation": {
+                "source": "万葉秀歌",
+                "author": "斎藤茂吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

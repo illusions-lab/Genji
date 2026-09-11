@@ -1,0 +1,114 @@
+[
+  {
+    "uuid": "864084ed-3a94-5fad-9f2f-e7d75e7ad906",
+    "entry": "闘訟",
+    "reading": {
+      "primary": "闘訟",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "しかるに同僚中に直名に左袒する者があって、かえって「闘訟律」に依って許容違法の罪を訴えた。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかるに、川越の領主秋元但馬守は、「闘訟律」には「告二祖父母父母一者絞」という本文もあるが、この場合この女子を、尊長を告発したという罪に当てることの可否を決定し兼ねるというので、遂に幕府にその処置を伺い出たのである。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかるに、川越の領主秋元但馬守は、「闘訟律」には「告祖父母父母者絞」という本文もあるが、この場合この女子を、尊長を告発したという罪に当てることの可否を決定し兼ねるというので、遂に幕府にその処置を伺い出たのである。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "例へば『唐律』（鬪訟律一）に據ると、他人を毆打した罰は笞四十であるが、一族の尊長を毆打した場合は（鬪訟律二）、その親疎の關係に應じて、左の如き重き罰を加へる。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "されど親に對する罵詈に就いては、『唐律』に詈祖父母・父母者絞（鬪訟律）と明記してある通り、之を死罪に處し、且つ之を十惡の不孝に列するのである。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この不法行爲はさきに已に紹介した如く、『唐律』では十惡中でも特に重い惡逆を加へ、死罪中でも一等重い斬罪に處する（鬪訟律二）。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『唐律』（鬪訟律三）にも告祖父母・父母者絞と明記して、子孫が父祖を告訴することを許さぬ。",
+              "citation": {
+                "source": "支那の孝道殊に法律上より觀たる支那の孝道",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      },
+      "variant_writings": [
+        "鬪訟"
+      ]
+    }
+  }
+]

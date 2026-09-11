@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "03bd05ec-614a-5c6d-b390-ea952a916a74",
+    "entry": "素々",
+    "reading": {
+      "primary": "素々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そこで、芸術が向上するとすれば、何時も全体的にであつて、要素々々の注入は、却て芸術家の統一を破るくらゐのものである。",
+              "citation": {
+                "source": "山羊の言",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "勿論、勉強といふことは、要素々々の注入といふこととも云へようが、その注入が目的ではなく何もひつくるめて出来る次なる統一が芸術活動をなすわけであるから、要素々々のことは所詮個人々々の楽屋内での問題に過ぎない。",
+              "citation": {
+                "source": "山羊の言",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あの方は素々から、凄い容子をしていますが、今度はまたもっと怖ろしい形相をしているように思われます。",
+              "citation": {
+                "source": "自転車嬢の危難",
+                "author": "コナン・ドイル",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "親分をお願ひしたのは、素々お徳の阿魔の仕業で俺の知つたことぢやねえ。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "御落胤殺し",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "素々歩いて帰る積りのところを勧められたんですから」「然うですか。",
+              "citation": {
+                "source": "凡人伝",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "素々芳夫さんは三越の店員って柄じゃない。",
+              "citation": {
+                "source": "親鳥子鳥",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「…………」「素々木曜日は吉川さんの日でございますよ。",
+              "citation": {
+                "source": "求婚三銃士",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが素々事大思想に囚えられていた朝鮮は左顧右眄、容易に日本に信頼するの態度を示さざる結果、ついにあんな仕末になってしもうたのである。",
+              "citation": {
+                "source": "日支親善策如何",
+                "author": "――我輩の日支親善論",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

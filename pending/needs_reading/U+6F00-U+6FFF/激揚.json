@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "5765b5ce-eeb8-59b1-b4e0-8832e53157bc",
+    "entry": "激揚",
+    "reading": {
+      "primary": "激揚",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "其題に曰く学術技科の進闡せしをば人の心術風俗に於て益有りしと為す乎将た害ありしと為す乎とルーソー之を読みて神気俄に旺盛し、意思頓に激揚し自ら肺腸の一変して別人と成りしを覚え、殆ど飛游して新世界に跳入せしが如し。",
+              "citation": {
+                "source": "文士としての兆民先生",
+                "author": "幸徳秋水",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは一方から不意にブランコに飛びついて、その激揚に乗って、さきのブランコに乗っている男が、両手を提げているのに飛び移るのである。",
+              "citation": {
+                "source": "ヒッポドロム",
+                "author": "室生犀星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唄音風ニ順ツテ碧波ニ入ルニ逢ヒ、蛤聞熏ノ力ニ因ツテ海浪ニ激揚セラレテ自ラ天王寺ノ西ノ浜畔ニ着キタルトキ、童僕戯レニ抛ツテ天王寺堂前ノ床ニ置キタルニ、（註、大阪の天王寺が昔いかに海に近かったかということが、此の記事に依って想像される。",
+              "citation": {
+                "source": "覚海上人天狗になる事",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしながら自分は今、伝道のこころを放下しようとする「激揚の時」を待っている。",
+              "citation": {
+                "source": "日本精神史研究",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし彼のいわゆる「激揚の時」は、すでに来ているのである。",
+              "citation": {
+                "source": "日本精神史研究",
+                "author": "和辻哲郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

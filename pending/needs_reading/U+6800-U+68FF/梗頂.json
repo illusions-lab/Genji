@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "b99f0c04-0172-5bb0-afb6-d055d76d328c",
+    "entry": "梗頂",
+    "reading": {
+      "primary": "梗頂",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この花はあるいは長くあるいは短い小梗を具えている有柄花であって、その梗頂に三片の萼と一子房とがある。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前記の通りこの各の花にはみな小梗があって、その梗頂がすなわち花托（receptacle）になっていることを特によく心に留めていなければならない。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "カキツバタはアヤメ科 Iris 属の水草で、その花梗はツンとして強く立っており、花は梗頂に通常三個あるが、それが一日に一輪ずつしか咲かない。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "花は小梗を具え、その梗頂、花に接して二片の葉状有色の苞があって心臓状円形を呈している。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

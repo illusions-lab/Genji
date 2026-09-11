@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "df964e48-7267-5e75-8fc9-d046282c1cce",
+    "entry": "个国",
+    "reading": {
+      "primary": "个国",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "卜部の仕丁は、固定した家筋があつたのではなく、四个国の海部から抜くのであつたが、後世は、海部の卜部はなくなつて、神祇官で、卜部氏の配下に、世襲の奴隷の様な形の者が出来た。",
+              "citation": {
+                "source": "雪の島",
+                "author": "熊本利平氏に寄す",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "平安朝には、七个国の語部が出て来て居る。",
+              "citation": {
+                "source": "大嘗祭の本義",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "悠紀・主基の二个国は、何時頃から定められたか訣らぬが、近代は、亀卜で定められる。",
+              "citation": {
+                "source": "大嘗祭の本義",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其上ろうま方言の国境外に遠く離れている日本語による詩人であるがために、――譬えば、りるけが故郷以外の二三｜个国の言葉で表現したように、又極めて稀な例として、ヨネ・ノグチがあめりか英語で詩を書いた様には行かなかった。",
+              "citation": {
+                "source": "詩語としての日本語",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

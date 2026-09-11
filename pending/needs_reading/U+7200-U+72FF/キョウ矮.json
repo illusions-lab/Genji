@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "a4acf670-7343-597a-877f-1e9d2bac9a9b",
+    "entry": "狭矮",
+    "reading": {
+      "primary": "きょう矮",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "監視の設備の甚しく嚴重なるは、人をして近世式の監獄を聯想せしめ、狹矮なる號舍の櫛比は、曾て米國市俄古にて見物せし、ユニオン・ストック會社の家畜市場を思ひ起こさしむ。",
+              "citation": {
+                "source": "貢院の春",
+                "author": "原勝郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "狹矮"
+      ],
+      "needs_reading": true
+    }
+  }
+]

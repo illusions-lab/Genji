@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "89c1cc88-2d6d-53e6-8422-5bf5a3d81cf1",
+    "entry": "陀峠",
+    "reading": {
+      "primary": "陀峠",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "茶山は岡山、伊部、舞子、尼崎、石場、勢田、石部、桜川、大野、関、木曾川、万場、油井、薩陀峠、箱根山、六郷、大森等に鴻爪の痕を留めて東する。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東海道で、悪馬子の出るのは箱根、盗賊の出るのは薩陀峠ときめてある。",
+              "citation": {
+                "source": "傾城買虎之巻",
+                "author": "直木三十五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この御きまりの薩陀峠へ、小野田久之進不覚にも一人で差しかかった。",
+              "citation": {
+                "source": "傾城買虎之巻",
+                "author": "直木三十五",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "由比を出拔くる時、惜しい事に薩陀峠の舊道を越すのを忘れて、汽車沿ひの磯端を歩いてしまつた。",
+              "citation": {
+                "source": "樹木とその葉",
+                "author": "春の二三日",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「このような大きな山、薩陀峠や、宇津の山道ならば、馬駕籠でも越せましょうが、これは、越すに越されぬ大井川と同じこと、至急何とかお取計らい下さい」「委細、心得ましてござります。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "年魚市の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

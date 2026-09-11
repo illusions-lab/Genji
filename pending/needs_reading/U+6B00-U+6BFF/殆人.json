@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "9937e757-f577-5b05-a8cd-0489a039fb8e",
+    "entry": "殆人",
+    "reading": {
+      "primary": "殆人",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "明い瓦斯の光に照らされた、幅の広い階段の両側には、殆人工に近い大輪の菊の花が、三重の籬を造つてゐた。",
+              "citation": {
+                "source": "舞踏会",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "まして暗い針葉樹の空に美しい花火が揚る時には、殆人どよめきにも近い音が、一同の口から洩れた事もあつた。",
+              "citation": {
+                "source": "舞踏会",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其を具体化する芝居が、殆人情の裏打ちをしないで、この文章を追ひ乍ら、文章にある処だけを、細々工夫したり、表情したりして行つてゐる。",
+              "citation": {
+                "source": "手習鑑雑談",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "電燈の明い波止場には、もう殆人影も見えない。",
+              "citation": {
+                "source": "上海游記",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此日寒気最甚しく街上殆人影を見ず。",
+              "citation": {
+                "source": "断腸亭日乗",
+                "author": "断膓亭日記巻之二大正七戊午年",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

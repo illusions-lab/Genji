@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "fba79b1c-eed5-5939-82ee-4bf561b508cd",
+    "entry": "袢草",
+    "reading": {
+      "primary": "袢草",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "市郎は悸然として熟視ると、これはとは大差ない程に見ゆる下級労働者らしい扮装で、年の頃は五十前後でもあろう、髪を長く伸して、尖った顔に鋭い眼を晃らせ、身には詰襟の古洋服の破れたのを着て、足には脚袢草鞋を穿いていた。",
+              "citation": {
+                "source": "飛騨の怪談",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其人等は皆｜脚袢草鞋の出立ちでもとより荷物なんどはすこしも持っていない。",
+              "citation": {
+                "source": "死後",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼等はみんな、白い股引に脚袢草鞋をつけていたが、焦げるような日に照りつけられて、汗をダラダラ垂らしていた。",
+              "citation": {
+                "source": "恨なき殺人",
+                "author": "宮嶋資夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "写真も撮さなければ記録も取らない、至って暢気な山旅ではあり、支度といえば単物に脚袢草鞋、荷物といっても着換の単物二、三枚にシャツ一、二枚、それに寒さの用意として真綿入りの筒袖襦袢二枚、それを油紙に包んで振分けにして肩に掛けた身軽さの為か、ゆっくり歩く積りでもいつか急ぎ足になってしまう。",
+              "citation": {
+                "source": "北岳と朝日岳",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

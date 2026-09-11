@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "baa0ff70-b1ed-53d6-a7fa-2b51855e0a5a",
+    "entry": "維乗",
+    "reading": {
+      "primary": "維乗",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "関孝和の『伏題』に初見のいわゆる維乗法は西洋数学の行列式に当たり、西洋より先だって日本で発達したものであるが、これは演段術の一種であると同時にまた一次連立方程式の解法にも関係したものであった。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "けれども方程及び天元術が元来算木を使用して演算すべきものであったに似ず、日本の演段術、維乗法、点竄術、円理等はいずれも筆算式の数学であった。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かつ演段術の一部として成り立った維乗法すなわち行列式の処理は西洋の数学上未だないものであって、関の発明か否かは不明であるが、ともかく、和算上に初めて現われたものである。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すでに演段術及び維乗法が成り立ち得るほどならば、方程式論様のものの論究され得ることも、またもとより当然である。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第一に維乗法すなわち西洋の行列式関係のものが西洋に先だって発達した。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かくして演段法あるいは維乗法は支那でできたものではなかったろうか。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "維乗法のごときは、関と同時代に大阪におって説いた人もあり、特にその人は公刊している。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "維乗法のごときはあるいは関以外の人が創意したものかも知れぬ。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "要するに維乗法は支那にあったか否かは、まだ分からぬのであって、日本でできたものと見るのが穏やかである。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

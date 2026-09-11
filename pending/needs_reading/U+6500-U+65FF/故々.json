@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "51f320eb-b743-5c8a-afc3-d54f5f57c9cc",
+    "entry": "故々",
+    "reading": {
+      "primary": "故々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "わたくしには、また、池上があれほど依怙地にも自慢気に振り廻す「童貞、童貞」という言葉がむかしから嫌味でなりませんでしたし、安宅先生が逆手によって強調した性の本能に就ても故々し過ぎるように思われました。",
+              "citation": {
+                "source": "生々流転",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と艷麗に打傾き、「其の替り、今ね、寢ながら本を讀んで居て、面白い事があつたから、お話をして上げようと思つて、故々遊びに來たんぢやないか。",
+              "citation": {
+                "source": "印度更紗",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私だつて、御覽の通り、別に怪我もせず無事なんですから、故々お話しをする程でもないのかも知れませんが、でも、氣を附けて行らつしやる方が可からうと思つたからです。",
+              "citation": {
+                "source": "艶書",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　と艶麗に打傾き、「其の替り、今ね、寝ながら本を読んで居て、面白い事があつたから、お話をして上げようと思つて、故々遊びに来たんぢやないか。",
+              "citation": {
+                "source": "印度更紗",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故々言ふまでもないが、坂の上の一方は二七の通りで、一方は廣い町を四谷見附の火の見へ拔ける。",
+              "citation": {
+                "source": "番茶話",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――木戸錢はおろか、遠方から故々汽車賃を出して、お運びに成つて、これを御覽なさらうとする道徳家、信心者があれば、遮つてお留め申す。",
+              "citation": {
+                "source": "雨ふり",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故々御招申しまして甚だ恐入りました。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "既に秀子から故々時介を呼びに遣ったと聞いて居る丈に、厭でも茲を立ち去らねばならぬ、恨み恨み彼の顔を眺むれば彼も余と秀子との間に何か親密な話でも有ったのかと嫉む様に余の顔を見る、余「イヤ権田さん」時介「イヤ丸部さん」と互いに挨拶の言葉だけは親しげに交えたけれど腹の底は火と火の衝突だ、互いに焼き合いだ。",
+              "citation": {
+                "source": "幽霊塔",
+                "author": "黒岩涙香",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 21
+      }
+    }
+  }
+]

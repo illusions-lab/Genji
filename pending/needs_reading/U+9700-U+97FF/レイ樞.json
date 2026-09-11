@@ -1,0 +1,74 @@
+[
+  {
+    "uuid": "f1ee03d2-a9a3-542a-89dd-e74ea8968205",
+    "entry": "霊樞",
+    "reading": {
+      "primary": "れい樞",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "人中の語は師傅篇に見え、明堂の語も靈樞中の何處かに見えたと記憶する。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "素問や靈樞でも讀むやうな醫者を搜して極めてゐたのではなく、近所に住んでゐて呼ぶのに面倒のない醫者に懸かつてゐたのだから、ろくな藥は飮ませて貰ふことが出來なかつたのである。",
+              "citation": {
+                "source": "寒山拾得",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "靈樞"
+      ],
+      "needs_reading": true
+    }
+  }
+]

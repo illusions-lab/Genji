@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "a577abe0-e8d9-56e3-b1f9-1a6663a2fa55",
+    "entry": "踏処",
+    "reading": {
+      "primary": "踏処",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "両手は括られてしまつて、身体は木の塊のやうに投付けられ、僅か一坪半の平面だけが彼の足の踏処となつて居るに過ぎない。",
+              "citation": {
+                "source": "逆徒",
+                "author": "平出修",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もっとも線路の見当は大概に着いてたけれども、踏処が悪いと水田へ陥る。",
+              "citation": {
+                "source": "沼夫人",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "顔を背けよう背けようと横仰向けに振って、よじって伸ばす白い咽喉が、傷々しく伸びて、蒼褪める頬の色が見る見るうちに、その咽喉へ隈を薄く浸ませて、身悶をするたびに、踏処のない、つぼまった蹴出が乱れました。",
+              "citation": {
+                "source": "甲乙",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

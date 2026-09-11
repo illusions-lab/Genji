@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "60be4156-d6ad-55b8-965b-e7dae2425016",
+    "entry": "煙々",
+    "reading": {
+      "primary": "煙々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「煙々山へ行け、銭と金こっちへ来い。",
+              "citation": {
+                "source": "黴",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "傾国の女王クレオパトラの昔もかくやと偲ばれんばかり、透き徹るような美しさというものはおそらくこういう女を指すものだろうと思わずにはいられなかったのであったが、しかも緩やかに巻いた腰帯は金糸銀糸の綾織に、紅玉石か真珠でも一杯に刺繍てあるらしく、それが今｜陽に燦めいて煙々と瓔珞の虹を放っている光耀さ！",
+              "citation": {
+                "source": "ウニデス潮流の彼方",
+                "author": "橘外男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もうその頃には、赤々と花園を燃え立たせていた残照は、庭の彼方の糸杉と山毛欅と桃金花との森の彼方に隠れて、あたりには夕暗が縹渺と垂れ込めて、壁に設けられた燭台の上には灯が煙々と輝き初めていたが、柔らかな褥を改めた卓上はすでにまったく清められて、新しい料理がまた、山のように並べられていた。",
+              "citation": {
+                "source": "ウニデス潮流の彼方",
+                "author": "橘外男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聳えたつビルディングが、無数のどの窓にも煙々たる電燈をきらめかしている。",
+              "citation": {
+                "source": "花と龍",
+                "author": "火野葦平",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "4410808e-fd29-5b8d-a430-78d90350e152",
+    "entry": "臉",
+    "reading": {
+      "primary": "臉",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "其｜臉、其｜眸、其｜瞻視、其｜形相、一として情慾に非ざるもの莫く、而も猶美しかりき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "婦人は此言をなし畢りて、纔におのれの擧動の矩を踰えたるを曉れりとおぼしく、臉に火の如き紅を上して席をすべり出でぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "文一郎が答はいまだ半ならざるに、女は満臉に紅を潮して、偏盲のために義眼を装っていることを告げた。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しらべしげくなりまさるにつれて、あさ霞のごときいろ、姫が臉際にあらわれきつ。",
+              "citation": {
+                "source": "文づかい",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　彼の鬼臉なるをいと稚しと軽しめたるやうに、間はわざと色を和げて、「手形の始末はそれで付いたか知りませんが、貴方も折角中へ入つて下さるなら、も少し男らしい扱をなさいましな。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一見あの所謂花臉も、仮面ではない事が看破出来れば、その人は確に幾分か千里眼に近いのに相違ない。",
+              "citation": {
+                "source": "上海游記",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは今上海の記念館にかかっておりますが、廿年居上海毎日見中華有病不求薬無聊纔読書一滴臉就変所※頭漸多怱而下野南無阿弥陀　　※其山仁兄教正　　　　辛未初春為請　　　魯迅と書いてあります。",
+              "citation": {
+                "source": "魯迅さん",
+                "author": "内山完造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そうだ、そこへおいでなさるのは、たしかあだ名を病関索とおっしゃる牢頭さんじゃございませんか」　彼を呼びとめたのは、中山府の人で、片目の醜いところから、鬼臉児と異名のある、杜興という人間だった。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こいつア妙な所で会ったもんだな」「へえ、その鬼臉児の杜興ですよ。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これなん、楊雄とは親しく、また楊雄を恩人ともしている、李家の食客、鬼臉児の杜興だった。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "紅牙催拍シテ燕ノ飛ブコト忙シ一片ノ行雲画堂ニ到ル眉黛促シテ成ス遊子ノ恨ミ臉容初メテ故人ノ腸ヲ断ツ楡銭買ワズ千金ノ笑柳帯ナンゾ用イン百宝ノ粧イ舞罷ミ簾ヲ隔テテ目送スレバ知ラズ誰カコレ楚ノ襄王　眼を貂蝉のすがたにすえ、歌詞に耳をすましていた董卓は、彼女の歌舞が終るなり、感極まった容子で、王允へ云った。",
+              "citation": {
+                "source": "三国志",
+                "author": "群星の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

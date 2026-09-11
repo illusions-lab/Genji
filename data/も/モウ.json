@@ -2627,5 +2627,113 @@
         "aozora": 1
       }
     }
+  },
+  {
+    "uuid": "2f693b84-77c5-553c-b30f-05b358e04c56",
+    "entry": "矇",
+    "reading": {
+      "primary": "もう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "あらゆる非科学的な矇昧の間をよりわけて。",
+              "citation": {
+                "source": "獄中への手紙",
+                "author": "一九四〇年（昭和十五年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "否な野蠻ぢやと疊みかけしに、何とて夫れ程に申すにやと推せしゆゑ、實に文明ならば、未開の國に對しなば、慈愛を本とし、懇々説諭して開明に導く可きに、左は無くして未開矇昧の國に對する程むごく殘忍の事を致し己れを利するは野蠻ぢやと申せしかば、其人口を莟めて言無かりきとて笑はれける。",
+              "citation": {
+                "source": "遺訓",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やがて亥刻半（午後十一時）という頃、辻番の前を泉屋の提灯が通って、真向うの表戸を開けて入ったのを見た頃は、ガラッ八も伊三松も、酔眼矇朧として、一升の酒の量の良いことを褒めたたえていたのです。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "双生児の呪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "愚者の矇をひらいてやるのも修行者の任と思った。",
+              "citation": {
+                "source": "剣の四君子",
+                "author": "小野忠明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いや師範の都ばなしだの雑談の端にすら、ただならぬ興味をもって、元来、山家育ちの矇は、ようやく、自分の居るところの程度の低さを知ってきた。",
+              "citation": {
+                "source": "新・水滸伝",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし清盛の一面観には、古い概念を破って、一般の矇を破っているところがある。",
+              "citation": {
+                "source": "随筆　新平家",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼の非凡さは、上下｜唯仏の中で、平然と、仏毒の害や迷信の矇を知って、仏教一色の思想から超越していたところにある。",
+              "citation": {
+                "source": "随筆　新平家",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "339d29db-4276-5960-b18f-f4a5e01d3bff",
+    "entry": "携電",
+    "reading": {
+      "primary": "携電",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "加十は手携電燈の燈火をたよりに穴の縁を廻って、夜番詰所の小屋の傍まで行き、息をころして内部の様子を窺って見たが、さすが元日には夜番もここへ寝ないと見え、森閑として人の気配もない。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "手携電燈で照らして見ると、切石を畳んだ暗道の壁の上には、何とも名の知れぬやもりのような虫が一面に貼りついていて、これが一斉にノロノロと身動きするので、まるで壁全体が揺れるように見える。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その人物は背中を丸めてその部分を撫で試みる様子だったが、床の上に手携電灯を差置くと、ポケットから小さな鑿のようなものを取出し、そこをガリガリと掻きはじめた。",
+              "citation": {
+                "source": "魔都",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

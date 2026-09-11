@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "a8afb4f2-e5b4-576c-a2eb-0f81fbefd9ee",
+    "entry": "蠻族",
+    "reading": {
+      "primary": "蠻族",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "亞弗利加蠻族のうちで最も原始的な民族であるブッシュメンは非常に藝術的な民族である。",
+              "citation": {
+                "source": "淡路人形座訪問",
+                "author": "竹内勝太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "次に食物はどうかと云ふと、蒙古人は、否蒙古人ばかりでもありませぬ、他の北狄など言ふ蠻族には一體に米がありませぬ、狩りをやつて野獸を捕つてそれを食ふのが唯一の食物ですから、平素から食物を非常に儉約しますが、蒙古人などは其の最も甚だしきもので、どんなものでも食ふ。",
+              "citation": {
+                "source": "元時代の蒙古人",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」○　九夷＝＝九種の蠻族が住んでいるといわれていた東方の地方。",
+              "citation": {
+                "source": "現代訳論語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "獨り拓拔氏のみならず支那塞外の蠻族は概ねその轍を履んでゐる。",
+              "citation": {
+                "source": "國語尊重",
+                "author": "伊東忠太",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

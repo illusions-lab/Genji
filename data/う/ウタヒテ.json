@@ -1,0 +1,102 @@
+[
+  {
+    "uuid": "6ff5f308-f388-58d6-92dd-652956d62799",
+    "entry": "謳者",
+    "reading": {
+      "primary": "うたひて",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この好謳者をおん身等夫婦にて私せんとはせじ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "謳者の人物はその詩中に活動して、滿場の客はこれが爲めに魅せらるゝ如くなりき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "フランチエスカの君は我才を稱へ、我を呼びて詩人となし、醫師に我が拿破里の劇場に上りて、即興詩を歌ひしことを語り給ひしに、醫師驚きたる面持して、さてはかの謳者は此人なりしか、公衆の稱歎は尋常ならざりき、重ねて技を演じ給はゞ、世に名高き人ともなり給はんものをなどいへり。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "が、取り分けて予の心を動かしたのは、その側に立つて歌だけを唄ふ四人の謳者の極めて眞面目な顏であつた。",
+              "citation": {
+                "source": "海郷風物記",
+                "author": "木下杢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "街頭の謳者を行人が取り囲んだのであつた。",
+              "citation": {
+                "source": "市街を散歩する人の心持",
+                "author": "木下杢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "前に縁日の通りでも、無理に、謳者の廻に立つ人の中へ割り込むやうには入つたりした、若い、吾妻コオトを着た妙な女だつた。",
+              "citation": {
+                "source": "市街を散歩する人の心持",
+                "author": "木下杢太郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

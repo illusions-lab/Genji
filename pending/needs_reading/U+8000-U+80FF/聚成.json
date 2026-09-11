@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "204df6db-581d-5dd3-a401-99477ac8a6df",
+    "entry": "聚成",
+    "reading": {
+      "primary": "聚成",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この思想境は余が所謂一種の平民的虚無思想の聚成したるところなり。",
+              "citation": {
+                "source": "徳川氏時代の平民的理想",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同書那珂郡の條下に曰く「平津驛家、西一二里有岡、名曰大櫛、上古有人、體極長大、身居丘壟之上、採蜃食之、其所食具、積聚成岡、時人取大※之義、今曰大櫛岡、其大人踐跡、長卅餘歩、廣廿餘歩、尿穴跡可廿餘許、」大櫛今又大串と改稱して東茨城郡に屬せり。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "地勢に由つて考ふるも「其所食具、積聚成岡」と云ふ文に由つて考ふるも、此地に貝塚有りしは事疑ふべき理由無し。",
+              "citation": {
+                "source": "コロボックル風俗考",
+                "author": "坪井正五郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "紀元二千六百年記念に出版された『西域画聚成』を見ているうちのことであった。",
+              "citation": {
+                "source": "『西遊記』の夢",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それで私は、そういうことは一切やらずに、丁度紀元二千六百年の記念出版として、審美書院から売り出されていた『東瀛珠光』と『西域画聚成』とを買うことにした。",
+              "citation": {
+                "source": "八戒に遭った話",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『東瀛珠光』の方は、前にも一度出たことがあり、かなり方々にあるようであるが、『西域画聚成』は、紀元二千六百年記念として初めて出版され、三百部限定であるから、数は甚だ限られている。",
+              "citation": {
+                "source": "八戒に遭った話",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "紀元二千六百年記念に、審美書院から出された『西域画聚成』など、こういう目的には、まことによく適ったものである。",
+              "citation": {
+                "source": "千年の時差",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "c7b81a2a-f8f9-5018-9677-8a9cac148aed",
+    "entry": "消々",
+    "reading": {
+      "primary": "消々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そのかわり、じっと沈んで暗くなると、紺の縦縞が消々になる。",
+              "citation": {
+                "source": "吉原新話",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "七　枕に響いた点滴の音も、今さらこの胸からか、と悚然とするまで、その血が、ほたほたと落ちて、汐が引くばかりに、見る間に、びしゃびしゃと肉が萎む、と手と足に蒼味が注して、腰、肩、胸の隅々に、まだその白い膚が消々に、薄らと雪を被いで残りながら、細々と枝を組んで、肋骨が透いて見えた。",
+              "citation": {
+                "source": "沼夫人",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……　段々｜孤家の軒が暗くなって、鉄板で張ったような廂が、上から圧伏せるかと思われます……そのまま地獄の底へ落ちて行くかと、心も消々となりながら、ああ、して見ると、坂下で手を掉った気高い女性は、我らがための仏であった。",
+              "citation": {
+                "source": "星女郎",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "じっとみまもれば心も消々になりぬ。",
+              "citation": {
+                "source": "誓之巻",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "竜巻がまだ真暗な、雲の下へ、浴衣の袖、裾、消々に、冥土のように追立てられる女たちの、これはひとり、白鷺の雛かとも見紛うた、世にも美しい娘なんです。",
+              "citation": {
+                "source": "河伯令嬢",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "白い頬が、滑々と寄つた時、嘴が触れたのであらう、……沢は見る／＼鼻のあたりから、あの女の乳房を開く、鍵のやうな、鸚鵡の嘴に変つて行く美女の顔を見ながら、甘さ、得も言はれぬ其の餅を含んだ、心消々と成る。",
+              "citation": {
+                "source": "貴婦人",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同時に例の不断の痛苦は彼を撻つやうに募ることありて、心も消々に悩まさるる毎に、齷※利を趁ふ力も失せて、彼はなかなか死の安きを懐はざるにあらず。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "d1bccdeb-eabe-5142-9a22-fbc0e7f6ea3d",
+    "entry": "擾々",
+    "reading": {
+      "primary": "擾々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "此の時にあたり、幾多主観的作家の擾々たるを見て一国民的詩人もしくは一客観的詩人を見る能はざる、蓋しまた自然の数にはあらざるか。",
+              "citation": {
+                "source": "国民性と文学",
+                "author": "綱島梁川",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "學者の議論に至つては、紛々擾々、未だ歸着するところがないと見るべきである。",
+              "citation": {
+                "source": "安藤昌益",
+                "author": "狩野亨吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "是れ自村の危急日に加はり悪鬼白昼に横行して良民其業に安んぜず村中擾々として如何ともする能ハざるの時ニ当り、村民の生命財産を保全し得んことを期して非常歎願を敢てし、正義人道の上に於て仁愛なる御救護を哀求する所以なり。",
+              "citation": {
+                "source": "非常歎願書",
+                "author": "田中正造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "光を含み世に混じ、長統の跡を尋ね劉子の流を汲み、濁醪一引、俯して萬物の擾々焉たるを望むは、快は即ち快なりと雖も、醉生夢死、草木と何ぞ擇ばん。",
+              "citation": {
+                "source": "人生終に奈何",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かくして寄する集會の騷はげしく大地｜震る、　95その擾々のたゞ中に立てる九人の傳令使、朗々の聲衆に呼び騷を制し神明の命を奉ずる列王の宣言聞けと命｜下す。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大伝記家の出づる誠に百載にしてしかも一人ならんのみとせば彼の擾々たるものも且らく以て秋夜の一興に値するものとせんか。",
+              "citation": {
+                "source": "史論の流行",
+                "author": "津田左右吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "幕末日本においては攘夷開国の論が甚だ盛であって紛々擾々、両々相対して共に降るを欲しなかったのであるが、国学者は寧ろ開国を以て良い事であると考えたのであります。",
+              "citation": {
+                "source": "流れ行く歴史の動力",
+                "author": "津田左右吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

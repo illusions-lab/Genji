@@ -1,0 +1,114 @@
+[
+  {
+    "uuid": "d98c9f42-4712-5e00-8e15-6f3a649d03af",
+    "entry": "偽裝",
+    "reading": {
+      "primary": "にせ裝",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "若旦那の福松は、昨夜夜中に起出して、この井戸の中に突き落され、――或ひは自分から入つたところを――上から石を投げ込まれて慘殺され、死骸は曲者の手で引上げられて、少し離れた石垣の下で怪我死をしたやうに僞裝されたのでした。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "荒神箒",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そんな綽名がどうかすると、飛んだ喰はせ者の僞裝になつて居ることを、いろ／＼の機會で教はつて來て居るのです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "土への愛著",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「あ、あの野郎ですか」　それは、手代の米松の、臆病さうな僞裝をかなぐり捨てた、猛惡無殘な顏だつたのです。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "屠蘇の杯",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "寮の中の豪勢さ、貧乏らしく見せた僞裝の下に、想像を絶する贅澤を包んだ建物や調度は、錢形平次をさへ舌を卷かせましたが、それにも増して驚いたのは、主人丹右衞門が死んだ、離室の中の凄まじい裝飾でした。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "浮世繪の女",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは支那そのものではない、僞瞞僞裝せる一政權と、前科者の植民國との野合が作つた偉大なるトリツクでしかなかつたのだ。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "尤も、僕らの持つ樣式も、ロマンチシズムや、その他の僞裝が多かつたせゐもあらうが、決して今日の大衆文學は、民衆の回顧趣味だけに繋がつて、滿足してゐるものではない。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又、多くの僞裝浮浪者に對して、法令もやかましくなつた爲、正しい目的をもつて廻國する者までが、いろいろ牽制されて來た。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 8
+      },
+      "variant_writings": [
+        "僞裝"
+      ],
+      "needs_reading": true
+    }
+  }
+]

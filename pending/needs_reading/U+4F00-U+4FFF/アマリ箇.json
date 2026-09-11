@@ -1,0 +1,106 @@
+[
+  {
+    "uuid": "07331d1f-8eff-58a6-9432-a7b1e52d89b5",
+    "entry": "余箇",
+    "reading": {
+      "primary": "あまり箇",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "幕府は承久の変後、院宣に応ぜし人々の所領三千余箇所を没して、有功の将士に与へ、新たに地頭職を設け、幕府の基礎は、更に強固なものとなつた。",
+              "citation": {
+                "source": "二千六百年史抄",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日西天ニ没スルコト三百七十余箇日。",
+              "citation": {
+                "source": "赤坂城の謀略",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "京都に御朱印寺と称するもの百余箇寺あり。",
+              "citation": {
+                "source": "禮嚴法師歌集",
+                "author": "與謝野禮嚴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斯様に後白河法皇は法然に帰依し、百万遍の苦行を二百｜余箇度まで功を積まれたということである。",
+              "citation": {
+                "source": "法然行伝",
+                "author": "中里介山",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼岸も過ぎて、野も山も花盛りに相なり候｜頃、白昼俄に風雨吹起り、近村へ落雷十余箇処にも及び候事有之。",
+              "citation": {
+                "source": "榎物語",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（３）（４）叢書『説鈴』（第六冊）に収むる所の張氏の『使琉球紀略』に語言二十余箇を摘録せるを見るに大を倭捕殺（ウフサ）とせり。",
+              "citation": {
+                "source": "南嶋を思いて",
+                "author": "――伊波文学士の『古琉球』に及ぶ――",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "餘箇"
+      ],
+      "needs_reading": true
+    }
+  }
+]

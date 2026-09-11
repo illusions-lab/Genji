@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "2e62d9aa-7faa-5bb1-919c-454bade810ce",
+    "entry": "吋砲",
+    "reading": {
+      "primary": "吋砲",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "鳩を殺すには散弾で足りるとしたら、十二｜吋砲をすえつける必要はない。",
+              "citation": {
+                "source": "探偵小説壇の諸傾向",
+                "author": "平林初之輔",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十門｜宛の八｜吋砲が、一斉に火蓋を切ったのだった。",
+              "citation": {
+                "source": "空襲葬送曲",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのうちに、味方の飛行隊の隙を覘って押し寄せた爆撃隊から、多量の爆弾が切って落されると、偉力を誇る十六｜吋砲も、飴のように曲ってしまった。",
+              "citation": {
+                "source": "空襲葬送曲",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "向うは八｜吋砲、こっちは十一吋砲……」　そういっているところへ、モルトケ少尉がヴォード少尉を呼びに来た。",
+              "citation": {
+                "source": "沈没男",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やがて、何氣なく眼を上げると、眼の前にある十四吋砲の砲身に、黄いろい褄黒蝶が一つとまつてゐる。",
+              "citation": {
+                "source": "軍艦金剛航海記",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "歯を食いしばってみても、拳を奮ってみても、このくらいの大艦になれば、主砲の他に八｜吋砲、六吋砲の十二門や十四門は積んでいたであろうから、もはや我々のごとき眇たる駆逐艦としては、大鷲の羽掻いを逃れんと苛る小雀にも似たる運命であった。",
+              "citation": {
+                "source": "ウニデス潮流の彼方",
+                "author": "橘外男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

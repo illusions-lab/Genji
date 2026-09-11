@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "34530eaf-8223-5447-96bf-02b07148b6ca",
+    "entry": "鬯",
+    "reading": {
+      "primary": "鬯",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "神を祭る鬱鬯の氣は即ち鬯氣である。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "神前に供える鬱鬯酒の気は即ち鬯気である。",
+              "citation": {
+                "source": "努力論（現代訳）",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "既にしてわれは己れの又呼吸するを覺え、我疲勞の稍｜鬯明なりき。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが出仕してみると華族池田茂政、前田｜利鬯、皇太后宮亮林直康氏等が来て居られて、色々とお話の末、池田、前田両氏が親しく翁を召されて、「新家元、千代造の輔導の大役を引受けてくれぬか」という懇な御言葉であった。",
+              "citation": {
+                "source": "梅津只圓翁伝",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この大祭は催能前の二箇月間に亘って執行されたもので、祭能当時は日本全国、朝野の貴顕紳士が参向したほかに、古市公威、前田利鬯子爵等が下県して能を舞われた。",
+              "citation": {
+                "source": "梅津只圓翁伝",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "九　秬鬯　祭祀ヲ行ウタメノ酒。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "2991ff8b-3633-5c53-b258-907cd3ad94a2",
+    "entry": "懋",
+    "reading": {
+      "primary": "懋",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ハツバス・ダアダアは再びホラチウスの教を忘れ給ふなと繰返しつゝも、猶｜慇懃に我手を握りて、詩人よ、懋めよやと云ひぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これより先幕府は安政三年二月に、蕃書調所を九段坂下元小姓組｜番頭格竹本｜主水正正懋の屋敷跡に創設したが、これは今の外務省の一部に外国語学校を兼たようなもので、医術の事には関せなかった。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "正桓、実は藝州藩主浅野茂長の弟（懋昭）の子で、当時年十八であつた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "南風競はずして、大勢不可と極つた時でも、頭可斷、髮不可薙と豪語した左懋第がある。",
+              "citation": {
+                "source": "支那人辮髮の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "村田｜懋麿氏の『鮮満植物字彙』にもこの誤りを敢てしている）そのものでは断じてない。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして日本人間では右の筵席を一般に江華筵として知られていると村田｜懋麿氏の『土名対照鮮満植物字彙』（昭和七年1932発行）に出ている。",
+              "citation": {
+                "source": "植物一日一題",
+                "author": "牧野富太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "官は其人を選びて之を授け、功有る者には俸祿を以て賞し、之を愛し置くものぞと申さるゝに付、然らば尚書○書經｜仲※之｜誥に「徳｜懋んなるは官を懋んにし、功懋んなるは賞を懋んにする」と之れ有り、徳と官と相配し、功と賞と相對するは此の義にて候ひしやと請問せしに、翁欣然として、其通りぞと申されき。",
+              "citation": {
+                "source": "遺訓",
+                "author": "西郷隆盛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その間｜孜孜として之を懋めば、当に事として成らざるなかるべし。",
+              "citation": {
+                "source": "洪川禅師のことども",
+                "author": "鈴木大拙",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

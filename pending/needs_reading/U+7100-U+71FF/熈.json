@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "2c4b45c6-44bf-51e8-a392-d81771d4cf36",
+    "entry": "熈",
+    "reading": {
+      "primary": "熈",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」南陵高松先生の下に「先生｜名文熈、字季績、於音韻学尤精究、釈文雄以来一人也」と註してある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "南陵は此高松文熈であらうか。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二年六十七歳、熈徳院石槨蓋裏雕文作字。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "熈徳院は正倫の法諡である。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "当時の肥前国平戸の城主松浦肥前守は朝散大夫熈であつた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "琅※洞訪問、あやにく不在、その代りに多摩川観賞、二子橋畔春風習々春光熈々。",
+              "citation": {
+                "source": "旅日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "春光熈々、洗濯、裁縫、等々。",
+              "citation": {
+                "source": "松山日記",
+                "author": "種田山頭火",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "足利時代はその太平｜恬熈の点において、むろん徳川時代に匹儔し得べきものではないが、しかしはたして藤原時代よりも秩序がはなはだしく紊乱しておったであろうか。",
+              "citation": {
+                "source": "東山時代における一縉紳の生活",
+                "author": "原勝郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その後、五世貫主は政教を統一して大僧正と国王を兼ねる事実上の法皇（ダライラマ）第一世となり、タシルムポの副城に副王（パンチェンラマ）を置いて西蔵国を興したが、康熈五十九年（一七二〇）に内乱があり、清の聖祖は鎮撫に名を藉りて兵を出し、督弁政務使をやって政刑に干渉し、間もなく清国の属領にしてしまった。",
+              "citation": {
+                "source": "新西遊記",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此康寧と富強との二元流行して、所謂生を養ひ死を喪し、人皆熈々として壽考の域に躋るは即福祉にして、福祉は人道の極功なり。",
+              "citation": {
+                "source": "尚白箚記",
+                "author": "西周",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかるによし来たと『康熈字典』を提げてその解釈に従事せられるのは聞えぬ。",
+              "citation": {
+                "source": "地名の研究",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "750cfae4-86f9-5973-8a7c-a48a50e1fd27",
+    "entry": "於梅",
+    "reading": {
+      "primary": "於梅",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "浜町河岸箱丁殺しの花井｜於梅が寄席へ出たのはいつ頃だろうか。",
+              "citation": {
+                "source": "艶色落語講談鑑賞",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さる老落語家の手記によると、於梅は寄席では主に手踊りなど見せていたらしいが、衰残の大姥桜、せっかくの踊りも脂気が抜けてただいたましく寄席もひと廻り巡演しただけで好評再演というわけにはいかず、最後は郡部の寄席へまで看板を曝した、とある。",
+              "citation": {
+                "source": "艶色落語講談鑑賞",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "とまれ、花井於梅が寄席へ出たのは、今日の阿部定が、自演の劇を打って歩いているのとまったく同じ理合である。",
+              "citation": {
+                "source": "艶色落語講談鑑賞",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

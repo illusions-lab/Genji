@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "ade4face-dc3b-503f-87b6-3be6053726f3",
+    "entry": "奔激",
+    "reading": {
+      "primary": "奔激",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "千曲は流れもゆるく、瀬も浅いが、犀川はそれに較べるとはるかに奔激していた。",
+              "citation": {
+                "source": "上杉謙信",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "時代の奔激をあくまで甘く見て来た顕門のお坊ッちゃんは――こうして次々に溺れてゆくしかなかった。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第四分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "金右衛門のひとみが、絶壁に添うて、ズッと足元まで見下ろしてくる間に、水辺を見廻していた日本左衛門は、ふと、美鱗をもった魚の如き金襴の小布が、奔激する水をくぐッて、浮きつ沈みつしてゆくのに眼を奪られました。",
+              "citation": {
+                "source": "江戸三国志",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "渦まく瀬へ、一抱えの落葉を投げこんだように、その奔激の相は、同じであっても、落葉の一葉一葉の驚きや、動作や、意思は、各※違ったものであった。",
+              "citation": {
+                "source": "新編忠臣蔵",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ここの小屋は、やや高い所を選んであるので、幸いに、冒されないが、すぐ下の河原は、濁流が押し流れて、さながら大河の奔激である。",
+              "citation": {
+                "source": "宮本武蔵",
+                "author": "空の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "劉玄徳、ここに黄匪の大方張角の弟、地公将軍を討ち取ったり」　次に、どこかで玄徳の大音声がきこえると、四方の山沢、みな鼓を鳴らし、奔激の渓流、挙って鬨をあげ、草木みな兵と化ったかと思われた。",
+              "citation": {
+                "source": "三国志",
+                "author": "桃園の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それが各※、秩序なく、打つかる所でぶつかり、分れては幾条にもなり、水と石と高低の多い土地とが、噛みあい、奔激し合って、やや落着いている所はまた、身を没しるような茅の沼地というような原始的な姿だった。",
+              "citation": {
+                "source": "鬼",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

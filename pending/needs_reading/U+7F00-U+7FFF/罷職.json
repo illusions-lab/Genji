@@ -1,0 +1,151 @@
+[
+  {
+    "uuid": "c2010795-946a-5223-9762-096d24bfcdfc",
+    "entry": "罷職",
+    "reading": {
+      "primary": "罷職",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そこへ罷職軍医の大槻｜延貴というのがやって来て、手当てにかかる。",
+              "citation": {
+                "source": "駅夫日記",
+                "author": "白柳秀湖",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "罷職になって、スラヴ領へ行って、厚皮の長靴を穿く。",
+              "citation": {
+                "source": "世界漫遊",
+                "author": "ダウィット　Jacob Julius David",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "矢田部教授の罷免　私が郷里で音楽普及に尽力している頃、東京では矢田部教授罷職事件が起っていた。",
+              "citation": {
+                "source": "牧野富太郎自叙伝",
+                "author": "第一部　牧野富太郎自叙伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大学当局が、矢田部良吉教授を突如罷職にしたのである。",
+              "citation": {
+                "source": "牧野富太郎自叙伝",
+                "author": "第一部　牧野富太郎自叙伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大学教授を罷職にされた矢田部良吉先生は、木から落ちた猿も同然で、憤慨してもどうにも仕方なかった。",
+              "citation": {
+                "source": "牧野富太郎自叙伝",
+                "author": "第一部　牧野富太郎自叙伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "矢田部先生は罷職後も植物志を続けねばいかんといい、教室に出てきて『日本植物図解』を三冊出版されたが、後は出なかった。",
+              "citation": {
+                "source": "牧野富太郎自叙伝",
+                "author": "第一部　牧野富太郎自叙伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "月俸十五円の大学助手　矢田部先生罷職の事があった直後、大学の松村任三先生から郷里の私のところへ手紙で、「大学へ入れてやるから至急上京しろ」といってきた。",
+              "citation": {
+                "source": "牧野富太郎自叙伝",
+                "author": "第一部　牧野富太郎自叙伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが、私が郷里へ帰ったあとで、矢田部氏は急に大学を罷職になってしまった。",
+              "citation": {
+                "source": "牧野富太郎自叙伝",
+                "author": "第一部　牧野富太郎自叙伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが学長が替って、他の科の人がなった時に、この方は私の事をよく知らないので、とうとう松村氏の言を聴いて私を罷職にしてしまった。",
+              "citation": {
+                "source": "牧野富太郎自叙伝",
+                "author": "第一部　牧野富太郎自叙伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そこで二十四年から二十五年にかけて家政整理のために一たん帰郷したが、私が土佐へ帰っている間に、当時の東大植物学教授の矢田部良吉博士が突然罷職になり、間もなく大学から私のもとへ手紙が来て君を大学へ入れるから来いといって来たのです。",
+              "citation": {
+                "source": "牧野富太郎自叙伝",
+                "author": "第一部　牧野富太郎自叙伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは矢田部教授が突然大学を罷職になった事である。",
+              "citation": {
+                "source": "牧野富太郎自叙伝",
+                "author": "第一部　牧野富太郎自叙伝",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同教授のこの罷職は何も私とのイキサツの結果では無論なく、これは他に大きな原因があって、ツマリ同じ大学の有力者との勢力争いで遂に矢田部教授が負けたのである。",
+              "citation": {
+                "source": "牧野富太郎自叙伝",
+                "author": "第一部　牧野富太郎自叙伝",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

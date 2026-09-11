@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "e1d56578-ad2f-5919-b5d6-e0dba9f4757f",
+    "entry": "析",
+    "reading": {
+      "primary": "析",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "しかし、すべての思索の必然的制約として、概念的分析によるのほかはなかった。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかるに他方において、個人の特殊の体験と同様に民族の特殊の体験は、たとえ一定の意味として成立している場合にも、概念的分析によっては残余なきまで完全に言表されるものではない。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「いき」を分析して得られた抽象的概念契機は、具体的な「いき」の或る幾つかの方面を指示するに過ぎない。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「いき」は個々の概念契機に分析することはできるが、逆に、分析された個々の概念契機をもって「いき」の存在を構成することはできない。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "我々が分析によって得た幾つかの抽象的概念契機を結合して「いき」の存在を構成し得るように考えるのは、既に意味体験としての「いき」をもっているからである。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "意味体験としての「いき」と、その概念的分析との間にかような乖離的関係が存するとすれば、「いき」の概念的分析は、意味体験としての「いき」の構造を外部より了得せしむる場合に、「いき」の存在の把握に適切なる位地と機会とを提供する以外の実際的価値をもち得ないであろう。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "例えば、日本の文化に対して無知な或る外国人に我々が「いき」の存在の何たるかを説明する場合に、我々は「いき」の概念的分析によって、彼を一定の位置に置く。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「いき」の存在会得に対して概念的分析は、この意味においては、単に「機会原因」よりほかのものではあり得ない。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしながら概念的分析の価値は実際的価値に尽きるであろうか。",
+              "citation": {
+                "source": "「いき」の構造",
+                "author": "九鬼周造",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 15
+      }
+    }
+  }
+]

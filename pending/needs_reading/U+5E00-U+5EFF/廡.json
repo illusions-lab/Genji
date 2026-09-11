@@ -1,0 +1,191 @@
+[
+  {
+    "uuid": "14474d72-60ed-5da0-b592-e183371fdd57",
+    "entry": "廡",
+    "reading": {
+      "primary": "廡",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "唯、堂觀廊廡、壯麗なるが故に、蓬莱の仙室として呼ばれたるのみ。",
+              "citation": {
+                "source": "唐模樣",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "學校に入りてよりは、「パラツツオオ、デル、ドリア」の廡作りの平屋根より笑ひ戲るゝ群を見ることを許されしのみ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "われ若し富人ならば、われ若し人の廡下に寄るものならずば、人々の旗色は忽ちにして變ずべきならん。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "生を微賤の家に稟けしにも因るべく、最初に受けし教育にも因るべく、又恆に人の廡下に倚る境遇にも因るなるべし。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "五百は人の廡下に倚ることを甘んずる女ではなかった。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "哲學者は人の廡下に倚ること能はざるものなり。",
+              "citation": {
+                "source": "柵草紙の山房論文",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又廟廡金紙壁に平氏西敗の図あり。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "眞志屋は自ら支ふること能はざるがために、人の廡下に倚つた。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "祠の左右の廡下に並んだ諸司にはそれぞれ燈火が点いて、参詣の人びとはその前へ跪いて思い思いに祈願をこめていた。",
+              "citation": {
+                "source": "富貴発跡司志",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "李生は気味が悪いが他にどうすることもできないので、廡下へ腰をおろし、手にしていた弓を傍へ置いて、四辺に注意しながら休んでいた。",
+              "citation": {
+                "source": "申陽洞記",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "四月十四日訪洛北栖賢禪寺、寺者係青龍老師之創建、雖師平生言私淑良寛上人、堂宇宏壯、不似五合庵遠、因呈一絶堂廡輪奐寺門新　　堂廡輪奐、寺門新たなり、師曰求貧不得貧　　師曰く貧を求めて貧を得ずと。",
+              "citation": {
+                "source": "閉戸閑詠",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "実を云ふと僕にしても、他人の廡下には立たぬ位な、一人前の自惚れは持たぬではない。",
+              "citation": {
+                "source": "点心",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "折しも小春の空｜長閑く、斜廡を洩れてさす日影の、払々と暖きに、黄金丸は床をすべり出で、椽端に端居して、独り鬱陶に打ちくれたるに。",
+              "citation": {
+                "source": "こがね丸",
+                "author": "巌谷小波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "著書「冥途」一巻、他人の廡下に立たざる特色あり。",
+              "citation": {
+                "source": "内田百間氏",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "城隍が廡下に一夜を明かした書生の運勢を開いてやると、判官は町中を荒し廻った泥坊を驚死させてしまう。",
+              "citation": {
+                "source": "上海游記",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その生垣につづいて、傾きかかった門の廡には其文字も半不明となった南畝の※額が旧に依って来り訪う者の歩みを引き留める。",
+              "citation": {
+                "source": "百花園",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかたなしに廡下をうろうろしていると、一軒の家の扉を左右に開けて一人の老人が出て来た。",
+              "citation": {
+                "source": "阿繊",
+                "author": "蒲松齢",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

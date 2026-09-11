@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "6d3cc348-7de8-5fb8-b36a-9b19163479ea",
+    "entry": "推返",
+    "reading": {
+      "primary": "推返",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "お蔦　貴方をどうするって、そんな無理なことばッかり、情があるなら、実があるなら、先生のそうおっしゃった時、なぜ推返して出来ないまでも、私の心を、先生におっしゃってみては下さいません。",
+              "citation": {
+                "source": "湯島の境内",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿房はなおも推返して、「何の用にするぞ」と問いぬ。",
+              "citation": {
+                "source": "妖僧記",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "うるさくいったら、しまいにゃ、お前には分らない、とそうおいいであったのを、また推返して聴いたら、やっぱり、（翼の生えたうつくしい姉さんだってば。",
+              "citation": {
+                "source": "化鳥",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大助は敵の我を忌むを識りて、小主公の安否｜心許なく、なお推返して言わんとするを、三郎は遮りて、「宜しい彼室で待ってな。",
+              "citation": {
+                "source": "金時計",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　外より推返して、「この会のことが出ております。",
+              "citation": {
+                "source": "貧民倶楽部",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼男はよく／＼の穿鑿家と見え、それじゃ家名は何だと推返すと、知ませんよと芸妓は冷かに受けて銚子を取り、お酌／＼と突附たが彼男が名札を下へ置ぬので、くどいのねあなたは、梅乃家ですよサアお酌と、同一時間に二種の事業を遣り遂げる、彼男はようやく満足して猪口を取った。",
+              "citation": {
+                "source": "油地獄",
+                "author": "斎藤緑雨",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

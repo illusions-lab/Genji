@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "a274835c-c01f-5f34-98a5-c4bbbbbc2a4f",
+    "entry": "攝養",
+    "reading": {
+      "primary": "攝養",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そして好き睡眠と善き攝養とは、復び勇健爽快なる精神による確實重厚性の尊き勞作を甘なはしむるものである。",
+              "citation": {
+                "source": "墨子",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第五我國民今後の責任は益重大ならんとするの時、活動の根本機關とも言ふ可き身體の攝養には尤も注意を要す。",
+              "citation": {
+                "source": "命の鍛錬",
+                "author": "關寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "實に身體攝養の事は、一日と雖も忽に爲す可からず。",
+              "citation": {
+                "source": "命の鍛錬",
+                "author": "關寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "世に傳はる攝養法に種々ありと雖も、余の實驗に由れば、尤も簡易にして尤も巧驗あるものは冷水浴の他にあらざる可し。",
+              "citation": {
+                "source": "命の鍛錬",
+                "author": "關寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故に余は此攝養法の廣く行はれ、戰後てふ大任を負へる我國民の體力を一層強固ならしめ、各自の職責を遺憾なく遂行せられんことを深く希望する處なり。",
+              "citation": {
+                "source": "命の鍛錬",
+                "author": "關寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おまけに、菊五郎氏の病症には、食事療法と攝養が絶對に大切だといはれてゐるのに、滅多なものをすゝめてもしもの事があつたら――といふのである。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

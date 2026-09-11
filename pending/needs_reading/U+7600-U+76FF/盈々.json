@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "a2e4b758-3790-546d-9c42-04e4880a1f9d",
+    "entry": "盈々",
+    "reading": {
+      "primary": "盈々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "薮畳を控えた広い平地にある紙漉場の葭簀に、温かい日がさして、楮を浸すために盈々と湛えられた水が生暖かくぬるんでいた。",
+              "citation": {
+                "source": "あらくれ",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "お島は男の手の足りないおりおりには、その一つ一つに、水を盈々汲込まなければならなかった。",
+              "citation": {
+                "source": "あらくれ",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「おお、それは辱ない」　盈々と酒を容れたる二つの猪口は、彼等の目より高く挙げらるると斉く戞と相撃てば、紅の雫の漏るが如く流るるを、互に引くより早く一息に飲乾したり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　発に乗せられて貫一は思はず受ると斉く盈々注れて、下にも置れず一口附くるを見たる満枝が歓喜！",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大きい花崗岩の臺に載つた洗面盥には、見よ／＼、溢れる許り盈々と、毛程の皺さへ立てぬ秋の水が、玲瓏として銀水の如く盛つてあるではないか。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "顏を洗つてから、可成音のせぬ樣に水を汲み上げて、盥の水を以前の如く清く盈々として置いて、さて彼の一片の小扇をとつて以前の如くそれに浮べた。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大きい花崗石の台に載つた洗面盥には、見よ見よ、溢れる許り盈々と、毛程の皺さへ立てぬ秋の水が、玲瓏として銀水の如く盛つてあるではないか。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "顔を洗つてから、可成音のせぬ様に水を汲み上げて、盥の水を以前の如く清く盈々として置いて、さて彼の一片の小扇をとつて以前の如くそれに浮べた。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "惜む、惜む、この諷刺の盈々たる気を以て、譬喩の面を被らず素面にして出たることを。",
+              "citation": {
+                "source": "「油地獄」を読む",
+                "author": "北村透谷",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "204ad0dc-b4bf-595f-a18b-f1054b397934",
+    "entry": "俳趣",
+    "reading": {
+      "primary": "俳趣",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "此に藉つて松宇には俳趣味、叔茂には狂歌趣味のあつたことが推せられる。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "わたくしは斎の謂ふ松宇は此真野松宇であらうと云ひ、又※斎が特に其俳句を示さうとしたことより推して、松宇は俳趣味のある人であつただらうと云つた。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "月並ながらも行水というものに相当した季題の道具立てはまずひと通り揃っているのであるが、どうも一向に俳味も俳趣も泛かび出さない。",
+              "citation": {
+                "source": "綺堂むかし語り",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "月並ながらも行水というものに相当した季題の道具立は先ず一通り揃っているのであるが、どうも一向に俳味も俳趣も浮び出さない。",
+              "citation": {
+                "source": "風呂を買うまで",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "公卿が衣冠をつけて牛車で参内するというのは、京の俳趣を現して居るが、大名が鳥毛の槍をふらせて駕籠で登城するというのは、江戸の俳趣を現して居るのです。",
+              "citation": {
+                "source": "俳句上の京と江戸",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これ必ずしも理髪師の風流のみではないが、待合わす人の眼を楽しましむるに利して兼ねてかれらの俳趣味をも養うものであるのだ。",
+              "citation": {
+                "source": "残されたる江戸",
+                "author": "柴田流星",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "イタチハゼといふ名なども、元来何となく俳趣を帯びてゐるが、蔓生のにはタニワタシといふのもあり、又シダレレンギョウなど呼ばれるのもある。",
+              "citation": {
+                "source": "連翹の花",
+                "author": "新村出",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "行く春の俳趣ともいへまいが、行樂季節の車中には、また別趣な人間風物がゆたかである。",
+              "citation": {
+                "source": "折々の記",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

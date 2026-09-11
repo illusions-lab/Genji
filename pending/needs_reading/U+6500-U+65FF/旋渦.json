@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "313e9ced-4503-5628-81e6-966d2857f8e3",
+    "entry": "旋渦",
+    "reading": {
+      "primary": "旋渦",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "超自然的スピードをもって白刃と人形とが場面に入り乱れて旋渦のごとく回転する。",
+              "citation": {
+                "source": "映画雑感（１）",
+                "author": "寺田寅彦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "初めこれを縮刷に付するに臨み、予は大いに字句を削正せむことを期せしに、會※歐洲大戰の起るありて、我國も亦其旋渦中に投ずるに至りぬ。",
+              "citation": {
+                "source": "即興詩人",
+                "author": "IMPROVISATOREN",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大儒息軒先生として天下に名を知られた仲平は、ともすれば時勢の旋渦中に巻き込まれようとしてわずかに免れていた。",
+              "citation": {
+                "source": "安井夫人",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「此の如き旋渦を生ずる所以は他ならず。",
+              "citation": {
+                "source": "うづしほ",
+                "author": "A DESCENT INTO THE MAELSTROM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此の如き旋渦を成す水の、驚くべき吸引力を有するは、器に水を盛りて、小さき旋渦を生ぜしめて試験するときは、明白なり。",
+              "citation": {
+                "source": "うづしほ",
+                "author": "A DESCENT INTO THE MAELSTROM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（４）〔Maelstro:m〕 ――ノルウェー北部の海岸にある有名な大旋渦。",
+              "citation": {
+                "source": "メールストロムの旋渦",
+                "author": "A DESCENT INTO THE MAELSTROM",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それらの暗黒な物体の中で若干のものは運動が烈しく質量が大きくてこの旋渦の中心から非常に遠く離れてしまって、そのためにいかなる力もそれを控えることができなくなってしまった。",
+              "citation": {
+                "source": "宇宙の始まり",
+                "author": "スワンテ・アウグスト・アーレニウス　Svante August Arrhenius",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これができたために地球は光らなくなって一つの遊星となり太陽系旋渦に巻き込まれた。",
+              "citation": {
+                "source": "宇宙の始まり",
+                "author": "スワンテ・アウグスト・アーレニウス　Svante August Arrhenius",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ときにはまた一つの恒星の周囲を回る上記第二種及び第一種の粒子から成る旋渦が、その近くにある他のいくつかの渦に吸込まれることがある。",
+              "citation": {
+                "source": "宇宙の始まり",
+                "author": "スワンテ・アウグスト・アーレニウス　Svante August Arrhenius",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そのために、この光の消えた地球は近所の太陽旋渦の中へ引込まれ、そうして一つの遊星になったのである。",
+              "citation": {
+                "source": "宇宙の始まり",
+                "author": "スワンテ・アウグスト・アーレニウス　Svante August Arrhenius",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第十七、十八、十九及び第二十図　スウェデンボルクの考えた、太陽旋渦から遊星系の生成。",
+              "citation": {
+                "source": "宇宙の始まり",
+                "author": "スワンテ・アウグスト・アーレニウス　Svante August Arrhenius",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第十七図Ｓは太陽旋渦、ＡＢＣはそれを囲む球状の固形皮殻。",
+              "citation": {
+                "source": "宇宙の始まり",
+                "author": "スワンテ・アウグスト・アーレニウス　Svante August Arrhenius",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ともすれば時勢の旋渦中に巻き込まれようとして纔に免れ」「辺務を談ぜないということを書いて二階に張り出し」たりした安井息軒の生きかたをそのままに眺めている鴎外の眼も、私に或る感興を与えた。",
+              "citation": {
+                "source": "鴎外・漱石・藤村など",
+                "author": "――「父上様」をめぐって――",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "廣大無邊の旋渦の爲、朦朧として絶えず輪轉する波の上、いてゐる。",
+              "citation": {
+                "source": "さしあげた腕",
+                "author": "レミ・ドゥ・グルモン　Remy de Gourmont",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 17
+      }
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "11b6ec76-4fc3-55ee-a642-47316fc3097b",
+    "entry": "蠣店",
+    "reading": {
+      "primary": "蠣店",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そうででもなければ、この件はどうしてもウマがあわないからだ」「伝馬町の送り同心は蠣店でわたしたといい、御船手役人のほうは永代橋でうけとったとこういうンです。",
+              "citation": {
+                "source": "顎十郎捕物帳",
+                "author": "遠島船",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……このほうは、これで、だいたい見当がついたから後まわしにして、もういちど先にかえすと、十五日の朝、伏鐘の一味が与力か同心に化けて伝馬町の牢屋敷に行き、永代橋でお受けわたしするはずだったが、急に蠣店にかわったから、ちょっとおとどけすると言って帰る。",
+              "citation": {
+                "source": "顎十郎捕物帳",
+                "author": "遠島船",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "伝馬町のほうではそのとおり信じて蠣店へ持って行くと、そこへちゃんと御船手役人が来ているから疑う気もなく七人の囚人をそれに渡す。",
+              "citation": {
+                "source": "顎十郎捕物帳",
+                "author": "遠島船",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……蠣店で受けとった七人のほうには問題はない。",
+              "citation": {
+                "source": "顎十郎捕物帳",
+                "author": "遠島船",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

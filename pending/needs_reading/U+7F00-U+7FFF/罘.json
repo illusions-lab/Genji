@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "44f367d2-1610-5a3c-aef0-62c4d08963aa",
+    "entry": "罘",
+    "reading": {
+      "primary": "罘",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "懐中から本を出して、蝋光高懸照紗空、　　　　花房夜搗紅守宮、象口吹香暖、　　　　七星挂城聞漏板、寒入罘※殿影昏、　　　　彩鸞簾額著霜痕、　ええ、何んでも此処は、蛄が鉤闌の下に月に鳴く、魏の文帝に寵せられた甄夫人が、後におとろえて幽閉されたと言うので、鎖阿甄。",
+              "citation": {
+                "source": "春昼",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "天津や芝罘から来て前述の上流へまで溯江するのである。",
+              "citation": {
+                "source": "満蒙遊記",
+                "author": "附　満蒙の歌",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "船籍は米船だが、英商船の傭船として芝罘から商品を積んできたものとも記されており、多量の武器弾薬を備えていたところから、平壌の古墳発掘を目的とした略奪船ともあとで噂された。",
+              "citation": {
+                "source": "撥陵遠征隊",
+                "author": "服部之総",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "芝罘で密偵をやっていて万死に一生を得て帰ったという……」江森泰吉が言葉をはさんだ。",
+              "citation": {
+                "source": "渡良瀬川",
+                "author": "大鹿卓",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

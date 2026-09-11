@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "5d393959-7b1a-5904-8a00-f204d044b97e",
+    "entry": "猾策",
+    "reading": {
+      "primary": "猾策",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "抑谷中村買収の事たる既に八九年以前よりの予謀に出でたるものにして、其間に於ける奸計猾策ハ実に人をして慄然たらしむるものあり。",
+              "citation": {
+                "source": "非常歎願書",
+                "author": "田中正造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "四、然るに栃木県会ハ此重大事件を軽々に議決して他県の利害を顧みず又自県の興廃を慮らず、而して栃木県庁ハ強て非を是として買収の奸策を遂行せんと欲し、村民に対して農事の妨害を加へ村民の安寧を害し猾策陰謀至らざるなし。",
+              "citation": {
+                "source": "非常歎願書",
+                "author": "田中正造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "然かも父祖の遺業に安居して天産に衣食せる人民は悠々として世故に迂なるを以て四年の水害に苦しみ四年の凶斂に悩み、更に居村滅亡の猾策に遭ふも詭弁甘言の惑ハす処となりて自ら陥穽に墜落するを知らざるなり。",
+              "citation": {
+                "source": "非常歎願書",
+                "author": "田中正造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "何故かゝる悪事を為すかと云ふに、若し麦蒔を為したる地なれバ其種物及肥料代価、手間代の払渡をせざる可らざるが故に、極力農事を妨げて買収価格の低減を計らんとする猾策に外ならず。",
+              "citation": {
+                "source": "非常歎願書",
+                "author": "田中正造",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "而して此猾策ハ又村役場に出張せる吏員によりて用ひられたり。",
+              "citation": {
+                "source": "非常歎願書",
+                "author": "田中正造",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

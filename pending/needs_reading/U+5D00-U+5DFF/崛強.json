@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "209b8f12-1dab-5513-9d7d-f91d2f2fb38d",
+    "entry": "崛強",
+    "reading": {
+      "primary": "崛強",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "若し建文帝にして走って域外に出で、崛強にして自大なる者に依るあらば、外敵は中国を覦うの便を得て、義兵は邦内に起る可く、重耳一たび逃れて却って勢を得るが如きの事あらんとす。",
+              "citation": {
+                "source": "運命",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三弥は徳川家の譜代侍の本多佐渡正信の弟で、隠れ無い勇士であったが其の如くで、其他旗本から抜け出でて進み戦った岡左内、西村｜左馬允、岡田大介、岡半七等、いずれも崛強の者共で、其戦に功が有ったのだったが、皆令を犯した廉で暇を出されて浪人するの已むを得ざるに至った。",
+              "citation": {
+                "source": "蒲生氏郷",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "当時｜崛強の男で天下の実勢を洞察するの明のあつた者は、君臣の大義、順逆の至理を気にせぬ限り、何ぞ首を俯して生白い公卿の下に付かうやと、勝手理屈で暴れさうな情態もあつたのである。",
+              "citation": {
+                "source": "平将門",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "信長に至っては自家集権を欲するに際して、納屋衆の崛強を悪み、之を殺して梟首し、以て人民を恐怖せしめざるを得無かったほどであった。",
+              "citation": {
+                "source": "雪たたき",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この元気な崛強な人の葬式に行った私は、彼が死んで私が生残っているのを、別段の不思議とも思わずにいる時の方が多い。",
+              "citation": {
+                "source": "硝子戸の中",
+                "author": "夏目漱石",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

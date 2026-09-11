@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "50a6a49e-081c-56ce-9ad5-247a4366b439",
+    "entry": "云者",
+    "reading": {
+      "primary": "云者",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "伊勢云者伊賀事志社坐神。",
+              "citation": {
+                "source": "卑彌呼考",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『望海毎談』にその起原を説明して曰く、忍岡の東に関野喜内と云者あり、向が岡に隅田治部と云者あり。",
+              "citation": {
+                "source": "比較神話学",
+                "author": "高木敏雄",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "長崎鹽田氏幸八ト云者、蒸汽船雛型持出シ、御馬場ニ於テ御覽アリ、實ニ奇ト云フベシ。",
+              "citation": {
+                "source": "光をかかぐる人々",
+                "author": "徳永直",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 95
+      }
+    }
+  }
+]

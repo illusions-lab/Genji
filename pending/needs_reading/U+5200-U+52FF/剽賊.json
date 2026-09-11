@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "f609fd25-bc2e-575a-afc6-3b83c7cedefb",
+    "entry": "剽賊",
+    "reading": {
+      "primary": "剽賊",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "非業の死だときいた時、剽賊のためにあやめられた旅人の死骸ではあるまいかと思うて、市九郎は過去の悪業を思い起して、刹那に湧く悔恨の心に、両脚の竦むのをおぼえた。",
+              "citation": {
+                "source": "恩讐の彼方に",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "主を殺したことも、剽賊を働いたことも、人を殺したことも、すべては彼の記憶のほかに薄れてしまっていた。",
+              "citation": {
+                "source": "恩讐の彼方に",
+                "author": "菊池寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――ですから、不愍には、思いますが、もし官がこれを放置しておくなら、乱は、坂東に止まらず、四隣に及び、ひいては、南海海上の剽賊にも響き合って、国家の禍いとならぬ限りもありません」　と、弁じた。",
+              "citation": {
+                "source": "平の将門",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すると時も時、こんどは、南海の剽賊藤原純友を討伐に向っていた官軍が、大敗戦をまねき、備後介藤原子高が、海賊軍の捕虜になった――という不吉な報がはいって、堂上輩を、仰天させた。",
+              "citation": {
+                "source": "平の将門",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "844e91ae-fb6e-5371-9aba-9987aa4cd6fd",
+    "entry": "逾",
+    "reading": {
+      "primary": "逾",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "さりながら、何程思続け候とても、水を覓めて逾よ焔に燃かれ候に等き苦艱の募り候のみにて、いつ此責を免るるともなく存へ候は、孱弱き女の身には余に余に難忍き事に御座候。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "およそ一物の内、その形体処々功能多き事鼠に逾えたる物なしと賞賛した（『大和本草』一六）。",
+              "citation": {
+                "source": "十二支考",
+                "author": "鼠に関する民俗と信念",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "おりから逾越の祝日で、往来には群集が漲っていた。",
+              "citation": {
+                "source": "銀三十枚",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――カアル・エミリウス――　　　　　ユダ　逾越と云へる「種入れぬ麺包の祭」近づけり。",
+              "citation": {
+                "source": "LOS CAPRICHOS",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "逾越の祭来りし時、イエス弟子と共に食に就けり。",
+              "citation": {
+                "source": "LOS CAPRICHOS",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "東去西来知幾年、壮心一片老逾堅、微衷聊欲扶皇運、遥上南洋万里船。",
+              "citation": {
+                "source": "南半球五万哩",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」〔天寒ク客衣単ナリ／朔風｜逾イヨ凛冽タリ〕の二句を見て、秋は早く山中に尽きてまさに冬ならんとしていた事を知る。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "枕山が席上の作中に「分襟在近意逾親。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」〔分襟近クニ在リテ意｜逾イヨ親シム〕また「預想明年重晤日。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "川に沿ふて上ることしばらく、両岸の山あひ蹙り、渓せまく、煙しづかにして、瀬のおと逾たかし、南山の里に入れば緑なる阜の上に皇后の祠を拝するの厳かなるを覚ゆ。",
+              "citation": {
+                "source": "松浦あがた",
+                "author": "蒲原有明",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「葱嶺を逾ゆるに毒風肌を切り、飛砂｜路を塞ぐ、渓間の懸絶するに逢へば、縄を以て梁となし、空に梯して進む」と当時の本にも残っているそうであるが、そういう旅であった。",
+              "citation": {
+                "source": "『西遊記』の夢",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

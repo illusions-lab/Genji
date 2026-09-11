@@ -1,0 +1,63 @@
+[
+  {
+    "uuid": "8c198ff6-bfd8-51a7-884d-71d73b5727d2",
+    "entry": "迸流",
+    "reading": {
+      "primary": "迸流",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（五）、今回迸流したる熔岩流の量は天明三年淺間山噴火の際迸流したる熔岩流の量に比し約二と三の割合にして、面積約四百萬坪を占め、重量約十二億佛噸にして、世界に於ける一年間石炭總産額と略相近似せり。",
+              "citation": {
+                "source": "櫻島噴火の概況",
+                "author": "石川成章",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

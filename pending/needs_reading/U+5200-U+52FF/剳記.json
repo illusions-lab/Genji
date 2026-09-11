@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "6d03e138-e9e6-5e89-8def-07d295af5213",
+    "entry": "剳記",
+    "reading": {
+      "primary": "剳記",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "己は隠居してから心を著述に専にして、古本大学刮目、洗心洞剳記、同｜附録抄、儒門空虚聚語、孝経彙註の刻本が次第に完成し、剳記を富士山の石室に蔵し、又｜足代権太夫弘訓の勧によつて、宮崎、林崎の両文庫に納めて、学者としての志をも遂げたのだが、連年の飢饉、賤民の困窮を、目を塞いで見ずにはをられなかつた。",
+              "citation": {
+                "source": "大塩平八郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "四月｜洗心洞剳記に自序し、これを刻す。",
+              "citation": {
+                "source": "大塩平八郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "七月十七日富士山に登り、剳記を石室に蔵す。",
+              "citation": {
+                "source": "大塩平八郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "八月足代弘訓の勧により、剳記を宮崎、林崎の両文庫に納む。",
+              "citation": {
+                "source": "大塩平八郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "秋｜剳記附録抄を刻す。",
+              "citation": {
+                "source": "大塩平八郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夏剳記及附録抄の版を書估に与ふ。",
+              "citation": {
+                "source": "大塩平八郎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（洗心洞剳記）（大塩中斎曰く、『形質あるものは大なりといえども限りありて、必ず滅す。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "また、大塩中斎の『洗心洞剳記』に、「有形質者、雖大有限、而必滅矣、無形質者、雖微無涯、而亦伝矣。",
+              "citation": {
+                "source": "迷信と宗教",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "このついでにほんの二つか三つ実例を挙げてみるならば、『有斐斎剳記』に対馬某という物産学者、薬草を採りに比叡山の奥に入って、たまたま谷を隔てて下の方に、一人の小児の岩から飛び降りてはまた攀じ登って遊んでいるのを見た。",
+              "citation": {
+                "source": "山の人生",
+                "author": "柳田国男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

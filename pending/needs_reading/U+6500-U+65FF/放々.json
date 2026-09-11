@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "be159e4e-ec5a-52e3-950d-41b04f5a0109",
+    "entry": "放々",
+    "reading": {
+      "primary": "放々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "網を上げているところを見付けられて、発動機が放々の態で逃げてくることもあった。",
+              "citation": {
+                "source": "蟹工船",
+                "author": "小林多喜二",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大悪魔はたゞ一人ではかなひませんから、放々のていで逃げ出しました。",
+              "citation": {
+                "source": "悪魔の尾",
+                "author": "宮原晃一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かうして、予定の時刻を大分遅れて小学校の校庭に辿りついた時には、腹は空くし全く放々の態であつた。",
+              "citation": {
+                "source": "医師高間房一氏",
+                "author": "田畑修一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いやあ、もういけません、こう世の中がデタラメになってしまっちゃね、追放々々で、われわれの仲間などミジメなもんでさあ、もとの地方の所長で靴なおし屋になった男がいますよ。",
+              "citation": {
+                "source": "猿の図",
+                "author": "三好十郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「ああそうだったのか、随分大きくなったものだね」と言われて放々の態で逃げ出したが、あの頃は随分生意気な小僧だったことだろうと思いみていささか辟易した。",
+              "citation": {
+                "source": "実験室の思い出",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

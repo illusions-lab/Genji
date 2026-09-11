@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "4fa45f60-8b6e-59c9-8739-4bec1d5cfca2",
+    "entry": "斐己",
+    "reading": {
+      "primary": "斐己",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "いよ／＼同行は三人だけなるかと失望せしに、嬉しや、發車間際になりて、斐己大人來たる。",
+              "citation": {
+                "source": "梅の吉野村",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斐己大人は去年吉野村に遊びしことありて、一行の先達たり。",
+              "citation": {
+                "source": "梅の吉野村",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斐己大人の言ひし如く、ぽつ／＼梅あり。",
+              "citation": {
+                "source": "梅の吉野村",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "斐己大人のは一合入、槇園君のは二合入、裸男のは六合入、一行の醉を買ふには不足なし。",
+              "citation": {
+                "source": "梅の吉野村",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

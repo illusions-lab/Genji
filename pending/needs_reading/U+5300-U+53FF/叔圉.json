@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "e2b1372d-ea0c-5868-8cc5-b316b8ac70c0",
+    "entry": "叔圉",
+    "reading": {
+      "primary": "叔圉",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "十四　孔子が四度目に衛を訪れた時、若い衛侯や正卿｜孔叔圉等から乞われるままに、子路を推してこの国に仕えさせた。",
+              "citation": {
+                "source": "弟子",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "衛の孔家は、魯ならば季孫氏に当る名家で、当主孔叔圉はつとに名大夫の誉が高い。",
+              "citation": {
+                "source": "弟子",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十六　子路が魯に来ている間に、衛では政界の大黒柱｜孔叔圉が死んだ。",
+              "citation": {
+                "source": "弟子",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "みんな、あの若い傲慢な衛侯と、それを輔ける・しかつめらしい老獪な上卿・孔叔圉（自分の姉の夫に当る爺さんだが）の下で、などという名前は昔からてんで聞いたこともなかったような顔をして楽しげに働いている。",
+              "citation": {
+                "source": "盈虚",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孔叔圉が死に、其の未亡人での姉に当る伯姫が、息子の※を虚器に擁して権勢を揮い始めてから、漸く衛の都の空気は亡命太子にとって好転して来た。",
+              "citation": {
+                "source": "盈虚",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "みんな、あの若い傲慢な衞侯と、それを輔ける・しかつめらしい老獪な上卿・孔叔圉（自分の姉の夫に當る爺さんだが）の下で、などといふ名前は昔からてんで聞いたこともなかつたやうな顏をして樂しげに働いてゐる。",
+              "citation": {
+                "source": "盈虚",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孔叔圉が死に、其の未亡人での姉に當る伯姫が、息子の都と戚との間を往復した。",
+              "citation": {
+                "source": "盈虚",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "霊公の無道にも拘らず、国が亡びないのは、彼の軍政と、仲叔圉の外交と、祝駝の祭祀があるためだ、と孔子も讃めていたほどの人物である。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "孔子曰く、仲叔圉（ちゆうしゆくぎよ）は賓客を治め、祝※（しゆくだ）は宗廟を治め、王孫賈は軍旅を治む。",
+              "citation": {
+                "source": "論語物語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――「仲叔圉が外交に任じ、祝駝が内政を司り、王孫賈が国防の責を負っています。",
+              "citation": {
+                "source": "現代訳論語",
+                "author": "下村湖人",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

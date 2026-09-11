@@ -1,0 +1,159 @@
+[
+  {
+    "uuid": "caed2a23-c31e-5393-8bfe-4ff55c3eab42",
+    "entry": "寄示",
+    "reading": {
+      "primary": "寄示",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一月八日に保は東京博文館の求に応じて履歴書、写真並に文稿を寄示した。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此書の下巻は未刊行のものださうで、頃日箕山さんは蘭軒の伝を稿本中より抄出してわたくしに寄示してくれたのである。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "第三者は其全文若くは截り取つた一節を蘭軒に寄示したのである。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蘭軒はこれを報ずるに当つて、詩を寄示した。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蘭軒は十九歳になつた榛軒の詩を茶山に寄示した。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "以上書き畢つた時、弟潤三郎が説郛を抄して寄示した。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蘭軒は柏軒の詩を茶山に寄示した。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "茶山は波響と岡本花亭、田内月堂の二人とに寄示せむがために詩を作つたのである。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蘭軒の書が丁亥の三月二十二日のものであつたことは、丁亥三月既望の詩を寄示したるに由つて知ることが出来る。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その百七十八「空海上人忌日※日」の蘭軒の書牘が、此年文政十年の三月二十二日に作られたことは、その菅茶山に寄示した「万頃春波漫夜烟」の詩に由つて知られる。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此時に当つて藤陰の孫国助さんが所蔵の文書を写してわたくしに寄示したのは、実に感謝すべき事である。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "以上記し畢つた時、浜野氏は江木鰐水の日記を抄して寄示した。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一、清狂の護国論及び吟稿、口羽の詩稿、天下同志の士に寄示したし。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 16
+      }
+    }
+  }
+]

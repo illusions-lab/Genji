@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "eb08cbb6-4a57-5005-b546-88d70e8dfcb9",
+    "entry": "掃墓",
+    "reading": {
+      "primary": "掃墓",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "明治三十一、二年の頃、わたくしが掃墓に赴いた時には、堂宇は朽廃し墓地も荒れ果てていた。",
+              "citation": {
+                "source": "里の今昔",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もしこれ杞人の憂ひにあらずとなさんか、掃墓の興は今の世に取残されしわれらのわづかにこれを知るのみに止りて、われらが子孫の世に及びては、これを知らんとするもまた知るべからざるものとはなりぬべし。",
+              "citation": {
+                "source": "礫川記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "掃墓の間事業は江戸風雅の遺習なり。",
+              "citation": {
+                "source": "礫川記",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "明治三十一二年の頃、わたくしが掃墓に赴いた時には、堂宇は朽廃し墓地も荒れ果てゝゐた。",
+              "citation": {
+                "source": "里の今昔",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "去歳、浅草大空襲後約一ヶ月春昼の一日を、私は七軒町新堀端辺の焦土に北斎、春章、清親らの掃墓をしてのち、御厩河岸なる梅若能楽堂跡に佇んだ。",
+              "citation": {
+                "source": "浅草燈籠",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "台石に池田の二字が緑青いろに刻まれてゐて、十年以前、掃墓したときにはいま尚遺族の参詣は絶えないと云ふことであつた。",
+              "citation": {
+                "source": "巣鴨菊",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして河内へ行き、いらい二十二年の長い間、観心寺の片すみに一庵をむすんで、人知れず正成の掃墓をしていた。",
+              "citation": {
+                "source": "私本太平記",
+                "author": "黒白帖",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

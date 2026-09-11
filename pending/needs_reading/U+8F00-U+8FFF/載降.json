@@ -1,0 +1,63 @@
+[
+  {
+    "uuid": "a36a14dd-5834-5408-94ca-8b3be4a328e2",
+    "entry": "載降",
+    "reading": {
+      "primary": "載降",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "余の前に松谷秀子が此の仮想的牢屋へ入ったに違いないが、茲から何所へ行っただろう、此の中で蒸発して了うに非ざるよりは何所にも脱け路がない様に思われる、咒語の文句を考え合すと「鐘鳴緑揺」の次に「載升載降」と有るけれど登る所も降る所もない様に思われる「階廊迂曲」などとは何の階廊であろう。",
+              "citation": {
+                "source": "幽霊塔",
+                "author": "黒岩涙香",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

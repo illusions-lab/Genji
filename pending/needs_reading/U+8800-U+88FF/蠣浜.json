@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "5b2e65b6-f3d1-53d7-9e11-cf6f4d5f2293",
+    "entry": "蠣浜",
+    "reading": {
+      "primary": "蠣浜",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "この一水は○神田堀の余流にして、直ちに東南に向つて去つて、中洲下にて隅田川に入るものなるが、日本橋区を中断して神田川と隅田川とを連ぬるこの水路の上に○柳原橋、緑橋、汐見橋、千鳥橋、栄橋、高砂橋、小川橋、蠣浜橋、中の橋、その他の諸橋は架れるなり。",
+              "citation": {
+                "source": "水の東京",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "薬研堀、久松町、浜町と来て蠣浜橋を渡った処で、急にその先が判らなくなった。",
+              "citation": {
+                "source": "秘密",
+                "author": "谷崎潤一郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その父子の住んでいる浪宅は、つい近所の蠣浜橋の向うなので、日済金あつめのいちばん仕舞いに寄る事が例だった。",
+              "citation": {
+                "source": "鍋島甲斐守",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……』　格子を閉めて、お高は、涼みながら蠣浜橋を渡って行った。",
+              "citation": {
+                "source": "鍋島甲斐守",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蠣浜橋の袂で、狂気したような銀左衛門につかまって、頬ぺたを二つ三つ撲られ、何をいわれたか、こっちはただもう御尤の一点張りで、生命からがら逃げて来たのであった。",
+              "citation": {
+                "source": "鍋島甲斐守",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが、蠣浜橋の上まで来ると、足早に摺れ違った黒羽織の武家が、足を止めて、『小山田の隠居か』　と、呼びかけた。",
+              "citation": {
+                "source": "※かみ浪人",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そんな事情を知ると、いつかの晩、蠣浜橋で一閑に斬りつけて来た男も、何の意趣か、事情が読めてきた。",
+              "citation": {
+                "source": "※かみ浪人",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "口に出して礼を云う老人でなかったが、蠣浜橋の時の彼の働きは、内心大いに多としているのであろう。",
+              "citation": {
+                "source": "※かみ浪人",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蠣浜橋での乱暴を、織田家の方から、かえって人を介して、謝罪してくるし、又、多年積もっている小山田の親戚先の負債まで整理してくれるやらで、さしもの頑固な一閑も、すっかり我を折ってしまい、先頃、和解と結納が一緒に済んで、藩庁へも、婚儀の届出がもう差し出されているというのである。",
+              "citation": {
+                "source": "※かみ浪人",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "uuid": "a35e9b1a-3281-5a86-b355-ff194001b8e8",
+    "entry": "将奮",
+    "reading": {
+      "primary": "しょう奮",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "四たび猛將奮然と鬼神の如く進むとき、凄く叫びてアポローン羽ある言句宣んし曰ふ、　705『退け、汝、神の裔、パトロクロスよ、豪勇のトロイア都城、槍とりて落すは汝の命ならず、汝の勇にいやまさるアキルリュウスも能くし得ず。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其神靈の勵ましに勇將奮ひ立ち上り、平野にのぼる、――一面の大水そこに滿ち溢れ、　300逝ける諸勇士身に帶べる美麗の武具は、屍と共に無慚に漂へり。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 2
+      },
+      "variant_writings": [
+        "將奮"
+      ],
+      "needs_reading": true
+    }
+  }
+]

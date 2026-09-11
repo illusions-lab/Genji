@@ -1,0 +1,87 @@
+[
+  {
+    "uuid": "0203514e-809a-5b7f-9f8a-50340254704d",
+    "entry": "裂穴",
+    "reading": {
+      "primary": "裂穴",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『或る所では又、裂穴の中や川から溢れ出た水で、地面が融けて、野も谷も皆な泥海になつて了つた。",
+              "citation": {
+                "source": "科学の不思議",
+                "author": "STORY-BOOK OF SCIENCE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてその地が又落ちると、裂穴は再び閉ぢて、何にもかも皆な跡形もなく消えて了ふ。",
+              "citation": {
+                "source": "科学の不思議",
+                "author": "STORY-BOOK OF SCIENCE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それ程までに、裂穴の両側が閉ぢる圧力がひどかつたのだ。",
+              "citation": {
+                "source": "科学の不思議",
+                "author": "STORY-BOOK OF SCIENCE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "又或者は、野原へ逃げ出さうとして、足下に出来た裂穴へ呑み込まれて了つた。",
+              "citation": {
+                "source": "科学の不思議",
+                "author": "STORY-BOOK OF SCIENCE",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

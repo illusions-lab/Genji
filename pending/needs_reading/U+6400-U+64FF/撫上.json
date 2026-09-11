@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "c070b06d-18fb-59d4-be9c-e0c71e755e07",
+    "entry": "撫上",
+    "reading": {
+      "primary": "撫上",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "」　銀行家は、禿げた前額を撫上げながら、ちょっと言葉を切って、にやりとした。",
+              "citation": {
+                "source": "艸木虫魚",
+                "author": "薄田泣菫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聴いていた壮士荻野六郎が、赤黒い、ズングリ肥った腕を撫上げながらへえと腑におちない声で返事をした。",
+              "citation": {
+                "source": "西川小りん",
+                "author": "長谷川時雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "あはれ、厚塗の立烏帽子に鬢を撫上げし昔の姿、今安くにある。",
+              "citation": {
+                "source": "瀧口入道",
+                "author": "高山樗牛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

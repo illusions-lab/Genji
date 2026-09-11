@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "ec858029-da7d-5bf0-bc65-d5642f3a2a18",
+    "entry": "嫩軍",
+    "reading": {
+      "primary": "嫩軍",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "その一番目は「嫩軍記」で、団十郎の熊谷、菊五郎の敦盛と弥陀六、福助の相模という役割であった。",
+              "citation": {
+                "source": "明治劇談　ランプの下にて",
+                "author": "岡本綺堂",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "後に番附や鸚鵡石で知ったが、この時は一番目が嫩軍記、中幕勧進帳、二番目が安達原で、一ノ谷の熊谷は八代目団十郎、敦盛は後に八代目岩井半四郎になった粂三郎、相模は誰であったか今記憶せぬ。",
+              "citation": {
+                "source": "鳴雪自叙伝",
+                "author": "内藤鳴雪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これには道庵も張合いがなく、さっさと歩き出して、テレ隠しに、一谷嫩軍記の浄瑠璃を唸り出しました、「夫の帰りの遅さよと、待つ間ほどなく熊谷の次郎｜直実……」　変な身ぶりまでして歩くほどに、やがて蓮生山熊谷寺の門前に着きました。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "他生の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それを道庵先生が聞くともなしに聞いていると、いずれも熊谷次郎に関する話で、なんでもこの若い人たちは演劇の作者連で、旧来の一谷嫩軍記では満足ができないから、直実に新解釈を下したものを書こうとして、わざわざここまで調べに来たものらしいのです。",
+              "citation": {
+                "source": "大菩薩峠",
+                "author": "他生の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "音頭は太閤記十段目とか二嫩軍記三段目とかさはりを善く遣つて、三味線は西らの益さんがお定りで、音頭出す若衆と三味線の益さんが台の上へ昇つて、『ヨオイ、ヨオイ、ヨイトコサ、　明けりや、お寺の、鐘が――鳴る……』と、初めるのだつた。",
+              "citation": {
+                "source": "死線を越えて",
+                "author": "死線を越えて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "今日は声がタップリだから」「へい／＼」「諸君、一谷嫩軍記熊谷陣屋の段を語る」「はゝあ」　と私達は緊張した。",
+              "citation": {
+                "source": "ガラマサどん",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

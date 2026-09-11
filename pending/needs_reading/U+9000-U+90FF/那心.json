@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "ba054c8d-b6b4-5547-be53-220e9822b3d0",
+    "entry": "那心",
+    "reading": {
+      "primary": "那心",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "其を若し彼の人達が見たら如何那心持がするでしょう、僕は知らん振りをしては居られません。",
+              "citation": {
+                "source": "私の見た米国の少年",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此那心持だと勉強する気にもなれない。",
+              "citation": {
+                "source": "日記",
+                "author": "一九一六年（大正五年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人気とは彼那心理か。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二一年（大正十年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それをいつも断るのも辛いし、行ったらあとに又此那心持がするのかと思うと、全く此ままではつづけられない。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二一年（大正十年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此那心持は、母になったのかと云う疑を持った時、誰でも持つものだろうか、それを待ち歓ぶ人には、喜びの音ずれだろうが自分には仮令一瞬でも地獄だ。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二二年（大正十一年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "大抵の女は、生活に無意識で此那心持を味わわないか、又此心持を特別な状況と意識しない程度に日常の生活が、それに捕われ、それを中心にして居るのかもしれない。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二二年（大正十一年）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日常生活に於ては、此処まで心持が細かく洞見されず、其那心持でしても、猶、親切心として買われるところに、殆んど宿命的な不純さがある。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二三年（大正十二年）",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

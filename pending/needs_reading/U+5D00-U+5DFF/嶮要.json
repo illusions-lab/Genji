@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "9e4244b1-a48a-5460-b0a3-e7931a3cd9eb",
+    "entry": "嶮要",
+    "reading": {
+      "primary": "嶮要",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "数を以てすれば彼は実に平軍の半にみたず、地を以てすれば、平軍は已に礪波の嶮要を擁せり。",
+              "citation": {
+                "source": "木曾義仲論（東京府立第三中学校学友会誌）",
+                "author": "芥川龍之介",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "715メートーネーとトーマキー占め從へる民族の又其領地メリボイア、又嶮要のオリゾーン、その民族の七艘を率ゐるピロクテーテース、弓の名將、其もとに舟各にのりこめる漕手は五十、弓術にすぐれて奮ひ戰はむ。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "アブレーロスを槍をもてアーンチロコスは打ち取りぬ、アガメムノーン、民の王、王は倒せりエラトスを、サトニオエース清流のほとりに近く、嶮要のペーダソス市に住む者を――又ピュラコスの逃げ行くを　35打ちて倒せりレーイトス、ユーリピュロスはメランチオス。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すぐれし三子そのむかし生める遠祖はポルチュウス、　115彼らの郷はプリュウローン、又嶮要のカリュドーン、長アグリオス、次ぎメラス、三は騎將のオイニュウス。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "敵はドロプスの武裝剥がんとつとむるを、いざ立て、もはや遠くよりアカイア勢と相打たじ、やがて彼らを殺すべし、或は彼ら嶮要のイリオン城を覆し其城民を亡ぼさむ。",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが、かんじんな丹波第一の敵の嶮要――八上城だけはなおまだ頑として陥ちずにあった。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第六分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "三　葭萌関は四川と陝西の省境にあたる嶮要で、もしこれへ玄徳の援軍が入ったら、いよいよ破ることは難しいと察していたので、漢中軍をひきいた馬超は、「玄徳の新手が着かないうちに」と、連日、猛攻撃をつづけていたのだった。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして曹操は自身、その中軍にあるという」「どうして防ぐか」「まず、漢中第一の嶮要、陽平関を中心に、守るしかあるまい」　張衛を大将に、楊昂、楊任など、続々、漢中から前線へ発した。",
+              "citation": {
+                "source": "三国志",
+                "author": "図南の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "わが洞界は不落の嶮要、ここに兵をお集めあれば、おそらく孔明といえど、蜀軍の将士たりと、生きて還ることはできない」　といった。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

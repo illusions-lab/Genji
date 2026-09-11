@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "8cedab19-3ff5-5bae-803d-f27787f38ee7",
+    "entry": "冨勇",
+    "reading": {
+      "primary": "冨勇",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "――冨子は間もなく、新宿の遊廓に身を沈めて、冨勇と名乗つて女郎に出てしまつた。",
+              "citation": {
+                "source": "瀑布",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "波江に聞いた浮舟楼を探して、入口の写真のなかから冨勇の姿を見つけ出した時は、沈むところへ沈んだものだと直吉は思つた。",
+              "citation": {
+                "source": "瀑布",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "直吉は、冨勇を買つた。",
+              "citation": {
+                "source": "瀑布",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "直吉は、冨勇の部屋で、しみじみと雨の音を聞きながら、初めて女を知つたあとのヒロイツクな感情にとらはれてゐた。",
+              "citation": {
+                "source": "瀑布",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "――無理な金の工面をして、直吉はその日以来、度々浮舟楼へ冨勇を買ひに通よつたが、遊廓の景気のいゝ絶頂とみえて、冨勇は仲々の売れツ妓になつてゐた。",
+              "citation": {
+                "source": "瀑布",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "写真の飾られる場所も、段々お職に近いところへせり上つてゆき、冨勇は浮舟楼でも羽ぶりがよかつた。",
+              "citation": {
+                "source": "瀑布",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "新宿の浮舟楼にも、冨勇の思ひ出をしのんでは時々登楼した。",
+              "citation": {
+                "source": "瀑布",
+                "author": "林芙美子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "c3e97c40-8454-5364-9dc4-5080eca6fbe7",
+    "entry": "阿会",
+    "reading": {
+      "primary": "阿会",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そして各二万を三手に分かち、三｜洞の元帥と称する者――金環結を第一に、董荼奴を第二に、阿会喃を第三に備えて、待ちかまえているという。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして董荼奴や阿会喃の陣へかくれこんだ。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "人々は信じられなかったが、やがて帳を排して、数名の武士が、阿会喃と董荼奴の縄尻をとって、これへ現れ、「蛮族。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "董荼奴も阿会喃も、「ご恩は忘れません」と、涙を流して去った。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ただ阿会喃と董荼奴は、先に孔明に放されて、自分たちの洞中に引っ込んでいたが、孟獲から呼び出しがくると、この二人だけは、「どうもやむを得ない」　というような顔つきで、渋々やって来た。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もしここを遮断すれば阿会喃、董荼奴の輩が内変を起すだろう。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、一方、阿会喃には、「孔明の本軍が、河を渡ってくると大ごとだ。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかし、次々に諸洞の配下が、みな董荼奴や阿会喃のようになって行ったらどうするか」「俺ひとりでも戦ってみせる」「ははは。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "太え奴は董荼奴と阿会喃のふたりだ。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "昼間のうちに、孔明の偽使者をつかって、董荼奴と阿会喃へ呼びだしをかけていたのである。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "たちまち、合図の角笛が鳴ると、四方に隠れていた土蛮が、董荼奴を殺し、阿会喃を取りかこみ、二つの首を取ると、死骸は谷間へ蹴落して、わあと、狼群のように本陣へ帰ってきた。",
+              "citation": {
+                "source": "三国志",
+                "author": "出師の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

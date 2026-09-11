@@ -1,0 +1,90 @@
+[
+  {
+    "uuid": "3a012256-bab5-5d59-a2ab-fdec5231961c",
+    "entry": "欠潰",
+    "reading": {
+      "primary": "けつ潰",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "岡の片端の欠潰した部分が、しばしば地名となっているのも何か理由のあったことと思う。",
+              "citation": {
+                "source": "地名の研究",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしそれが無理であったために、一九〇五年の春の雪解け洪水で、ついに堤防の一部が欠潰して、コロラドの奔流は、珈琲色の濁流となって、アラモ運河に殺到した。",
+              "citation": {
+                "source": "アメリカの沙漠",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この湖水はその後、本流の欠潰口が塞がれてから、蒸発によってだんだん小さくなり現在は二百八十七平方マイル、即ち琵琶湖ぐらいの大きさまで縮んでいる。",
+              "citation": {
+                "source": "アメリカの沙漠",
+                "author": "中谷宇吉郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが住民は隣接の赤麻沼に面する堤防缺潰箇所を自費で修築しました。",
+              "citation": {
+                "source": "浪",
+                "author": "石川三四郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "缺潰"
+      ],
+      "needs_reading": true
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "39eccda0-6301-5405-8b94-fec97e8e1ef3",
+    "entry": "懸銀",
+    "reading": {
+      "primary": "懸銀",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "乍恐奉願上覚私義先代より当村へ来人に相成居申内、土地風稼方相覚、仮成に渡世相送り候に付、見懸人に被仰付、年々に両度見懸銀少々宛上納奉仕居申所、此度戸籍偏製御取調に付、何卒｜百姓居に被仰付被為下候得者、重畳難有仕合に奉存候。",
+              "citation": {
+                "source": "来り人の地位と職業",
+                "author": "平民申付候事",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "未三月久保村五人組　　　　　喜多武三郎　　　　　高野宇平民政掛御役所様　ここに「見懸人」とは、その村に居付きの人民ではなく、しかも現に住しているものに対して、見懸銀と称して課税した、その見懸銀納付者の称である。",
+              "citation": {
+                "source": "来り人の地位と職業",
+                "author": "平民申付候事",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "見懸人とは、その村に本籍を有せぬものが現にその村に住んでいるのを見かけて、見懸銀を負わせたものの称で、多くは他国からの浮浪民の土着者である。",
+              "citation": {
+                "source": "エタ源流考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

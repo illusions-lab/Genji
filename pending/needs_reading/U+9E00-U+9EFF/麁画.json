@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "1c213933-9b66-5fff-be14-951059d1eba0",
+    "entry": "麁画",
+    "reading": {
+      "primary": "麁画",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（七月三日）五十三○川村文鳳の画いた画本は『文鳳画譜』といふのが三冊と、『文鳳｜麁画』といふのが一冊ある。",
+              "citation": {
+                "source": "病牀六尺",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "『文鳳麁画』といふのは極めて略画であるが、人事の千態万状を窮めて居てこれを見ると殆ど人間社会の有様を一目に見尽すかと思ふ位である。",
+              "citation": {
+                "source": "病牀六尺",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "崋山の『一掃百態』はその筆勢のたくましきことと、形体の自由自在に変化しながら姿勢のくづれぬ処とは、天下独歩といふてもよいが、しかし『文鳳麁画』に比すると、数において少なきのみならず趣味においてもいくらか乏しい処が見える。",
+              "citation": {
+                "source": "病牀六尺",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "いはゆる俳画などといふ麁画に俳句の賛を書くのは、山水などの場合と違ふて、面白き者が多い。",
+              "citation": {
+                "source": "病牀六尺",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "麁画にても趣向の完全したる者には、画賛は蛇足であるが画だけでは何だか物足らぬといふやうな場合に俳句の賛を書いて、その趣味の不足を補ふ事は悪い事ではない。",
+              "citation": {
+                "source": "病牀六尺",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "祇園の夜桜といふやうな景色を画いた麁画の上に、前にいふた「公達に狐化けたり」の句を賛として書くなればそれは面白いであらう。",
+              "citation": {
+                "source": "病牀六尺",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

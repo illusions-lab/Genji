@@ -1,0 +1,183 @@
+[
+  {
+    "uuid": "8e00e47c-310e-52f3-a364-695db2a2621b",
+    "entry": "炳吉",
+    "reading": {
+      "primary": "炳吉",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「そったらことお前さんに出来るだか」「世話するちゅう男がいてな」　その実、先達は帰り道で同じ村の炳吉に偶然遇ったのだった。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "炳吉は或は先達の変り果てた姿に強い同情を覚えたのであろうか、無理をしてでも倉庫の仕事の仲間に入れてやろうと約束したのだった。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「明後日の朝四時に来るがええ」炳吉は大きな手で彼のか弱い肩を二三度叩いて慰めると、からからと笑いつつどこかへ立ち去った。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「三円もくれるちゅうてな、炳吉さそう云うていたで」　彼は面を輝かせて婦に囁いた。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「んにゃ、あの炳吉に遇っただか」　先達は闇をすかしてじっと婦を見守った。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それでも炳吉が逸早く駆けつけて制止したのでこの格闘は難なく収まり、気性の強い先達には、その実それという負傷もなかった。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "だが炳吉に体を支えられて立ち上った時、先達は急に悲しみがこみ上がってならなかった。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "先達を背負って来た炳吉は胡坐をかいた腿の上に両手を突き立て、婦の泣き悲しむ様を茫然と見守っていた。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「我慢するだよ」炳吉は堪えかねたように云った。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "元三はどうしたものか軽く手をふるわせながら、顔色をかえて炳吉の方をじろっと眺めた。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "炳吉は解せないほのかな笑いを口元に浮べている。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "わしあ此頃も一生懸命に捜しとるだが恰好なのがのうてな、う、だけどきっとわしあ捜して見せるだよ」　そこで自分の云ったことが炳吉の云った言葉より確かに三倍は長いのに違いないと考えていよいよ爺は心を強くした。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "婦と炳吉は咄嗟に転げるように飛び出した。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "炳吉はばたばた流れに足をつけて追駆けた。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　先に駆けていた炳吉は婦を押し止めてしっかと抱えた。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "婦は炳吉に身を凭せて顔をおおうた。",
+              "citation": {
+                "source": "土城廊",
+                "author": "金史良",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 16
+      }
+    }
+  }
+]

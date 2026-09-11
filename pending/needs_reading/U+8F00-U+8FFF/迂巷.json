@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "f9ab1ec1-06a1-5752-90c8-b185e50a8c6a",
+    "entry": "迂巷",
+    "reading": {
+      "primary": "迂巷",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "さて先般来当熊本人常松｜迂巷なる人当市『九州日々新聞』と申すに紫溟吟社の俳句を連日掲載するよう尽力致しなお東京諸先俳の俳句も時々掲載致度趣にて大兄へ向け一書呈上候処その後何らの御返事もなきよしにて小生より今一応願いくれるよう申来候。",
+              "citation": {
+                "source": "漱石氏と私",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "右迂巷と申す人は先般来突然知己に相成候人なるが、非常に新派の俳句に熱心忠実なる人に有之、実は今回の挙なども新派勢力扶植のための計画に候。",
+              "citation": {
+                "source": "漱石氏と私",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "右の理由故何とか返事でも迂巷宛にて御差出可被下候。",
+              "citation": {
+                "source": "漱石氏と私",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "この手紙の初めの方にある紫溟吟社というのは、その頃地方に起った俳句団体の古いものの一つであって、この事に就いては数号前の『ホトトギス』に雪鳥、迂巷の両君が書いたことがある通り、漱石氏を中心にして起った俳句の団体であって、後には『銀杏』という雑誌まで出して中々盛んなものであった。",
+              "citation": {
+                "source": "漱石氏と私",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "文に常松迂巷とあるのは池松｜迂巷の間違いである。",
+              "citation": {
+                "source": "漱石氏と私",
+                "author": "高浜虚子",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

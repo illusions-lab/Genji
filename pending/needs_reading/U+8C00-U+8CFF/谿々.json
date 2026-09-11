@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "2a8a4366-c6a4-5ecb-95f3-09c95550f6c7",
+    "entry": "谿々",
+    "reading": {
+      "primary": "谿々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "あ、谿々々、や、虎杖だ、　と、パンクだ。",
+              "citation": {
+                "source": "フレップ・トリップ",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日本アルプスの谿々の雪は、ここから白壁を望むように見える。",
+              "citation": {
+                "source": "千曲川のスケッチ",
+                "author": "島崎藤村",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　これが秋の旅であるならば、夕風に散る木葉の雨の中を、菅笠で辿って行く寂しい味を占め得るのであるが、今は青葉が重り合って、谿々峰々｜尽く青葉の吐息に薫っている。",
+              "citation": {
+                "source": "木曾御嶽の両面",
+                "author": "吉江喬松",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　之が秋の旅であるならば、夕風に散る木葉の雨の中を、菅笠で辿つて行く寂しい味を占め得るのであるが、今は青葉が重り合つて、谿々峰々盡く青葉の吐息に薫つて居る。",
+              "citation": {
+                "source": "山岳美觀",
+                "author": "吉江喬松",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "月明の谿々に、響きわたるさまは、何というか、いと物すさまじい其の場の光景でした。",
+              "citation": {
+                "source": "崩れる鬼影",
+                "author": "海野十三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "背の低い樹々が枝から枝へ連って山々、谿々を埋めている。",
+              "citation": {
+                "source": "九州の東海岸",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "麓の村々ではまだ残る厚さにあえいでいるというのに、土用が終わって一旬も過ぎると、奥山の深い谿々の底には、もう冷涼の気が忍びやかにうかがい寄って、崖の小草を悲しませる。",
+              "citation": {
+                "source": "香魚と水質",
+                "author": "佐藤垢石",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "長く延びた波丘の間には、雲の垂れた空のもとに、淡緑に泡立つ谿々がひろがっている。",
+              "citation": {
+                "source": "トニオ・クレエゲル",
+                "author": "TONIO KROGER",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

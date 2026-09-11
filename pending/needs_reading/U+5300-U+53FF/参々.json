@@ -1,0 +1,127 @@
+[
+  {
+    "uuid": "9ace886c-5e91-5fe5-9719-89c401c27eea",
+    "entry": "参々",
+    "reading": {
+      "primary": "参々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一トわたりの酒盛りと踊りが済んで、めい／＼が盃をとりあげた頃らしく、ドツといふ笑ひ声が起つたり手拍子の音が響いたりすると、あちらこちらの小屋からは参々伍々見物人が現れて来るのが見えます。",
+              "citation": {
+                "source": "舞踏会余話",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　そんなことを云ひながら参々伍々滝野の旧友は、溌溂たる勢ひで集つて来た。",
+              "citation": {
+                "source": "蝉",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "晴れのトラツクに参々伍々馬が出て来て、スタートで狂つてゐるのを眺めてゐるのは熱情家の私達にとつては全く気が気ではない。",
+              "citation": {
+                "source": "競馬の日",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と叫び、更に、もう疎らになつて参々伍々帰路を急いでゐる列に向つて「市場帰りの馬車を一台貸して呉れ！",
+              "citation": {
+                "source": "歌へる日まで",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "背後の丘を見あげると、花見へ赴く人達が提灯を振り翳しながら参々伍々隊をつくつて降つて来る。",
+              "citation": {
+                "source": "南風譜",
+                "author": "牧野信一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「これでござります、オースチン老師」　こう云いながら御嶽冠者はツカツカと楠の木の根もとまで行ったが、「鬼王丸の本身の楠の木の老木にござります」「いかさま巨木でござるのう」　冠者と並んだオースチン師は仰向いて梢を眺めたが、「参々亭々たる枝態葉相、これでは生命も魂も宿り、人界に出て交りもしよう。",
+              "citation": {
+                "source": "蔦葛木曽棧",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから十分ほどすると、だんだん落下の速度がのろくなり、大きな水のうねりに二、三度急激に押し上げられたと思うと、舟は洞門をくぐりぬけ、唐突に羊歯や木賊が参々と密生した仄暗い沼沢の中へ押出された。",
+              "citation": {
+                "source": "地底獣国",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "京洛の花時の人の出盛りに、一つの異風を添えるものは、濃い単色の朝鮮服を着た半島の婦人たちの群がきまって交っていることであるが、今年も渡月橋を渡ったあたりの水辺の花の蔭に、参々｜伍々うずくまって昼食をしたため、中には女だてらに酔って浮かれている者もあった。",
+              "citation": {
+                "source": "細雪",
+                "author": "上巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "降参々々」「田鶴子さん、もう一日延ばせなくて？",
+              "citation": {
+                "source": "ぐうたら道中記",
+                "author": "佐々木邦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

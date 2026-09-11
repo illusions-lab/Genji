@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "6fa09760-687c-5ef1-b1ef-e03ea29a174a",
+    "entry": "敝布",
+    "reading": {
+      "primary": "敝布",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そこで蔡倫が色々と工夫して、遂に樹皮・麻屑・敝布などを原料として、今日の所謂紙を造つた。",
+              "citation": {
+                "source": "東洋人の發明",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "倫（蔡倫）乃造意用樹膚麻頭及敝布魚網以爲紙。",
+              "citation": {
+                "source": "紙の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "紙といふ名稱は蔡倫以前も以後も同一ではあるが、實質は相違して、蔡倫以後は、紙といへば、專ら樹皮、麻頭、敝布、古網等を材料として製造した書寫の材料を意味することとなつた。",
+              "citation": {
+                "source": "紙の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蔡倫が製紙の原料として使用せし敝布を廣義に解釋すると、その中に絮をも包括し得べきやうに思はれる。",
+              "citation": {
+                "source": "紙の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "蔡倫は絮に代へるに樹皮、麻頭、敝布、漁網等を以てしたのみであると主張して居る（９）。",
+              "citation": {
+                "source": "紙の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "Wiesner 教授はこのマホメット教國製造の古紙に就いて顯微鏡調査を試みた結果、此等の古紙は何れも純然たるリンネンの敝布を原料として、決して樹皮などの生纖維を混和して居らぬことが判明した。",
+              "citation": {
+                "source": "紙の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唐時代の支那紙は幾分の敝布を混じて居るけれども、その主要なる原料は桑其他の雙子葉植物の皮である。",
+              "citation": {
+                "source": "紙の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "支那人は製紙法をマホメット教國に傳へたが、薩末※附近には第一の原料ともいふべき桑樹が缺乏して居るから、必要上次第に敝布の分量を増加し、それでも製紙の目的を達し得ることを經驗すると、最後には敝布――マホメット教國に豐富なるリンネン襤褸――のみで紙を製造することとなつた。",
+              "citation": {
+                "source": "紙の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "併し敝布は依然石臼で擣き碎いた儘である。",
+              "citation": {
+                "source": "紙の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "所がマホメット教國の産紙を調査するとその原料たる敝布から化學作用で、手際よく纖維を抽出した痕が歴々として認められる。",
+              "citation": {
+                "source": "紙の歴史",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 11
+      }
+    }
+  }
+]

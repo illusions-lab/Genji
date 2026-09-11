@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "c03d8ae9-35fc-5416-b0ab-cff29e687336",
+    "entry": "較々",
+    "reading": {
+      "primary": "較々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "ちよつと見ると、それは大人を小馬鹿にしてゐるのだとしか思へないので――今までもそれを悪摺れのせゐにしてゐたものだが、それの間違ひであつたことが、較々感づけて来た訳だつた。",
+              "citation": {
+                "source": "チビの魂",
+                "author": "徳田秋声",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "加之較々完全に近かつた雅典の人間より、遙かに完全に遠かつた今の我々の方が、却つて／＼大なる希望を持ち得るではないか。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "較々霎時して、自分は徐ろに其一片の公孫樹の葉を、水の上から摘み上げた。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "加之、較々完全に近かつた雅典の人間より、遙かに完全に遠かつた今の我々の方が、却つて／＼大なる希望を持ち得るではないか。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "較々霎時して、自分は徐ろに其｜一片の公孫樹の葉を、水の上から摘み上げた。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "繁の気色の較々動いたのを見たのであらう、お夏は慌しく三度口紅をつけた。",
+              "citation": {
+                "source": "葬列",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかれどもこれみな反訳にあらざれば雑説のみ、較々著述の体を具えたるものは本篇をもってはじめてとなす。",
+              "citation": {
+                "source": "近時政論考",
+                "author": "陸羯南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "随つて斯る境地の読書は決して閑却すべきでないが、併し較々異例であるから、これらは八境の外に置くことにした。",
+              "citation": {
+                "source": "読書八境",
+                "author": "市島春城",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

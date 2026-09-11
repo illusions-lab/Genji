@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "d7f6fda3-2429-506f-bd26-09b10935c454",
+    "entry": "衰不",
+    "reading": {
+      "primary": "衰不",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "（い）　其行來渡海詣中國より持衰不謹に至る一節。",
+              "citation": {
+                "source": "卑彌呼考",
+                "author": "内藤湖南",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "倭地温暖、冬夏食生菜、皆徒跣、有屋室、父母兄弟臥息異處、以朱丹塗其身體、如中國用粉也、食飮用蝨、衣服垢汚、不食肉、不近婦人、如喪人、名之爲持衰、若行者吉善、共顧其生口財物、若有疾病、遭暴害、便欲殺之、謂其持衰不謹。",
+              "citation": {
+                "source": "魏志倭人傳",
+                "author": "陳壽",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

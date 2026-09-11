@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "330682c5-9364-58aa-a1ae-dee9a055068e",
+    "entry": "契点",
+    "reading": {
+      "primary": "契点",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "そしてそれが、その契点が、いろいろな問題の起る基因になるに相違ないと私は思ふ。",
+              "citation": {
+                "source": "月明夜々",
+                "author": "田山録弥",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは興味ある契点だ。",
+              "citation": {
+                "source": "日記",
+                "author": "一九二九年（昭和四年）",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

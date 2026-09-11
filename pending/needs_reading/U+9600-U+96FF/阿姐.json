@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "1087229a-e858-51aa-96d2-77e1a157bcc2",
+    "entry": "阿姐",
+    "reading": {
+      "primary": "阿姐",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "見そなはす如き妾が容体、とても在命る身にしあらねば、臨終の際にただ一｜事、阿姐に頼み置きたき件あり。",
+              "citation": {
+                "source": "こがね丸",
+                "author": "巌谷小波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "妾が雄月丸ぬしは、いぬる日猛虎｜金眸がために、非業の最期を遂げしとは、阿姐も知り給ふ処なるが。",
+              "citation": {
+                "source": "こがね丸",
+                "author": "巌谷小波",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これを養育むこと叶はず、折角頼みし仇討ちも、仇になりなん口惜しさ、推量なして給はらば、何卒この児を阿姐の児となし、阿姐が乳もて育てあげ。",
+              "citation": {
+                "source": "こがね丸",
+                "author": "巌谷小波",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "11cd45c6-f15c-59bb-9502-f6601be16e34",
+    "entry": "梢々",
+    "reading": {
+      "primary": "梢々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "なかば黄いろくなかば緑な林の中に歩いていると、澄みわたった大空が梢々の隙間からのぞかれて日の光は風に動く葉末葉末に砕け、その美しさいいつくされず。",
+              "citation": {
+                "source": "武蔵野",
+                "author": "国木田独歩",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "日の光が、黒い椴松の梢々の間でちらちらした。",
+              "citation": {
+                "source": "フレップ・トリップ",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "冬になると、裸の梢々が澁い紫褐色にそゝけ立つて、ユウゴウか誰か古い佛蘭西人の頬髯をさかさまにした樣に見えるのだが、今はまだ葉もほんの少しは殘つてゐるので、其の趣は見られない。",
+              "citation": {
+                "source": "かめれおん日記",
+                "author": "中島敦",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "犀川の源流の一つである奈良井川は驛の後方に近く流れ、山が梢々迫つて山驛の趣が先づ目に這入る。",
+              "citation": {
+                "source": "山岳美觀",
+                "author": "吉江喬松",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "眠った家々の屋根や、動かない樹々の重い梢々が、高い透明な大空の穹窿の下に、見えない刻々を彫みながら、少しばかりずつ、地殻の彼方へずり落ちて行くような感じを与えた。",
+              "citation": {
+                "source": "美しき月夜",
+                "author": "宮本百合子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "かくて途も梢々半にいたるころ、日ざしは七ツにちかし、竹助しばしとてみちのかたはらの石に腰かけ焼飯をくひゐたるに、谷間の根笹をおしわけて来る者あり、ちかくよりたるを見れば猿に似て猿にもあらず。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此｜樹に烏巣をむすび、雛梢々頭をいだすころ、巣のうちに白き頭の鳥を見る。",
+              "citation": {
+                "source": "北越雪譜",
+                "author": "鈴木牧之編撰",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
+  }
+]

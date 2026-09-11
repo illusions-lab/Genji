@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "892355c7-d15d-5775-98f2-7a50a74cfbb6",
+    "entry": "朦乎",
+    "reading": {
+      "primary": "朦乎",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "例のビール樽船長は此時私の頭上に當る船橋の上に立つて、頻りに怪の船の方向を見詰めて居つたが、先刻遙か／＼の海上に朦乎と三個の燈光を認めた間こそ、途方も無い事を言つて居つたものゝ、最早斯うなつては其樣な無※な事は言つて居られぬ。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "後檣縱帆架に飜る旗は、まだ朦乎として、何國の軍艦とも分らぬが、今や、團々たる黒煙を吐きつゝ、波を蹴立てゝ吾が輕氣球の飛揚せる方角へ進航して來るのであつた。",
+              "citation": {
+                "source": "海島冐檢奇譚　海底軍艦",
+                "author": "押川春浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "或は大きく朦乎と映り、或は小く分明と映る。",
+              "citation": {
+                "source": "赤痢",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と言つた様な、朦乎した悲哀が、粘々した唾と共に湧いた。",
+              "citation": {
+                "source": "赤痢",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と否み乍らも、何がなしに、若しや、若しや、といふ朦乎した期待が、その通路を去らしめなかつた。",
+              "citation": {
+                "source": "鳥影",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "と否み乍らも、何がなしに、若しや、若しや、といふ朦乎した期待が、その通り路を去らしめなかつた。",
+              "citation": {
+                "source": "鳥影",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」と言つたやうな、朦乎した悲哀が、粘々した唾と共に湧いた。",
+              "citation": {
+                "source": "赤痢",
+                "author": "石川啄木",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

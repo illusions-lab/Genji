@@ -1,0 +1,122 @@
+[
+  {
+    "uuid": "5429e3ee-f66d-5c1e-a77b-741a11e7a0d4",
+    "entry": "帰場",
+    "reading": {
+      "primary": "帰場",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "又一は三十九年五月｜帰塲せり。",
+              "citation": {
+                "source": "関牧塲創業記事",
+                "author": "関寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十七日、又一帰塲せり。",
+              "citation": {
+                "source": "関牧塲創業記事",
+                "author": "関寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "二月七日、又一帰塲す。",
+              "citation": {
+                "source": "関牧塲創業記事",
+                "author": "関寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同廿五日、寛は帰塲せり。",
+              "citation": {
+                "source": "関牧塲創業記事",
+                "author": "関寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十月二日、寛は帰塲す。",
+              "citation": {
+                "source": "関牧塲創業記事",
+                "author": "関寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "寛が帰塲するや、片山氏は左の現状を告げて曰く、九月廿日頃より斃馬病馬多く、既に此迄に於て殊に有数なるの馬匹を二十余頭は斃れ、尚追々病馬あり、此上は如何なるべき乎、關川獣医の説によれば、病症不明にして治療に於けるも拠るべき処なしと、依て今後は如何なる事実に陥るか。",
+              "citation": {
+                "source": "関牧塲創業記事",
+                "author": "関寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十一月、寛は六日帰塲す。",
+              "citation": {
+                "source": "関牧塲創業記事",
+                "author": "関寛",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "十三日、後二時、又一無事帰塲す。",
+              "citation": {
+                "source": "関牧塲創業記事",
+                "author": "関寛",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 9
+      },
+      "variant_writings": [
+        "帰塲"
+      ]
+    }
+  }
+]

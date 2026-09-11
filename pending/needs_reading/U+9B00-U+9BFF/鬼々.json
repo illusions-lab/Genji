@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "19885b43-70af-57f3-9974-be075431e694",
+    "entry": "鬼々",
+    "reading": {
+      "primary": "鬼々",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "此花おほよそは薊に似て薊のように鬼々しからず、色の赤さも薊の紫がゝりたるには似で、やゝ黄ばみたれば、いやしげならず、葉の浅翠なるも、よく暎りあひて美しく、一体の姿のかよはく物はかなげなる、まことにあはれ深し。",
+              "citation": {
+                "source": "花のいろ／＼",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "地獄｜變相の圖の樣な景色が出來ても是非に及ばないが、何人にも詩人的情緒は有るから、生氣に充ちた青々とした山々の間に、鬼々しくなつた枯木の山を望んでは黯然としてこれを哀しまないものは無い。",
+              "citation": {
+                "source": "華嚴瀧",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "世に生業も数多く候に、優き優き御心根にもふさはしからぬ然やうの道に御入り被成候までに、世間は鬼々しく御前様を苦め申候か。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "背後の岩壁を刳り抜いてそこに灯皿が置いてあったが、そこで灯っている獣油の火が蒼然と四辺を照らしている態は、鬼々陰々たるものである。",
+              "citation": {
+                "source": "加利福尼亜の宝島",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "如何に恨みがあるといって、人間がこの様な鬼々しい心になれるものではない。",
+              "citation": {
+                "source": "吸血鬼",
+                "author": "江戸川乱歩",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "uuid": "66e5dedb-85b4-5835-bf1c-11bc7fc627b7",
+    "entry": "掻餅",
+    "reading": {
+      "primary": "掻餅",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "晩の物だけ重詰にして、夜さりまた掻餅でも焼いてお茶受けに、お茶も土瓶で持って行け。",
+              "citation": {
+                "source": "草迷宮",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "掻餅のようね」とかの女はいった。",
+              "citation": {
+                "source": "母子叙情",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "堺屋のおふくろが、僕に掻餅を焼いて呉れていたんです。",
+              "citation": {
+                "source": "河明り",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "堺屋のおふくろは、焼いた掻餅を普通に砂糖醤油につけて僕に与えました。",
+              "citation": {
+                "source": "河明り",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すると僕の母はそれを見て、そっとその掻餅を箸で摘み取り、ぬるま湯で洗って、改めて生醤油をつけて、僕に与えました。",
+              "citation": {
+                "source": "河明り",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "僕は子供のうちから生醤油をつけた掻餅が好きだったのです」　しかし、いくら子供の好みがそうだからと云って、堺屋のおふくろに面当てがましく、掻餅を目の前で洗い直さないでもよさそうだと木下は思った。",
+              "citation": {
+                "source": "河明り",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その上子供の木下に向って、掻餅を与えながら、一種の手柄顔と、媚びと歓心を求める造り笑いは、木下に嫌厭を催させた。",
+              "citation": {
+                "source": "河明り",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "希くは駕籠を二挺ならべて、かむろに掻餅を燒かせながら、鈴鹿越をしたのであると、納まり返つたおらんだ西鶴を向うに※して、京阪成金を壓倒するに足らうと思ふ。",
+              "citation": {
+                "source": "麻を刈る",
+                "author": "泉鏡太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "鷹揚にノソノソやって来て、自分の好きな塩煎餅か掻餅でもあろうもんなら、宛もこの家のものは竈の下の灰までが俺の物だというような顔をして、平気で菓子鉢に顔を突込んではボリボリと喰べ初める。",
+              "citation": {
+                "source": "二葉亭余談",
+                "author": "内田魯庵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "月夜の松濤庵に清流を汲んで茶を淹れ、何かないかと戸棚を捜したら一袋の掻餅が出て来た、それを泉鏡花氏が喜んで食べた、ということが書いてある。",
+              "citation": {
+                "source": "古句を観る",
+                "author": "柴田宵曲",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "春と秋で情景は全く異るけれども、夜の客に対して掻餅を持出すところ、相手が二人であるところなども頗る趣を同じゅうしている。",
+              "citation": {
+                "source": "古句を観る",
+                "author": "柴田宵曲",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

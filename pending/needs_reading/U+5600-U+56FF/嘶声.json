@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "916e1308-b3e9-5105-980b-166abd8f604c",
+    "entry": "嘶声",
+    "reading": {
+      "primary": "嘶声",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "支那で馬と書くは象形字と知れ切って居るが、その音は嘶声を擬たものと解くほかなかろう。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それと等しく蛮民は妙に動物の鳴音を擬る故、馬の嘶声を擬れば馬を名ざすに事足りたはずだが、それはほんの物真似で言語というに足らぬ。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "果してしからばミュラーがアリヤ種で一番偉いように言った独語のプファールト、蘭語のパールト、いずれも支那の馬また恐らくはアラブのヒサーン同様、嘶声を採って馬の名としたのでなかろうか。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "古ケルト人もっともこれを信じ、特別の白馬を公費もて神林中に蓄い、大事あるに臨みこれを神車の直あとに随わしめ、その動作｜嘶声を察して神意を占うた。",
+              "citation": {
+                "source": "十二支考",
+                "author": "馬に関する民俗と伝説",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "（食ひたいな）　その時遠くの方から馬の嘶声が聞えた。",
+              "citation": {
+                "source": "神馬",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "頭がはつきりした時には、牝馬の嘶声が聞えなかつた。",
+              "citation": {
+                "source": "神馬",
+                "author": "横光利一",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

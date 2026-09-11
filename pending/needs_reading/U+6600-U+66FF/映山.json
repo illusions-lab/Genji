@@ -1,0 +1,135 @@
+[
+  {
+    "uuid": "3f580a76-dba7-5027-a18a-02f458966c2a",
+    "entry": "映山",
+    "reading": {
+      "primary": "映山",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "遠方の小さい幽な茅屋を包んだ一むら竹の奧深く、山はその麓なりに咲込んだ映山紅に且つ半ば濃い陽炎のかゝつたのも里親しき護摩の燃ゆる姿であつた。",
+              "citation": {
+                "source": "遺稿",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」「ええ、映山先生。",
+              "citation": {
+                "source": "薄紅梅",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "映山先生が洩れ聞いてね、渾名して、曰く――荷高似内――何だか勘平と伴内を捏合わせたようだけれど、おもしろかろう。",
+              "citation": {
+                "source": "薄紅梅",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "遠方の小さい幽な茅屋を包んだ一むら竹の奥深く、山はその麓なりに咲込んだ映山紅に且つ半ば濃い陽炎のかかったのも里親しき護摩の燃ゆる姿であった。",
+              "citation": {
+                "source": "遺稿",
+                "author": "遺稿",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「やがて道端の茶店へ休むと――薄曇りの雲を浴びて背戸の映山紅が真紅だった。",
+              "citation": {
+                "source": "河伯令嬢",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "直ぐそれから、池の石橋を一つ、楽屋口へ行くと、映山紅、桜の根に、立ったり踞んだり、六七人むくむくと皆動いて出た。",
+              "citation": {
+                "source": "卵塔場の天女",
+                "author": "泉鏡花",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "木曾川｜石岩に映山紅盛に開く。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」映山紅はやまつつじである。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "花木考に「山躑躅一名映山紅」と云つてある。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "脇差坤竜をグルッと背中へまわし差して、手の、抜き放すと同時に法勝寺三郎の生き血を味わった愛剣武蔵太郎安国を、しきりにそばの、まだ映山紅を霜囲いにしてある藁へ擦りぬぐっている。",
+              "citation": {
+                "source": "丹下左膳",
+                "author": "乾雲坤竜の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 10
+      }
+    }
+  }
+]

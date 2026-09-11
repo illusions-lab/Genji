@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "34f5b55b-748b-5997-8a7b-1eebd704e050",
+    "entry": "璃昇",
+    "reading": {
+      "primary": "璃昇",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "十二階下の演芸場には小芝居の施設があつて、都桜水、有田松太郎、井田寒三、藤井弥之助、坂田半五郎、中村鶴若、市川かほる、高山吉雄、嵐璃昇などと呼ぶ所謂緞帳役者が出演してゐた。",
+              "citation": {
+                "source": "異版　浅草燈籠",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "しかしながら三十年後の今日でも尚且私の作家的感興を刺戟して熄まないのはかの嵐璃昇の存在であらう。",
+              "citation": {
+                "source": "異版　浅草燈籠",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "璃昇は数年後勢州蟹江村に於て農家へ侵入その家の女を姦したが、璃昇犯行当夜の装束が黒衣であつたことが発覚の端緒となつて直ちに捕縛、小菅監獄へとおくられてしまつたのである。",
+              "citation": {
+                "source": "異版　浅草燈籠",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私は、彼、璃昇がいかなる理由の下に強盗強姦犯人とまで堕してしまつたのか、今日その経路をば知る由もないが、うそにも浅草六区の人気役者たる彼が食指を動かしたその村娘は、定めし十人並以上の所謂鄙には稀なる器量好しであつたのであらう。",
+              "citation": {
+                "source": "異版　浅草燈籠",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "嵐璃昇の刑期満ちての行動も亦その犯罪経路と共に私は全くに此を聞知してゐないが、爾来幾春秋、勢州蟹江駅附近を関西線で通過するたび私は車窓にひとり大正中世落花狼藉の不幸にと遭遇した佳人が後半生にさま／″＼なる小説家的空想を走らせては、その清福を祈念してやるのが常なのである。",
+              "citation": {
+                "source": "異版　浅草燈籠",
+                "author": "正岡容",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

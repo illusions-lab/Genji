@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "668ff028-ee96-517e-9d80-ac985a95537a",
+    "entry": "纎維",
+    "reading": {
+      "primary": "纎維",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "毎日必ず汗でぐつしりと濕るので、其の強靱な纎維の力が脆く成つて、秋の冷たい季節までにはどうしても中途で一｜度は換へねばならぬと勘次が自慢して居る紐は埃が加はつて汚れて居た。",
+              "citation": {
+                "source": "土",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "カリ／＼の部分に指を押し込んで見ると内部はバナヽの實の如き密度の軟かさが感ぜられ、その黄色い纎維が檢死官の掌の中で蛆蟲が蠢いてゐるやうに見えた。",
+              "citation": {
+                "source": "無法な火葬",
+                "author": "VIOLENT CREMATION",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "莖を折つては、纎維を引き出し、其片糸を幾筋も合せては、絲に縒る。",
+              "citation": {
+                "source": "死者の書",
+                "author": "釋迢空",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さうした着物は、山の藤の纎維で織つたものが多かつたので、藤江のふぢを起すために、あらたへのといふ言葉を、据ゑたのであります。",
+              "citation": {
+                "source": "歌の話",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それは白米を分析すれば直ちに判る通り、白米には蛋白質が七％、澱粉及纎維が九〇％を占め、脂肪は非常に少く一％内外であり、無機成分は更に少く、僅かに〇・五％に過ぎない。",
+              "citation": {
+                "source": "ヴィタミン研究の回顧",
+                "author": "鈴木梅太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから、大きな木材から細かな纎維をとつて紙をこしらへたり、その他にも使ふようにもなり、最近では人造絹絲の原料にも澤山の木材を使つてゐます。",
+              "citation": {
+                "source": "森林と樹木と動物",
+                "author": "本多靜六",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こんな風に薪炭用、建築土木用、木纎維用等のために森林はどん／＼伐り倒され、深い山、ふかい谷底の森林までがだん／＼に荒されるようになりました。",
+              "citation": {
+                "source": "森林と樹木と動物",
+                "author": "本多靜六",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 8
+      }
+    }
+  }
+]

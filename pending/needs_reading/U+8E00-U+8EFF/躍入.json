@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "a3c14c55-306b-554a-8add-7200a5a0e21e",
+    "entry": "躍入",
+    "reading": {
+      "primary": "躍入",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "わが年はまだ十三にて、初は何事ともわきまへざりしが、後には男の顔色もかはりておそろしく、われにでもあらで、水に躍入りぬ。",
+              "citation": {
+                "source": "うたかたの記",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夫は出でて未だ帰らざれば、今日｜若し罵り噪ぎて、内に躍入ることもやあらば如何せんと、前後の別知らぬばかりに動顛して、取次には婢を出し遣り、躬は神棚の前に駈着け、顫声を打揚げ、丹精を抽でて祝詞を宣りゐたり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "されど唯一目散に脱れんとのみにて、卒に志す方もあらぬに、生憎降頻る雨をば、辛くも人の軒などに凌ぎつつ、足に任せて行くほどに、近頃思立ちて折節通へる碁会所の前に出でければ、ともかくも成らんとて、其処に躍入りけり。",
+              "citation": {
+                "source": "金色夜叉",
+                "author": "尾崎紅葉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "小さい自我の周りに垣を作ってその中に蟄居しようという心が、自己の中にある積極的なあらゆるものを自由に伸して湧き上る生命の泉に躍入ろうとする心に移って行った。",
+              "citation": {
+                "source": "語られざる哲学",
+                "author": "三木清",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ただちに峻烈なる批判のもとに誤謬の認識と自己脱出がおこなわれるにしても、狐疑なき試練への躍入、その苦難への莞爾とした忍耐が用意されていなければならない。",
+              "citation": {
+                "source": "近代美の研究",
+                "author": "中井正一",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俺の今悟入した眞理は新しくないにしても、俺が今此眞理に躍入した事は新しい事實である。",
+              "citation": {
+                "source": "三太郎の日記　第一",
+                "author": "阿部次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "俺は「俺より偉大な者が此年にならずにその眞生活に躍入した。",
+              "citation": {
+                "source": "三太郎の日記　第二",
+                "author": "阿部次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "既に神を求むる生活に躍入しながらも、時に猶「自然なる」生活の若さと快さとを囘顧するの情に堪へなかつた。",
+              "citation": {
+                "source": "三太郎の日記　第二",
+                "author": "阿部次郎",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

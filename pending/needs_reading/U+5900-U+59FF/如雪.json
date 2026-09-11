@@ -1,0 +1,111 @@
+[
+  {
+    "uuid": "8d887523-9999-5023-b1e4-80f4352ecc61",
+    "entry": "如雪",
+    "reading": {
+      "primary": "如雪",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "幸田露伴校閲としてある岩波文庫本の李太白詩選を見ると、越女詞五首の第五を、鏡湖水如月　　　　鏡湖、水月の如し、耶溪女如雪　　　　耶渓、女雪の如し。",
+              "citation": {
+                "source": "閑人詩話",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "此日寒風吹雨、雨如雪。",
+              "citation": {
+                "source": "閉戸閑詠",
+                "author": "河上肇",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "戸を開けば、霜如雪。",
+              "citation": {
+                "source": "みみずのたはこと",
+                "author": "徳冨健次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その詩は父の遺稿に、蘆花如雪雁声寒　〔蘆花は雪の如く　雁の声は寒し把酒南楼夜欲残　　南楼に酒を把り　夜残らんと欲す四口一家固是客　　四口の一家は固より是れ客なり天涯倶見月団欒　　天涯に倶に見る月も団欒す〕としている。",
+              "citation": {
+                "source": "十九の秋",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "……もしそれが悪ければ、如雪も周文も雪舟も、みな剽窃漢ということになる」「てまえも、先生のものの、剽窃漢でございますな」「けれど、それは、調和、調味というもの。",
+              "citation": {
+                "source": "新書太閤記",
+                "author": "第十一分冊",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、いわゆる室町画壇の、如雪、周文、霊彩、啓書記、雪舟、秋月などの巨匠を輩出し、戦国期にかけてもなお、雪村、友松、等伯など、おびただしい水墨画の全盛期を見せた。",
+              "citation": {
+                "source": "随筆　宮本武蔵",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "それから邦人の如雪、芸阿弥、相阿弥、可翁、黙庵、雪舟、雪村、あたりの東山時代の茶の湯以後の諸作を思いうかべてみると、そのどこかに、武蔵の画との共通がある。",
+              "citation": {
+                "source": "随筆　宮本武蔵",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "uuid": "40d6a174-a342-5b1d-9894-15994b9be80c",
+    "entry": "赦罪",
+    "reading": {
+      "primary": "赦罪",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "けれどもその私の顔はまた直ぐに赦罪の顔になり、世間普通のとりつくろひの感情となつた。",
+              "citation": {
+                "source": "亡弟",
+                "author": "中原中也",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そしてその家庭は夫婦兄弟姉妹相和して平和｜漲るの状態にあり、殊にヨブがその子の教育において誤らず、祭壇を設け自ら祭司の職を取りて子女の赦罪のため燔祭を献ぐる如き、すべてが完全の状態であった。",
+              "citation": {
+                "source": "ヨブ記講演",
+                "author": "内村鑑三",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "して彼は身を卑ふして（humbly）リオノルス姫の許に到り、其の赦罪を乞ひ（ask her pardon）疾く々々（in all haste）此城より立ち退くべきぞ（shall remove himself from this castle）。",
+              "citation": {
+                "source": "アーサー王物語",
+                "author": "KING ARTHUR'S ROUND TABLE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼は又家來の者共を引き連れて（taking his followers with him）王宮に到り、武士の體面を汚したる非道の所行に對し（for the foul wrong he has done to knighthood）、王の赦罪を乞ふべきである。",
+              "citation": {
+                "source": "アーサー王物語",
+                "author": "KING ARTHUR'S ROUND TABLE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一先づ堂内に封じ置き、定日サルタンの使到つて之を開き、門跡特に追善して赦罪の詞を讀むと、尸の手脚の關節碎け始めた。",
+              "citation": {
+                "source": "詛言に就て",
+                "author": "南方熊楠",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "そして、どんなにいまわしい穢れがあの女を待ち設けているにもせよ、この侮辱は……憎悪の力であの女を高め、浄化するだろう……ふむ……ことによったら、赦罪の力によって、といったほうがいいかもしれない……だが、しかし、そのためにあの女がらくになるとでもいうのか？",
+              "citation": {
+                "source": "地下生活者の手記",
+                "author": "ЗАПИСКИ　ИЗ　ПОДПОЛЬЯ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "聖靈の導によらず惡魔の靈感によりて言を發す、人もしその眞相を知らば罪の赦を得んとてかゝる僧に就くことの無益有害なるを覺らむ一二一―一二三〔是においてか〕教へを説く者かくの如くなるがゆゑに〔證〕法王より赦罪の權を委ねられたりとの證。",
+              "citation": {
+                "source": "神曲",
+                "author": "LA DIVINA COMMEDIA",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "約束は即ち赦罪の約束一二四―一二六〔聖アントニオ〕聖アントニウス。",
+              "citation": {
+                "source": "神曲",
+                "author": "LA DIVINA COMMEDIA",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 12
+      }
+    }
+  }
+]

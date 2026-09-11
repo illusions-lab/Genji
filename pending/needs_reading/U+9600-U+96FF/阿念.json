@@ -1,0 +1,103 @@
+[
+  {
+    "uuid": "6f4696f1-9bde-50c6-baf3-af0c781693d8",
+    "entry": "阿念",
+    "reading": {
+      "primary": "阿念",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「阿念といいます、これも私の腹心の者です」　陳は言った。",
+              "citation": {
+                "source": "西湖主",
+                "author": "田中貢太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "やあやあ阿念、御身一本春日殿と手合せ致して見い」　と梵鐘の如き声で末座の一人に※を向けると、はッと答えて潔くそれへ出た一人の修験の門輩、柿色の袖を捲して一礼をなし、「春日殿とやら、大先生のお言葉によってお対手仕る。",
+              "citation": {
+                "source": "剣難女難",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「エエエッ」　と阿念は双に開いた足を、ジリジリと詰めて身を伸ばして来た。",
+              "citation": {
+                "source": "剣難女難",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "新九郎はこの山伏が棒振り芸、何事かあらんと心気を澄ませて片手の木剣に一念こめて、飛鳥の如く手元へ跳り込んだ途端、ピュッと刎ね返って来た金剛杖の陰の横すくい、ぽんと払えば続いて陽に真ッ向う下ろし、はッと身を沈めてガラリと横へ打ち捨てると、弾みを喰った阿念の身がよろりとなった。",
+              "citation": {
+                "source": "剣難女難",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「参った」　と阿念はすごすごと退いた。",
+              "citation": {
+                "source": "剣難女難",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「いざ――」　と息を計った吉祥房の容子は、前の阿念とは段違いの身ごなし。",
+              "citation": {
+                "source": "剣難女難",
+                "author": "吉川英治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 13
+      }
+    }
+  }
+]

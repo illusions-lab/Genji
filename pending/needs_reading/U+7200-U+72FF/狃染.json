@@ -1,0 +1,95 @@
+[
+  {
+    "uuid": "efbd02ad-6d08-52cb-9f7b-cd6d4794b5d0",
+    "entry": "狃染",
+    "reading": {
+      "primary": "狃染",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "後生だから今日だけ、お狃染甲斐に妾を助けて頂戴。",
+              "citation": {
+                "source": "山羊髯編輯長",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "狃染の芸者が風邪を引いているのを過って盛り殺した奴で……」「……そうかそうか……あの医者にかかっちゃ堪まらん……フムフム。",
+              "citation": {
+                "source": "骸骨の黒穂",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "はからずもこの満月に狃染んでからというもの、曲りかけている腰を無理に引伸ばし、薄い白髪鬢を墨に染め、可笑しい程派手な衣裳好みをして、若殿原に先をかけられまいという心遣いや金づかいに糸目を附けず。",
+              "citation": {
+                "source": "名娼満月",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "論より証拠、私はあの蔵元屋の台所ならモウ二十年｜以来の古｜狃染で御座いますが……毎日お余りを貰いに参りますので……卑しい事を申上るようで御座いますが、蔵元屋の前の御寮さんの時は、それはそれは私どもに親切にして下さいました。",
+              "citation": {
+                "source": "狂歌師赤猪口兵衛",
+                "author": "――博多名物非人探偵",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "剥げた八寸膳の上に薄汚ない茶碗が七ツ八ツ……それでも夏は海から吹き通しだし、冬の日向きがよかったので、街道通いの行商人なぞがスッカリ狃染になっていた。",
+              "citation": {
+                "source": "いなか、の、じけん",
+                "author": "夢野久作",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 6
+      }
+    }
+  }
+]

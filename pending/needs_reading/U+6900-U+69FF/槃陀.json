@@ -1,0 +1,79 @@
+[
+  {
+    "uuid": "8fb8c33a-4206-5188-8a4e-88fca7eb9c2d",
+    "entry": "槃陀",
+    "reading": {
+      "primary": "槃陀",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "それは、ヒマラヤを越え北へゆくこと数千里、そこに氷に鎖される香酔なる群峰があり、その主峰をよんで阿羅迦槃陀といい、すなわちそれは、高原中の大都なる意でござりまする。",
+              "citation": {
+                "source": "人外魔境",
+                "author": "天母峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "法皇にとりついている羅苦叉鬼と鳩槃陀鬼が、祈りの力に抵抗して最後のあがきをやっているのである。",
+              "citation": {
+                "source": "新西遊記",
+                "author": "久生十蘭",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "するとラマはいろいろその事に関する書物等を見て判断を下し、これは郎苦叉鬼の祟りであるとかあるいは鳩槃陀鬼または夜叉鬼の害であるとか、あるいは死霊、悪魔、その地方の悪神等が祟りをして居るとかいうことをよく見定めて、それに対する方法としてどこのラマに何々のお経を読んで貰えという。",
+              "citation": {
+                "source": "チベット旅行記",
+                "author": "河口慧海",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T06:16:55Z",
+      "needs_gloss": true,
+      "needs_reading": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

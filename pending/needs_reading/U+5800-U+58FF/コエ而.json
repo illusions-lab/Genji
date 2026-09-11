@@ -1,0 +1,82 @@
+[
+  {
+    "uuid": "6b7cbf17-52f1-51dd-85db-e5de4d236fff",
+    "entry": "声而",
+    "reading": {
+      "primary": "こえ而",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "もし、人の死して鬼あらば、衣服に鬼あるということか』論者、ここに服す」と）韓退之曰、有形而無声者物有之矣、土石是也、有声而無形者物有之矣、風霆是也、有声与形者物有之矣、人獣是也、無声与形者物有之矣、鬼神是也。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "故人亦鬼神之会爾、鬼神者周流天地之間、無所不在、雖寂然不動而有感必通、雖無形無声而有所謂昭昭不可欺者。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "忽聴得戯笛声而方知帰来而笑也。",
+              "citation": {
+                "source": "工藝の道",
+                "author": "柳宗悦",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:38:08Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "聲而"
+      ],
+      "needs_reading": true
+    }
+  }
+]

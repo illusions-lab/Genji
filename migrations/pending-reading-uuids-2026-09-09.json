@@ -1,0 +1,3004 @@
+{
+  "generated_at": "2026-09-09T05:23:05Z",
+  "migrations": [
+    {
+      "entry": "争擾",
+      "reading": "そうじょう",
+      "old_uuid": "2f1f80a2-7a76-505d-918c-e32c27021060",
+      "new_uuid": "68d05910-ec8a-5851-b7a3-704c261b5c57",
+      "source_path": "pending/needs_reading/U+4E00-U+4EFF/争擾.json",
+      "source_row": 1,
+      "target_path": "data/そ/ソウジョウ.json",
+      "evidence": [
+        {
+          "reading": "そうじょう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000082/files/480_ruby/480_ruby.txt",
+            "aozora:000082/files/480_ruby_6016/480_ruby_6016.txt",
+            "aozora:000296/files/43064_ruby_24472/43064_ruby_24472.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "佞媚",
+      "reading": "ねいび",
+      "old_uuid": "98bbfa24-81f5-5990-a54e-8571ebdd6f75",
+      "new_uuid": "2c3fbe31-e06d-53c4-b1d2-39e4684aba01",
+      "source_path": "pending/needs_reading/U+4F00-U+4FFF/佞媚.json",
+      "source_row": 1,
+      "target_path": "data/ね/ネイビ.json",
+      "evidence": [
+        {
+          "reading": "ねいび",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:000023/files/1699_ruby_1922/1699_ruby_1922.txt",
+            "aozora:001562/files/56151_ruby_60063/56151_ruby_60063.txt",
+            "aozora:001562/files/56151_ruby_70005/56151_ruby_70005.txt",
+            "aozora:001879/files/58112_ruby_71429/58112_ruby_71429.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "凍蝶",
+      "reading": "いてちょう",
+      "old_uuid": "a2147e20-070c-5bc2-ae36-39ebe47353b1",
+      "new_uuid": "9e96f762-e7b1-5d2d-9a37-1568945b0cb3",
+      "source_path": "pending/needs_reading/U+5100-U+51FF/凍蝶.json",
+      "source_row": 1,
+      "target_path": "data/い/イテチョウ.json",
+      "evidence": [
+        {
+          "reading": "いてちょう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:001310/files/51837_ruby_59424/51837_ruby_59424.txt",
+            "aozora:001310/files/51838_ruby_59505/51838_ruby_59505.txt",
+            "aozora:001310/files/51840_ruby_59583/51840_ruby_59583.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "凍雲",
+      "reading": "とううん",
+      "old_uuid": "8d4e5eeb-74d0-5c84-a8f9-476297b09b5f",
+      "new_uuid": "b24328c8-c32a-512a-97a1-561d79c17279",
+      "source_path": "pending/needs_reading/U+5100-U+51FF/凍雲.json",
+      "source_row": 1,
+      "target_path": "data/と/トウウン.json",
+      "evidence": [
+        {
+          "reading": "とううん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001930/files/58400_ruby_69156/58400_ruby_69156.txt",
+            "aozora:001930/files/58401_ruby_70228/58401_ruby_70228.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "刎橋",
+      "reading": "はねばし",
+      "old_uuid": "106deaa6-ce7c-5aca-8fa6-df7d847195bb",
+      "new_uuid": "065bdc5f-61dd-5a18-a80d-1060128a28e8",
+      "source_path": "pending/needs_reading/U+5200-U+52FF/刎橋.json",
+      "source_row": 1,
+      "target_path": "data/は/ハネバシ.json",
+      "evidence": [
+        {
+          "reading": "はねばし",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 19,
+          "evidence": [
+            "aozora:000050/files/3661_ruby_22277/3661_ruby_22277.txt",
+            "aozora:000050/files/4563_ruby_24563/4563_ruby_24563.txt",
+            "aozora:000050/files/48408_ruby_34812/48408_ruby_34812.txt",
+            "aozora:000064/files/389_ruby_15296/389_ruby_15296.txt",
+            "aozora:000064/files/55671_ruby_64542/55671_ruby_64542.txt",
+            "aozora:000064/files/56041_ruby_54720/56041_ruby_54720.txt",
+            "aozora:000106/files/4639_ruby_15116/4639_ruby_15116.txt",
+            "aozora:000106/files/56563_ruby_56942/56563_ruby_56942.txt",
+            "aozora:000148/files/780_ruby_569/780_ruby_569.txt",
+            "aozora:000283/files/4343_ruby_14878/4343_ruby_14878.txt",
+            "aozora:000283/files/4503_ruby_6796/4503_ruby_6796.txt",
+            "aozora:001086/files/4311_ruby_33095/4311_ruby_33095.txt",
+            "aozora:001312/files/47731_ruby_34085/47731_ruby_34085.txt",
+            "aozora:001341/files/49642_ruby_38369/49642_ruby_38369.txt",
+            "aozora:001341/files/50280_ruby_37686/50280_ruby_37686.txt",
+            "aozora:001562/files/56758_ruby_57843/56758_ruby_57843.txt",
+            "aozora:001562/files/58019_ruby_65428/58019_ruby_65428.txt",
+            "aozora:001867/files/58185_ruby_62754/58185_ruby_62754.txt",
+            "aozora:001867/files/58186_ruby_62508/58186_ruby_62508.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "刎銭",
+      "reading": "はねせん",
+      "old_uuid": "bc1f9a13-fcc4-5a92-808c-dbbb0d578db3",
+      "new_uuid": "dffafca7-7730-5c65-9ebd-030b9d96daa0",
+      "source_path": "pending/needs_reading/U+5200-U+52FF/刎銭.json",
+      "source_row": 1,
+      "target_path": "data/は/ハネセン.json",
+      "evidence": [
+        {
+          "reading": "はねせん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000158/files/1505_ruby_1916/1505_ruby_1916.txt",
+            "aozora:000158/files/1506_ruby_1919/1506_ruby_1919.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "削竹",
+      "reading": "そぎたけ",
+      "old_uuid": "2ee5e37d-c693-593d-861f-068282dffa78",
+      "new_uuid": "4538a86a-4e5c-5ee5-96b7-b4467c77a793",
+      "source_path": "pending/needs_reading/U+5200-U+52FF/削竹.json",
+      "source_row": 1,
+      "target_path": "data/そ/ソギタケ.json",
+      "evidence": [
+        {
+          "reading": "そぎたけ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000255/files/43765_ruby_19456/43765_ruby_19456.txt",
+            "aozora:001224/files/46125_ruby_29143/46125_ruby_29143.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "匐枝",
+      "reading": "ふくし",
+      "old_uuid": "2d3754fd-f81a-5674-bcb8-9f55f1f2c4ee",
+      "new_uuid": "d557f392-98e3-5988-b350-c9ecc65684fd",
+      "source_path": "pending/needs_reading/U+5300-U+53FF/匐枝.json",
+      "source_row": 1,
+      "target_path": "data/ふ/フクシ.json",
+      "evidence": [
+        {
+          "reading": "ふくし",
+          "sources": [
+            "aozora_ruby",
+            "jmdict"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000027/files/2426_ruby_24153/2426_ruby_24153.txt",
+            "jmdict:2872975:r1"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "吃又",
+      "reading": "どもまた",
+      "old_uuid": "0bf8feae-648e-5d50-8bd4-595160959a71",
+      "new_uuid": "51c0366c-35d8-5341-a743-7d82041135a2",
+      "source_path": "pending/needs_reading/U+5400-U+54FF/吃又.json",
+      "source_row": 1,
+      "target_path": "data/ど/ドモマタ.json",
+      "evidence": [
+        {
+          "reading": "どもまた",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 8,
+          "evidence": [
+            "aozora:000259/files/3552_ruby_1895/3552_ruby_1895.txt",
+            "aozora:000311/files/4833_ruby_53987/4833_ruby_53987.txt",
+            "aozora:000792/files/51210_ruby_42306/51210_ruby_42306.txt",
+            "aozora:000933/files/47786_ruby_64550/47786_ruby_64550.txt",
+            "aozora:001383/files/56874_ruby_68455/56874_ruby_68455.txt",
+            "aozora:001383/files/57416_ruby_71251/57416_ruby_71251.txt",
+            "aozora:001513/files/51425_ruby_70925/51425_ruby_70925.txt",
+            "aozora:001562/files/55252_ruby_51165/55252_ruby_51165.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "呵殿",
+      "reading": "かでん",
+      "old_uuid": "ce517056-5065-553d-8ca2-a34a1c4abccf",
+      "new_uuid": "17e31bdd-6fb4-5eeb-bb34-c30c543feccb",
+      "source_path": "pending/needs_reading/U+5400-U+54FF/呵殿.json",
+      "source_row": 1,
+      "target_path": "data/か/カデン.json",
+      "evidence": [
+        {
+          "reading": "かでん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000093/files/2540_ruby_34962/2540_ruby_34962.txt",
+            "aozora:000154/files/1637_ruby_16779/1637_ruby_16779.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "唔",
+      "reading": "いご",
+      "old_uuid": "e642e80a-9be5-50b6-9d7a-71f82d7c74f0",
+      "new_uuid": "030ead76-d38f-56d4-89b0-d59a88fdca2e",
+      "source_path": "pending/needs_reading/U+5500-U+55FF/唔.json",
+      "source_row": 1,
+      "target_path": "data/い/イゴ.json",
+      "evidence": [
+        {
+          "reading": "いご",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 6,
+          "evidence": [
+            "aozora:000057/files/43276_ruby_16767/43276_ruby_16767.txt",
+            "aozora:000255/files/47420_ruby_71256/47420_ruby_71256.txt",
+            "aozora:000296/files/46684_ruby_26314/46684_ruby_26314.txt",
+            "aozora:000296/files/50268_ruby_69910/50268_ruby_69910.txt",
+            "aozora:000837/files/46586_ruby_32674/46586_ruby_32674.txt",
+            "aozora:001774/files/56173_ruby_53533/56173_ruby_53533.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "啖唾",
+      "reading": "たんつば",
+      "old_uuid": "e6306068-9009-54fa-a958-5b65e186cffd",
+      "new_uuid": "e4d2f7ac-63f5-5e48-bbf1-ac76ec42c3b8",
+      "source_path": "pending/needs_reading/U+5500-U+55FF/啖唾.json",
+      "source_row": 1,
+      "target_path": "data/た/タンツバ.json",
+      "evidence": [
+        {
+          "reading": "たんつば",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 5,
+          "evidence": [
+            "aozora:001341/files/49653_ruby_37912/49653_ruby_37912.txt",
+            "aozora:001341/files/49653_ruby_69838/49653_ruby_69838.txt",
+            "aozora:001341/files/49656_ruby_38372/49656_ruby_38372.txt",
+            "aozora:001341/files/49656_ruby_69840/49656_ruby_69840.txt",
+            "aozora:001341/files/52016_ruby_41727/52016_ruby_41727.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "嗜味",
+      "reading": "しみ",
+      "old_uuid": "47ae46c0-e981-5804-b25f-bfd773621b05",
+      "new_uuid": "3b1b10df-784e-586b-9eec-dfdfb5d6900a",
+      "source_path": "pending/needs_reading/U+5500-U+55FF/嗜味.json",
+      "source_row": 1,
+      "target_path": "data/し/シミ.json",
+      "evidence": [
+        {
+          "reading": "しみ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000076/files/1279_ruby_8230/1279_ruby_8230.txt",
+            "aozora:000280/files/1706_ruby/1706_ruby.txt",
+            "aozora:000280/files/1706_ruby_5169/1706_ruby_5169.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "塋墳",
+      "reading": "えいふん",
+      "old_uuid": "d926f88c-8e37-5694-bf29-135c14f171cd",
+      "new_uuid": "ebb3b664-a93a-59b1-887b-0da0421fd097",
+      "source_path": "pending/needs_reading/U+5800-U+58FF/塋墳.json",
+      "source_row": 1,
+      "target_path": "data/え/エイフン.json",
+      "evidence": [
+        {
+          "reading": "えいふん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:001095/files/45789_ruby_38020/45789_ruby_38020.txt",
+            "aozora:001095/files/45799_ruby_38354/45799_ruby_38354.txt",
+            "aozora:001095/files/45799_ruby_70007/45799_ruby_70007.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "墜児",
+      "reading": "たま",
+      "old_uuid": "d15ca8a2-6f19-5b00-9906-42547ce71ef2",
+      "new_uuid": "ebb307a1-397c-530d-ba46-112ff9f4440f",
+      "source_path": "pending/needs_reading/U+5800-U+58FF/墜児.json",
+      "source_row": 1,
+      "target_path": "data/た/タマ.json",
+      "evidence": [
+        {
+          "reading": "たま",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000154/files/1632_ruby_8121/1632_ruby_8121.txt",
+            "aozora:000154/files/42319_ruby_23041/42319_ruby_23041.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "嫉刃",
+      "reading": "ねたば",
+      "old_uuid": "88540fd1-cd79-5d7d-8be8-05d32116cf51",
+      "new_uuid": "a0be5cc0-e888-5d63-ad42-36f89668f701",
+      "source_path": "pending/needs_reading/U+5A00-U+5AFF/嫉刃.json",
+      "source_row": 1,
+      "target_path": "data/ね/ネタバ.json",
+      "evidence": [
+        {
+          "reading": "ねたば",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 5,
+          "evidence": [
+            "aozora:000027/files/2428_ruby_36014/2428_ruby_36014.txt",
+            "aozora:000111/files/556_ruby_19004/556_ruby_19004.txt",
+            "aozora:000111/files/571_ruby_19502/571_ruby_19502.txt",
+            "aozora:000283/files/4340_ruby_13339/4340_ruby_13339.txt",
+            "aozora:000283/files/4510_ruby_13945/4510_ruby_13945.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "嫣笑",
+      "reading": "えんしょう",
+      "old_uuid": "ed37130e-ad3d-573d-9f31-2f41f848fa0e",
+      "new_uuid": "282a5cd2-00bf-55c8-95cd-245552ad3088",
+      "source_path": "pending/needs_reading/U+5A00-U+5AFF/嫣笑.json",
+      "source_row": 1,
+      "target_path": "data/え/エンショウ.json",
+      "evidence": [
+        {
+          "reading": "えんしょう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001397/files/51243_ruby_65932/51243_ruby_65932.txt",
+            "aozora:001779/files/58486_ruby_68458/58486_ruby_68458.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "孱顔",
+      "reading": "さんがん",
+      "old_uuid": "7e50ad09-1314-5464-bbe2-5e1e91d5a5f4",
+      "new_uuid": "9d4c7724-7e9c-578c-a29e-44fceab6deb0",
+      "source_path": "pending/needs_reading/U+5B00-U+5BFF/孱顔.json",
+      "source_row": 1,
+      "target_path": "data/さ/サンガン.json",
+      "evidence": [
+        {
+          "reading": "さんがん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:001373/files/55980_ruby_50555/55980_ruby_50555.txt",
+            "aozora:001373/files/55994_ruby_51329/55994_ruby_51329.txt",
+            "aozora:001373/files/55997_ruby_52886/55997_ruby_52886.txt",
+            "aozora:001373/files/56555_ruby_55578/56555_ruby_55578.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "宥覚",
+      "reading": "ゆうかく",
+      "old_uuid": "4ed8383c-6619-5486-8c6d-9cb5bf6aa38e",
+      "new_uuid": "a3e44351-4d96-5f64-8f90-90363a91c7e2",
+      "source_path": "pending/needs_reading/U+5B00-U+5BFF/宥覚.json",
+      "source_row": 1,
+      "target_path": "data/ゆ/ユウカク.json",
+      "evidence": [
+        {
+          "reading": "ゆうかく",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001562/files/52430_ruby_49708/52430_ruby_49708.txt",
+            "aozora:001562/files/52432_ruby_49712/52432_ruby_49712.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "寰区",
+      "reading": "かんく",
+      "old_uuid": "59e3ad29-495e-599d-90e5-7d9bd63edf41",
+      "new_uuid": "2c8c52f7-265f-5f13-96a5-89575748efdc",
+      "source_path": "pending/needs_reading/U+5B00-U+5BFF/寰区.json",
+      "source_row": 1,
+      "target_path": "data/か/カンク.json",
+      "evidence": [
+        {
+          "reading": "かんく",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000038/files/42202_ruby_48058/42202_ruby_48058.txt",
+            "aozora:000038/files/43243_ruby_16093/43243_ruby_16093.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "崕下",
+      "reading": "がけした",
+      "old_uuid": "dca6fb5a-6900-5946-b170-84af799d92de",
+      "new_uuid": "76394c5f-540e-5e35-856e-a9416a7e165f",
+      "source_path": "pending/needs_reading/U+5D00-U+5DFF/崕下.json",
+      "source_row": 1,
+      "target_path": "data/が/ガケシタ.json",
+      "evidence": [
+        {
+          "reading": "がけした",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001446/files/51948_ruby_55257/51948_ruby_55257.txt",
+            "aozora:001779/files/57519_ruby_73853/57519_ruby_73853.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "崕道",
+      "reading": "がけみち",
+      "old_uuid": "5e0ddba3-30ed-5eef-be4f-0be724460e94",
+      "new_uuid": "73155501-03d9-544e-a45e-6db2121e823d",
+      "source_path": "pending/needs_reading/U+5D00-U+5DFF/崕道.json",
+      "source_row": 1,
+      "target_path": "data/が/ガケミチ.json",
+      "evidence": [
+        {
+          "reading": "がけみち",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000374/files/56014_ruby_68219/56014_ruby_68219.txt",
+            "aozora:001562/files/33224_ruby_73833/33224_ruby_73833.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "嵎",
+      "reading": "ぐう",
+      "old_uuid": "7fae644a-20b0-58e7-8038-2244beb5a496",
+      "new_uuid": "edc50928-bce4-587e-8909-d7284d349e57",
+      "source_path": "pending/needs_reading/U+5D00-U+5DFF/嵎.json",
+      "source_row": 1,
+      "target_path": "data/ぐ/グウ.json",
+      "evidence": [
+        {
+          "reading": "ぐう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 9,
+          "evidence": [
+            "aozora:000050/files/3548_ruby_19571/3548_ruby_19571.txt",
+            "aozora:000050/files/3663_ruby_32332/3663_ruby_32332.txt",
+            "aozora:000165/files/49573_ruby_43406/49573_ruby_43406.txt",
+            "aozora:000165/files/49574_ruby_43368/49574_ruby_43368.txt",
+            "aozora:000255/files/45339_ruby_26695/45339_ruby_26695.txt",
+            "aozora:000283/files/4322_ruby_12033/4322_ruby_12033.txt",
+            "aozora:001369/files/49622_ruby_54184/49622_ruby_54184.txt",
+            "aozora:001562/files/56756_ruby_57338/56756_ruby_57338.txt",
+            "aozora:001562/files/56760_ruby_58767/56760_ruby_58767.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "巒気",
+      "reading": "らんき",
+      "old_uuid": "5cecc1e0-5844-5f19-8200-f39c1abb2a2b",
+      "new_uuid": "1c368898-6375-57b6-8163-e191ed0d025e",
+      "source_path": "pending/needs_reading/U+5D00-U+5DFF/巒気.json",
+      "source_row": 1,
+      "target_path": "data/ら/ランキ.json",
+      "evidence": [
+        {
+          "reading": "らんき",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 5,
+          "evidence": [
+            "aozora:000035/files/287_ruby_3725/287_ruby_3725.txt",
+            "aozora:000106/files/53493_ruby_49073/53493_ruby_49073.txt",
+            "aozora:000106/files/56563_ruby_56942/56563_ruby_56942.txt",
+            "aozora:000283/files/3228_ruby_1849/3228_ruby_1849.txt",
+            "aozora:000303/files/1875_ruby_42799/1875_ruby_42799.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "廃毀",
+      "reading": "はいき",
+      "old_uuid": "0fb8aeb9-2f53-50e7-83fc-ede2509e5bbd",
+      "new_uuid": "8a4b88de-645a-556a-8bdd-c23b85b25502",
+      "source_path": "pending/needs_reading/U+5E00-U+5EFF/ハイ毀.json",
+      "source_row": 1,
+      "target_path": "data/は/ハイキ.json",
+      "evidence": [
+        {
+          "reading": "はいき",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001562/files/56144_ruby_59970/56144_ruby_59970.txt",
+            "aozora:001562/files/56762_ruby_59510/56762_ruby_59510.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "市々",
+      "reading": "まちまち",
+      "old_uuid": "d9802930-3c68-58a7-b9b7-141979a78002",
+      "new_uuid": "567f7d2e-6299-52ba-b4b4-07286000a973",
+      "source_path": "pending/needs_reading/U+5E00-U+5EFF/市々.json",
+      "source_row": 1,
+      "target_path": "data/ま/マチマチ.json",
+      "evidence": [
+        {
+          "reading": "まちまち",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001296/files/47296_ruby_29415/47296_ruby_29415.txt",
+            "aozora:001722/files/55279_ruby_65179/55279_ruby_65179.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "弄策",
+      "reading": "ろうさく",
+      "old_uuid": "9f200411-5e0b-5f50-b2c7-bf00951e37fe",
+      "new_uuid": "385d3858-cc99-53ce-90f1-ae23e8a3c5b4",
+      "source_path": "pending/needs_reading/U+5F00-U+5FFF/弄策.json",
+      "source_row": 1,
+      "target_path": "data/ろ/ロウサク.json",
+      "evidence": [
+        {
+          "reading": "ろうさく",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:001562/files/52417_ruby_50818/52417_ruby_50818.txt",
+            "aozora:001562/files/52419_ruby_51044/52419_ruby_51044.txt",
+            "aozora:001562/files/56755_ruby_54972/56755_ruby_54972.txt",
+            "aozora:001562/files/56761_ruby_58853/56761_ruby_58853.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "彖伝",
+      "reading": "たんでん",
+      "old_uuid": "d855ef9d-fe35-56f6-a8c8-9a5bb19bda52",
+      "new_uuid": "2e5aac1e-b973-5835-9187-dff4059a216d",
+      "source_path": "pending/needs_reading/U+5F00-U+5FFF/彖伝.json",
+      "source_row": 1,
+      "target_path": "data/た/タンデン.json",
+      "evidence": [
+        {
+          "reading": "たんでん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000051/files/1449_ruby_17554/1449_ruby_17554.txt",
+            "aozora:001346/files/49508_ruby_35749/49508_ruby_35749.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "徙崖",
+      "reading": "しがい",
+      "old_uuid": "488b0788-ca7c-58a4-9b38-b513a2336b28",
+      "new_uuid": "9525979a-60e0-5598-abdf-9949e5f25d84",
+      "source_path": "pending/needs_reading/U+5F00-U+5FFF/徙崖.json",
+      "source_row": 1,
+      "target_path": "data/し/シガイ.json",
+      "evidence": [
+        {
+          "reading": "しがい",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000214/files/48882_ruby_72260/48882_ruby_72260.txt",
+            "aozora:000214/files/48913_ruby_74370/48913_ruby_74370.txt",
+            "aozora:000214/files/48999_ruby_75128/48999_ruby_75128.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "忿念",
+      "reading": "ふんねん",
+      "old_uuid": "ffb1e351-2e37-5558-8086-6848f54c379a",
+      "new_uuid": "c846a5b1-1353-5a33-9e72-0fd00c275cae",
+      "source_path": "pending/needs_reading/U+5F00-U+5FFF/忿念.json",
+      "source_row": 1,
+      "target_path": "data/ふ/フンネン.json",
+      "evidence": [
+        {
+          "reading": "ふんねん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000879/files/3760_ruby_27244/3760_ruby_27244.txt",
+            "aozora:001562/files/56151_ruby_60063/56151_ruby_60063.txt",
+            "aozora:001562/files/56151_ruby_70005/56151_ruby_70005.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "恊",
+      "reading": "かな",
+      "old_uuid": "1ea27ded-ef3e-515a-8d70-b6becd420425",
+      "new_uuid": "94ca2aa0-ee0e-5f6f-8e75-604207893b5a",
+      "source_path": "pending/needs_reading/U+6000-U+60FF/恊.json",
+      "source_row": 1,
+      "target_path": "data/か/カナ.json",
+      "evidence": [
+        {
+          "reading": "かな",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000077/files/1323_ruby_30726/1323_ruby_30726.txt",
+            "aozora:001529/files/50685_ruby_67979/50685_ruby_67979.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "悖逆",
+      "reading": "はいぎゃく",
+      "old_uuid": "44a298ba-9769-5157-8abd-d8d16eca87b8",
+      "new_uuid": "76051480-0966-52d2-adf7-cd3142d18629",
+      "source_path": "pending/needs_reading/U+6000-U+60FF/悖逆.json",
+      "source_row": 1,
+      "target_path": "data/は/ハイギャク.json",
+      "evidence": [
+        {
+          "reading": "はいぎゃく",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000093/files/525_ruby/525_ruby.txt",
+            "aozora:000093/files/525_ruby_1904/525_ruby_1904.txt",
+            "aozora:001369/files/51204_ruby_62107/51204_ruby_62107.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "悚毛",
+      "reading": "おぞけ",
+      "old_uuid": "315ee562-515c-5acf-aa1e-f22cb279f96e",
+      "new_uuid": "671ed674-f00e-52c1-9e26-60db2cb03df8",
+      "source_path": "pending/needs_reading/U+6000-U+60FF/悚毛.json",
+      "source_row": 1,
+      "target_path": "data/お/オゾケ.json",
+      "evidence": [
+        {
+          "reading": "おぞけ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000050/files/43466_ruby_25777/43466_ruby_25777.txt",
+            "aozora:000050/files/521_ruby_20582/521_ruby_20582.txt",
+            "aozora:000082/files/478_ruby_33089/478_ruby_33089.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "慰物",
+      "reading": "なぐさみもの",
+      "old_uuid": "a8bc5378-1e7a-5812-89a9-5fe0e67c8ab5",
+      "new_uuid": "f3bf01cf-a3e8-501d-bd93-e150eb02bc11",
+      "source_path": "pending/needs_reading/U+6100-U+61FF/慰物.json",
+      "source_row": 1,
+      "target_path": "data/な/ナグサミモノ.json",
+      "evidence": [
+        {
+          "reading": "なぐさみもの",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000129/files/45224_ruby_19890/45224_ruby_19890.txt",
+            "aozora:000241/files/53034_ruby_42791/53034_ruby_42791.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "憤涙",
+      "reading": "ふんるい",
+      "old_uuid": "8d6eb572-77af-5657-bbdf-414d317d4661",
+      "new_uuid": "08d52de2-b391-516e-b5e2-ed5dc007a9d0",
+      "source_path": "pending/needs_reading/U+6100-U+61FF/憤涙.json",
+      "source_row": 1,
+      "target_path": "data/ふ/フンルイ.json",
+      "evidence": [
+        {
+          "reading": "ふんるい",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001369/files/49622_ruby_54184/49622_ruby_54184.txt",
+            "aozora:001562/files/56758_ruby_57843/56758_ruby_57843.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "懸値",
+      "reading": "かけね",
+      "old_uuid": "62322c8b-b42d-545a-8785-59db861168e1",
+      "new_uuid": "3476a055-95a2-5bdf-982d-70d7bd684bcf",
+      "source_path": "pending/needs_reading/U+6100-U+61FF/懸値.json",
+      "source_row": 1,
+      "target_path": "data/か/カケネ.json",
+      "evidence": [
+        {
+          "reading": "かけね",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 18,
+          "evidence": [
+            "aozora:000050/files/50778_ruby_44361/50778_ruby_44361.txt",
+            "aozora:000093/files/2536_ruby_20126/2536_ruby_20126.txt",
+            "aozora:000093/files/2539_ruby_34476/2539_ruby_34476.txt",
+            "aozora:000111/files/1478_ruby/1478_ruby.txt",
+            "aozora:000111/files/1478_ruby_6087/1478_ruby_6087.txt",
+            "aozora:000148/files/765_ruby_2469/765_ruby_2469.txt",
+            "aozora:000150/files/46616_ruby_53776/46616_ruby_53776.txt",
+            "aozora:000150/files/46618_ruby_54499/46618_ruby_54499.txt",
+            "aozora:000290/files/24376_ruby_19087/24376_ruby_19087.txt",
+            "aozora:001344/files/54860_ruby_49557/54860_ruby_49557.txt",
+            "aozora:001404/files/49966_ruby_44550/49966_ruby_44550.txt",
+            "aozora:001562/files/33224_ruby_73833/33224_ruby_73833.txt",
+            "aozora:001562/files/52415_ruby_50559/52415_ruby_50559.txt",
+            "aozora:001562/files/52420_ruby_51054/52420_ruby_51054.txt",
+            "aozora:001562/files/52423_ruby_49680/52423_ruby_49680.txt",
+            "aozora:001566/files/52505_ruby_50193/52505_ruby_50193.txt",
+            "aozora:001579/files/53503_ruby_62101/53503_ruby_62101.txt",
+            "aozora:001750/files/55812_ruby_72772/55812_ruby_72772.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "懸崕",
+      "reading": "けんがい",
+      "old_uuid": "8f526ccb-eccd-593e-a69a-1d4dae46df08",
+      "new_uuid": "45fe42ec-5e59-5ee8-bae9-5ccfc7dfc0d6",
+      "source_path": "pending/needs_reading/U+6100-U+61FF/懸崕.json",
+      "source_row": 1,
+      "target_path": "data/け/ケンガイ.json",
+      "evidence": [
+        {
+          "reading": "けんがい",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:000220/files/2170_ruby_15466/2170_ruby_15466.txt",
+            "aozora:001034/files/4823_ruby_48360/4823_ruby_48360.txt",
+            "aozora:001341/files/49674_ruby_37956/49674_ruby_37956.txt",
+            "aozora:001341/files/49674_ruby_70014/49674_ruby_70014.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "拊石",
+      "reading": "ふせき",
+      "old_uuid": "ec6077fc-31a4-57df-8537-bdfa8c39b5b5",
+      "new_uuid": "ed5fbaaf-7795-5754-9a86-03b17a2b4212",
+      "source_path": "pending/needs_reading/U+6200-U+62FF/拊石.json",
+      "source_row": 1,
+      "target_path": "data/ふ/フセキ.json",
+      "evidence": [
+        {
+          "reading": "ふせき",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000129/files/2522_ruby/2522_ruby.txt",
+            "aozora:000129/files/2522_ruby_5001/2522_ruby_5001.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "招代",
+      "reading": "ヲギシロ",
+      "old_uuid": "fb0e09b3-4a06-5d43-9f82-baa2001153be",
+      "new_uuid": "f8bb3b84-ea12-52f8-b166-ae1d2fa70b78",
+      "source_path": "pending/needs_reading/U+6200-U+62FF/招代.json",
+      "source_row": 1,
+      "target_path": "data/を/ヲギシロ.json",
+      "evidence": [
+        {
+          "reading": "ヲギシロ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000933/files/18393_ruby_21783/18393_ruby_21783.txt",
+            "aozora:000933/files/46324_ruby_26244/46324_ruby_26244.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "捨白",
+      "reading": "すてぜりふ",
+      "old_uuid": "480d99b8-15f7-5c3b-ade3-6f9649134fbb",
+      "new_uuid": "3c137bb4-b07e-5092-9fac-984227bee1a9",
+      "source_path": "pending/needs_reading/U+6300-U+63FF/捨白.json",
+      "source_row": 1,
+      "target_path": "data/す/ステゼリフ.json",
+      "evidence": [
+        {
+          "reading": "すてぜりふ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000255/files/43769_ruby_18563/43769_ruby_18563.txt",
+            "aozora:001763/files/57392_ruby_64382/57392_ruby_64382.txt",
+            "aozora:001779/files/57522_ruby_74187/57522_ruby_74187.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "捫著",
+      "reading": "もんちゃく",
+      "old_uuid": "194a3e4b-5628-5c81-b634-4ceeea508a20",
+      "new_uuid": "c07bd08f-27b7-5996-9ea1-aea80758b0a5",
+      "source_path": "pending/needs_reading/U+6300-U+63FF/捫著.json",
+      "source_row": 1,
+      "target_path": "data/も/モンチャク.json",
+      "evidence": [
+        {
+          "reading": "もんちゃく",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 13,
+          "evidence": [
+            "aozora:000082/files/1000_ruby_2956/1000_ruby_2956.txt",
+            "aozora:000082/files/1021_ruby_2359/1021_ruby_2359.txt",
+            "aozora:000082/files/1028_ruby_2980/1028_ruby_2980.txt",
+            "aozora:000082/files/1056_ruby_4784/1056_ruby_4784.txt",
+            "aozora:000082/files/1082_ruby_4542/1082_ruby_4542.txt",
+            "aozora:000082/files/475_ruby_1665/475_ruby_1665.txt",
+            "aozora:000082/files/958_ruby_1796/958_ruby_1796.txt",
+            "aozora:000082/files/972_ruby_2038/972_ruby_2038.txt",
+            "aozora:000082/files/981_ruby_5444/981_ruby_5444.txt",
+            "aozora:000082/files/985_ruby_3039/985_ruby_3039.txt",
+            "aozora:000082/files/989_ruby_1668/989_ruby_1668.txt",
+            "aozora:000082/files/990_ruby_2496/990_ruby_2496.txt",
+            "aozora:000082/files/998_ruby_1620/998_ruby_1620.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "掎角",
+      "reading": "きかく",
+      "old_uuid": "9b796aa6-da30-5b4a-af21-385c94d0129a",
+      "new_uuid": "e60c1886-caa8-58d5-b16d-9e23f65fcb79",
+      "source_path": "pending/needs_reading/U+6300-U+63FF/掎角.json",
+      "source_row": 1,
+      "target_path": "data/き/キカク.json",
+      "evidence": [
+        {
+          "reading": "きかく",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:001206/files/46828_ruby_24774/46828_ruby_24774.txt",
+            "aozora:001562/files/52413_ruby_50406/52413_ruby_50406.txt",
+            "aozora:001562/files/52416_ruby_50636/52416_ruby_50636.txt",
+            "aozora:001562/files/52419_ruby_51044/52419_ruby_51044.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "採樵",
+      "reading": "さいしょう",
+      "old_uuid": "23d00b5a-bbcf-5f27-ac9e-fc62ae679c3c",
+      "new_uuid": "5db2763e-d589-5cff-827f-a202e05d8630",
+      "source_path": "pending/needs_reading/U+6300-U+63FF/採樵.json",
+      "source_row": 1,
+      "target_path": "data/さ/サイショウ.json",
+      "evidence": [
+        {
+          "reading": "さいしょう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001566/files/52505_ruby_50193/52505_ruby_50193.txt",
+            "aozora:001566/files/58544_ruby_68700/58544_ruby_68700.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "採蓴",
+      "reading": "さいじゅん",
+      "old_uuid": "b1adce84-582f-5c1c-a123-870eb5fca7ea",
+      "new_uuid": "314803f7-1ab6-594d-881d-8e9b9e7ea3d0",
+      "source_path": "pending/needs_reading/U+6300-U+63FF/採蓴.json",
+      "source_row": 1,
+      "target_path": "data/さ/サイジュン.json",
+      "evidence": [
+        {
+          "reading": "さいじゅん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000305/files/47985_ruby_40770/47985_ruby_40770.txt",
+            "aozora:000305/files/57362_ruby_60184/57362_ruby_60184.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "撲地",
+      "reading": "はた",
+      "old_uuid": "654642d0-1fd8-5190-806c-f2f1a3b33e48",
+      "new_uuid": "75690be8-38a6-536a-b1c9-f2c1eb0965f6",
+      "source_path": "pending/needs_reading/U+6400-U+64FF/撲地.json",
+      "source_row": 1,
+      "target_path": "data/は/ハタ.json",
+      "evidence": [
+        {
+          "reading": "はた",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000082/files/49682_ruby_51214/49682_ruby_51214.txt",
+            "aozora:000981/files/3646_ruby_5721/3646_ruby_5721.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "擺動",
+      "reading": "はいどう",
+      "old_uuid": "c3b07b6a-ad93-573c-a2af-403dcf1eb1f6",
+      "new_uuid": "b348b254-c361-5be2-9e69-bd09c64a4250",
+      "source_path": "pending/needs_reading/U+6400-U+64FF/擺動.json",
+      "source_row": 1,
+      "target_path": "data/は/ハイドウ.json",
+      "evidence": [
+        {
+          "reading": "はいどう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:001094/files/42601_ruby_25139/42601_ruby_25139.txt",
+            "aozora:001149/files/43550_ruby_17062/43550_ruby_17062.txt",
+            "aozora:001149/files/43551_ruby_17188/43551_ruby_17188.txt",
+            "aozora:001149/files/46188_ruby_38071/46188_ruby_38071.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "攫徒",
+      "reading": "すり",
+      "old_uuid": "554c44f0-ce5f-5c35-bcaa-5b194b1743d2",
+      "new_uuid": "4d0f97a6-f541-5cd8-aa1c-e4067c1ce529",
+      "source_path": "pending/needs_reading/U+6500-U+65FF/攫徒.json",
+      "source_row": 1,
+      "target_path": "data/す/スリ.json",
+      "evidence": [
+        {
+          "reading": "すり",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:000050/files/1087_ruby_4443/1087_ruby_4443.txt",
+            "aozora:000129/files/45224_ruby_19890/45224_ruby_19890.txt",
+            "aozora:000148/files/765_ruby_2469/765_ruby_2469.txt",
+            "aozora:000270/files/46544_ruby_24231/46544_ruby_24231.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "曖気",
+      "reading": "おくび",
+      "old_uuid": "e57b061b-ba8e-5b8a-ba55-a4f6bab36a31",
+      "new_uuid": "fb21bf34-c12a-52d6-bbaa-81be87c26999",
+      "source_path": "pending/needs_reading/U+6600-U+66FF/曖気.json",
+      "source_row": 1,
+      "target_path": "data/お/オクビ.json",
+      "evidence": [
+        {
+          "reading": "おくび",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000096/files/2093_ruby_28087/2093_ruby_28087.txt",
+            "aozora:000363/files/2069_ruby_6004/2069_ruby_6004.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "曳金",
+      "reading": "ひきがね",
+      "old_uuid": "a946f8ee-f244-5738-bed3-47d6a76d8743",
+      "new_uuid": "25df153e-ff1a-5ea0-be19-4e271852567b",
+      "source_path": "pending/needs_reading/U+6600-U+66FF/曳金.json",
+      "source_row": 1,
+      "target_path": "data/ひ/ヒキガネ.json",
+      "evidence": [
+        {
+          "reading": "ひきがね",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000067/files/1770_ruby/1770_ruby.txt",
+            "aozora:000067/files/1770_ruby_4224/1770_ruby_4224.txt",
+            "aozora:000310/files/1911_ruby_50235/1911_ruby_50235.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "杲々",
+      "reading": "こうこう",
+      "old_uuid": "ecf11b72-ba1a-5cb9-bb97-4dab7711ff17",
+      "new_uuid": "131f286f-6c69-5224-9832-1332f226ff28",
+      "source_path": "pending/needs_reading/U+6700-U+67FF/杲々.json",
+      "source_row": 1,
+      "target_path": "data/こ/コウコウ.json",
+      "evidence": [
+        {
+          "reading": "こうこう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000279/files/1704_ruby_6918/1704_ruby_6918.txt",
+            "aozora:000283/files/4321_ruby_11324/4321_ruby_11324.txt",
+            "aozora:001369/files/49622_ruby_54184/49622_ruby_54184.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "柁機",
+      "reading": "だき",
+      "old_uuid": "db3ae5c9-0352-51a3-bf22-656bb166bc4b",
+      "new_uuid": "e7acb863-0544-5bdd-875f-5bc3b9c8ebf3",
+      "source_path": "pending/needs_reading/U+6700-U+67FF/柁機.json",
+      "source_row": 1,
+      "target_path": "data/だ/ダキ.json",
+      "evidence": [
+        {
+          "reading": "だき",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000017/files/224_ruby_23183/224_ruby_23183.txt",
+            "aozora:000129/files/2058_ruby_19627/2058_ruby_19627.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "梳手",
+      "reading": "すきて",
+      "old_uuid": "4778f675-7861-5011-98e7-e601a9ebbcc4",
+      "new_uuid": "b24c13cf-1ab5-5935-844c-42e0ac17e811",
+      "source_path": "pending/needs_reading/U+6800-U+68FF/梳手.json",
+      "source_row": 1,
+      "target_path": "data/す/スキテ.json",
+      "evidence": [
+        {
+          "reading": "すきて",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 12,
+          "evidence": [
+            "aozora:000023/files/1698_ruby/1698_ruby.txt",
+            "aozora:000023/files/1698_ruby_4968/1698_ruby_4968.txt",
+            "aozora:000050/files/1087_ruby_4443/1087_ruby_4443.txt",
+            "aozora:000050/files/3578_ruby_19567/3578_ruby_19567.txt",
+            "aozora:000148/files/758_ruby_6056/758_ruby_6056.txt",
+            "aozora:000148/files/783_ruby_1311/783_ruby_1311.txt",
+            "aozora:000290/files/48048_ruby_31593/48048_ruby_31593.txt",
+            "aozora:001341/files/52359_ruby_47303/52359_ruby_47303.txt",
+            "aozora:001670/files/54694_ruby_52003/54694_ruby_52003.txt",
+            "aozora:001670/files/57216_ruby_63826/57216_ruby_63826.txt",
+            "aozora:001867/files/58185_ruby_62754/58185_ruby_62754.txt",
+            "aozora:001867/files/58195_ruby_66681/58195_ruby_66681.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "檐下",
+      "reading": "のきした",
+      "old_uuid": "4fc2ecec-0ca6-5ffd-83a8-716b2ed20b66",
+      "new_uuid": "6c12c1a0-7ad6-5247-9416-eb7ab11df18c",
+      "source_path": "pending/needs_reading/U+6A00-U+6AFF/檐下.json",
+      "source_row": 1,
+      "target_path": "data/の/ノキシタ.json",
+      "evidence": [
+        {
+          "reading": "のきした",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 13,
+          "evidence": [
+            "aozora:000050/files/48396_ruby_57445/48396_ruby_57445.txt",
+            "aozora:000050/files/50108_ruby_72063/50108_ruby_72063.txt",
+            "aozora:000050/files/50542_ruby_65644/50542_ruby_65644.txt",
+            "aozora:000082/files/1303_ruby_13257/1303_ruby_13257.txt",
+            "aozora:000118/files/1745_ruby_16881/1745_ruby_16881.txt",
+            "aozora:000129/files/2547_ruby/2547_ruby.txt",
+            "aozora:000279/files/1704_ruby_6918/1704_ruby_6918.txt",
+            "aozora:000361/files/2067_ruby_5574/2067_ruby_5574.txt",
+            "aozora:000989/files/50093_ruby_35512/50093_ruby_35512.txt",
+            "aozora:001224/files/46134_ruby_29152/46134_ruby_29152.txt",
+            "aozora:001224/files/46629_ruby_29298/46629_ruby_29298.txt",
+            "aozora:001373/files/55994_ruby_51329/55994_ruby_51329.txt",
+            "aozora:001562/files/52434_ruby_49776/52434_ruby_49776.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "欸乃",
+      "reading": "あいだい",
+      "old_uuid": "7fd164a3-0c11-5c62-a2a6-37ccf9ee48a4",
+      "new_uuid": "5fbc06bd-b2ad-55b9-a623-acfee262dc15",
+      "source_path": "pending/needs_reading/U+6B00-U+6BFF/欸乃.json",
+      "source_row": 1,
+      "target_path": "data/あ/アイダイ.json",
+      "evidence": [
+        {
+          "reading": "あいだい",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000042/files/24390_ruby_14013/24390_ruby_14013.txt",
+            "aozora:000042/files/24407_ruby_12187/24407_ruby_12187.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "添竹",
+      "reading": "そえだけ",
+      "old_uuid": "12f8f011-11fc-57f5-9f39-6732a1ce3bda",
+      "new_uuid": "ee18a002-47e0-52d2-9af9-06faa15b2511",
+      "source_path": "pending/needs_reading/U+6D00-U+6DFF/添竹.json",
+      "source_row": 1,
+      "target_path": "data/そ/ソエダケ.json",
+      "evidence": [
+        {
+          "reading": "そえだけ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000050/files/3587_ruby_5923/3587_ruby_5923.txt",
+            "aozora:001562/files/56568_ruby_54960/56568_ruby_54960.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "激潮",
+      "reading": "げきちょう",
+      "old_uuid": "384ea47a-48cc-5ca1-83af-0f190abb9c0f",
+      "new_uuid": "55c8a0e4-3878-5540-8aea-af7be59d303e",
+      "source_path": "pending/needs_reading/U+6F00-U+6FFF/激潮.json",
+      "source_row": 1,
+      "target_path": "data/げ/ゲキチョウ.json",
+      "evidence": [
+        {
+          "reading": "げきちょう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000290/files/24376_ruby_19087/24376_ruby_19087.txt",
+            "aozora:001562/files/56762_ruby_59510/56762_ruby_59510.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "濡椽",
+      "reading": "ぬれえん",
+      "old_uuid": "b552e0f2-8443-51a0-8ebb-1cbcafa8d653",
+      "new_uuid": "add1586c-3b7b-57be-8857-be4e4fe424a4",
+      "source_path": "pending/needs_reading/U+6F00-U+6FFF/濡椽.json",
+      "source_row": 1,
+      "target_path": "data/ぬ/ヌレエン.json",
+      "evidence": [
+        {
+          "reading": "ぬれえん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001034/files/4823_ruby_48360/4823_ruby_48360.txt",
+            "aozora:001359/files/49254_ruby_32203/49254_ruby_32203.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "炊立",
+      "reading": "たきたて",
+      "old_uuid": "1afe98b5-c513-519f-9510-ea3fef944165",
+      "new_uuid": "d8324e04-b38b-5749-a970-9a9ac7130719",
+      "source_path": "pending/needs_reading/U+7000-U+70FF/炊立.json",
+      "source_row": 1,
+      "target_path": "data/た/タキタテ.json",
+      "evidence": [
+        {
+          "reading": "たきたて",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:000158/files/1509_ruby/1509_ruby.txt",
+            "aozora:000158/files/1509_ruby_4945/1509_ruby_4945.txt",
+            "aozora:000989/files/1488_ruby_5040/1488_ruby_5040.txt",
+            "aozora:000989/files/350_ruby_33175/350_ruby_33175.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "炳焉",
+      "reading": "へいえん",
+      "old_uuid": "e4aac3f0-3648-50dd-bf1b-59c6d56645fe",
+      "new_uuid": "1f5ea0d3-9892-5cda-87bd-9bc80a15e890",
+      "source_path": "pending/needs_reading/U+7000-U+70FF/炳焉.json",
+      "source_row": 1,
+      "target_path": "data/へ/ヘイエン.json",
+      "evidence": [
+        {
+          "reading": "へいえん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:000148/files/755_ruby_3617/755_ruby_3617.txt",
+            "aozora:000249/files/49655_ruby_34886/49655_ruby_34886.txt",
+            "aozora:000879/files/93_ruby_2011/93_ruby_2011.txt",
+            "aozora:001535/files/53730_ruby_51546/53730_ruby_51546.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "瑩瑩",
+      "reading": "えいえい",
+      "old_uuid": "1b97e20d-f2dd-5a18-a8bf-474be1960697",
+      "new_uuid": "33c8cf03-02e7-5f3f-ba8d-bef58148c0f4",
+      "source_path": "pending/needs_reading/U+7400-U+74FF/瑩瑩.json",
+      "source_row": 1,
+      "target_path": "data/え/エイエイ.json",
+      "evidence": [
+        {
+          "reading": "えいえい",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001341/files/49674_ruby_37956/49674_ruby_37956.txt",
+            "aozora:001341/files/49674_ruby_70014/49674_ruby_70014.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "痳疹",
+      "reading": "はしか",
+      "old_uuid": "6dd28ad8-a10b-5584-8e14-7dedf492da81",
+      "new_uuid": "82fcccd0-a908-5bc9-bd63-04ce4ddf75ac",
+      "source_path": "pending/needs_reading/U+7500-U+75FF/痳疹.json",
+      "source_row": 1,
+      "target_path": "data/は/ハシカ.json",
+      "evidence": [
+        {
+          "reading": "はしか",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000096/files/45628_ruby_45707/45628_ruby_45707.txt",
+            "aozora:000158/files/1504_ruby_6153/1504_ruby_6153.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "瘠馬",
+      "reading": "やせうま",
+      "old_uuid": "ca32acc0-1aad-51aa-921a-b7ba1b5477ce",
+      "new_uuid": "dae68245-be3f-5d8f-9a37-c513550519c0",
+      "source_path": "pending/needs_reading/U+7600-U+76FF/瘠馬.json",
+      "source_row": 1,
+      "target_path": "data/や/ヤセウマ.json",
+      "evidence": [
+        {
+          "reading": "やせうま",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000280/files/1708_ruby_21318/1708_ruby_21318.txt",
+            "aozora:000286/files/1758_ruby/1758_ruby.txt",
+            "aozora:000286/files/49178_ruby_58807/49178_ruby_58807.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "瞽官",
+      "reading": "こかん",
+      "old_uuid": "f996465b-57f0-58fd-a703-03e9a7d377e8",
+      "new_uuid": "8efcb787-b1f6-5e53-aa00-eca505914f5d",
+      "source_path": "pending/needs_reading/U+7700-U+77FF/瞽官.json",
+      "source_row": 1,
+      "target_path": "data/こ/コカン.json",
+      "evidence": [
+        {
+          "reading": "こかん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001383/files/56945_ruby_58719/56945_ruby_58719.txt",
+            "aozora:001562/files/52435_ruby_49773/52435_ruby_49773.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "矇",
+      "reading": "もう",
+      "old_uuid": "99f62f8e-7a6b-5431-b7ba-97d0cca66310",
+      "new_uuid": "2f693b84-77c5-553c-b30f-05b358e04c56",
+      "source_path": "pending/needs_reading/U+7700-U+77FF/矇.json",
+      "source_row": 1,
+      "target_path": "data/も/モウ.json",
+      "evidence": [
+        {
+          "reading": "もう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:001562/files/52436_ruby_50544/52436_ruby_50544.txt",
+            "aozora:001562/files/56070_ruby_54469/56070_ruby_54469.txt",
+            "aozora:001562/files/56146_ruby_66665/56146_ruby_66665.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "矮草",
+      "reading": "わいそう",
+      "old_uuid": "cbfa59f1-4334-59f1-b1cc-d03a2000ed44",
+      "new_uuid": "e5039e80-2302-5251-873a-382f2490c3ff",
+      "source_path": "pending/needs_reading/U+7700-U+77FF/矮草.json",
+      "source_row": 1,
+      "target_path": "data/わ/ワイソウ.json",
+      "evidence": [
+        {
+          "reading": "わいそう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000042/files/2506_ruby_13837/2506_ruby_13837.txt",
+            "aozora:000042/files/2510_ruby_13845/2510_ruby_13845.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "稟資",
+      "reading": "ひんし",
+      "old_uuid": "8dd80bc3-0d21-5828-a4bd-8cefdb5e4a70",
+      "new_uuid": "09582da6-5299-5d7e-b987-8756f90733cb",
+      "source_path": "pending/needs_reading/U+7A00-U+7AFF/稟資.json",
+      "source_row": 1,
+      "target_path": "data/ひ/ヒンシ.json",
+      "evidence": [
+        {
+          "reading": "ひんし",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000025/files/1144_ruby_12163/1144_ruby_12163.txt",
+            "aozora:000025/files/1144_txt_11073/1144_txt_11073.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "竦毛",
+      "reading": "おぞけ",
+      "old_uuid": "63fe9703-cabf-5404-8691-f30719175d55",
+      "new_uuid": "d493bb42-bb2c-5eff-a938-507faaea094e",
+      "source_path": "pending/needs_reading/U+7A00-U+7AFF/竦毛.json",
+      "source_row": 1,
+      "target_path": "data/お/オゾケ.json",
+      "evidence": [
+        {
+          "reading": "おぞけ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000082/files/1042_ruby_4779/1042_ruby_4779.txt",
+            "aozora:000726/files/4984_ruby_9333/4984_ruby_9333.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "筮亀",
+      "reading": "ぜいき",
+      "old_uuid": "f4aedd9b-d756-567f-9786-d5cde76f1b8e",
+      "new_uuid": "59a14edf-6f91-5047-bbf8-7cbee656fbdd",
+      "source_path": "pending/needs_reading/U+7B00-U+7BFF/筮亀.json",
+      "source_row": 1,
+      "target_path": "data/ぜ/ゼイキ.json",
+      "evidence": [
+        {
+          "reading": "ぜいき",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001930/files/58400_ruby_69156/58400_ruby_69156.txt",
+            "aozora:001930/files/58401_ruby_70228/58401_ruby_70228.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "筮法",
+      "reading": "ぜいほう",
+      "old_uuid": "722ac745-ef6d-5bfe-8440-356ec49b535c",
+      "new_uuid": "e13ce575-7c79-57c5-8bb8-b2872e7e98af",
+      "source_path": "pending/needs_reading/U+7B00-U+7BFF/筮法.json",
+      "source_row": 1,
+      "target_path": "data/ぜ/ゼイホウ.json",
+      "evidence": [
+        {
+          "reading": "ぜいほう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000168/files/4887_ruby_64034/4887_ruby_64034.txt",
+            "aozora:001021/files/49373_ruby_39099/49373_ruby_39099.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "簷下",
+      "reading": "のきした",
+      "old_uuid": "6b05bb90-c405-5f25-aff6-781dd1419cdf",
+      "new_uuid": "7f1b4a1e-8177-519f-817a-6a1338f26a83",
+      "source_path": "pending/needs_reading/U+7C00-U+7CFF/簷下.json",
+      "source_row": 1,
+      "target_path": "data/の/ノキシタ.json",
+      "evidence": [
+        {
+          "reading": "のきした",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 18,
+          "evidence": [
+            "aozora:000076/files/4187_ruby_17890/4187_ruby_17890.txt",
+            "aozora:000129/files/45224_ruby_19890/45224_ruby_19890.txt",
+            "aozora:000129/files/58982_ruby_72616/58982_ruby_72616.txt",
+            "aozora:000154/files/1609_ruby/1609_ruby.txt",
+            "aozora:000154/files/1609_ruby_5214/1609_ruby_5214.txt",
+            "aozora:000154/files/1632_ruby_8121/1632_ruby_8121.txt",
+            "aozora:000154/files/1640_ruby_11884/1640_ruby_11884.txt",
+            "aozora:000154/files/1661_ruby_11885/1661_ruby_11885.txt",
+            "aozora:000154/files/3676_ruby_11934/3676_ruby_11934.txt",
+            "aozora:000154/files/42319_ruby_23041/42319_ruby_23041.txt",
+            "aozora:000154/files/45624_ruby_40554/45624_ruby_40554.txt",
+            "aozora:000154/files/52263_ruby_47122/52263_ruby_47122.txt",
+            "aozora:000154/files/52268_ruby_47426/52268_ruby_47426.txt",
+            "aozora:000154/files/821_ruby/821_ruby.txt",
+            "aozora:000158/files/1506_ruby_1919/1506_ruby_1919.txt",
+            "aozora:000984/files/53043_ruby_45437/53043_ruby_45437.txt",
+            "aozora:001124/files/42934_ruby_16367/42934_ruby_16367.txt",
+            "aozora:001124/files/43413_ruby_22450/43413_ruby_22450.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "紛論",
+      "reading": "ふんろん",
+      "old_uuid": "c37dd294-40a3-5cde-854e-976c23d69137",
+      "new_uuid": "379fe0c9-388c-55c7-823b-344286e380a4",
+      "source_path": "pending/needs_reading/U+7D00-U+7DFF/紛論.json",
+      "source_row": 1,
+      "target_path": "data/ふ/フンロン.json",
+      "evidence": [
+        {
+          "reading": "ふんろん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 5,
+          "evidence": [
+            "aozora:001562/files/52411_ruby_50077/52411_ruby_50077.txt",
+            "aozora:001562/files/53195_ruby_50518/53195_ruby_50518.txt",
+            "aozora:001562/files/56144_ruby_59970/56144_ruby_59970.txt",
+            "aozora:001562/files/56761_ruby_58853/56761_ruby_58853.txt",
+            "aozora:001562/files/58019_ruby_65428/58019_ruby_65428.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "羔羊",
+      "reading": "こひつじ",
+      "old_uuid": "3c68a1eb-40f4-58b5-a5fb-e13341dd9293",
+      "new_uuid": "2343c565-ac87-53fd-ba04-3d76b165ca90",
+      "source_path": "pending/needs_reading/U+7F00-U+7FFF/羔羊.json",
+      "source_row": 1,
+      "target_path": "data/こ/コヒツジ.json",
+      "evidence": [
+        {
+          "reading": "こひつじ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001538/files/60192_ruby_74782/60192_ruby_74782.txt",
+            "aozora:001538/files/60358_ruby_76740/60358_ruby_76740.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "羨怨",
+      "reading": "せんえん",
+      "old_uuid": "0a266043-8c1f-5074-9179-7edf7f44ba51",
+      "new_uuid": "4c3920ae-206f-5b94-ab0e-e6cfdf237a83",
+      "source_path": "pending/needs_reading/U+7F00-U+7FFF/羨怨.json",
+      "source_row": 1,
+      "target_path": "data/せ/センエン.json",
+      "evidence": [
+        {
+          "reading": "せんえん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001341/files/49648_ruby_39469/49648_ruby_39469.txt",
+            "aozora:001341/files/49670_ruby_37915/49670_ruby_37915.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "荐橋",
+      "reading": "そんきょう",
+      "old_uuid": "93dbda89-70ec-523d-af0c-72eef7f90d60",
+      "new_uuid": "5368a83a-0463-5d57-8fe0-73244f6d2969",
+      "source_path": "pending/needs_reading/U+8300-U+83FF/荐橋.json",
+      "source_row": 1,
+      "target_path": "data/そ/ソンキョウ.json",
+      "evidence": [
+        {
+          "reading": "そんきょう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000154/files/1632_ruby_8121/1632_ruby_8121.txt",
+            "aozora:000154/files/42319_ruby_23041/42319_ruby_23041.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "薬罎",
+      "reading": "くすりびん",
+      "old_uuid": "f2ffb50b-cf25-5fe3-9240-834898cc8f58",
+      "new_uuid": "4eed1709-507b-5a45-93f3-c7319a9db733",
+      "source_path": "pending/needs_reading/U+8500-U+85FF/クスリ罎.json",
+      "source_row": 1,
+      "target_path": "data/く/クスリビン.json",
+      "evidence": [
+        {
+          "reading": "くすりびん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 6,
+          "evidence": [
+            "aozora:000038/files/4514_ruby_15727/4514_ruby_15727.txt",
+            "aozora:000106/files/49617_ruby_34591/49617_ruby_34591.txt",
+            "aozora:000125/files/1317_ruby_22263/1317_ruby_22263.txt",
+            "aozora:000879/files/174_ruby_1111/174_ruby_1111.txt",
+            "aozora:000879/files/184_ruby_897/184_ruby_897.txt",
+            "aozora:001030/files/4811_ruby_14377/4811_ruby_14377.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "藕花",
+      "reading": "ぐうか",
+      "old_uuid": "e5e1f51d-8b5c-5695-8211-45889464f617",
+      "new_uuid": "63c7d813-d0d9-5868-81e7-b028f0370ad8",
+      "source_path": "pending/needs_reading/U+8500-U+85FF/藕花.json",
+      "source_row": 1,
+      "target_path": "data/ぐ/グウカ.json",
+      "evidence": [
+        {
+          "reading": "ぐうか",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:001341/files/49658_ruby_37636/49658_ruby_37636.txt",
+            "aozora:001341/files/49658_ruby_70066/49658_ruby_70066.txt",
+            "aozora:001341/files/58863_ruby_74563/58863_ruby_74563.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "衰耄",
+      "reading": "すいもう",
+      "old_uuid": "6ed20f22-20f5-586c-9549-45eb288c8f0d",
+      "new_uuid": "3ec854f5-9f43-598c-b25a-c347c67fda19",
+      "source_path": "pending/needs_reading/U+8800-U+88FF/衰耄.json",
+      "source_row": 1,
+      "target_path": "data/す/スイモウ.json",
+      "evidence": [
+        {
+          "reading": "すいもう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000158/files/1510_ruby/1510_ruby.txt",
+            "aozora:000158/files/1510_ruby_4951/1510_ruby_4951.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "裂布",
+      "reading": "きれ",
+      "old_uuid": "dabdb19f-a690-5395-aecf-4600f73ad0ea",
+      "new_uuid": "502b9aa1-77f6-5d1e-bf71-0dabfd40e6e6",
+      "source_path": "pending/needs_reading/U+8800-U+88FF/裂布.json",
+      "source_row": 1,
+      "target_path": "data/き/キレ.json",
+      "evidence": [
+        {
+          "reading": "きれ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000106/files/53187_ruby_63008/53187_ruby_63008.txt",
+            "aozora:001520/files/56753_ruby_70952/56753_ruby_70952.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "襤縷",
+      "reading": "ぼろ",
+      "old_uuid": "6a94b033-3123-5e7f-b385-976731d7f2b9",
+      "new_uuid": "ddbfeeb5-191c-5352-8ae6-ce7119892bfe",
+      "source_path": "pending/needs_reading/U+8900-U+89FF/襤縷.json",
+      "source_row": 1,
+      "target_path": "data/ぼ/ボロ.json",
+      "evidence": [
+        {
+          "reading": "ぼろ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000134/files/51274_ruby_42076/51274_ruby_42076.txt",
+            "aozora:000363/files/42286_ruby_36920/42286_ruby_36920.txt",
+            "aozora:001764/files/55990_ruby_60177/55990_ruby_60177.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "謳者",
+      "reading": "うたひて",
+      "old_uuid": "26aeea60-bd08-50c8-9887-6b868010b642",
+      "new_uuid": "6ff5f308-f388-58d6-92dd-652956d62799",
+      "source_path": "pending/needs_reading/U+8B00-U+8BFF/謳者.json",
+      "source_row": 1,
+      "target_path": "data/う/ウタヒテ.json",
+      "evidence": [
+        {
+          "reading": "うたひて",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000019/files/4376_ruby_18828/4376_ruby_18828.txt",
+            "aozora:000120/files/4663_ruby_15314/4663_ruby_15314.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "貲",
+      "reading": "し",
+      "old_uuid": "0144d349-6b6e-5383-898c-be7a42691015",
+      "new_uuid": "f86f03cf-90cc-5162-a340-17409a9dfe9f",
+      "source_path": "pending/needs_reading/U+8C00-U+8CFF/貲.json",
+      "source_row": 1,
+      "target_path": "data/し/シ.json",
+      "evidence": [
+        {
+          "reading": "し",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 8,
+          "evidence": [
+            "aozora:000051/files/1452_ruby_16916/1452_ruby_16916.txt",
+            "aozora:000129/files/2058_ruby_19627/2058_ruby_19627.txt",
+            "aozora:000129/files/2084_ruby_17360/2084_ruby_17360.txt",
+            "aozora:001266/files/55789_ruby_52745/55789_ruby_52745.txt",
+            "aozora:001341/files/49635_ruby_39468/49635_ruby_39468.txt",
+            "aozora:001341/files/49648_ruby_39469/49648_ruby_39469.txt",
+            "aozora:001341/files/49674_ruby_37956/49674_ruby_37956.txt",
+            "aozora:001341/files/49674_ruby_70014/49674_ruby_70014.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "貶斥",
+      "reading": "へんせき",
+      "old_uuid": "ad7cf16d-c578-5c82-89d7-1c6c08151f5d",
+      "new_uuid": "5e64903d-7a66-53cd-b842-545bc63779ed",
+      "source_path": "pending/needs_reading/U+8C00-U+8CFF/貶斥.json",
+      "source_row": 1,
+      "target_path": "data/へ/ヘンセキ.json",
+      "evidence": [
+        {
+          "reading": "へんせき",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000129/files/2084_ruby_17360/2084_ruby_17360.txt",
+            "aozora:000235/files/2259_ruby_2139/2259_ruby_2139.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "贖主",
+      "reading": "あがないぬし",
+      "old_uuid": "98714a80-ce38-565f-b3f9-2e10d91f75f0",
+      "new_uuid": "3808dbfb-a31b-517c-a196-2fe75f1370ff",
+      "source_path": "pending/needs_reading/U+8D00-U+8DFF/贖主.json",
+      "source_row": 1,
+      "target_path": "data/あ/アガナイヌシ.json",
+      "evidence": [
+        {
+          "reading": "あがないぬし",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:000034/files/56908_ruby_64050/56908_ruby_64050.txt",
+            "aozora:000256/files/2590_ruby_20694/2590_ruby_20694.txt",
+            "aozora:001030/files/4847_ruby_14151/4847_ruby_14151.txt",
+            "aozora:001093/files/42594_ruby_29008/42594_ruby_29008.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "蹂口",
+      "reading": "にじりぐち",
+      "old_uuid": "cfeece33-df5f-56ff-8195-47a091500a98",
+      "new_uuid": "dabfe906-4cbd-55cd-b71e-fea3876b3347",
+      "source_path": "pending/needs_reading/U+8E00-U+8EFF/蹂口.json",
+      "source_row": 1,
+      "target_path": "data/に/ニジリグチ.json",
+      "evidence": [
+        {
+          "reading": "にじりぐち",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000129/files/2522_ruby/2522_ruby.txt",
+            "aozora:000129/files/2522_ruby_5001/2522_ruby_5001.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "蹈台",
+      "reading": "ふみだい",
+      "old_uuid": "f02c2ace-ca6d-5916-af43-c0abe2582098",
+      "new_uuid": "70ce5bfc-a15d-5dda-85fc-13e2b66dd56c",
+      "source_path": "pending/needs_reading/U+8E00-U+8EFF/蹈台.json",
+      "source_row": 1,
+      "target_path": "data/ふ/フミダイ.json",
+      "evidence": [
+        {
+          "reading": "ふみだい",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:000050/files/3651_ruby_25794/3651_ruby_25794.txt",
+            "aozora:000121/files/45086_ruby_63482/45086_ruby_63482.txt",
+            "aozora:001383/files/56869_ruby_60005/56869_ruby_60005.txt",
+            "aozora:001383/files/57416_ruby_71251/57416_ruby_71251.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "輓詩",
+      "reading": "ばんし",
+      "old_uuid": "616a96a1-78bc-5794-bb36-885735bae52c",
+      "new_uuid": "9071b6aa-1ef2-57e0-8d8a-ac70cf05d4c3",
+      "source_path": "pending/needs_reading/U+8F00-U+8FFF/輓詩.json",
+      "source_row": 1,
+      "target_path": "data/ば/バンシ.json",
+      "evidence": [
+        {
+          "reading": "ばんし",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000129/files/2084_ruby_17360/2084_ruby_17360.txt",
+            "aozora:001341/files/58863_ruby_74563/58863_ruby_74563.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "轣轆",
+      "reading": "れきろく",
+      "old_uuid": "232b502d-fb7e-51e6-b129-ad960af380a6",
+      "new_uuid": "91fde555-7668-53a9-8cbe-e343fb1d643f",
+      "source_path": "pending/needs_reading/U+8F00-U+8FFF/轣轆.json",
+      "source_row": 1,
+      "target_path": "data/れ/レキロク.json",
+      "evidence": [
+        {
+          "reading": "れきろく",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 14,
+          "evidence": [
+            "aozora:000050/files/1087_ruby_4443/1087_ruby_4443.txt",
+            "aozora:000050/files/1188_ruby_21705/1188_ruby_21705.txt",
+            "aozora:000050/files/4741_ruby_10245/4741_ruby_10245.txt",
+            "aozora:000050/files/48400_ruby_47126/48400_ruby_47126.txt",
+            "aozora:000050/files/50108_ruby_72063/50108_ruby_72063.txt",
+            "aozora:000064/files/55665_ruby_54734/55665_ruby_54734.txt",
+            "aozora:000074/files/42292_ruby_14026/42292_ruby_14026.txt",
+            "aozora:000235/files/51173_ruby_41630/51173_ruby_41630.txt",
+            "aozora:000525/files/3507_ruby_11857/3507_ruby_11857.txt",
+            "aozora:000879/files/3764_ruby_27200/3764_ruby_27200.txt",
+            "aozora:000929/files/55652_ruby_51175/55652_ruby_51175.txt",
+            "aozora:001369/files/49622_ruby_54184/49622_ruby_54184.txt",
+            "aozora:001562/files/52451_ruby_50002/52451_ruby_50002.txt",
+            "aozora:001758/files/55978_ruby_56329/55978_ruby_56329.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "迂儒",
+      "reading": "うじゅ",
+      "old_uuid": "9845cd71-8b5b-5ae5-aba3-9afcb395fcd0",
+      "new_uuid": "937a53dd-020b-5e4c-b079-1a2b8dfbe6d8",
+      "source_path": "pending/needs_reading/U+8F00-U+8FFF/迂儒.json",
+      "source_row": 1,
+      "target_path": "data/う/ウジュ.json",
+      "evidence": [
+        {
+          "reading": "うじゅ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:000093/files/525_ruby/525_ruby.txt",
+            "aozora:000093/files/525_ruby_1904/525_ruby_1904.txt",
+            "aozora:001369/files/49622_ruby_54184/49622_ruby_54184.txt",
+            "aozora:001776/files/56239_ruby_56945/56239_ruby_56945.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "迂老",
+      "reading": "うろう",
+      "old_uuid": "294f6097-0820-514d-a2f8-e9fae1b2ad96",
+      "new_uuid": "90b445a0-ad32-51cf-9c91-306574126f7e",
+      "source_path": "pending/needs_reading/U+8F00-U+8FFF/迂老.json",
+      "source_row": 1,
+      "target_path": "data/う/ウロウ.json",
+      "evidence": [
+        {
+          "reading": "うろう",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000296/files/50269_ruby_72258/50269_ruby_72258.txt",
+            "aozora:000296/files/50436_ruby_69512/50436_ruby_69512.txt",
+            "aozora:001026/files/4744_ruby_17979/4744_ruby_17979.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "迹方",
+      "reading": "あとかた",
+      "old_uuid": "67cfa38f-8ec7-5e8e-8b24-43e23c4f08c3",
+      "new_uuid": "f0b1a3a6-b145-52b8-b159-4f6809ac2d67",
+      "source_path": "pending/needs_reading/U+8F00-U+8FFF/迹方.json",
+      "source_row": 1,
+      "target_path": "data/あ/アトカタ.json",
+      "evidence": [
+        {
+          "reading": "あとかた",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000023/files/1702_ruby_6150/1702_ruby_6150.txt",
+            "aozora:001357/files/49244_ruby_32164/49244_ruby_32164.txt",
+            "aozora:001359/files/49254_ruby_32203/49254_ruby_32203.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "遁腰",
+      "reading": "にげごし",
+      "old_uuid": "ba83b0ee-e1cb-5ee2-ae16-85b2689ed3a7",
+      "new_uuid": "abf7b653-a32e-536e-8911-0f3e925607cf",
+      "source_path": "pending/needs_reading/U+9000-U+90FF/遁腰.json",
+      "source_row": 1,
+      "target_path": "data/に/ニゲゴシ.json",
+      "evidence": [
+        {
+          "reading": "にげごし",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 4,
+          "evidence": [
+            "aozora:000050/files/1087_ruby_4443/1087_ruby_4443.txt",
+            "aozora:000050/files/4565_ruby_57437/4565_ruby_57437.txt",
+            "aozora:000050/files/4581_ruby_76197/4581_ruby_76197.txt",
+            "aozora:000050/files/48405_ruby_47488/48405_ruby_47488.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "邇言",
+      "reading": "じげん",
+      "old_uuid": "483f40e9-e02b-5d27-bfae-cbad9bd3f7d2",
+      "new_uuid": "5f66a186-0c49-5de8-89b0-c878fad9e857",
+      "source_path": "pending/needs_reading/U+9000-U+90FF/邇言.json",
+      "source_row": 1,
+      "target_path": "data/じ/ジゲン.json",
+      "evidence": [
+        {
+          "reading": "じげん",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000093/files/2542_ruby_35599/2542_ruby_35599.txt",
+            "aozora:001266/files/56695_ruby_52792/56695_ruby_52792.txt",
+            "aozora:001369/files/51204_ruby_62107/51204_ruby_62107.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "錺屋",
+      "reading": "かざりや",
+      "old_uuid": "fbdd6c00-6c1c-582e-822a-4e25eeca1a73",
+      "new_uuid": "6a44910e-9d80-59b8-8d8e-703f34ee0265",
+      "source_path": "pending/needs_reading/U+9300-U+93FF/錺屋.json",
+      "source_row": 1,
+      "target_path": "data/か/カザリヤ.json",
+      "evidence": [
+        {
+          "reading": "かざりや",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 18,
+          "evidence": [
+            "aozora:000050/files/48392_ruby_43520/48392_ruby_43520.txt",
+            "aozora:000082/files/1025_ruby_1677/1025_ruby_1677.txt",
+            "aozora:000082/files/988_ruby_2898/988_ruby_2898.txt",
+            "aozora:000270/files/46837_ruby_25994/46837_ruby_25994.txt",
+            "aozora:000291/files/42333_ruby_16409/42333_ruby_16409.txt",
+            "aozora:000303/files/4728_ruby_10195/4728_ruby_10195.txt",
+            "aozora:000311/files/4032_ruby_12516/4032_ruby_12516.txt",
+            "aozora:000726/files/45982_ruby_26485/45982_ruby_26485.txt",
+            "aozora:000879/files/3763_ruby_27197/3763_ruby_27197.txt",
+            "aozora:000879/files/54_ruby_741/54_ruby_741.txt",
+            "aozora:001168/files/46363_ruby_25564/46363_ruby_25564.txt",
+            "aozora:001397/files/51249_ruby_62763/51249_ruby_62763.txt",
+            "aozora:001670/files/54579_ruby_57468/54579_ruby_57468.txt",
+            "aozora:001670/files/54593_ruby_56863/54593_ruby_56863.txt",
+            "aozora:001670/files/54692_ruby_52010/54692_ruby_52010.txt",
+            "aozora:001670/files/54760_ruby_61549/54760_ruby_61549.txt",
+            "aozora:001670/files/54767_ruby_60458/54767_ruby_60458.txt",
+            "aozora:001670/files/55692_ruby_61545/55692_ruby_61545.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "鎔炉",
+      "reading": "ようろ",
+      "old_uuid": "5e605a5d-6969-5ac0-8af8-4fbfd2e553c9",
+      "new_uuid": "732956d9-26c2-55c0-9a7f-37dab192740a",
+      "source_path": "pending/needs_reading/U+9300-U+93FF/鎔炉.json",
+      "source_row": 1,
+      "target_path": "data/よ/ヨウロ.json",
+      "evidence": [
+        {
+          "reading": "ようろ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000034/files/56908_ruby_64050/56908_ruby_64050.txt",
+            "aozora:001521/files/51826_ruby_74196/51826_ruby_74196.txt",
+            "aozora:001763/files/57392_ruby_64382/57392_ruby_64382.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "鎚音",
+      "reading": "つちおと",
+      "old_uuid": "1893fba9-0c4b-5de9-b851-1acd32918998",
+      "new_uuid": "93fa91a6-cdce-5b1d-a694-7d70b4770894",
+      "source_path": "pending/needs_reading/U+9300-U+93FF/鎚音.json",
+      "source_row": 1,
+      "target_path": "data/つ/ツチオト.json",
+      "evidence": [
+        {
+          "reading": "つちおと",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 6,
+          "evidence": [
+            "aozora:000279/files/1704_ruby_6918/1704_ruby_6918.txt",
+            "aozora:001562/files/33224_ruby_73833/33224_ruby_73833.txt",
+            "aozora:001562/files/52431_ruby_49710/52431_ruby_49710.txt",
+            "aozora:001562/files/56053_ruby_52983/56053_ruby_52983.txt",
+            "aozora:001562/files/56146_ruby_66665/56146_ruby_66665.txt",
+            "aozora:001562/files/56568_ruby_54960/56568_ruby_54960.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "鎰屋",
+      "reading": "かぎや",
+      "old_uuid": "05171e1c-2e50-50a0-9add-636811e7ee70",
+      "new_uuid": "2ce400e4-fdc6-5db4-ae91-11e38417729d",
+      "source_path": "pending/needs_reading/U+9300-U+93FF/鎰屋.json",
+      "source_row": 1,
+      "target_path": "data/か/カギヤ.json",
+      "evidence": [
+        {
+          "reading": "かぎや",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000074/files/424_ruby_19825/424_ruby_19825.txt",
+            "aozora:000074/files/46349_ruby_23599/46349_ruby_23599.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "闊々",
+      "reading": "ひろびろ",
+      "old_uuid": "2fa6a170-292c-5106-8a48-9fddcce4991f",
+      "new_uuid": "8abfa9ef-2f2a-5054-ac76-94cccd89ed2b",
+      "source_path": "pending/needs_reading/U+9500-U+95FF/闊々.json",
+      "source_row": 1,
+      "target_path": "data/ひ/ヒロビロ.json",
+      "evidence": [
+        {
+          "reading": "ひろびろ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000051/files/4153_ruby_7782/4153_ruby_7782.txt",
+            "aozora:000214/files/1066_ruby/1066_ruby.txt",
+            "aozora:000214/files/1066_ruby_4602/1066_ruby_4602.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "阿伽",
+      "reading": "あか",
+      "old_uuid": "89243795-4108-5922-94d7-ebecf26cce0a",
+      "new_uuid": "64b9080b-9584-55a9-b970-8603123c953b",
+      "source_path": "pending/needs_reading/U+9600-U+96FF/阿伽.json",
+      "source_row": 1,
+      "target_path": "data/あ/アカ.json",
+      "evidence": [
+        {
+          "reading": "あか",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000064/files/55665_ruby_54734/55665_ruby_54734.txt",
+            "aozora:001404/files/49966_ruby_44550/49966_ruby_44550.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "阿備",
+      "reading": "あび",
+      "old_uuid": "a4584423-9a5b-5385-aef7-f593df6f8b2e",
+      "new_uuid": "62849417-c779-5d5c-92f5-e0397429b2ce",
+      "source_path": "pending/needs_reading/U+9600-U+96FF/阿備.json",
+      "source_row": 1,
+      "target_path": "data/あ/アビ.json",
+      "evidence": [
+        {
+          "reading": "あび",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001562/files/52410_ruby_51060/52410_ruby_51060.txt",
+            "aozora:001562/files/52413_ruby_50406/52413_ruby_50406.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "陋室",
+      "reading": "ろうしつ",
+      "old_uuid": "5de00a3a-15bc-560e-803e-10475bfcc1bb",
+      "new_uuid": "a76e86a2-b673-522c-9add-6b4788418be2",
+      "source_path": "pending/needs_reading/U+9600-U+96FF/陋室.json",
+      "source_row": 1,
+      "target_path": "data/ろ/ロウシツ.json",
+      "evidence": [
+        {
+          "reading": "ろうしつ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:000148/files/791_ruby_1549/791_ruby_1549.txt",
+            "aozora:001095/files/42892_ruby_23068/42892_ruby_23068.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "陋態",
+      "reading": "ろうたい",
+      "old_uuid": "0d907123-5ca3-5fdc-b4fd-d9a26ca4fcaa",
+      "new_uuid": "dcc2befb-d3e5-5245-a8a1-853c517dce19",
+      "source_path": "pending/needs_reading/U+9600-U+96FF/陋態.json",
+      "source_row": 1,
+      "target_path": "data/ろ/ロウタイ.json",
+      "evidence": [
+        {
+          "reading": "ろうたい",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 7,
+          "evidence": [
+            "aozora:000006/files/383_ruby_22434/383_ruby_22434.txt",
+            "aozora:000034/files/56908_ruby_64050/56908_ruby_64050.txt",
+            "aozora:000148/files/759_ruby/759_ruby.txt",
+            "aozora:000148/files/759_ruby_3240/759_ruby_3240.txt",
+            "aozora:000164/files/4309_ruby_5760/4309_ruby_5760.txt",
+            "aozora:001035/files/4826_ruby_30422/4826_ruby_30422.txt",
+            "aozora:001232/files/46335_ruby_28276/46335_ruby_28276.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "霽間",
+      "reading": "はれま",
+      "old_uuid": "d324b6ba-0a52-5191-8c66-b46d2757516e",
+      "new_uuid": "764e3c3b-4670-59a7-9251-3625e0581751",
+      "source_path": "pending/needs_reading/U+9700-U+97FF/霽間.json",
+      "source_row": 1,
+      "target_path": "data/は/ハレマ.json",
+      "evidence": [
+        {
+          "reading": "はれま",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 5,
+          "evidence": [
+            "aozora:000042/files/49596_ruby_35242/49596_ruby_35242.txt",
+            "aozora:000153/files/45469_ruby_32326/45469_ruby_32326.txt",
+            "aozora:000283/files/4338_ruby_14021/4338_ruby_14021.txt",
+            "aozora:001094/files/42601_ruby_25139/42601_ruby_25139.txt",
+            "aozora:001373/files/57026_ruby_57539/57026_ruby_57539.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "驕者",
+      "reading": "きょうしゃ",
+      "old_uuid": "0fa51052-3346-502d-95ff-711d11456349",
+      "new_uuid": "ba3e4163-fefa-5097-9025-5e03e771c0da",
+      "source_path": "pending/needs_reading/U+9A00-U+9AFF/驕者.json",
+      "source_row": 1,
+      "target_path": "data/き/キョウシャ.json",
+      "evidence": [
+        {
+          "reading": "きょうしゃ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001562/files/52402_ruby_49792/52402_ruby_49792.txt",
+            "aozora:001562/files/52433_ruby_49714/52433_ruby_49714.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "魘夢",
+      "reading": "えんむ",
+      "old_uuid": "795f5d1b-f8ef-5d7a-86e2-220804615efd",
+      "new_uuid": "5f808350-7fc1-5dc7-9328-bf9dcb0b1581",
+      "source_path": "pending/needs_reading/U+9B00-U+9BFF/魘夢.json",
+      "source_row": 1,
+      "target_path": "data/え/エンム.json",
+      "evidence": [
+        {
+          "reading": "えんむ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 3,
+          "evidence": [
+            "aozora:000019/files/4376_ruby_18828/4376_ruby_18828.txt",
+            "aozora:000129/files/2058_ruby_19627/2058_ruby_19627.txt",
+            "aozora:000366/files/2072_ruby_20499/2072_ruby_20499.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "鵑声",
+      "reading": "ほととぎすのこえ",
+      "old_uuid": "b19f6223-e624-590f-be6e-b421a2799d29",
+      "new_uuid": "7fca87c3-9c8b-5b52-9c46-892c2f163cc7",
+      "source_path": "pending/needs_reading/U+9D00-U+9DFF/鵑声.json",
+      "source_row": 1,
+      "target_path": "data/ほ/ホトトギスノコエ.json",
+      "evidence": [
+        {
+          "reading": "ほととぎすのこえ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 2,
+          "evidence": [
+            "aozora:001021/files/49269_ruby_49545/49269_ruby_49545.txt",
+            "aozora:001021/files/49375_ruby_39262/49375_ruby_39262.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "麁忽",
+      "reading": "そこつ",
+      "old_uuid": "e2e39934-d3ca-551f-8ce6-1f6dc9f25c09",
+      "new_uuid": "883d57fe-6e5a-55e6-8fb4-9095eacdb88e",
+      "source_path": "pending/needs_reading/U+9E00-U+9EFF/麁忽.json",
+      "source_row": 1,
+      "target_path": "data/そ/ソコツ.json",
+      "evidence": [
+        {
+          "reading": "そこつ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 6,
+          "evidence": [
+            "aozora:000050/files/48405_ruby_47488/48405_ruby_47488.txt",
+            "aozora:000091/files/522_ruby_3355/522_ruby_3355.txt",
+            "aozora:000093/files/1916_ruby_22740/1916_ruby_22740.txt",
+            "aozora:000148/files/789_ruby_5639/789_ruby_5639.txt",
+            "aozora:000989/files/350_ruby_33175/350_ruby_33175.txt",
+            "aozora:001529/files/50685_ruby_67979/50685_ruby_67979.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    },
+    {
+      "entry": "麁朶",
+      "reading": "そだ",
+      "old_uuid": "539f6c80-3cfd-5e21-8e30-25bf47317a28",
+      "new_uuid": "4a7af9b3-91f7-5e50-9cc7-686b86e5bc38",
+      "source_path": "pending/needs_reading/U+9E00-U+9EFF/麁朶.json",
+      "source_row": 1,
+      "target_path": "data/そ/ソダ.json",
+      "evidence": [
+        {
+          "reading": "そだ",
+          "sources": [
+            "aozora_ruby"
+          ],
+          "evidence_count": 7,
+          "evidence": [
+            "aozora:000050/files/50542_ruby_65644/50542_ruby_65644.txt",
+            "aozora:000051/files/1434_ruby_20709/1434_ruby_20709.txt",
+            "aozora:000118/files/1745_ruby_16881/1745_ruby_16881.txt",
+            "aozora:000989/files/2614_ruby_17951/2614_ruby_17951.txt",
+            "aozora:000989/files/350_ruby_33175/350_ruby_33175.txt",
+            "aozora:000989/files/4298_ruby_35276/4298_ruby_35276.txt",
+            "aozora:001529/files/50685_ruby_67979/50685_ruby_67979.txt"
+          ]
+        }
+      ],
+      "dictionary_hashes": {
+        "jmdict": "2fea4652c4b72beba1f018fa071e9435750c33445422b1f60b310f3d366fcdd9",
+        "jmnedict": "855fbc9f679c194bcb692b289a24a59537709ada11e4413325ab4e82b1738fa2"
+      }
+    }
+  ]
+}

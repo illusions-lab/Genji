@@ -1,0 +1,74 @@
+[
+  {
+    "uuid": "23a5914b-517c-54a8-b4d3-c5637954b24d",
+    "entry": "装凜",
+    "reading": {
+      "primary": "そう凜",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「町役人の方がおいでになり、お目にかかりたいと申しております」　ところが同じこの夜のこと、旅装凜々しい一人の武士が、端艇で海上を親船から、霊岸島まで駛らせて来た。",
+              "citation": {
+                "source": "前記天満焼",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "普通の草原であるが、それでも、ハイキングの服裝凜々しい男女の客は、興奮してゐる。",
+              "citation": {
+                "source": "貪婪禍",
+                "author": "太宰治",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-06-22T05:58:42Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "裝凜"
+      ],
+      "needs_reading": true
+    }
+  }
+]
