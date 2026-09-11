@@ -146,6 +146,13 @@ class RubyTests(unittest.TestCase):
             conflict = build_aozora_index(root)
             self.assertEqual(classify_entry("海月", [conflict])[0], STATUS_CONFLICT)
 
+    def test_shift_jis_aozora_text_is_parsed(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            (root / "one.txt").write_bytes("｜海月《くらげ》".encode("shift_jis"))
+            index = build_aozora_index(root)
+        self.assertEqual(set(index.values["海月"]), {"くらげ"})
+
     def test_illegal_reading_and_spacing_dakuten_are_rejected(self):
         index = SourceIndex("jmdict")
         index.add("悪読", "あく1", "jmdict:3")
@@ -158,6 +165,32 @@ class RubyTests(unittest.TestCase):
 
 
 class ApplyTests(unittest.TestCase):
+    def test_apply_creates_promoted_record_with_resolution_timestamp(self):
+        with tempfile.TemporaryDirectory() as temp:
+            base = Path(temp)
+            data, pending = base / "data", base / "pending"
+            source = write_pending(pending, record("海月", "海月"))
+            jmdict = base / "JMdict.xml"
+            jmdict.write_text(
+                "<JMdict><entry><ent_seq>1</ent_seq><k_ele><keb>海月</keb></k_ele>"
+                "<r_ele><reb>くらげ</reb></r_ele></entry></JMdict>",
+                encoding="utf-8",
+            )
+
+            report = resolve(
+                data,
+                pending,
+                jmdict=jmdict,
+                apply=True,
+                report_path=base / "report.json",
+                ledger_path=base / "ledger.json",
+            )
+
+            self.assertFalse(source.exists())
+            target = expected_data_path(data, "くらげ")
+            promoted = json.loads(target.read_text(encoding="utf-8"))[0]
+            self.assertEqual(promoted["meta"]["updated_at"], report["generated_at"])
+
     def test_apply_merges_examples_uses_max_frequency_and_is_idempotent(self):
         with tempfile.TemporaryDirectory() as temp:
             base = Path(temp)
@@ -178,6 +211,7 @@ class ApplyTests(unittest.TestCase):
             self.assertFalse(source.exists())
             merged = json.loads(target.read_text(encoding="utf-8"))[0]
             self.assertEqual(merged["meta"]["frequencies"]["aozora"], 5)
+            self.assertEqual(merged["meta"]["updated_at"], first["generated_at"])
             self.assertEqual(len(merged["definitions"][0]["examples"]["literary"]), 2)
             self.assertNotIn("needs_reading", merged["meta"])
             self.assertNotIn("needs_gloss", merged["meta"])

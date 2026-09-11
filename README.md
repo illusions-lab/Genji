@@ -184,6 +184,28 @@ python3 script/promote_pending.py pending/needs_reading/U+4E00-U+4EFF/候補.jso
 python3 script/promote_pending.py --apply pending/needs_reading/U+4E00-U+4EFF/候補.json
 ```
 
+待審讀音は、完整詞条に対する JMdict / JMnedict の一意な読音、または二つ以上の
+異なる青空文庫テキストで一致する明示 Ruby だけを自動解決できます。単字の音訓、
+部分語の組み合わせ、形態素解析器や生成 AI による推測は使用しません。曖昧・衝突・
+疑似語幹の候補は `pending/needs_reading/` に残ります。
+
+```bash
+# 読み取り専用。JSON と CSV の審査レポートを生成
+python3 script/resolve_pending_readings.py \
+  --jmdict /path/to/JMdict.gz \
+  --jmnedict /path/to/JMnedict.xml.gz \
+  --aozora-dir /path/to/aozorabunko_text \
+  --report /tmp/pending-readings.json
+
+# 自動解決対象だけを正式領域へ移動。レポートと UUID 台帳の両方が必須
+python3 script/resolve_pending_readings.py --apply \
+  --jmdict /path/to/JMdict.gz \
+  --jmnedict /path/to/JMnedict.xml.gz \
+  --aozora-dir /path/to/aozorabunko_text \
+  --report /tmp/pending-readings.json \
+  --ledger migrations/pending-reading-uuids-YYYY-MM-DD.json
+```
+
 `script/json_to_sqlite.py` は正式 `data/` の硬錯誤だけをビルド前に検査します。
 `make quality` と CI は待審領域も含めた完全検査を行います。一般 `--fix` は UUID を
 変更せず、UUID 遷移は必ず旧値・新値・見出し・読音・原パスを台帳に残します。

@@ -252,7 +252,12 @@ def build_aozora_index(root: Path, wanted: set[str] | None = None) -> SourceInde
     for path in files:
         try:
             text = path.read_text(encoding="utf-8-sig", errors="strict")
-        except (OSError, UnicodeError):
+        except UnicodeError:
+            try:
+                text = path.read_text(encoding="shift_jis", errors="replace")
+            except OSError:
+                continue
+        except OSError:
             continue
         reference = str(path.relative_to(root)) if root.is_dir() else path.name
         seen_in_file: set[tuple[str, str]] = set()
@@ -531,6 +536,8 @@ def _merge_promoted_record(existing: dict, promoted: dict) -> None:
     existing_meta = existing.get("meta")
     promoted_meta = promoted.get("meta")
     if isinstance(existing_meta, dict) and isinstance(promoted_meta, dict):
+        if isinstance(promoted_meta.get("updated_at"), str):
+            existing_meta["updated_at"] = promoted_meta["updated_at"]
         left = existing_meta.get("frequencies")
         right = promoted_meta.get("frequencies")
         if isinstance(right, dict):
@@ -673,6 +680,7 @@ def _apply_resolutions(
         if isinstance(meta, dict):
             meta.pop("needs_reading", None)
             meta.pop("reading_failure_reason", None)
+            meta["updated_at"] = report["generated_at"]
         collision = next((item for item in values if isinstance(item, dict) and (
             item.get("uuid") == promoted["uuid"] or
             (item.get("entry") == promoted.get("entry") and
