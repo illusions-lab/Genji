@@ -12,98 +12,205 @@ permissions:
   packages: write
 
 jobs:
-  build-and-release:
+  build_db:
     runs-on: ubuntu-latest
     outputs:
       version: ${{ steps.version.outputs.version }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-
-      - name: Set up Python
-        uses: actions/setup-python@v6
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-
       - name: Generate version tag
         id: version
         run: |
           VERSION=$(date -u +'%Y.%-m.%-d.%H%M%S')
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
           echo "Version: $VERSION"
-
       - name: Test consistency rules
         run: make test
-
       - name: Audit formal and pending dictionary data
         run: make quality
-
-      - name: Build SQLite database
-        run: python script/json_to_sqlite.py
+      - name: Build and validate SQLite database
+        run: |
+          python script/json_to_sqlite.py
+          python - <<'PY'
+          import sqlite3
+          conn = sqlite3.connect("genji.db")
+          assert conn.execute("PRAGMA integrity_check").fetchone()[0] == "ok"
+          assert conn.execute("PRAGMA foreign_key_check").fetchone() is None
+          PY
         env:
           GENJI_VERSION: ${{ steps.version.outputs.version }}
           GENJI_COMMIT: ${{ github.sha }}
           GENJI_BRANCH: ${{ github.ref_name }}
           GENJI_REPO: ${{ github.server_url }}/${{ github.repository }}
-
-      - name: Compress database
-        run: gzip -9 -k genji.db
-
-      - name: Create Release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ steps.version.outputs.version }}
-          name: ${{ steps.version.outputs.version }}
-          body: |
-            Automated SQLite build from commit ${{ github.sha }}
-
-            Branch: `${{ github.ref_name }}`
-          files: |
-            genji.db.gz
-
-      # ビルド済み DB を後続ジョブに渡す
       - name: Upload DB artifact
-        if: github.ref == 'refs/heads/main'
         uses: actions/upload-artifact@v6
         with:
           name: genji-db
           path: genji.db
           retention-days: 1
 
-  # main ブランチのみ: Go/Gin API イメージをビルドして GHCR にプッシュ（DB 内蔵）
+  # Default is a GitHub larger runner. Set GENJI_COMPRESSION_RUNNER to an
+  # equivalent dedicated Ubuntu x64 runner (>=32 GB RAM, >=150 GB disk) if needed.
+  compress_gzip:
+    needs: build_db
+    runs-on: ${{ vars.GENJI_COMPRESSION_RUNNER || 'ubuntu-22.04-32core' }}
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - uses: actions/download-artifact@v8
+        with:
+          name: genji-db
+          path: .
+      - name: Install pinned compression tools
+        run: .github/scripts/install-compression-tools.sh
+      - name: Build, select, and verify gzip asset
+        shell: bash
+        run: |
+          set -euo pipefail
+          DB_SHA256=$(sha256sum genji.db | awk '{print $1}')
+          DB_BYTES=$(stat --format=%s genji.db)
+          /usr/bin/time -f '%e %M' -o gzip-baseline.time gzip -9 -n -c genji.db > gzip-baseline.gz
+          /usr/bin/time -f '%e %M' -o gzip-zopfli.time pigz -11 -I 50 -b 4096 -n -c genji.db > gzip-zopfli.gz
+          gzip -t gzip-baseline.gz
+          gzip -t gzip-zopfli.gz
+          if [ "$(stat --format=%s gzip-zopfli.gz)" -le "$(stat --format=%s gzip-baseline.gz)" ]; then cp gzip-zopfli.gz genji.db.gz; SELECTED=zopfli; else cp gzip-baseline.gz genji.db.gz; SELECTED=baseline; fi
+          gzip -t genji.db.gz
+          test "$(gzip -dc genji.db.gz | sha256sum | awk '{print $1}')" = "$DB_SHA256"
+          node script/verify_decompression.mjs gzip genji.db.gz "$DB_SHA256"
+          GZIP_BYTES=$(stat --format=%s genji.db.gz)
+          test "$GZIP_BYTES" -le "$(stat --format=%s gzip-baseline.gz)"
+          {
+            echo '## gzip compression'; echo
+            echo '| candidate | seconds | peak RSS KiB | bytes | ratio |'; echo '| --- | ---: | ---: | ---: | ---: |'
+            for item in baseline zopfli; do
+              read -r seconds rss < "gzip-${item}.time"; bytes=$(stat --format=%s "gzip-${item}.gz")
+              ratio=$(awk -v bytes="$bytes" -v db="$DB_BYTES" 'BEGIN { printf "%.2f%%", 100 * bytes / db }')
+              echo "| ${item} | ${seconds} | ${rss} | ${bytes} | ${ratio} |"
+            done
+            echo; echo "Published candidate: \`${SELECTED}\`"
+          } >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v6
+        with:
+          name: genji-gzip-release-asset
+          path: genji.db.gz
+          retention-days: 1
+
+  compress_zstd:
+    needs: build_db
+    runs-on: ${{ vars.GENJI_COMPRESSION_RUNNER || 'ubuntu-22.04-32core' }}
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - uses: actions/download-artifact@v8
+        with:
+          name: genji-db
+          path: .
+      - name: Install pinned compression tools
+        run: .github/scripts/install-compression-tools.sh
+      - name: Build, select, and verify Zstandard asset
+        shell: bash
+        run: |
+          set -euo pipefail
+          DB_SHA256=$(sha256sum genji.db | awk '{print $1}')
+          DB_BYTES=$(stat --format=%s genji.db)
+          /usr/bin/time -f '%e %M' -o zstd-ultra.time zstd --ultra -22 -T1 --long=27 --check --content-size --no-progress -f genji.db -o zstd-ultra.zst
+          /usr/bin/time -f '%e %M' -o zstd-max.time zstd --max -T1 --long=27 --check --content-size --no-progress -f genji.db -o zstd-max.zst
+          zstd -t zstd-ultra.zst
+          zstd -t zstd-max.zst
+          if [ "$(stat --format=%s zstd-max.zst)" -le "$(stat --format=%s zstd-ultra.zst)" ]; then cp zstd-max.zst genji.db.zst; SELECTED=max; else cp zstd-ultra.zst genji.db.zst; SELECTED=ultra-22; fi
+          zstd -t genji.db.zst
+          test "$(zstd -dc genji.db.zst | sha256sum | awk '{print $1}')" = "$DB_SHA256"
+          python3 script/release_assets.py verify-zstd-frame genji.db.zst --maximum-window-log 27
+          node script/verify_decompression.mjs zstd genji.db.zst "$DB_SHA256"
+          {
+            echo '## Zstandard compression'; echo
+            echo '| candidate | seconds | peak RSS KiB | bytes | ratio |'; echo '| --- | ---: | ---: | ---: | ---: |'
+            for item in ultra max; do
+              read -r seconds rss < "zstd-${item}.time"; bytes=$(stat --format=%s "zstd-${item}.zst")
+              ratio=$(awk -v bytes="$bytes" -v db="$DB_BYTES" 'BEGIN { printf "%.2f%%", 100 * bytes / db }')
+              echo "| ${item} | ${seconds} | ${rss} | ${bytes} | ${ratio} |"
+            done
+            echo; echo "Published candidate: \`${SELECTED}\`; configured windowLog: \`27\`"
+          } >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v6
+        with:
+          name: genji-zstd-release-asset
+          path: genji.db.zst
+          retention-days: 1
+
+  release:
+    needs: [build_db, compress_gzip, compress_zstd]
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ needs.build_db.outputs.version }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/download-artifact@v8
+        with:
+          name: genji-db
+          path: release
+      - uses: actions/download-artifact@v8
+        with:
+          name: genji-gzip-release-asset
+          path: release
+      - uses: actions/download-artifact@v8
+        with:
+          name: genji-zstd-release-asset
+          path: release
+      - name: Create manifest and checksums
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd release
+          test "$(stat --format=%s genji.db.zst)" -lt "$(stat --format=%s genji.db.gz)"
+          python3 ../script/release_assets.py manifest --version "${{ needs.build_db.outputs.version }}" --database genji.db --gzip genji.db.gz --zstd genji.db.zst --output genji-manifest.json
+          sha256sum genji.db.gz genji.db.zst genji-manifest.json > SHA256SUMS
+          cat genji-manifest.json
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ needs.build_db.outputs.version }}
+          name: ${{ needs.build_db.outputs.version }}
+          body: |
+            Automated SQLite build from commit ${{ github.sha }}
+
+            Branch: `${{ github.ref_name }}`
+          files: |
+            release/genji.db.gz
+            release/genji.db.zst
+            release/genji-manifest.json
+            release/SHA256SUMS
+
   docker:
-    if: github.ref == 'refs/heads/main'
-    needs: build-and-release
+    needs: release
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-
-      # ビルド済み DB をダウンロードし api/ context に配置（local モードで埋め込む）
+      - uses: actions/checkout@v6
       - name: Download DB artifact
         uses: actions/download-artifact@v8
         with:
           name: genji-db
           path: api
-
-      - name: Set up QEMU
-        uses: docker/setup-qemu-action@v3
-
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
-
+      - uses: docker/setup-qemu-action@v3
+      - uses: docker/setup-buildx-action@v3
       - name: Login to GHCR
         uses: docker/login-action@v3
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-
-      # GHCR は namespace が小文字でなければならないため owner を小文字化する
       - name: Resolve image owner (lowercase)
         id: owner
         run: echo "owner=${GITHUB_REPOSITORY_OWNER,,}" >> "$GITHUB_OUTPUT"
-
       - name: Build and push
         uses: docker/build-push-action@v6
         with:
@@ -114,4 +221,4 @@ jobs:
             GENJI_DB_SOURCE=local
           tags: |
             ghcr.io/${{ steps.owner.outputs.owner }}/genji-api:latest
-            ghcr.io/${{ steps.owner.outputs.owner }}/genji-api:${{ needs.build-and-release.outputs.version }}
+            ghcr.io/${{ steps.owner.outputs.owner }}/genji-api:${{ needs.release.outputs.version }}

@@ -52,11 +52,19 @@ docker run -p 8080:8080 ghcr.io/illusions-lab/genji-api:latest
 
 ### SQLite を直接使用する
 
-[Releases](/releases) ページから最新の `genji.db.gz` をダウンロードし、解凍して使用してください。
+[Releases](/releases) ページから最新の `genji.db.gz` をダウンロードし、解凍して使用してください。既存のツールとの互換性が必要な場合は gzip 版を選んでください。
 
 ```bash
 gunzip genji.db.gz
 ```
+
+Electron 44 以降を含む新しいクライアントには、より小さい Zstandard 版の `genji.db.zst` を推奨します。
+
+```bash
+zstd -d genji.db.zst
+```
+
+各 Release には `genji-manifest.json` と `SHA256SUMS` も含まれます。ダウンロード後は、これらを使って圧縮ファイルと解凍後の SQLite DB を検証できます。
 
 #### クエリ例
 ```sql
