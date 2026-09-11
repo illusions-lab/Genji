@@ -607,6 +607,54 @@
                 "author": "尾崎士郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "四つの章の冐頭に、簡單な解説は試みたが、更に多少の加筆が必要に思ふ。",
+              "citation": {
+                "source": "白南風",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "四つの章の冐頭に、簡単な解説は試みたが、更に多少の加筆が必要に思ふ。",
+              "citation": {
+                "source": "白南風",
+                "author": "北原白秋",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一は其冐頭にして二は其結末なり。",
+              "citation": {
+                "source": "寫生斷片",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さうしてその夢の冐頭は、私のさういふ種類の夢の中にそれまでにも屡々現はれて來たことのある、一つの場面から始まる。",
+              "citation": {
+                "source": "鳥料理",
+                "author": "A Parody",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "併し冐頭先づＣ君の誤謬を正すことを以つて始めずにはゐられないことを感ずる。",
+              "citation": {
+                "source": "三太郎の日記　第三",
+                "author": "阿部次郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」（一）と冐頭してゐる。",
+              "citation": {
+                "source": "新憲法の解説",
+                "author": "解説",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -636,11 +684,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-09-11T05:43:24Z",
       "freq_rank": 3738,
       "frequencies": {
         "aozora": 582
-      }
+      },
+      "variant_writings": [
+        "冐頭"
+      ]
     }
   },
   {

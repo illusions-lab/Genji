@@ -834,5 +834,65 @@
         "aozora": 4
       }
     }
+  },
+  {
+    "uuid": "24070fa7-598c-5e15-8642-4af973d247b0",
+    "entry": "俳調",
+    "reading": {
+      "primary": "はいちょう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "「阿呆言いなはれ」というは京の俳調であって、「何だ此畜生」というは江戸の俳調です。",
+              "citation": {
+                "source": "俳句上の京と江戸",
+                "author": "正岡子規",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
   }
 ]

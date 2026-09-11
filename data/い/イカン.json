@@ -5652,5 +5652,65 @@
         "醫監"
       ]
     }
+  },
+  {
+    "uuid": "d6dd9a69-a756-5335-96f9-f54ac474a992",
+    "entry": "云何",
+    "reading": {
+      "primary": "いかん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "又謂魂気血之精耳、故議思死魂散滅、是人間理量非神仙知、罔鎮坐、則三輪五瀬不知所立、魂散滅則菟狭芳野云何立。",
+              "citation": {
+                "source": "通俗講義　霊魂不滅論",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 7
+      }
+    }
   }
 ]

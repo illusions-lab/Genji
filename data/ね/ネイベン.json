@@ -119,6 +119,22 @@
                 "author": "出師の巻",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "と、姦物陣十郎は、鷺を烏と云いくるめる侫弁、「あいや方々｜偽でござるぞ、彼らの言葉をお信じ下さるな。",
+              "citation": {
+                "source": "剣侠",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "でも、この場の大伴の御主人の侫弁に、いつの世の政治家にも当る普遍なものを感心させたのは、演出と作者の力がぴつたりしたからであつた。",
+              "citation": {
+                "source": "「なよたけ」の解釈",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -141,12 +157,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-09-11T05:43:24Z",
       "frequencies": {
         "aozora": 8
       },
       "variant_writings": [
-        "佞辯"
+        "佞辯",
+        "侫弁"
       ]
     }
   }

@@ -1435,5 +1435,73 @@
         "壞者"
       ]
     }
+  },
+  {
+    "uuid": "a6eb1b65-9935-5c74-ab59-f73477e6b515",
+    "entry": "廨舎",
+    "reading": {
+      "primary": "かいしゃ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "土浦藩ノ吏遠田志田登米三郡ノ版籍及ビ廨舎府庫ヲ致ス。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "曰ク第二局ハ戸口ヲ正シ租税ヲ督シ出納ヲ算シ物産ヲ殖シ廨舎橋梁堤防ヲ修ルコトヲ掌ル。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

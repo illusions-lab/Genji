@@ -1267,6 +1267,62 @@
                 "author": "有島武郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "背廣の輕裝に薄色の鳥打を被つて、甲板の手摺にそつと身を凭せてゐる。",
+              "citation": {
+                "source": "修道院の秋",
+                "author": "南部修太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "私部小室が輕裝吾等を迎へて如何な手段に出づるかは、さすがの太都夫にも判斷がつかなかつた。",
+              "citation": {
+                "source": "古代之少女",
+                "author": "伊藤左千夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "輕裝の身に、風さむし。",
+              "citation": {
+                "source": "石田堤",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ところが集つて來た仲間の者を見ると、それぞれ輕裝になつてゐる。",
+              "citation": {
+                "source": "南太平洋科學風土記",
+                "author": "海野十三（佐野昌一）",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "余は此時、探檢服の輕裝で、手に龕燈を携へて居た。",
+              "citation": {
+                "source": "探檢實記　地中の秘密",
+                "author": "お穴樣の探檢",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "彼等は輕裝歩兵と驢馬とを乘せるために、チュニスの海岸へ二度泊つた。",
+              "citation": {
+                "source": "氷島の漁夫",
+                "author": "PECHEURS D'ISLANDE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "輕裝して勢鋭き騎兵。",
+              "citation": {
+                "source": "國譯史記列傳",
+                "author": "孫子呉起列傳第五",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -1341,11 +1397,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-09-11T05:43:24Z",
       "freq_rank": 37169,
       "frequencies": {
         "aozora": 107
-      }
+      },
+      "variant_writings": [
+        "軽裝",
+        "輕裝"
+      ]
     }
   },
   {

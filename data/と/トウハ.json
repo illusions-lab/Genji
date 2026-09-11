@@ -694,5 +694,205 @@
         "aozora": 84
       }
     }
+  },
+  {
+    "uuid": "904ab78a-a81d-5c4e-b6e8-555d163a8f02",
+    "entry": "蹈破",
+    "reading": {
+      "primary": "とうは",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "両人して刀を以てさん／″＼に切破り、足にて蹈破りなどして町に出て見｜礼バ人壱人もなし。",
+              "citation": {
+                "source": "手紙",
+                "author": "慶応二年十二月四日　坂本権平、一同あて",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "緑葉森森五月天、鉄車暁発古城辺、従今深入瑞西地、蹈破千山万壑煙。",
+              "citation": {
+                "source": "西航日録",
+                "author": "井上円了",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "吾人は読んでここに至るごとにあたかも木曽山中の旅客が、尺幅の天を眺め、寂々たる一※千巌万壑のうちを蹈破し、初めて碓氷嶺上に至り、茫々たる八州の平原を望むがごとく、実にその快活を感ぜずんばあらず。",
+              "citation": {
+                "source": "将来の日本",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "もしそれ彼の蜻※州の頭尾を蹈破して、天下を狭しとするの雄心を生じたるが如きは、活ける学問の学問たる所以と知らずや。",
+              "citation": {
+                "source": "吉田松陰",
+                "author": "徳富蘇峰",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "同人を連れて此辺の山や沢を縦横に蹈破したならば面白かろうと思う。",
+              "citation": {
+                "source": "秩父の奥山",
+                "author": "木暮理太郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "こう云う少年少女たちでさえ、神戸から此処までの距離を今迄の時間に蹈破することが出来たとすれば、当然夫や妹も疾うに戻っていなければならない筈であるのに、それが戻って来ないと云うのは、何かしら間違いがあったものと思わなければならない。",
+              "citation": {
+                "source": "細雪",
+                "author": "中巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  },
+  {
+    "uuid": "3fd97d0d-612c-53fb-8109-44ff441631e3",
+    "entry": "騰波",
+    "reading": {
+      "primary": "とうは",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "もうすこしすると「騰波鼓浪の節に入り、ここに至つて水の性消え即ち茶を煮べき」湯候なのである。",
+              "citation": {
+                "source": "上田秋成の晩年",
+                "author": "岡本かの子",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "口もとは騰波のうみの。",
+              "citation": {
+                "source": "長塚節歌集　上",
+                "author": "長塚節",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その沸、魚目（一一）のごとく、すこし声あるを一沸となし、縁辺の涌泉蓮珠（一二）のごとくなるを二沸となし、騰波鼓浪（一三）を三沸となしている。",
+              "citation": {
+                "source": "茶の本",
+                "author": "茶の本",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一三　騰波鼓浪――波だち、波うつ。",
+              "citation": {
+                "source": "茶の本",
+                "author": "茶の本",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夜雨君の胸には永生きしますまい、私の記臆にはあり／＼と殘てをる……筑波山と大寶沼（古の騰波の淡海）とは君が所有せらるゝ自然の全部であつて、此書を繙かるゝ諸賢は必ず此山水を御忘れのなきやうに願ひたい。",
+              "citation": {
+                "source": "花守",
+                "author": "横瀬夜雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "武蔵｜南葛飾郡｜綾瀬村大字小谷野字｜土富耕地同　橘樹郡城郷村大字岸根字島ドブ常陸真壁郡中村大字林字｜土深同　同　　騰波ノ江村大字｜筑波島字｜土腐磐城双葉郡｜幾世橋村大字｜棚塩字ドブ谷地伊勢三重郡朝上村大字田口字ドブ　相模にも無数のドブという地名があるのみならず、普通名詞にもこの意味に用いられている。",
+              "citation": {
+                "source": "地名の研究",
+                "author": "柳田國男",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 9
+      }
+    }
   }
 ]

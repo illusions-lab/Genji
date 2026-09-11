@@ -275,6 +275,38 @@
                 "author": "吉川英治",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "十人が十人譽めるものは侫奸である。",
+              "citation": {
+                "source": "栗山大膳",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "」　侫奸の徒には侫奸の徒らしい、侫奸の策略があるものである。",
+              "citation": {
+                "source": "血ぬられた懐刀",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "侫奸之被折纔奏、独根強蒙勅勘。",
+              "citation": {
+                "source": "エタ源流考",
+                "author": "喜田貞吉",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "というのが、出来事のすぐあとで、重臣の評議があったとき、伊達兵部がまっさきに発言して、「かれら四人は侫奸な人間であった、金兵衛らはよくやった」と云ったからである。",
+              "citation": {
+                "source": "樅ノ木は残った",
+                "author": "第一部",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -289,11 +321,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "Aozora-Crawler, Illusions-NewWord",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-09-11T05:43:24Z",
       "needs_gloss": true,
       "frequencies": {
         "aozora": 25
-      }
+      },
+      "variant_writings": [
+        "侫奸"
+      ]
     }
   }
 ]

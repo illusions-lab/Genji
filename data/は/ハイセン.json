@@ -1930,5 +1930,89 @@
         "拜陝"
       ]
     }
+  },
+  {
+    "uuid": "f464ce73-df64-5d02-bf95-a5fa9b918f24",
+    "entry": "擺線",
+    "reading": {
+      "primary": "はいせん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "デューレルはまた外擺線（epicycloid）のことをも説き、その作図をもしたのであるが、この種の曲線のことはギリシアの数学に多少の痕跡はあるが、デューレルが説いたものは全くこの時から始まる。",
+              "citation": {
+                "source": "芸術と数学及び科学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "擺線（Cycloid）の長さを求め、その重心をも見いだした。",
+              "citation": {
+                "source": "芸術と数学及び科学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "重心の問題もまた西洋から伝わって和算家の注意をひいたらしく、擺線の問題も洋書を見て思いついたものであろう。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "和算家が重心問題を取り扱ったり、擺線の問題に興味を持つなどは無論星学や物理の考えが入って来たのであるけれども、これ以上にはさまでの影響がなかったようである。",
+              "citation": {
+                "source": "文化史上より見たる日本の数学",
+                "author": "三上義夫",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

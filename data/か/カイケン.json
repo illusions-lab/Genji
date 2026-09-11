@@ -652,6 +652,30 @@
                 "author": "泉鏡太郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "お前の智慧にも能はぬなら、つい予の覺悟をば良い分別ぢゃと讃めて下され、すれば此懷劒で今直に敢行けう。",
+              "citation": {
+                "source": "ロミオとヂュリエット",
+                "author": "ROMEO AND JULIET",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すれば、お前がロミオへの封印代りにした此手を、他し證書の封印に使はうより、又僞りの無い此心を操に背いて他し男に向けうより、此懷劒で手も心も突殺してのけう。",
+              "citation": {
+                "source": "ロミオとヂュリエット",
+                "author": "ROMEO AND JULIET",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "さもなくば、此怖しい懷劒を難儀の瀬戸際の行司にして、年の功も智慧の力も如何とも能うせぬ女一人の面目を今こゝで裁決かす、見て下され。",
+              "citation": {
+                "source": "ロミオとヂュリエット",
+                "author": "ROMEO AND JULIET",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -681,12 +705,16 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-09-11T05:43:24Z",
       "frequencies": {
         "aozora": 341
       },
       "variant_writings": [
-        "懷劍"
+        "懐劒",
+        "懐劔",
+        "懷劍",
+        "懷劒",
+        "懷劔"
       ]
     }
   },

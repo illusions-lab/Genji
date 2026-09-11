@@ -829,12 +829,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-09-11T05:43:24Z",
       "frequencies": {
         "aozora": 49
       },
       "variant_writings": [
-        "帶劍"
+        "帯劔",
+        "帶劍",
+        "帶劔"
       ]
     }
   },

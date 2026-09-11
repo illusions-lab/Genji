@@ -1,0 +1,86 @@
+[
+  {
+    "uuid": "389e7df6-7b2c-5f5a-90fb-1a6dcace7bc8",
+    "entry": "嫩枝",
+    "reading": {
+      "primary": "どんし",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "『薔薇の藪の柔かい嫩枝に木虱がついたばかりの時には、一匹づつはなれてゐる。",
+              "citation": {
+                "source": "科学の不思議",
+                "author": "STORY-BOOK OF SCIENCE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その松の嫩枝を咬み、新芽を食つて木の育つのを妨げる悪い虫が繁殖しないやうに殺してしまふ為めにはさうするより仕方がない。",
+              "citation": {
+                "source": "科学の不思議",
+                "author": "STORY-BOOK OF SCIENCE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "夏になると、飢ゑた虫は木一杯に散つて、葉や、芽や、嫩枝をめちやめちやにする。",
+              "citation": {
+                "source": "科学の不思議",
+                "author": "STORY-BOOK OF SCIENCE",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "一つは水のように澄んでいて、中に緑色の嫩枝がすこしと、何等かの野菜を薄く切ったものとが入っていた。",
+              "citation": {
+                "source": "日本その日その日",
+                "author": "日本その日その日",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  }
+]

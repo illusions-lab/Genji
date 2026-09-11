@@ -324,5 +324,157 @@
         "aozora": 205
       }
     }
+  },
+  {
+    "uuid": "2e3d46a2-ab68-5582-b584-ddf848d3f510",
+    "entry": "瑣言",
+    "reading": {
+      "primary": "さげん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "一つ、はしやぎ倒れるまで、充分はしやいで見るのも面白からうといふ氣になり、下らない雜談やら「春夢瑣言」の話やらをしたり、聽いたりしながら、常よりも澤山酒をあふつた。",
+              "citation": {
+                "source": "泡鳴五部作",
+                "author": "放浪",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "其次には蓮花から美女が出て、毎度士人と交會した話を此夢瑣言より引おる。",
+              "citation": {
+                "source": "蓮の花開く音を聽く事",
+                "author": "南方熊楠",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "唐の徳宗時代に、良原の刺史になつたは、吐蕃人を捕獲して之を食した（五代の孫光憲の『北夢瑣言』卷五）。",
+              "citation": {
+                "source": "支那人間に於ける食人肉の風習",
+                "author": "桑原隲藏",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 5
+      }
+    }
+  },
+  {
+    "uuid": "2c8b399f-dc07-598c-9ed5-6a3c65741e49",
+    "entry": "詐言",
+    "reading": {
+      "primary": "さげん",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "かくてメレートスやアヌトスなどの詐言のために、とやかくといろいろ瞞着された結果、種々の裁判の末に、我大聖ソクラテスは遂に死刑を宣告せられることとなった。",
+              "citation": {
+                "source": "法窓夜話",
+                "author": "穂積陳重",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "すくなくも、汝のごとく、酷薄で詐言が多く、自己の才謀に慢じて、遂には、上をも犯すような奸雄では絶対にない」「ははは。",
+              "citation": {
+                "source": "三国志",
+                "author": "臣道の巻",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "劉延が捕われれば、その父なる太守｜劉度も、ご陣門に降ってくるにきまっておる」　傍らで玄徳は聞いていたが、彼の口うらの軽々しいのを察して、「詐言はおのずから色にあらわれる。",
+              "citation": {
+                "source": "三国志",
+                "author": "望蜀の巻",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

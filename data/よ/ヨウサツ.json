@@ -1,0 +1,78 @@
+[
+  {
+    "uuid": "4e2a880f-74d5-58e2-9a8d-55c0cfa43767",
+    "entry": "夭札",
+    "reading": {
+      "primary": "ようさつ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "後十一歳にして夭札した子である。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "渋江氏では六月二十日に翠暫が十一歳で夭札した。",
+              "citation": {
+                "source": "渋江抽斎",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "これは嫡男｜正粋が病を以て罷められ、次男が夭札したからである。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
+  }
+]

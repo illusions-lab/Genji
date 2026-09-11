@@ -2032,5 +2032,65 @@
         "aozora": 15
       }
     }
+  },
+  {
+    "uuid": "5e57128d-6f14-56f8-bf2a-003b59a570b9",
+    "entry": "依様",
+    "reading": {
+      "primary": "いよう",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "五十川顱依様、而髪五分、以示勇猛状、時或酔後夜行、途次往々顛※人以為快」と云つてゐる。",
+              "citation": {
+                "source": "伊沢蘭軒",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 4
+      }
+    }
   }
 ]

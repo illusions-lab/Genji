@@ -1424,6 +1424,14 @@
                 "author": "江戸川乱歩",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "さて翌年二月十九日になつても、「今以而全快と申には無御座候而、少々｜麻痺仕候氣味に御座候へ共、老體のこと故、元の通りには所詮なるまいと、其儘に而此節は療治もやめ申候」と云ふ轉歸である。",
+              "citation": {
+                "source": "壽阿彌の手紙",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -1449,10 +1457,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-03-22T12:50:57Z",
+      "updated_at": "2026-09-11T05:43:24Z",
       "frequencies": {
         "aozora": 4
-      }
+      },
+      "variant_writings": [
+        "転歸",
+        "轉歸"
+      ]
     }
   },
   {

@@ -622,6 +622,30 @@
                 "author": "木暮理太郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "ほこは、今日其名称から柱の先に劔戟の類をつけてゐるのもあるが、柱自身の名であるらしい事は、柳田国男先生の言はるゝ通りであらう。",
+              "citation": {
+                "source": "盆踊りと祭屋台と",
+                "author": "折口信夫",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "345さるを汝に先んじてアカイア軍の十部隊劔戟取りて戰ふを汝等空しく眺むるや？",
+              "citation": {
+                "source": "イーリアス",
+                "author": "ILIAS",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "ブラウンがこんなことを考えている間に、劔戟の音がせわしくせまってカチャカチャという急調に早変りを始めた。",
+              "citation": {
+                "source": "サレーダイン公爵の罪業",
+                "author": "THE SINS OF PRINCE SARADINE",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -691,12 +715,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-22T05:58:42Z",
+      "updated_at": "2026-09-11T05:43:24Z",
       "frequencies": {
         "aozora": 97
       },
       "variant_writings": [
-        "劒戟"
+        "劒戟",
+        "劔戟"
       ]
     }
   },

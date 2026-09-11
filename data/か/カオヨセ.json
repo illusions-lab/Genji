@@ -82,5 +82,100 @@
         "aozora": 6
       }
     }
+  },
+  {
+    "uuid": "4b9fb4ff-5c91-573f-a058-24c35238e091",
+    "entry": "顔寄",
+    "reading": {
+      "primary": "かおよせ",
+      "alternatives": [],
+      "is_heteronym": false
+    },
+    "grammar": {
+      "pos": [
+        "名詞"
+      ],
+      "ctype": null,
+      "inflections": null
+    },
+    "definitions": [
+      {
+        "index": 1,
+        "gloss": "",
+        "register": "standard",
+        "nuance": null,
+        "scenarios": [],
+        "sensory_tags": {
+          "colors": [],
+          "temperature": null,
+          "sounds": [],
+          "emotions": []
+        },
+        "collocations": [],
+        "examples": {
+          "standard": [],
+          "literary": [
+            {
+              "text": "先輩後輩５・29（夕）　鴈治郎と歌右衛門とが大阪での顔合せが、梅玉父子の意地張から急に沙汰止みになつたので、例のやうに大阪俳優の大顔寄せといふ事になり、旅興行の延若へその旨を通じると、延若は承知しない。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正五（一九一六）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "「しかし何しろ一流どこばかしの顔寄せで、作家としてこの上もない名誉の事だから、その名誉に甘んじて、この際原稿料などは包み金で辛抱して戴きたい。",
+              "citation": {
+                "source": "茶話",
+                "author": "大正七（一九一八）年",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "その春子も成人して、ぐっと逞しくなってしまっていた時、「虫」の作曲の顔寄せがあったのだった。",
+              "citation": {
+                "source": "朱絃舎浜子",
+                "author": "長谷川時雨",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "多分、全国の泥棒どもが年に一度の顔寄せに、お互の功名を誇り合った上、獲物を何かの方法で分配でもするのでしょう。",
+              "citation": {
+                "source": "銭形平次捕物控",
+                "author": "平次屠蘇機嫌",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "多分、全國の泥棒どもが年に一度の顏寄せに、お互の功名を誇り合つた上、獲物を何かの方法で分配でもするのでせう。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "平次屠蘇機嫌",
+                "note": "青空文庫"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "relations": {
+      "homophones": [],
+      "synonyms": [],
+      "antonyms": [],
+      "related": []
+    },
+    "meta": {
+      "version": "1.0.0",
+      "source": "Aozora-Crawler, Illusions-NewWord",
+      "updated_at": "2026-09-11T05:21:27Z",
+      "needs_gloss": true,
+      "frequencies": {
+        "aozora": 1
+      },
+      "variant_writings": [
+        "顏寄"
+      ]
+    }
   }
 ]
