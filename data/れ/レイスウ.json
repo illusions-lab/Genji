@@ -378,6 +378,22 @@
                 "author": "森鴎外",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "人中の語は師傅篇に見え、明堂の語も靈樞中の何處かに見えたと記憶する。",
+              "citation": {
+                "source": "努力論",
+                "author": "幸田露伴",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "素問や靈樞でも讀むやうな醫者を搜して極めてゐたのではなく、近所に住んでゐて呼ぶのに面倒のない醫者に懸かつてゐたのだから、ろくな藥は飮ませて貰ふことが出來なかつたのである。",
+              "citation": {
+                "source": "寒山拾得",
+                "author": "森鴎外",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -392,11 +408,15 @@
     "meta": {
       "version": "1.0.0",
       "source": "Aozora-Crawler, Illusions-NewWord",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-09-11T05:43:24Z",
       "needs_gloss": true,
       "frequencies": {
         "aozora": 21
-      }
+      },
+      "variant_writings": [
+        "霊樞",
+        "靈樞"
+      ]
     }
   }
 ]
