@@ -325,8 +325,11 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-02T00:58:17.650134+00:00Z",
-      "freq_rank": 11523
+      "updated_at": "2026-09-11T10:58:37Z",
+      "freq_rank": 11523,
+      "frequencies": {
+        "aozora": 7
+      }
     }
   }
 ]

@@ -195,16 +195,27 @@ python3 script/resolve_pending_readings.py \
   --jmdict /path/to/JMdict.gz \
   --jmnedict /path/to/JMnedict.xml.gz \
   --aozora-dir /path/to/aozorabunko_text \
-  --report /tmp/pending-readings.json
+  --web-cache-dir /path/to/reviewed-web-cache \
+  --report /tmp/pending-readings.json \
+  --decision-ledger migrations/pending-reading-decisions-YYYY-MM-DD.json
 
-# 自動解決対象だけを正式領域へ移動。レポートと UUID 台帳の両方が必須
+# 承認済みの決定だけを適用。完全レポート、決定台帳、UUID 台帳が必須
 python3 script/resolve_pending_readings.py --apply \
   --jmdict /path/to/JMdict.gz \
   --jmnedict /path/to/JMnedict.xml.gz \
   --aozora-dir /path/to/aozorabunko_text \
   --report /tmp/pending-readings.json \
-  --ledger migrations/pending-reading-uuids-YYYY-MM-DD.json
+  --decision-ledger migrations/pending-reading-decisions-YYYY-MM-DD.json \
+  --ledger migrations/pending-reading-uuids-YYYY-MM-DD.json \
+  --review-approvals /path/to/reviewer-approvals.json
 ```
+
+決定台帳は各 pending UUID と原パスに対して `promote`、`merge_fragment`、
+`reject_fragment`、`keep_pending`、`conflict` のいずれか一件を保持します。根拠 URL、
+source tier、取得時刻、内容 SHA-256 と evidence chain を併記し、同一入力の再実行では
+report と ledger を変更しません。一般 Web 情報による昇格と全ての fragment 変更は、
+対象 `decision_id`、action、reviewer を記した approval がなければ適用できません。
+rejected へ移す原 record は変更せず保存されるため、決定台帳から復元できます。
 
 `script/json_to_sqlite.py` は正式 `data/` の硬錯誤だけをビルド前に検査します。
 `make quality` と CI は待審領域も含めた完全検査を行います。一般 `--fix` は UUID を
@@ -220,15 +231,18 @@ python3 script/resolve_pending_readings.py --apply \
 ```bash
 python3 script/resolve_pending_with_llm.py \
   --kanjidic /path/to/kanjidic2.xml.gz \
-  --kotobank-cache /tmp/genji-kotobank.jsonl \
+  --web-cache-dir /tmp/genji-web-cache \
   --checkpoint /tmp/genji-gemma.jsonl \
-  --report /tmp/genji-pending-report.json
+  --report /tmp/genji-pending-report.json \
+  --decision-ledger /tmp/genji-pending-decisions.json \
+  --review-queue /tmp/genji-gemma-review.json
 ```
 
 長時間の呼出しは JSONL checkpoint から再開できます。二回の判定が一致しても、
-LLM の結果は既定では提案としてレポートに残るだけです。機械的に検証された決定だけを
-適用する場合は `--skip-llm --apply --ledger ...` を使います。`--trust-llm` は LLM の
-一致判定にも変更権限を与える明示的な opt-in であり、品質確認なしの利用は推奨しません。
+LLM の結果は常に独立した review queue の提案に留まり、読音や破棄を直接適用できません。
+`--trust-llm` と正式 `--apply` の併用は拒否されます。Web cache は検索摘要ではなく、
+完全見出しページの解析結果、URL、取得時刻、response SHA-256 を保存します。既存の
+確定 cache は一時的なサイト障害で上書きしません。
 
 ### Docker
 

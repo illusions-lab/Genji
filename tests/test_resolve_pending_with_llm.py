@@ -41,6 +41,8 @@ class ResponseTests(unittest.TestCase):
     def test_exact_dictionary_display_reading_matches_small_kana_candidate(self):
         page = '<h1>圜丘<span>（読み）えんきゆう（ゑんきう）</span></h1>'
         self.assertEqual(parse_kotobank_readings(page), ["えんきゅう"])
+        self.assertEqual(parse_kotobank_readings(page, "別見出し"), [])
+        self.assertEqual(parse_kotobank_readings(page, "圜丘"), ["えんきゅう"])
         self.assertEqual(exact_dictionary_reading(
             {"status": "matched", "readings": ["えんきゅう"]}, ["かんきゅう", "えんきゅう"]
         ), "えんきゅう")

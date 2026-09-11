@@ -63,6 +63,14 @@
                 "author": "種田山頭火",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "更に純粹の田舍蕎麥に、舌鼓うつもあり。",
+              "citation": {
+                "source": "町田村の香雪園",
+                "author": "大町桂月",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -84,10 +92,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T18:33:56.071089+00:00Z",
+      "updated_at": "2026-09-11T10:58:37Z",
       "frequencies": {
         "aozora": 1
-      }
+      },
+      "variant_writings": [
+        "舍蕎"
+      ]
     }
   }
 ]

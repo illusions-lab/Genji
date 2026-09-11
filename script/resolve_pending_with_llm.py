@@ -29,16 +29,24 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 
-from check_data_quality import DEFAULT_DATA, DEFAULT_PENDING, _remove_empty_parents
+from check_data_quality import DEFAULT_DATA, DEFAULT_PENDING
 from create_entries import _apply_kyuji
-from dictionary_rules import compute_uuid_v5, expected_data_path, is_valid_reading
+from dictionary_rules import compute_uuid_v5, is_valid_reading
 from resolve_pending_readings import (
+    ACTION_KEEP_PENDING,
+    ACTION_MERGE_FRAGMENT,
+    ACTION_PROMOTE,
+    ACTION_REJECT_FRAGMENT,
     STATUS_RESOLVED,
+    TIER_AUTHORITATIVE,
+    TIER_GENERAL,
     _apply_resolutions,
     _atomic_json,
     _load_pending,
     build_formal_index,
     build_report,
+    validate_review_approvals,
+    write_decision_ledger,
 )
 
 
@@ -60,6 +68,7 @@ PASS_PROMPTS = (
 )
 _LINE_RE = re.compile(r"^(\d+):([PDR])(\d+)?$")
 _KOTOBANK_READING_RE = re.compile(r"（読み）([^<]+)")
+_KOTOBANK_HEADWORD_RE = re.compile(r"<h1[^>]*>(.*?)</h1>", re.DOTALL | re.IGNORECASE)
 _WEBLIO_HEADING_RE = re.compile(
     r'<h2\s+class=["\']?midashigo["\']?\s+title="([^"]+)">.*?</h2>(.{0,2500})', re.DOTALL
 )
@@ -204,7 +213,14 @@ def modernize_display_reading(value: str) -> str:
     )
 
 
-def parse_kotobank_readings(page: str) -> list[str]:
+def parse_kotobank_readings(page: str, entry: str | None = None) -> list[str]:
+    if entry is not None:
+        headings = [
+            re.sub(r"\s+", "", html.unescape(re.sub(r"<[^>]+>", "", match.group(1))))
+            for match in _KOTOBANK_HEADWORD_RE.finditer(page)
+        ]
+        if not any(value == entry or value.startswith(entry + "（") for value in headings):
+            return []
     match = _KOTOBANK_READING_RE.search(page)
     if not match:
         return []
@@ -232,23 +248,48 @@ def load_kotobank_cache(path: Path) -> dict[str, dict]:
     return values
 
 
+def _web_result(entry: str, source: str, tier: str, url: str, status: str,
+                readings: list[str], payload: bytes | None = None, **extra: object) -> dict:
+    return {
+        "entry": entry,
+        "source": source,
+        "source_tier": tier,
+        "status": status,
+        "readings": readings,
+        "url": url,
+        "fetched_at": now_iso(),
+        "content_sha256": hashlib.sha256(payload).hexdigest() if payload is not None else "",
+        "note": "parsed exact-headword page; search snippets were not used",
+        **extra,
+    }
+
+
 def fetch_kotobank(entry: str, timeout: int) -> dict:
     from urllib.parse import quote
     url = "https://kotobank.jp/word/" + quote(entry, safe="")
     request = urllib.request.Request(url, headers={"User-Agent": "Genji-reading-audit/1.0"})
     try:
         with urllib.request.urlopen(request, timeout=timeout) as response:
-            page = response.read().decode("utf-8", "replace")
-        readings = parse_kotobank_readings(page)
-        return {"entry": entry, "status": "matched" if readings else "no_reading",
-                "readings": readings, "url": url}
+            payload = response.read()
+            page = payload.decode("utf-8", "replace")
+        readings = parse_kotobank_readings(page, entry)
+        return _web_result(
+            entry, "kotobank", TIER_AUTHORITATIVE, url,
+            "matched" if readings else "no_reading", readings, payload,
+        )
     except urllib.error.HTTPError as exc:
+        payload = exc.read()
         if exc.code == 404:
-            return {"entry": entry, "status": "not_found", "readings": [], "url": url}
-        return {"entry": entry, "status": f"http_{exc.code}", "readings": [], "url": url}
+            return _web_result(
+                entry, "kotobank", TIER_AUTHORITATIVE, url, "not_found", [], payload
+            )
+        return _web_result(
+            entry, "kotobank", TIER_AUTHORITATIVE, url, f"http_{exc.code}", [], payload
+        )
     except OSError as exc:
-        return {"entry": entry, "status": "error", "readings": [], "url": url,
-                "error": str(exc)}
+        return _web_result(
+            entry, "kotobank", TIER_AUTHORITATIVE, url, "error", [], error=str(exc)
+        )
 
 
 def populate_kotobank_cache(path: Path, entries: list[str], workers: int, timeout: int) -> dict[str, dict]:
@@ -332,17 +373,22 @@ def fetch_weblio(entry: str, timeout: int) -> dict:
     request = urllib.request.Request(url, headers={"User-Agent": "Genji-reading-audit/1.0"})
     try:
         with urllib.request.urlopen(request, timeout=timeout) as response:
-            page = response.read().decode("utf-8", "replace")
+            payload = response.read()
+            page = payload.decode("utf-8", "replace")
         readings = parse_weblio_readings(page, entry)
-        return {"entry": entry, "status": "matched" if readings else "no_reading",
-                "readings": readings, "url": url}
+        return _web_result(
+            entry, "weblio", TIER_GENERAL, url,
+            "matched" if readings else "no_reading", readings, payload,
+        )
     except urllib.error.HTTPError as exc:
+        payload = exc.read()
         if exc.code == 404:
-            return {"entry": entry, "status": "not_found", "readings": [], "url": url}
-        return {"entry": entry, "status": f"http_{exc.code}", "readings": [], "url": url}
+            return _web_result(entry, "weblio", TIER_GENERAL, url, "not_found", [], payload)
+        return _web_result(
+            entry, "weblio", TIER_GENERAL, url, f"http_{exc.code}", [], payload
+        )
     except OSError as exc:
-        return {"entry": entry, "status": "error", "readings": [], "url": url,
-                "error": str(exc)}
+        return _web_result(entry, "weblio", TIER_GENERAL, url, "error", [], error=str(exc))
 
 
 def populate_weblio_cache(path: Path, entries: list[str], workers: int, timeout: int) -> dict[str, dict]:
@@ -499,53 +545,22 @@ def consensus(first: Decision, second: Decision) -> Decision:
     return first if first == second and first.action in {"promote", "discard"} else Decision("review")
 
 
-def apply_rejections(rows: list[dict], pending_rows: list[tuple[Path, int, object]],
-                     pending_root: Path, rejected_root: Path) -> int:
-    rejected_keys = {(row["source_path"], row["source_row"]) for row in rows if row["final_status"] == "discard"}
-    by_source: dict[Path, set[int]] = defaultdict(set)
-    for source_path, row_number in rejected_keys:
-        by_source[Path(source_path)].add(row_number)
-    moved = 0
-    for source, positions in by_source.items():
-        loaded = json.loads(source.read_text(encoding="utf-8"))
-        values = loaded if isinstance(loaded, list) else [loaded]
-        rejected = [value for number, value in enumerate(values, 1) if number in positions]
-        kept = [value for number, value in enumerate(values, 1) if number not in positions]
-        target = rejected_root / source.relative_to(pending_root)
-        existing: list[object] = []
-        if target.exists():
-            old = json.loads(target.read_text(encoding="utf-8"))
-            existing = old if isinstance(old, list) else [old]
-        _atomic_json(target, [*existing, *rejected])
-        if kept:
-            _atomic_json(source, kept)
-        else:
-            source.unlink()
-        moved += len(rejected)
-    _remove_empty_parents(pending_root)
-    return moved
-
-
 def adjudicate(args: argparse.Namespace) -> dict:
     if not args.kanjidic.is_file():
         raise ValueError(f"KANJIDIC2 file does not exist: {args.kanjidic}")
-    machine, pending_rows, indexes = build_report(
-        args.data_dir, args.pending_dir, args.jmdict, args.jmnedict, args.aozora_dir
-    )
+    pending_rows = _load_pending(args.pending_dir)
     kanjidic = load_kanjidic(args.kanjidic)
     normalized_wanted = {
         _apply_kyuji(item.get("entry", "")) for _, _, item in pending_rows
         if isinstance(item, dict) and isinstance(item.get("entry"), str)
     }
     variant_index = build_formal_index(args.data_dir, normalized_wanted)
-    kotobank: dict[str, dict] = {}
-    weblio: dict[str, dict] = {}
     if args.kotobank_cache is not None:
         entries = [
             item.get("entry", "") for _, _, item in pending_rows
             if isinstance(item, dict) and isinstance(item.get("entry"), str)
         ]
-        kotobank = populate_kotobank_cache(
+        populate_kotobank_cache(
             args.kotobank_cache, entries, args.kotobank_workers, args.web_timeout
         )
     if args.weblio_cache is not None:
@@ -553,9 +568,13 @@ def adjudicate(args: argparse.Namespace) -> dict:
             item.get("entry", "") for _, _, item in pending_rows
             if isinstance(item, dict) and isinstance(item.get("entry"), str)
         ]
-        weblio = populate_weblio_cache(
+        populate_weblio_cache(
             args.weblio_cache, entries, args.weblio_workers, args.web_timeout
         )
+    machine, pending_rows, _ = build_report(
+        args.data_dir, args.pending_dir, args.jmdict, args.jmnedict, args.aozora_dir,
+        args.web_cache_dir,
+    )
     machine_by_key = {
         (row["source_path"], row["source_row"]): row for row in machine["entries"]
     }
@@ -568,14 +587,21 @@ def adjudicate(args: argparse.Namespace) -> dict:
         if machine_row["final_status"] == STATUS_RESOLVED:
             final_rows.append({**machine_row, "id": identifier, "decision_source": "machine"})
             continue
+        if machine_row.get("action") in {ACTION_MERGE_FRAGMENT, ACTION_REJECT_FRAGMENT}:
+            final_rows.append({
+                **machine_row, "id": identifier, "decision_source": "machine_fragment_boundaries"
+            })
+            continue
         candidates = reading_candidates(entry, kanjidic, args.candidate_cap)
         if machine_row["final_status"] == "invalid_unicode":
-            final_rows.append({**machine_row, "id": identifier, "final_status": "discard",
+            final_rows.append({**machine_row, "id": identifier, "final_status": "review",
+                               "action": ACTION_KEEP_PENDING,
                                "decision_source": "machine_invalid_unicode"})
             continue
         variant = formal_variant_match(entry, variant_index, args.data_dir)
         if variant:
             canonical, reading = variant["canonical"], variant["reading"]
+            formal_path = Path(variant["target_path"])
             final_rows.append({
                 **machine_row,
                 "id": identifier,
@@ -585,44 +611,36 @@ def adjudicate(args: argparse.Namespace) -> dict:
                 "resolved_reading": reading,
                 "new_uuid": compute_uuid_v5(canonical, reading),
                 "target_path": variant["target_path"],
+                "action": ACTION_PROMOTE,
+                "requires_review": False,
+                "evidence_chain": [*machine_row.get("evidence_chain", []), {
+                    "source": "formal_normalized_variant",
+                    "source_url": f"repository:{formal_path}",
+                    "source_tier": TIER_AUTHORITATIVE,
+                    "fetched_at": datetime.fromtimestamp(
+                        formal_path.stat().st_mtime, timezone.utc
+                    ).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+                    "content_sha256": sha256(formal_path),
+                    "note": f"old-form normalization maps {entry} to exact formal headword {canonical}",
+                }],
                 "candidates": [{
                     "reading": reading, "sources": ["formal_normalized_variant"],
+                    "source_tiers": [TIER_AUTHORITATIVE],
                     "evidence_count": len(variant["evidence"]), "evidence": variant["evidence"],
+                    "evidence_chain": [],
                 }],
                 "decision_source": "machine_normalized_variant",
             })
             continue
-        dictionary_reading = exact_dictionary_reading(kotobank.get(entry), candidates)
-        dictionary_source = "kotobank"
-        source_row = kotobank.get(entry)
-        if not dictionary_reading:
-            dictionary_reading = exact_dictionary_reading(weblio.get(entry), candidates)
-            dictionary_source = "weblio"
-            source_row = weblio.get(entry)
-        if dictionary_reading and source_row:
-            final_rows.append({
-                **machine_row,
-                "id": identifier,
-                "final_status": STATUS_RESOLVED,
-                "resolved_reading": dictionary_reading,
-                "new_uuid": compute_uuid_v5(entry, dictionary_reading),
-                "target_path": str(expected_data_path(args.data_dir, dictionary_reading)),
-                "candidates": [{
-                    "reading": dictionary_reading,
-                    "sources": [dictionary_source],
-                    "evidence_count": 1,
-                    "evidence": [source_row["url"]],
-                }],
-                "decision_source": "machine_exact_dictionary",
-            })
-            continue
         if not candidates:
             final_rows.append({**machine_row, "id": identifier, "final_status": "review",
+                               "action": ACTION_KEEP_PENDING,
                                "decision_source": "machine_no_bounded_candidates"})
             continue
         if (args.llm_status != "all" and
                 machine_row["final_status"] != args.llm_status):
             final_rows.append({**machine_row, "id": identifier, "final_status": "review",
+                               "action": ACTION_KEEP_PENDING,
                                "decision_source": "llm_out_of_scope"})
             continue
         work.append({
@@ -661,32 +679,30 @@ def adjudicate(args: argparse.Namespace) -> dict:
         else:
             decision = consensus(checkpoint[(0, row["id"])], checkpoint[(1, row["id"])])
             proposed_decision = decision
-            # A local model is an adviser, not evidence.  Applying its consensus is
-            # an explicit opt-in, and missing context can never be auto-promoted.
-            if decision.action == "promote" and not row["examples"]:
-                decision = Decision("review")
-            if not args.trust_llm and decision.action != "review":
-                decision = Decision("review")
+            # A local model is an adviser, never evidence or a mutation authority.
+            # Consensus is retained only in the review queue below.
+            decision = Decision("review")
             passes = [checkpoint[(number, row["id"])].__dict__ for number in range(2)]
         machine_row = row["machine_row"]
-        resolved = decision.reading if decision.action == "promote" else None
         final_rows.append({
             **machine_row,
             "id": row["id"],
             "candidate_readings": row["candidates"],
             "llm_passes": passes,
             "llm_consensus_proposal": proposed_decision.__dict__ if not args.skip_llm else None,
-            "final_status": STATUS_RESOLVED if decision.action == "promote" else decision.action,
-            "resolved_reading": resolved,
-            "new_uuid": compute_uuid_v5(row["entry"], resolved) if resolved else None,
-            "target_path": str(expected_data_path(args.data_dir, resolved)) if resolved else None,
+            "final_status": "review",
+            "action": ACTION_KEEP_PENDING,
+            "requires_review": False,
+            "resolved_reading": None,
+            "new_uuid": None,
+            "target_path": None,
             "decision_source": ("llm_skipped" if args.skip_llm else
-                                "llm_consensus" if decision.action != "review" else
                                 "llm_proposal_only" if proposed_decision.action != "review" else
                                 "llm_disagreement"),
         })
     final_rows.sort(key=lambda row: row["id"])
     counts = Counter(row["final_status"] for row in final_rows)
+    action_counts = Counter(row["action"] for row in final_rows)
     report = {
         "generated_at": now_iso(),
         "mode": "apply" if args.apply else "dry-run",
@@ -696,12 +712,42 @@ def adjudicate(args: argparse.Namespace) -> dict:
             "path": str(args.kanjidic), "sha256": sha256(args.kanjidic),
         }, "kotobank": {"cache": str(args.kotobank_cache)} if args.kotobank_cache else None,
            "weblio": {"cache": str(args.weblio_cache)} if args.weblio_cache else None},
-        "policy": {"passes": 2, "consensus": "exact_unanimous", "free_form_readings": False},
-        "statistics": {"total": len(final_rows), "by_status": dict(sorted(counts.items()))},
+        "policy": {
+            "passes": 2,
+            "consensus": "exact_unanimous_proposal_only",
+            "free_form_readings": False,
+            "llm_can_mutate": False,
+        },
+        "statistics": {
+            "total": len(final_rows),
+            "by_status": dict(sorted(counts.items())),
+            "by_action": dict(sorted(action_counts.items())),
+        },
         "entries": final_rows,
     }
     _atomic_json(args.report, report)
+    write_decision_ledger(args.decision_ledger, report)
+    review_rows = [
+        {
+            "decision_id": row["decision_id"],
+            "old_uuid": row.get("old_uuid"),
+            "entry": row["entry"],
+            "machine_status": row.get("final_status"),
+            "candidate_readings": row.get("candidate_readings", []),
+            "llm_passes": row.get("llm_passes", []),
+            "proposal": row.get("llm_consensus_proposal"),
+            "note": "LLM output is advisory and cannot be applied directly",
+        }
+        for row in final_rows if row.get("llm_consensus_proposal") is not None
+    ]
+    if args.review_queue is not None:
+        _atomic_json(args.review_queue, {
+            "generated_at": report["generated_at"],
+            "model": args.model,
+            "entries": review_rows,
+        })
     if args.apply:
+        validate_review_approvals(report, args.review_approvals)
         variant_by_key = {
             (row["source_path"], row["source_row"]): row
             for row in final_rows if row.get("decision_source") == "machine_normalized_variant"
@@ -718,9 +764,10 @@ def adjudicate(args: argparse.Namespace) -> dict:
                 if isinstance(values, list) and isinstance(original_entry, str) and original_entry not in values:
                     values.append(original_entry)
             apply_rows.append((path, row_number, item))
-        promoted = _apply_resolutions(report, apply_rows, args.ledger, args.pending_dir)
-        rejected = apply_rejections(final_rows, pending_rows, args.pending_dir, args.rejected_dir)
-        report["statistics"].update({"promoted": promoted, "rejected": rejected})
+        promoted = _apply_resolutions(
+            report, apply_rows, args.ledger, args.pending_dir, args.rejected_dir
+        )
+        report["statistics"].update({"promoted": promoted})
         _atomic_json(args.report, report)
     return report
 
@@ -748,7 +795,9 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--llm-status", choices=("all", "unmatched", "suspected_fragment"),
                         default="all", help="limit costly LLM review to one machine status")
     parser.add_argument("--trust-llm", action="store_true",
-                        help="allow unanimous LLM decisions to mutate data (not recommended)")
+                        help="deprecated proposal annotation; never grants mutation authority")
+    parser.add_argument("--web-cache-dir", type=Path,
+                        help="durable parsed page cache (creates kotobank.jsonl and weblio.jsonl)")
     parser.add_argument("--kotobank-cache", type=Path,
                         help="enable resumable exact-headword lookup using this JSONL cache")
     parser.add_argument("--kotobank-workers", type=int, default=4)
@@ -758,11 +807,28 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--web-timeout", type=int, default=20)
     parser.add_argument("--checkpoint", type=Path, required=True)
     parser.add_argument("--report", type=Path, required=True)
+    parser.add_argument("--review-queue", type=Path,
+                        help="separate queue containing advisory LLM consensus")
     parser.add_argument("--ledger", type=Path, help="promotion UUID ledger; required with --apply")
+    parser.add_argument("--decision-ledger", type=Path,
+                        help="durable decision ledger; required in every mode")
+    parser.add_argument("--review-approvals", type=Path,
+                        help="reviewer approvals required for fragment/general-source mutations")
     parser.add_argument("--apply", action="store_true")
     args = parser.parse_args(argv)
+    if args.decision_ledger is None:
+        parser.error("--decision-ledger is required")
     if args.apply and args.ledger is None:
         parser.error("--apply requires --ledger")
+    if args.apply and args.trust_llm:
+        parser.error("--trust-llm cannot be combined with --apply; LLM output is review-only")
+    if args.web_cache_dir is not None:
+        args.web_cache_dir = args.web_cache_dir.resolve()
+        args.web_cache_dir.mkdir(parents=True, exist_ok=True)
+        if args.kotobank_cache is None:
+            args.kotobank_cache = args.web_cache_dir / "kotobank.jsonl"
+        if args.weblio_cache is None:
+            args.weblio_cache = args.web_cache_dir / "weblio.jsonl"
     if (args.batch_size < 1 or args.llm_workers < 1 or args.candidate_cap < 1 or
             args.llm_candidate_limit < 1):
         parser.error("batch size and candidate limits must be positive")

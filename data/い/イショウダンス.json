@@ -95,6 +95,30 @@
                 "author": "ELIZABETH AND ESSEX",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "衣裝箪笥や、化粧臺や、椅子は、ずゝ黒く磨き上げた古いマホガニだつた。",
+              "citation": {
+                "source": "ジエィン・エア",
+                "author": "ブロンテイ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "リード夫人自身も、極く稀にやつて來て、衣裝箪笥の中の、ある祕密な抽斗の中のものを調べるだけだつた。",
+              "citation": {
+                "source": "ジエィン・エア",
+                "author": "ブロンテイ",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "寢臺が、私の前に立つてゐて、右手には、背の高い、黝ずんだ衣裝箪笥があつて、薄暗い、斷續的の光線が、鏡板の光澤に強弱をつけてゐた。",
+              "citation": {
+                "source": "ジエィン・エア",
+                "author": "ブロンテイ",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -120,7 +144,13 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T16:22:31.362456+00:00Z"
+      "updated_at": "2026-09-11T10:58:37Z",
+      "frequencies": {
+        "aozora": 3
+      },
+      "variant_writings": [
+        "裝箪"
+      ]
     }
   }
 ]

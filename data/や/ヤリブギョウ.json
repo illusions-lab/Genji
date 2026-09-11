@@ -126,6 +126,22 @@
                 "author": "山本周五郎",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "花亭は御鎗奉行岡本｜近江守の雅号である。",
+              "citation": {
+                "source": "下谷叢話",
+                "author": "永井荷風",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "神尾攝津守は御鎗奉行だ、拙者が泊り込んで、夜つぴて碁を打つて居たことは、多勢の家來共が皆知つて居る。",
+              "citation": {
+                "source": "錢形平次捕物控",
+                "author": "若樣の死",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -140,11 +156,14 @@
     "meta": {
       "version": "1.0.0",
       "source": "Aozora-Crawler, Illusions-NewWord",
-      "updated_at": "2026-06-22T05:38:08Z",
+      "updated_at": "2026-09-11T10:58:37Z",
       "needs_gloss": true,
       "frequencies": {
         "aozora": 17
-      }
+      },
+      "variant_writings": [
+        "鎗奉"
+      ]
     }
   }
 ]

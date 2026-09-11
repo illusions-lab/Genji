@@ -351,6 +351,22 @@
                 "author": "寺田寅彦",
                 "note": "青空文庫"
               }
+            },
+            {
+              "text": "昼間のあいだに騒ぎつかれて夜は静かな鳥や獣の深い眠りを驚かすのは、近頃｜阿弗利加から送られて来た二匹の牝牡の獅子であった。",
+              "citation": {
+                "source": "沙漠の古都",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
+            },
+            {
+              "text": "阿弗利加へ渡るその機会を……がしかし今では阿弗利加などは全く眼中になくなってしまった。",
+              "citation": {
+                "source": "沙漠の古都",
+                "author": "国枝史郎",
+                "note": "青空文庫"
+              }
             }
           ]
         }
@@ -369,8 +385,11 @@
     "meta": {
       "version": "1.0.0",
       "source": "JMdict, Aozora-Crawler, Illusions-Core",
-      "updated_at": "2026-06-01T13:24:05.348890+00:00Z",
-      "freq_rank": 3177
+      "updated_at": "2026-09-11T10:58:37Z",
+      "freq_rank": 3177,
+      "frequencies": {
+        "aozora": 70
+      }
     }
   }
 ]

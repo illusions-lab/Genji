@@ -12,6 +12,11 @@ sys.path.insert(0, str(ROOT / "script"))
 import create_entries  # noqa: E402
 from dictionary_rules import compute_uuid_v5, expected_data_path  # noqa: E402
 from resolve_pending_readings import (  # noqa: E402
+    ACTION_CONFLICT,
+    ACTION_KEEP_PENDING,
+    ACTION_MERGE_FRAGMENT,
+    ACTION_PROMOTE,
+    ACTION_REJECT_FRAGMENT,
     STATUS_AMBIGUOUS,
     STATUS_CONFLICT,
     STATUS_INVALID,
@@ -24,8 +29,10 @@ from resolve_pending_readings import (  # noqa: E402
     build_formal_index,
     classify_entry,
     extract_aozora_ruby,
+    load_web_indexes,
     parse_edrdg,
     resolve,
+    write_decision_ledger,
 )
 
 
@@ -198,6 +205,7 @@ class ApplyTests(unittest.TestCase):
                 apply=True,
                 report_path=base / "report.json",
                 ledger_path=base / "ledger.json",
+                decision_ledger_path=base / "decisions.json",
             )
 
             self.assertFalse(source.exists())
@@ -220,7 +228,10 @@ class ApplyTests(unittest.TestCase):
             target.write_text(json.dumps([formal], ensure_ascii=False), encoding="utf-8")
 
             report_path, ledger = base / "report.json", base / "ledger.json"
-            first = resolve(data, pending, apply=True, report_path=report_path, ledger_path=ledger)
+            first = resolve(
+                data, pending, apply=True, report_path=report_path, ledger_path=ledger,
+                decision_ledger_path=base / "decisions.json",
+            )
             self.assertEqual(first["statistics"]["promoted"], 1)
             self.assertFalse(source.exists())
             merged = json.loads(target.read_text(encoding="utf-8"))[0]
@@ -232,7 +243,10 @@ class ApplyTests(unittest.TestCase):
             migration = json.loads(ledger.read_text(encoding="utf-8"))["migrations"][0]
             self.assertEqual(migration["new_uuid"], compute_uuid_v5("海月", "くらげ"))
 
-            second = resolve(data, pending, apply=True, report_path=report_path, ledger_path=ledger)
+            second = resolve(
+                data, pending, apply=True, report_path=report_path, ledger_path=ledger,
+                decision_ledger_path=base / "decisions.json",
+            )
             self.assertEqual(second["statistics"]["promoted"], 0)
             self.assertEqual(len(json.loads(target.read_text(encoding="utf-8"))), 1)
             self.assertEqual(len(json.loads(ledger.read_text(encoding="utf-8"))["migrations"]), 1)
@@ -242,6 +256,142 @@ class ApplyTests(unittest.TestCase):
             base = Path(temp)
             with self.assertRaises(ValueError):
                 resolve(base / "data", base / "pending", apply=True)
+
+
+class DecisionLedgerTests(unittest.TestCase):
+    def test_every_pending_row_has_one_durable_decision_and_second_run_is_stable(self):
+        with tempfile.TemporaryDirectory() as temp:
+            base = Path(temp)
+            pending = base / "pending"
+            write_pending(pending, record("海月", "海月"))
+            write_pending(pending, record("蛩", "蛩"))
+            report_path = base / "report.json"
+            ledger_path = base / "decisions.json"
+            resolve(
+                base / "data", pending, report_path=report_path,
+                decision_ledger_path=ledger_path,
+            )
+            first_report = report_path.read_bytes()
+            first_ledger = ledger_path.read_bytes()
+            resolve(
+                base / "data", pending, report_path=report_path,
+                decision_ledger_path=ledger_path,
+            )
+            ledger = json.loads(ledger_path.read_text(encoding="utf-8"))
+            self.assertEqual(len(ledger["decisions"]), 2)
+            self.assertEqual(len({row["old_uuid"] for row in ledger["decisions"]}), 2)
+            self.assertTrue(all(row["content_sha256"] for row in ledger["decisions"]))
+            self.assertTrue(all(row["evidence_chain"] for row in ledger["decisions"]))
+            self.assertEqual(report_path.read_bytes(), first_report)
+            self.assertEqual(ledger_path.read_bytes(), first_ledger)
+
+    def test_authoritative_and_two_general_web_source_rules(self):
+        with tempfile.TemporaryDirectory() as temp:
+            cache = Path(temp)
+            common = {
+                "entry": "海月", "status": "matched", "readings": ["くらげ"],
+                "fetched_at": "2026-01-01T00:00:00Z", "content_sha256": "a" * 64,
+            }
+            (cache / "one.json").write_text(json.dumps({
+                **common, "source": "official", "source_tier": "authoritative",
+                "url": "https://example.invalid/official",
+            }), encoding="utf-8")
+            indexes = load_web_indexes(cache)
+            self.assertEqual(classify_entry("海月", indexes)[:2], (STATUS_RESOLVED, "くらげ"))
+
+            (cache / "one.json").unlink()
+            for source in ("alpha", "beta"):
+                (cache / f"{source}.json").write_text(json.dumps({
+                    **common, "source": source, "source_tier": "general",
+                    "url": f"https://{source}.invalid/word",
+                }), encoding="utf-8")
+            indexes = load_web_indexes(cache)
+            self.assertEqual(classify_entry("海月", indexes)[:2], (STATUS_RESOLVED, "くらげ"))
+
+            conflicting = json.loads((cache / "beta.json").read_text(encoding="utf-8"))
+            conflicting["readings"] = ["みづき"]
+            (cache / "beta.json").write_text(json.dumps(conflicting), encoding="utf-8")
+            self.assertEqual(classify_entry("海月", load_web_indexes(cache))[0], STATUS_CONFLICT)
+
+
+class FragmentDecisionTests(unittest.TestCase):
+    def test_single_kanji_and_independent_use_stay_pending(self):
+        one = record("尖", "尖")
+        one["definitions"][0]["examples"]["literary"] = [{"text": "尖端に触れる。"}]
+        status, _, _ = classify_entry("尖", [SourceIndex("formal")], one)
+        self.assertEqual(status, STATUS_FRAGMENT)
+        with tempfile.TemporaryDirectory() as temp:
+            base = Path(temp)
+            source = write_pending(base / "pending", one)
+            report = resolve(base / "data", base / "pending")
+            self.assertEqual(report["entries"][0]["action"], ACTION_KEEP_PENDING)
+            self.assertTrue(source.exists())
+
+        independent = record("蛋粉", "蛋粉")
+        independent["definitions"][0]["examples"]["literary"] = [{"text": "蛋粉を作る。"}]
+        self.assertNotEqual(
+            classify_entry("蛋粉", [SourceIndex("formal")], independent)[0], STATUS_FRAGMENT
+        )
+
+    def test_unique_covering_formal_word_merges_and_rejected_copy_is_recoverable(self):
+        with tempfile.TemporaryDirectory() as temp:
+            base = Path(temp)
+            data, pending, rejected = base / "data", base / "pending", base / "rejected"
+            formal = record("日華蛋粉", "にっかたんぷん", needs_reading=False)
+            target = expected_data_path(data, "にっかたんぷん")
+            target.parent.mkdir(parents=True)
+            target.write_text(json.dumps([formal], ensure_ascii=False), encoding="utf-8")
+            fragment = record("蛋粉", "蛋粉", frequency=8)
+            fragment["definitions"][0]["examples"]["literary"] = [
+                {"text": "日華蛋粉工場へ行く。", "citation": {"source": "作品一", "author": "甲"}},
+            ]
+            source = write_pending(pending, fragment)
+            report_path, decision_path = base / "report.json", base / "decisions.json"
+            dry = resolve(
+                data, pending, report_path=report_path, decision_ledger_path=decision_path,
+                rejected_root=rejected,
+            )
+            row = dry["entries"][0]
+            self.assertEqual(row["action"], ACTION_MERGE_FRAGMENT)
+            approvals = base / "approvals.json"
+            approvals.write_text(json.dumps({"approvals": [{
+                "decision_id": row["decision_id"], "action": ACTION_MERGE_FRAGMENT,
+                "reviewer": "codex", "content_sha256": row["content_sha256"],
+            }]}), encoding="utf-8")
+            applied = resolve(
+                data, pending, apply=True, report_path=report_path,
+                decision_ledger_path=decision_path, ledger_path=base / "uuids.json",
+                review_approvals_path=approvals, rejected_root=rejected,
+            )
+            self.assertEqual(applied["statistics"]["merged_fragments"], 1)
+            self.assertFalse(source.exists())
+            merged = json.loads(target.read_text(encoding="utf-8"))[0]
+            self.assertEqual(merged["meta"]["frequencies"]["aozora"], 8)
+            rejected_row = next(rejected.rglob("*.json"))
+            self.assertEqual(json.loads(rejected_row.read_text(encoding="utf-8"))[0], fragment)
+
+    def test_cross_work_embedded_absence_can_reject_but_requires_approval(self):
+        with tempfile.TemporaryDirectory() as temp:
+            base = Path(temp)
+            pending = base / "pending"
+            fragment = record("児如", "児如")
+            fragment["definitions"][0]["examples"]["literary"] = [
+                {"text": "妻児如何。", "citation": {"source": "作品一", "author": "甲"}},
+                {"text": "妻児如何。", "citation": {"source": "作品二", "author": "乙"}},
+            ]
+            write_pending(pending, fragment)
+            for name in ("JMdict.xml", "JMnedict.xml"):
+                root = "JMdict" if name.startswith("JMdict") else "JMnedict"
+                (base / name).write_text(f"<{root}/>", encoding="utf-8")
+            kwargs = dict(
+                jmdict=base / "JMdict.xml", jmnedict=base / "JMnedict.xml",
+                report_path=base / "report.json", decision_ledger_path=base / "decisions.json",
+                ledger_path=base / "uuids.json", rejected_root=base / "rejected",
+            )
+            dry = resolve(base / "data", pending, **kwargs)
+            self.assertEqual(dry["entries"][0]["action"], ACTION_REJECT_FRAGMENT)
+            with self.assertRaisesRegex(ValueError, "review approval"):
+                resolve(base / "data", pending, apply=True, **kwargs)
 
 
 class SudachiFailureTests(unittest.TestCase):

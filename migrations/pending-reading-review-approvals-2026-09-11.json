@@ -1,0 +1,26 @@
+{
+  "reviewer": "Codex",
+  "reviewed_at": "2026-09-11T20:00:00+09:00",
+  "policy": "Approved only after every recorded occurrence uniquely matched the same longer formal headword; original records remain recoverable under rejected/needs_reading.",
+  "approvals": [
+    {"decision_id": "e13a0ec1-ba6f-56ec-bbc8-25549cf42b68:pending/needs_reading/U+5100-U+51FF/公々.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "2a7402a775ce98aa1737a65eb4bc06b8bdfff008f4908155ceddbd858451f641"},
+    {"decision_id": "67530e89-a488-5bc5-b6b3-56a6245a0d41:pending/needs_reading/U+6300-U+63FF/捨扶.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "2ca2fcac9dfa42cb76a16bc5d9ef7469ab7e97b01f74d51bc97afb399a114028"},
+    {"decision_id": "31f39aee-cb29-55e2-847e-b3952923e5fe:pending/needs_reading/U+6400-U+64FF/撒冷.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "d91bb2cc9aa7e46d12a60c0ff9b13c1666a2eca1a9451b324e0b71e1df57f121"},
+    {"decision_id": "9b8eb090-dc2c-584b-b1dd-76b5c37713b5:pending/needs_reading/U+6600-U+66FF/曼珠.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "cff7af6f936b3f460c6f82bc995e1ddfdd7a1de2c9d1d196cf1b09e828c1b230"},
+    {"decision_id": "e32b9cf8-de63-577a-acec-7363e9845dcf:pending/needs_reading/U+6900-U+69FF/ヤリ奉.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "789ba6b8ce961e09d2332fd593c1e95bb563b210a3b8c03167d31d98345bac92"},
+    {"decision_id": "2f905f64-50cc-5954-b44c-523e273142d4:pending/needs_reading/U+6F00-U+6FFF/演会.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "797a201a7224f039ec442cf6fc17c422144a083ea3a3142d3872436fea14616c"},
+    {"decision_id": "9b4ae0c5-53dd-587c-859b-5b7c5662fb1b:pending/needs_reading/U+7A00-U+7AFF/穫時.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "c73fd199289980dc70dc24f4152a623b1d7134b4152269d78a199c87dfea59ef"},
+    {"decision_id": "ac6bf017-25d3-5d5e-b117-23f276de64c2:pending/needs_reading/U+7A00-U+7AFF/穫量.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "341630637e2d2486afde16f32aeb5abf1dd8c0b5af283f6b48d8bfe9a20613e2"},
+    {"decision_id": "a92ac8c7-6e7a-5ec1-ae22-4748d13498be:pending/needs_reading/U+8000-U+80FF/耶無.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "85ec66b3e006a10bd4fbed1f4fb2a1aebd11aad248fecf2ee4281177dc505ac1"},
+    {"decision_id": "5f50c1d9-17bf-5327-8e52-283805a90a49:pending/needs_reading/U+8000-U+80FF/耶路.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "655bb538af9dca9131c565b7a419915e3138dd5a986a5b59c8e1a0b580ccae90"},
+    {"decision_id": "7789567d-d4f7-52bb-a8eb-f5546e4a1486:pending/needs_reading/U+8200-U+82FF/シャ蕎.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "354c0502835d366fbb9cd285b0b865a0260f0a7d1624715d684a0ec51b8a7cd4"},
+    {"decision_id": "a4d7a70b-caf1-5eae-be24-de85b39fb1b5:pending/needs_reading/U+8800-U+88FF/ソウ箪.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "873113e0d4802f08fd5d6e4fee8987d5a10b722b6c899387cb097f00b59675f1"},
+    {"decision_id": "7d2bc502-bbf5-5449-b5fc-ec8faeb66623:pending/needs_reading/U+8800-U+88FF/裸々.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "f8d4b8ad89232eb33dfab25a3acfd9e9f14f32da1bb7f1c65cafa10ca842fa98"},
+    {"decision_id": "b04fd324-5e62-51bf-81a9-e50e761e8d72:pending/needs_reading/U+8A00-U+8AFF/諳厄.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "22cd3ca5828847fd077d41f41a21b445e1ca326d070ad62de65f5d836d228a6c"},
+    {"decision_id": "9fe2795a-b954-5a1a-922f-d09d05bf3294:pending/needs_reading/U+8D00-U+8DFF/践哲.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "51f66af3241110df04862df1d094232c174550d8deec43026a2c4910ebddd5a1"},
+    {"decision_id": "c44c5f3d-c5ff-5edb-ab6d-fa774982375a:pending/needs_reading/U+8D00-U+8DFF/践的.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "4c18244c8660648ca20ced3fe3319f79af945911e04a90d022cf618ad14e77fd"},
+    {"decision_id": "f98e6207-198d-5316-ab55-298e8fb43eab:pending/needs_reading/U+9000-U+90FF/遮二.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "11f166767dac53a5b83d29c8801c25fb4a9bae6df85b59c52cd1fda3de0d367a"},
+    {"decision_id": "286e2a94-e548-5a4f-81c2-1e5ecdb387a7:pending/needs_reading/U+9000-U+90FF/那様.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "3abc35950129bef3227143d3b86dc4ce0e83dcbde1a308abd152d3b0fe07bb88"},
+    {"decision_id": "3a5685ae-d3a1-5b98-b288-0f94d90173e4:pending/needs_reading/U+9600-U+96FF/阿弗.json#1", "action": "merge_fragment", "reviewer": "Codex", "content_sha256": "a4d88ce957ff10a30205832de184ae3100e92d5c49b4cac4b05db58aab868ea6"}
+  ]
+}

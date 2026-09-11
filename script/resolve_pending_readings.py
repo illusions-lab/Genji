@@ -7,9 +7,10 @@ model to guess.  A row is eligible only when a complete spelling has one
 applicable reading in formal data, JMdict/JMnedict, or when the same Aozora ruby
 occurs in at least two different text files.
 
-The default mode is read-only.  ``--apply`` requires a JSON report and a UUID
-migration ledger; the CSV report is written next to the JSON report unless an
-explicit path is supplied.
+The default mode is read-only.  Every pending row receives exactly one durable
+decision.  ``--apply`` requires a complete report, that decision ledger, and a
+UUID migration ledger; reviewer approval is additionally required for decisions
+which are not backed by a single authoritative exact-headword source.
 """
 
 from __future__ import annotations
@@ -52,6 +53,35 @@ STATUS_SINGLE_RUBY = "single_ruby"
 STATUS_FRAGMENT = "suspected_fragment"
 STATUS_INVALID = "invalid_unicode"
 
+ACTION_PROMOTE = "promote"
+ACTION_MERGE_FRAGMENT = "merge_fragment"
+ACTION_REJECT_FRAGMENT = "reject_fragment"
+ACTION_KEEP_PENDING = "keep_pending"
+ACTION_CONFLICT = "conflict"
+DECISION_ACTIONS = frozenset({
+    ACTION_PROMOTE,
+    ACTION_MERGE_FRAGMENT,
+    ACTION_REJECT_FRAGMENT,
+    ACTION_KEEP_PENDING,
+    ACTION_CONFLICT,
+})
+
+TIER_AUTHORITATIVE = "authoritative"
+TIER_GENERAL = "general"
+TIER_ADVISORY = "advisory"
+_SOURCE_TIERS = {
+    "formal": TIER_AUTHORITATIVE,
+    "jmdict": TIER_AUTHORITATIVE,
+    "jmnedict": TIER_AUTHORITATIVE,
+    "aozora_ruby": TIER_GENERAL,
+}
+_SOURCE_URLS = {
+    "formal": "repository:data",
+    "jmdict": "https://www.edrdg.org/jmdict/j_jmdict.html",
+    "jmnedict": "https://www.edrdg.org/enamdict/enamdict_doc.html",
+    "aozora_ruby": "https://www.aozora.gr.jp/",
+}
+
 _XML_BUILTINS = rb"(?:amp|lt|gt|quot|apos)"
 _UNKNOWN_ENTITY_RE = re.compile(rb"&(?!(?:" + _XML_BUILTINS + rb");)[A-Za-z_][\w.:-]*;")
 _DOCTYPE_RE = re.compile(rb"<!DOCTYPE(?:[^>\[]|\[(?:[^\]]|\](?!>))*\])*>", re.DOTALL)
@@ -59,6 +89,7 @@ _EXPLICIT_RUBY_RE = re.compile(r"｜([^｜《》\r\n]+)《([^《》\r\n]+)》")
 _IMPLICIT_RUBY_RE = re.compile(r"([々〆ヶヵ〻\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]+)《([^《》\r\n]+)》")
 _TEXT_SUFFIXES = frozenset({".txt", ".text"})
 _PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_REJECTED = _PROJECT_ROOT / "rejected" / "needs_reading"
 
 
 def _nfc(value: str) -> str:
@@ -75,6 +106,19 @@ def _sha256(path: Path) -> str:
         for block in iter(lambda: stream.read(1024 * 1024), b""):
             digest.update(block)
     return digest.hexdigest()
+
+
+def _object_sha256(value: object) -> str:
+    encoded = json.dumps(
+        value, ensure_ascii=False, sort_keys=True, separators=(",", ":")
+    ).encode("utf-8")
+    return hashlib.sha256(encoded).hexdigest()
+
+
+def _file_timestamp(path: Path) -> str:
+    return datetime.fromtimestamp(path.stat().st_mtime, timezone.utc).replace(
+        microsecond=0
+    ).isoformat().replace("+00:00", "Z")
 
 
 def _ledger_path(path: str) -> str:
@@ -96,6 +140,24 @@ def _atomic_json(path: Path, value: object) -> None:
     except Exception:
         temporary.unlink(missing_ok=True)
         raise
+
+
+def _reuse_report_timestamp(path: Path | None, report: dict) -> None:
+    """Keep an identical dry-run byte-stable across repeated executions."""
+    if path is None or not path.exists() or report.get("mode") != "dry-run":
+        return
+    try:
+        previous = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, UnicodeError, json.JSONDecodeError):
+        return
+    if not isinstance(previous, dict) or previous.get("mode") != "dry-run":
+        return
+    old_comparable = copy.deepcopy(previous)
+    new_comparable = copy.deepcopy(report)
+    old_comparable.pop("generated_at", None)
+    new_comparable.pop("generated_at", None)
+    if old_comparable == new_comparable and isinstance(previous.get("generated_at"), str):
+        report["generated_at"] = previous["generated_at"]
 
 
 def _open_compressed(path: Path) -> BinaryIO:
@@ -150,15 +212,37 @@ class SourceIndex:
     """Exact spelling -> reading -> stable evidence identifiers."""
 
     source: str
+    source_tier: str = TIER_GENERAL
+    source_url: str = ""
+    fetched_at: str = ""
+    content_sha256: str = ""
     values: dict[str, dict[str, set[str]]] = field(
         default_factory=lambda: defaultdict(lambda: defaultdict(set))
     )
     invalid: dict[str, list[dict[str, str]]] = field(default_factory=lambda: defaultdict(list))
+    evidence_details: dict[str, dict[str, str]] = field(default_factory=dict)
+    negative_evidence: dict[str, list[dict[str, str]]] = field(
+        default_factory=lambda: defaultdict(list)
+    )
 
-    def add(self, entry: str, reading: str, evidence: str) -> None:
+    def add(
+        self, entry: str, reading: str, evidence: str, *, source_url: str | None = None,
+        source_tier: str | None = None, fetched_at: str | None = None,
+        content_sha256: str | None = None, note: str = "",
+    ) -> None:
         entry, reading = _nfc(entry), _nfc(reading)
         if not entry or not reading:
             return
+        self.evidence_details[evidence] = {
+            "source": self.source,
+            "source_url": source_url if source_url is not None else self.source_url,
+            "source_tier": source_tier if source_tier is not None else self.source_tier,
+            "fetched_at": fetched_at if fetched_at is not None else self.fetched_at,
+            "content_sha256": (
+                content_sha256 if content_sha256 is not None else self.content_sha256
+            ),
+            "note": note or evidence,
+        }
         if is_valid_reading(reading):
             self.values[entry][reading].add(evidence)
         else:
@@ -168,10 +252,106 @@ class SourceIndex:
                 "invalid_characters": [f"U+{ord(char):04X}" for char in invalid_reading_chars(reading)],
             })
 
+    def record_absence(self, entry: str, note: str = "no exact headword match") -> None:
+        self.negative_evidence[_nfc(entry)].append({
+            "source": self.source,
+            "source_url": self.source_url,
+            "source_tier": self.source_tier,
+            "fetched_at": self.fetched_at,
+            "content_sha256": self.content_sha256,
+            "note": note,
+        })
+
+
+def _iter_cached_rows(path: Path) -> Iterator[dict]:
+    """Read either a JSON document or append-only JSONL evidence cache."""
+    try:
+        if path.suffix.lower() == ".jsonl":
+            for line in path.read_text(encoding="utf-8").splitlines():
+                if line.strip():
+                    row = json.loads(line)
+                    if isinstance(row, dict):
+                        yield row
+            return
+        loaded = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, UnicodeError, json.JSONDecodeError):
+        return
+    rows = loaded if isinstance(loaded, list) else [loaded]
+    for row in rows:
+        if isinstance(row, dict):
+            yield row
+
+
+def load_web_indexes(cache_dir: Path, wanted: set[str] | None = None) -> list[SourceIndex]:
+    """Load durable parsed web evidence without depending on search snippets.
+
+    A cache row is promotable only when it records its URL, fetch timestamp, and
+    SHA-256 of the fetched response.  Incomplete legacy rows remain advisory.
+    Later JSONL rows replace earlier rows for the same source/headword so a
+    manually reviewed correction can be appended without rewriting history.
+    """
+    if not cache_dir.exists():
+        return []
+    paths = [cache_dir] if cache_dir.is_file() else sorted(
+        path for path in cache_dir.rglob("*")
+        if path.is_file() and path.suffix.lower() in {".json", ".jsonl"}
+    )
+    latest: dict[tuple[str, str], dict] = {}
+    for path in paths:
+        fallback_source = path.stem
+        for row in _iter_cached_rows(path):
+            entry = row.get("entry")
+            source = row.get("source", fallback_source)
+            if (not isinstance(entry, str) or not isinstance(source, str) or
+                    (wanted is not None and entry not in wanted)):
+                continue
+            latest[(source, entry)] = row
+
+    indexes: dict[str, SourceIndex] = {}
+    for (source, entry), row in sorted(latest.items()):
+        url = row.get("url") if isinstance(row.get("url"), str) else ""
+        fetched_at = row.get("fetched_at") if isinstance(row.get("fetched_at"), str) else ""
+        content_hash = (
+            row.get("content_sha256") if isinstance(row.get("content_sha256"), str) else ""
+        )
+        declared_tier = row.get("source_tier")
+        complete = bool(url and fetched_at and re.fullmatch(r"[0-9a-f]{64}", content_hash))
+        tier = declared_tier if declared_tier in {
+            TIER_AUTHORITATIVE, TIER_GENERAL, TIER_ADVISORY
+        } and complete else TIER_ADVISORY
+        index = indexes.setdefault(
+            source, SourceIndex(f"web:{source}", tier, url, fetched_at, content_hash)
+        )
+        if row.get("status") in {"no_reading", "not_found"}:
+            index.record_absence(entry, "cached exact-headword page contained no usable reading")
+            continue
+        if row.get("status") != "matched":
+            continue
+        readings = row.get("readings")
+        if not isinstance(readings, list):
+            continue
+        for position, reading in enumerate(readings, 1):
+            if not isinstance(reading, str):
+                continue
+            evidence = f"web:{source}:{_object_sha256(row)}:r{position}"
+            index.add(
+                entry, reading, evidence, source_url=url, source_tier=tier,
+                fetched_at=fetched_at, content_sha256=content_hash,
+                note=(row.get("note") if isinstance(row.get("note"), str) else
+                      "cached exact-headword page parsing"),
+            )
+    return list(indexes.values())
+
 
 def parse_edrdg(path: Path, source: str, wanted: set[str] | None = None) -> SourceIndex:
     """Parse full-spelling reading mappings shared by JMdict and JMnedict."""
-    index = SourceIndex(source)
+    index = SourceIndex(
+        source,
+        TIER_AUTHORITATIVE,
+        _SOURCE_URLS[source],
+        _file_timestamp(path),
+        _sha256(path),
+    )
     for element in _xml_entry_iterator(path):
         sequence = _child_text(element, "ent_seq") or "unknown"
         spellings: list[str] = []
@@ -196,11 +376,18 @@ def parse_edrdg(path: Path, source: str, wanted: set[str] | None = None) -> Sour
             for spelling in applicable:
                 if wanted is None or spelling in wanted:
                     index.add(spelling, reading, f"{source}:{sequence}:r{position}")
+    if wanted is not None:
+        for entry in sorted(wanted - set(index.values)):
+            index.record_absence(entry, "complete source scan found no exact headword")
     return index
 
 
-def build_formal_index(data_root: Path, wanted: set[str] | None = None) -> SourceIndex:
-    index = SourceIndex("formal")
+def build_formal_index(
+    data_root: Path,
+    wanted: set[str] | None = None,
+    target_sink: dict[str, list[dict]] | None = None,
+) -> SourceIndex:
+    index = SourceIndex("formal", TIER_AUTHORITATIVE, _SOURCE_URLS["formal"])
     if not data_root.exists():
         return index
     for path in sorted(data_root.rglob("*.json")):
@@ -208,6 +395,16 @@ def build_formal_index(data_root: Path, wanted: set[str] | None = None) -> Sourc
             loaded = json.loads(path.read_text(encoding="utf-8"))
         except (OSError, UnicodeError, json.JSONDecodeError):
             continue
+        file_hash = ""
+        file_time = ""
+
+        def source_meta() -> tuple[str, str]:
+            nonlocal file_hash, file_time
+            if not file_hash:
+                file_hash = _sha256(path)
+                file_time = _file_timestamp(path)
+            return file_hash, file_time
+
         rows = loaded if isinstance(loaded, list) else [loaded]
         for row_number, item in enumerate(rows, 1):
             if not isinstance(item, dict):
@@ -217,15 +414,34 @@ def build_formal_index(data_root: Path, wanted: set[str] | None = None) -> Sourc
             reading = reading_block.get("primary") if isinstance(reading_block, dict) else None
             if not isinstance(entry, str) or not isinstance(reading, str):
                 continue
+            if target_sink is not None and is_valid_reading(reading):
+                target_sink[_apply_kyuji(_nfc(entry))].append({
+                    "entry": _apply_kyuji(_nfc(entry)),
+                    "reading": reading,
+                    "target_path": str(path),
+                    "target_row": row_number,
+                })
             evidence = f"formal:{path.relative_to(data_root)}#{row_number}"
             if wanted is None or entry in wanted:
-                index.add(entry, reading, evidence)
+                current_hash, current_time = source_meta()
+                index.add(
+                    entry, reading, evidence,
+                    source_url=f"repository:data/{path.relative_to(data_root)}",
+                    fetched_at=current_time, content_sha256=current_hash,
+                    note="exact formal dictionary headword",
+                )
             meta = item.get("meta")
             variants = meta.get("variant_writings") if isinstance(meta, dict) else None
             if isinstance(variants, list):
                 for variant in variants:
                     if isinstance(variant, str) and (wanted is None or variant in wanted):
-                        index.add(variant, reading, evidence + ":variant")
+                        current_hash, current_time = source_meta()
+                        index.add(
+                            variant, reading, evidence + ":variant",
+                            source_url=f"repository:data/{path.relative_to(data_root)}",
+                            fetched_at=current_time, content_sha256=current_hash,
+                            note=f"formal variant_writings match for {entry}",
+                        )
     return index
 
 
@@ -244,7 +460,7 @@ def extract_aozora_ruby(text: str) -> Iterator[tuple[str, str]]:
 
 
 def build_aozora_index(root: Path, wanted: set[str] | None = None) -> SourceIndex:
-    index = SourceIndex("aozora_ruby")
+    index = SourceIndex("aozora_ruby", TIER_GENERAL, _SOURCE_URLS["aozora_ruby"])
     if not root.exists():
         return index
     files = [root] if root.is_file() else sorted(
@@ -269,7 +485,15 @@ def build_aozora_index(root: Path, wanted: set[str] | None = None) -> SourceInde
             if pair in seen_in_file:
                 continue
             seen_in_file.add(pair)
-            index.add(entry, reading, f"aozora:{reference}")
+            source_url = (
+                "https://www.aozora.gr.jp/cards/" + reference
+                if reference.split("/", 1)[0].isdigit() else _SOURCE_URLS["aozora_ruby"]
+            )
+            index.add(
+                entry, reading, f"aozora:{reference}",
+                source_url=source_url, fetched_at=_file_timestamp(path),
+                content_sha256=_sha256(path), note="exact Aozora ruby over the complete spelling",
+            )
     return index
 
 
@@ -334,6 +558,24 @@ def _example_texts(item: object) -> Iterator[str]:
                     yield text
 
 
+def _example_records(item: object) -> Iterator[dict]:
+    if not isinstance(item, dict):
+        return
+    definitions = item.get("definitions")
+    if not isinstance(definitions, list):
+        return
+    for definition in definitions:
+        examples = definition.get("examples") if isinstance(definition, dict) else None
+        if not isinstance(examples, dict):
+            continue
+        for values in examples.values():
+            if not isinstance(values, list):
+                continue
+            for example in values:
+                if isinstance(example, dict) and isinstance(example.get("text"), str):
+                    yield example
+
+
 def _suspected_fragment(entry: str, item: object = None) -> bool:
     entry = _apply_kyuji(entry)
     if len(entry) == 1:
@@ -377,18 +619,158 @@ def _frequency(item: object) -> int | float:
     return value if isinstance(value, (int, float)) and not isinstance(value, bool) else 0
 
 
+def _covering_formal_targets(
+    text: str, position: int, entry: str, targets: dict[str, list[dict]], maximum: int
+) -> list[dict]:
+    end = position + len(entry)
+    matches: dict[tuple[str, str, int], dict] = {}
+    lower = max(0, end - maximum)
+    upper = min(len(text), position + maximum)
+    for start in range(lower, position + 1):
+        for stop in range(end, upper + 1):
+            candidate = text[start:stop]
+            if len(candidate) <= len(entry) or candidate not in targets:
+                continue
+            for target in targets[candidate]:
+                key = (target["target_path"], target["reading"], target["target_row"])
+                matches[key] = target
+    if not matches:
+        return []
+    longest = max(len(row["entry"]) for row in matches.values())
+    return sorted(
+        (row for row in matches.values() if len(row["entry"]) == longest),
+        key=lambda row: (row["entry"], row["reading"], row["target_path"], row["target_row"]),
+    )
+
+
+def classify_fragment_action(
+    entry: str,
+    item: object,
+    formal_targets: dict[str, list[dict]],
+    maximum_target_length: int,
+    *,
+    authoritative_absence_checked: bool,
+) -> tuple[str, str, dict | None, dict]:
+    """Classify fragments from every occurrence, never from shape alone."""
+    normalized_entry = _apply_kyuji(entry)
+    if len(normalized_entry) == 1:
+        return (
+            ACTION_KEEP_PENDING,
+            "single-character entries require individual review",
+            None,
+            {"occurrences": 0, "works": []},
+        )
+
+    occurrences = 0
+    examples_seen = 0
+    examples_with_entry = 0
+    embedded = 0
+    standalone = 0
+    works: set[str] = set()
+    covering: list[list[dict]] = []
+    for example in _example_records(item):
+        examples_seen += 1
+        text = _apply_kyuji(example["text"])
+        citation = example.get("citation")
+        if isinstance(citation, dict):
+            source = citation.get("source")
+            author = citation.get("author")
+            if isinstance(source, str) and source.strip():
+                works.add(f"{source.strip()}\u241f{author.strip() if isinstance(author, str) else ''}")
+        start = 0
+        found_in_example = False
+        while (position := text.find(normalized_entry, start)) >= 0:
+            found_in_example = True
+            occurrences += 1
+            left = text[position - 1] if position else ""
+            end = position + len(normalized_entry)
+            right = text[end] if end < len(text) else ""
+            is_embedded = bool(
+                (normalized_entry.startswith("云") and left == "と") or
+                (left and _is_japanese_lexical_char(left)) or
+                (right and _is_japanese_lexical_char(right))
+            )
+            embedded += int(is_embedded)
+            standalone += int(not is_embedded)
+            covering.append(_covering_formal_targets(
+                text, position, normalized_entry, formal_targets, maximum_target_length
+            ))
+            start = position + max(1, len(normalized_entry))
+        examples_with_entry += int(found_in_example)
+
+    details = {
+        "occurrences": occurrences,
+        "examples_seen": examples_seen,
+        "examples_with_entry": examples_with_entry,
+        "embedded_occurrences": embedded,
+        "standalone_occurrences": standalone,
+        "works": sorted(works),
+        "covering_targets": covering,
+        "authoritative_absence_checked": authoritative_absence_checked,
+    }
+    if not occurrences:
+        return ACTION_KEEP_PENDING, "no example occurrence is available for boundary review", None, details
+    if examples_with_entry != examples_seen:
+        return ACTION_KEEP_PENDING, "not every example can be boundary-matched", None, details
+    if standalone:
+        return ACTION_KEEP_PENDING, "at least one example contains an independent use", None, details
+
+    unique_targets = [rows[0] for rows in covering if len(rows) == 1]
+    if len(unique_targets) == len(covering):
+        identities = {
+            (row["target_path"], row["target_row"], row["entry"], row["reading"])
+            for row in unique_targets
+        }
+        if len(identities) == 1:
+            return (
+                ACTION_MERGE_FRAGMENT,
+                "every occurrence is embedded in the same unique formal headword",
+                unique_targets[0],
+                details,
+            )
+        return ACTION_CONFLICT, "occurrences map to different formal headwords", None, details
+    if any(len(rows) > 1 for rows in covering):
+        return ACTION_CONFLICT, "at least one boundary has multiple formal headword matches", None, details
+    if len(works) >= 2 and authoritative_absence_checked and embedded == occurrences:
+        return (
+            ACTION_REJECT_FRAGMENT,
+            "all occurrences are embedded across at least two works and authoritative dictionaries have no exact headword",
+            None,
+            details,
+        )
+    return (
+        ACTION_KEEP_PENDING,
+        "embedded evidence is insufficient for automatic rejection",
+        None,
+        details,
+    )
+
+
 def _candidate_rows(entry: str, indexes: list[SourceIndex]) -> list[dict]:
     grouped: dict[str, dict[str, object]] = {}
     for index in indexes:
         for reading, evidence in index.values.get(entry, {}).items():
             candidate = grouped.setdefault(reading, {
-                "reading": reading, "sources": [], "evidence_count": 0, "evidence": []
+                "reading": reading, "sources": [], "source_tiers": [],
+                "evidence_count": 0, "evidence": [], "evidence_chain": [],
             })
             candidate["sources"].append(index.source)
+            candidate["source_tiers"].append(
+                _SOURCE_TIERS.get(index.source, index.source_tier)
+            )
             candidate["evidence"].extend(sorted(evidence))
+            candidate["evidence_chain"].extend(
+                index.evidence_details[value] for value in sorted(evidence)
+                if value in index.evidence_details
+            )
     for candidate in grouped.values():
         candidate["sources"] = sorted(set(candidate["sources"]))
+        candidate["source_tiers"] = sorted(set(candidate["source_tiers"]))
         candidate["evidence"] = sorted(set(candidate["evidence"]))
+        candidate["evidence_chain"] = sorted(
+            candidate["evidence_chain"],
+            key=lambda row: (row["source"], row["source_url"], row["note"]),
+        )
         candidate["evidence_count"] = len(candidate["evidence"])
     return sorted(grouped.values(), key=lambda candidate: str(candidate["reading"]))
 
@@ -403,25 +785,43 @@ def classify_entry(
         return STATUS_INVALID, None, "a source supplied a reading containing illegal characters"
 
     by_source = {index.source: index.values.get(entry, {}) for index in indexes}
-    dictionary_sources = ("formal", "jmdict", "jmnedict")
-    for source in dictionary_sources:
-        if len(by_source.get(source, {})) > 1:
-            return STATUS_AMBIGUOUS, None, f"{source} has multiple applicable full-entry readings"
+    for index in indexes:
+        tier = _SOURCE_TIERS.get(index.source, index.source_tier)
+        if tier == TIER_AUTHORITATIVE and len(by_source.get(index.source, {})) > 1:
+            return STATUS_AMBIGUOUS, None, (
+                f"{index.source} has multiple applicable full-entry readings"
+            )
 
     ruby = by_source.get("aozora_ruby", {})
     ruby_qualified = {reading for reading, files in ruby.items() if len(files) >= 2}
     qualified: dict[str, set[str]] = defaultdict(set)
-    for source in dictionary_sources:
-        readings = by_source.get(source, {})
-        if len(readings) == 1:
-            qualified[next(iter(readings))].add(source)
+    general_support: dict[str, set[str]] = defaultdict(set)
+    for index in indexes:
+        readings = by_source.get(index.source, {})
+        if len(readings) != 1:
+            continue
+        reading = next(iter(readings))
+        tier = _SOURCE_TIERS.get(index.source, index.source_tier)
+        if tier == TIER_AUTHORITATIVE:
+            qualified[reading].add(index.source)
+        elif tier == TIER_GENERAL and index.source != "aozora_ruby":
+            general_support[reading].add(index.source)
     for reading in ruby_qualified:
         qualified[reading].add("aozora_ruby")
+    for reading, sources in general_support.items():
+        if len(sources) >= 2:
+            qualified[reading].update(sources)
 
     all_readings = {
         reading for readings in by_source.values() for reading in readings
     }
-    if len(all_readings) > 1 and qualified:
+    non_advisory_readings = {
+        reading
+        for index in indexes
+        if _SOURCE_TIERS.get(index.source, index.source_tier) != TIER_ADVISORY
+        for reading in by_source.get(index.source, {})
+    }
+    if len(non_advisory_readings) > 1:
         return STATUS_CONFLICT, None, "sources disagree on the complete-entry reading"
     if len(qualified) > 1:
         return STATUS_CONFLICT, None, "qualified sources disagree on the reading"
@@ -443,13 +843,18 @@ def build_report(
     jmdict: Path | None = None,
     jmnedict: Path | None = None,
     aozora_root: Path | None = None,
+    web_cache_dir: Path | None = None,
 ) -> tuple[dict, list[tuple[Path, int, object]], list[SourceIndex]]:
     pending_rows = _load_pending(pending_root)
     wanted = {
         _nfc(item.get("entry")) for _, _, item in pending_rows
         if isinstance(item, dict) and isinstance(item.get("entry"), str)
     }
-    indexes = [build_formal_index(data_root, wanted)]
+    formal_targets: dict[str, list[dict]] = defaultdict(list)
+    indexes = [build_formal_index(data_root, wanted, formal_targets)]
+    maximum_target_length = min(
+        max((len(entry) for entry in formal_targets), default=1), 32
+    )
     source_files: dict[str, dict[str, str] | None] = {"formal": {"path": str(data_root)}}
     for source, path in (("jmdict", jmdict), ("jmnedict", jmnedict)):
         if path is not None:
@@ -458,7 +863,9 @@ def build_report(
             indexes.append(parse_edrdg(path, source, wanted))
             source_files[source] = {"path": str(path), "sha256": _sha256(path)}
         else:
-            indexes.append(SourceIndex(source))
+            indexes.append(SourceIndex(
+                source, TIER_AUTHORITATIVE, _SOURCE_URLS[source]
+            ))
             source_files[source] = None
     if aozora_root is not None:
         if not aozora_root.exists():
@@ -466,8 +873,21 @@ def build_report(
         indexes.append(build_aozora_index(aozora_root, wanted))
         source_files["aozora_ruby"] = {"path": str(aozora_root)}
     else:
-        indexes.append(SourceIndex("aozora_ruby"))
+        indexes.append(SourceIndex(
+            "aozora_ruby", TIER_GENERAL, _SOURCE_URLS["aozora_ruby"]
+        ))
         source_files["aozora_ruby"] = None
+    if web_cache_dir is not None:
+        if not web_cache_dir.exists():
+            raise ValueError(f"web cache path does not exist: {web_cache_dir}")
+        web_indexes = load_web_indexes(web_cache_dir, wanted)
+        indexes.extend(web_indexes)
+        source_files["web_cache"] = {
+            "path": str(web_cache_dir),
+            "files": len(list(web_cache_dir.rglob("*"))) if web_cache_dir.is_dir() else 1,
+        }
+    else:
+        source_files["web_cache"] = None
 
     entries: list[dict] = []
     counts: Counter[str] = Counter()
@@ -483,16 +903,64 @@ def build_report(
             {"source": index.source, **evidence}
             for index in indexes for evidence in index.invalid.get(entry, [])
         ]
+        candidates = _candidate_rows(entry, indexes)
+        action = (
+            ACTION_PROMOTE if status == STATUS_RESOLVED else
+            ACTION_CONFLICT if status in {STATUS_CONFLICT, STATUS_AMBIGUOUS} else
+            ACTION_KEEP_PENDING
+        )
+        fragment_target = None
+        fragment_analysis = None
+        if status == STATUS_FRAGMENT:
+            action, reason, fragment_target, fragment_analysis = classify_fragment_action(
+                entry, item, formal_targets, maximum_target_length,
+                authoritative_absence_checked=(jmdict is not None and jmnedict is not None),
+            )
+        selected = [candidate for candidate in candidates if candidate["reading"] == reading]
+        evidence_chain = [
+            evidence for candidate in (selected or candidates)
+            for evidence in candidate.get("evidence_chain", [])
+        ]
+        evidence_chain.extend(
+            evidence for index in indexes for evidence in index.negative_evidence.get(entry, [])
+        )
+        source_hash = _object_sha256(item)
+        evidence_chain.insert(0, {
+            "source": "pending_record",
+            "source_url": f"repository:{_ledger_path(str(path))}#{row_number}",
+            "source_tier": TIER_ADVISORY,
+            "fetched_at": _file_timestamp(path),
+            "content_sha256": source_hash,
+            "note": "original quarantined record and example context",
+        })
+        authoritative_promotion = bool(
+            reading and any(
+                evidence.get("source_tier") == TIER_AUTHORITATIVE
+                for evidence in evidence_chain
+            )
+        )
+        requires_review = action in {ACTION_MERGE_FRAGMENT, ACTION_REJECT_FRAGMENT} or (
+            action == ACTION_PROMOTE and not authoritative_promotion
+        )
+        decision_id = f"{old_uuid}:{_ledger_path(str(path))}#{row_number}"
         entries.append({
+            "decision_id": decision_id,
             "entry": entry,
             "aozora_frequency": _frequency(item),
-            "candidates": _candidate_rows(entry, indexes),
+            "candidates": candidates,
             "invalid_evidence": invalid_evidence,
             "final_status": status,
+            "action": action,
             "reason": reason,
+            "note": reason,
             "resolved_reading": reading,
             "old_uuid": old_uuid,
             "new_uuid": new_uuid,
+            "content_sha256": source_hash,
+            "evidence_chain": evidence_chain,
+            "requires_review": requires_review,
+            "fragment_target": fragment_target,
+            "fragment_analysis": fragment_analysis,
             "source_path": str(path),
             "source_row": row_number,
             "target_path": str(target) if target else None,
@@ -501,7 +969,11 @@ def build_report(
         "generated_at": _now_iso(),
         "mode": "dry-run",
         "sources": source_files,
-        "statistics": {"total": len(entries), "by_status": dict(sorted(counts.items()))},
+        "statistics": {
+            "total": len(entries),
+            "by_status": dict(sorted(counts.items())),
+            "by_action": dict(sorted(Counter(row["action"] for row in entries).items())),
+        },
         "entries": entries,
     }
     return report, pending_rows, indexes
@@ -512,12 +984,12 @@ def _write_csv(path: Path, report: dict) -> None:
     temporary = path.with_suffix(path.suffix + ".tmp")
     fields = [
         "entry", "aozora_frequency", "candidate_readings", "sources",
-        "evidence_count", "final_status", "reason", "resolved_reading",
+        "evidence_count", "final_status", "action", "reason", "resolved_reading",
         "old_uuid", "new_uuid", "source_path", "source_row", "target_path",
     ]
     try:
         with temporary.open("w", encoding="utf-8", newline="") as stream:
-            writer = csv.DictWriter(stream, fieldnames=fields)
+            writer = csv.DictWriter(stream, fieldnames=fields, lineterminator="\n")
             writer.writeheader()
             for row in report["entries"]:
                 candidates = row["candidates"]
@@ -533,6 +1005,133 @@ def _write_csv(path: Path, report: dict) -> None:
     except Exception:
         temporary.unlink(missing_ok=True)
         raise
+
+
+def _decision_ledger_row(row: dict, decided_at: str) -> dict:
+    evidence = row.get("evidence_chain") if isinstance(row.get("evidence_chain"), list) else []
+    fragment_target = copy.deepcopy(row.get("fragment_target"))
+    if isinstance(fragment_target, dict) and isinstance(fragment_target.get("target_path"), str):
+        fragment_target["target_path"] = _ledger_path(fragment_target["target_path"])
+    return {
+        "decision_id": row["decision_id"],
+        "old_uuid": row.get("old_uuid"),
+        "entry": row.get("entry"),
+        "action": row.get("action"),
+        "reason": row.get("reason"),
+        "source_path": _ledger_path(row["source_path"]),
+        "source_row": row.get("source_row"),
+        "content_sha256": row.get("content_sha256"),
+        "source_urls": sorted({
+            value.get("source_url", "") for value in evidence
+            if isinstance(value, dict) and value.get("source_url")
+        }),
+        "source_tiers": sorted({
+            value.get("source_tier", "") for value in evidence
+            if isinstance(value, dict) and value.get("source_tier")
+        }),
+        "fetched_at": sorted({
+            value.get("fetched_at", "") for value in evidence
+            if isinstance(value, dict) and value.get("fetched_at")
+        }),
+        "note": row.get("note") or row.get("reason"),
+        "evidence_chain": evidence,
+        "resolved_reading": row.get("resolved_reading"),
+        "new_uuid": row.get("new_uuid"),
+        "target_path": _ledger_path(row["target_path"]) if row.get("target_path") else None,
+        "fragment_target": fragment_target,
+        "requires_review": bool(row.get("requires_review")),
+        "decided_at": decided_at,
+    }
+
+
+def _validate_complete_report(report: dict) -> None:
+    entries = report.get("entries")
+    total = report.get("statistics", {}).get("total")
+    if not isinstance(entries, list) or total != len(entries):
+        raise ValueError("decision report is incomplete")
+    identifiers = [row.get("decision_id") for row in entries if isinstance(row, dict)]
+    if len(identifiers) != len(entries) or len(set(identifiers)) != len(entries):
+        raise ValueError("each pending row must have exactly one unique decision")
+    invalid = [row.get("action") for row in entries if row.get("action") not in DECISION_ACTIONS]
+    if invalid:
+        raise ValueError(f"invalid decision action: {invalid[0]}")
+
+
+def write_decision_ledger(path: Path, report: dict) -> dict:
+    """Upsert one current decision per pending identity and preserve revisions."""
+    _validate_complete_report(report)
+    ledger: dict = {"created_at": report["generated_at"], "decisions": [], "history": []}
+    if path.exists():
+        loaded = json.loads(path.read_text(encoding="utf-8"))
+        if not isinstance(loaded, dict) or not isinstance(loaded.get("decisions"), list):
+            raise ValueError(f"invalid decision ledger: {path}")
+        ledger = loaded
+        ledger.setdefault("history", [])
+    existing = {
+        row.get("decision_id"): row for row in ledger["decisions"] if isinstance(row, dict)
+    }
+    for report_row in report["entries"]:
+        identifier = report_row["decision_id"]
+        previous = existing.get(identifier)
+        decided_at = previous.get("decided_at") if isinstance(previous, dict) else report["generated_at"]
+        current = _decision_ledger_row(report_row, decided_at)
+        if previous == current:
+            continue
+        if previous is not None:
+            ledger["history"].append(previous)
+        existing[identifier] = current
+    ledger["decisions"] = sorted(
+        existing.values(), key=lambda row: (str(row.get("source_path")), int(row.get("source_row") or 0))
+    )
+    ledger["statistics"] = {
+        "total": len(ledger["decisions"]),
+        "by_action": dict(sorted(Counter(row["action"] for row in ledger["decisions"]).items())),
+    }
+    serialized = json.dumps(ledger, ensure_ascii=False, indent=2) + "\n"
+    if not path.exists() or path.read_text(encoding="utf-8") != serialized:
+        _atomic_json(path, ledger)
+    return ledger
+
+
+def _load_review_approvals(path: Path | None) -> dict[tuple[str, str], dict]:
+    if path is None:
+        return {}
+    loaded = json.loads(path.read_text(encoding="utf-8"))
+    rows = loaded.get("approvals") if isinstance(loaded, dict) else loaded
+    if not isinstance(rows, list):
+        raise ValueError(f"invalid review approvals: {path}")
+    approvals: dict[tuple[str, str], dict] = {}
+    for row in rows:
+        if not isinstance(row, dict) or row.get("approved", True) is not True:
+            continue
+        identifier = row.get("decision_id") or row.get("old_uuid")
+        action = row.get("action")
+        reviewer = row.get("reviewer")
+        if all(isinstance(value, str) and value for value in (identifier, action, reviewer)):
+            approvals[(identifier, action)] = row
+    return approvals
+
+
+def validate_review_approvals(report: dict, approval_path: Path | None) -> None:
+    required = [row for row in report["entries"] if row.get("requires_review")]
+    if not required:
+        return
+    approvals = _load_review_approvals(approval_path)
+    missing: list[str] = []
+    for row in required:
+        approval = approvals.get((row["decision_id"], row["action"])) or approvals.get(
+            (row.get("old_uuid"), row["action"])
+        )
+        if approval is None:
+            missing.append(row["decision_id"])
+            continue
+        approved_hash = approval.get("content_sha256")
+        if approved_hash is not None and approved_hash != row.get("content_sha256"):
+            missing.append(row["decision_id"])
+    if missing:
+        raise ValueError(
+            f"review approval is required for {len(missing)} decision(s): {missing[0]}"
+        )
 
 
 def _merge_promoted_record(existing: dict, promoted: dict) -> None:
@@ -623,8 +1222,18 @@ def _apply_resolutions(
     pending_rows: list[tuple[Path, int, object]],
     ledger_path: Path,
     pending_root: Path,
+    rejected_root: Path | None = None,
 ) -> int:
-    planned = [row for row in report["entries"] if row["final_status"] == STATUS_RESOLVED]
+    planned = [
+        row for row in report["entries"]
+        if row.get("action") == ACTION_PROMOTE or (
+            "action" not in row and row.get("final_status") == STATUS_RESOLVED
+        )
+    ]
+    fragment_rows = [
+        row for row in report["entries"]
+        if row.get("action") in {ACTION_MERGE_FRAGMENT, ACTION_REJECT_FRAGMENT}
+    ] if rejected_root is not None else []
     dictionary_hashes = {
         source: details["sha256"] for source, details in report["sources"].items()
         if source in {"jmdict", "jmnedict"} and isinstance(details, dict) and "sha256" in details
@@ -657,12 +1266,13 @@ def _apply_resolutions(
         ledger["migrations"].extend(additions)
         # The ledger is durable before any dictionary row is moved.
         _atomic_json(ledger_path, ledger)
-    if not planned:
+    if not planned and not fragment_rows:
         return 0
 
     item_lookup = {(str(path), row_number): item for path, row_number, item in pending_rows}
     destination_cache: dict[Path, list[object]] = {}
     resolved_keys: set[tuple[str, int]] = set()
+    promoted_keys: set[tuple[str, int]] = set()
     for row in planned:
         key = (row["source_path"], row["source_row"])
         original = item_lookup.get(key)
@@ -696,8 +1306,57 @@ def _apply_resolutions(
         else:
             _merge_promoted_record(collision, promoted)
         resolved_keys.add(key)
+        promoted_keys.add(key)
+
+    rejected_cache: dict[Path, list[object]] = {}
+    applied_fragments = Counter()
+    for row in fragment_rows:
+        key = (row["source_path"], row["source_row"])
+        original = item_lookup.get(key)
+        if not isinstance(original, dict):
+            continue
+        if row["action"] == ACTION_MERGE_FRAGMENT:
+            fragment_target = row.get("fragment_target")
+            if not isinstance(fragment_target, dict):
+                raise ValueError(f"merge_fragment lacks a target: {row['decision_id']}")
+            target = Path(fragment_target["target_path"])
+            values = destination_cache.get(target)
+            if values is None:
+                loaded = json.loads(target.read_text(encoding="utf-8"))
+                values = loaded if isinstance(loaded, list) else [loaded]
+                destination_cache[target] = values
+            matches = [
+                value for value in values if isinstance(value, dict) and
+                value.get("entry") == fragment_target.get("entry") and
+                isinstance(value.get("reading"), dict) and
+                value["reading"].get("primary") == fragment_target.get("reading")
+            ]
+            if len(matches) != 1:
+                raise ValueError(f"merge_fragment target changed: {row['decision_id']}")
+            merged_evidence = copy.deepcopy(original)
+            meta = merged_evidence.get("meta")
+            if isinstance(meta, dict):
+                meta["updated_at"] = report["generated_at"]
+            _merge_promoted_record(matches[0], merged_evidence)
+
+        rejected_target = rejected_root / Path(row["source_path"]).relative_to(pending_root)
+        rejected_values = rejected_cache.get(rejected_target)
+        if rejected_values is None:
+            if rejected_target.exists():
+                loaded = json.loads(rejected_target.read_text(encoding="utf-8"))
+                rejected_values = loaded if isinstance(loaded, list) else [loaded]
+            else:
+                rejected_values = []
+            rejected_cache[rejected_target] = rejected_values
+        original_hash = _object_sha256(original)
+        if not any(_object_sha256(value) == original_hash for value in rejected_values):
+            rejected_values.append(copy.deepcopy(original))
+        resolved_keys.add(key)
+        applied_fragments[row["action"]] += 1
 
     for target, values in destination_cache.items():
+        _atomic_json(target, values)
+    for target, values in rejected_cache.items():
         _atomic_json(target, values)
 
     by_source: dict[Path, set[int]] = defaultdict(set)
@@ -712,7 +1371,10 @@ def _apply_resolutions(
         else:
             source.unlink(missing_ok=True)
     _remove_empty_parents(pending_root)
-    return len(resolved_keys)
+    if rejected_root is not None:
+        report["statistics"]["merged_fragments"] = applied_fragments[ACTION_MERGE_FRAGMENT]
+        report["statistics"]["rejected_fragments"] = applied_fragments[ACTION_REJECT_FRAGMENT]
+    return len(promoted_keys)
 
 
 def resolve(
@@ -726,24 +1388,37 @@ def resolve(
     report_path: Path | None = None,
     csv_path: Path | None = None,
     ledger_path: Path | None = None,
+    decision_ledger_path: Path | None = None,
+    web_cache_dir: Path | None = None,
+    review_approvals_path: Path | None = None,
+    rejected_root: Path = DEFAULT_REJECTED,
 ) -> dict:
-    if apply and (report_path is None or ledger_path is None):
-        raise ValueError("--apply requires both --report and --ledger")
-    report, pending_rows, _ = build_report(data_root, pending_root, jmdict, jmnedict, aozora_root)
+    if apply and (report_path is None or ledger_path is None or decision_ledger_path is None):
+        raise ValueError("--apply requires --report, --decision-ledger, and --ledger")
+    report, pending_rows, _ = build_report(
+        data_root, pending_root, jmdict, jmnedict, aozora_root, web_cache_dir
+    )
     if apply:
         report["mode"] = "apply"
     report["statistics"]["planned_promotions"] = sum(
-        row["final_status"] == STATUS_RESOLVED for row in report["entries"]
+        row["action"] == ACTION_PROMOTE for row in report["entries"]
     )
+    report["statistics"]["promoted"] = 0
+    _reuse_report_timestamp(report_path, report)
     if report_path is not None:
         _atomic_json(report_path, report)
     if csv_path is None and report_path is not None:
         csv_path = report_path.with_suffix(".csv")
     if csv_path is not None:
         _write_csv(csv_path, report)
+    if decision_ledger_path is not None:
+        write_decision_ledger(decision_ledger_path, report)
     promoted = 0
     if apply:
-        promoted = _apply_resolutions(report, pending_rows, ledger_path, pending_root)
+        validate_review_approvals(report, review_approvals_path)
+        promoted = _apply_resolutions(
+            report, pending_rows, ledger_path, pending_root, rejected_root
+        )
     report["statistics"]["promoted"] = promoted
     if report_path is not None:
         _atomic_json(report_path, report)
@@ -757,9 +1432,16 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--jmdict", type=Path)
     parser.add_argument("--jmnedict", type=Path)
     parser.add_argument("--aozora-dir", type=Path)
+    parser.add_argument("--rejected-dir", type=Path, default=DEFAULT_REJECTED)
+    parser.add_argument("--web-cache-dir", type=Path,
+                        help="durable parsed web evidence cache directory")
     parser.add_argument("--report", type=Path, help="JSON decision report")
     parser.add_argument("--csv", type=Path, help="CSV summary (defaults beside --report)")
     parser.add_argument("--ledger", type=Path, help="UUID migration ledger (required with --apply)")
+    parser.add_argument("--decision-ledger", type=Path,
+                        help="durable one-decision-per-pending-row ledger (required with --apply)")
+    parser.add_argument("--review-approvals", type=Path,
+                        help="reviewer approvals for non-authoritative mutations")
     parser.add_argument("--apply", action="store_true")
     args = parser.parse_args(argv)
     try:
@@ -772,6 +1454,14 @@ def main(argv: list[str] | None = None) -> int:
             report_path=args.report.resolve() if args.report else None,
             csv_path=args.csv.resolve() if args.csv else None,
             ledger_path=args.ledger.resolve() if args.ledger else None,
+            decision_ledger_path=(
+                args.decision_ledger.resolve() if args.decision_ledger else None
+            ),
+            web_cache_dir=args.web_cache_dir.resolve() if args.web_cache_dir else None,
+            review_approvals_path=(
+                args.review_approvals.resolve() if args.review_approvals else None
+            ),
+            rejected_root=args.rejected_dir.resolve(),
         )
     except (OSError, UnicodeError, json.JSONDecodeError, ET.ParseError, ValueError) as exc:
         parser.error(str(exc))
