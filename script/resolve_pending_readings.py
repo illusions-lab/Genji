@@ -34,6 +34,7 @@ from pathlib import Path
 from typing import BinaryIO, Iterator
 
 from check_data_quality import DEFAULT_DATA, DEFAULT_PENDING, _remove_empty_parents
+from create_entries import _apply_kyuji
 from dictionary_rules import (
     compute_uuid_v5,
     expected_data_path,
@@ -334,6 +335,7 @@ def _example_texts(item: object) -> Iterator[str]:
 
 
 def _suspected_fragment(entry: str, item: object = None) -> bool:
+    entry = _apply_kyuji(entry)
     if len(entry) == 1:
         name = unicodedata.name(entry, "")
         if name.startswith("HIRAGANA LETTER ") or name.startswith("KATAKANA LETTER "):
@@ -350,12 +352,14 @@ def _suspected_fragment(entry: str, item: object = None) -> bool:
     embedded = 0
     standalone = 0
     for text in _example_texts(item):
+        text = _apply_kyuji(text)
         start = 0
         while (position := text.find(entry, start)) >= 0:
             left = text[position - 1] if position else ""
             end = position + len(entry)
             right = text[end] if end < len(text) else ""
-            if ((left and _is_japanese_lexical_char(left)) or
+            if ((entry.startswith("云") and left == "と") or
+                    (left and _is_japanese_lexical_char(left)) or
                     (right and _is_japanese_lexical_char(right))):
                 embedded += 1
             else:

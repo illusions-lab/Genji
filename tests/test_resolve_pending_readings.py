@@ -62,6 +62,20 @@ def write_pending(root: Path, row: dict) -> Path:
 
 
 class EdrdgTests(unittest.TestCase):
+    def test_fragment_detection_normalizes_old_forms_in_examples(self):
+        item = record("児如", "児如")
+        item["definitions"][0]["examples"]["literary"] = [
+            {"text": "妻兒如何にと氣遣へば。"},
+        ]
+        self.assertEqual(classify_entry("児如", [SourceIndex("jmdict")], item)[0], STATUS_FRAGMENT)
+
+    def test_old_say_construction_is_not_a_compound_noun(self):
+        item = record("云事", "云事")
+        item["definitions"][0]["examples"]["literary"] = [
+            {"text": "正しいと云事は言へる。"},
+        ]
+        self.assertEqual(classify_entry("云事", [SourceIndex("jmdict")], item)[0], STATUS_FRAGMENT)
+
     def test_jmdict_respects_all_spellings_and_reading_restrictions(self):
         xml = """<?xml version="1.0" encoding="UTF-8"?>
 <JMdict><entry><ent_seq>1</ent_seq>

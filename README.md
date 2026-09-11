@@ -210,6 +210,26 @@ python3 script/resolve_pending_readings.py --apply \
 `make quality` と CI は待審領域も含めた完全検査を行います。一般 `--fix` は UUID を
 変更せず、UUID 遷移は必ず旧値・新値・見出し・読音・原パスを台帳に残します。
 
+### ローカル LLM を使う残存読音の審査
+
+`resolve_pending_with_llm.py` は、機械で確定できる処理を先に行います。完全一致の
+辞書見出し、旧字体を正規化した既存見出し、KANJIDIC2 から組み立てた有限の読音候補
+を使い、OpenAI 互換のローカル API（既定は LM Studio）には残存候補の審査だけを
+依頼します。API の自由生成した読音は受理しません。
+
+```bash
+python3 script/resolve_pending_with_llm.py \
+  --kanjidic /path/to/kanjidic2.xml.gz \
+  --kotobank-cache /tmp/genji-kotobank.jsonl \
+  --checkpoint /tmp/genji-gemma.jsonl \
+  --report /tmp/genji-pending-report.json
+```
+
+長時間の呼出しは JSONL checkpoint から再開できます。二回の判定が一致しても、
+LLM の結果は既定では提案としてレポートに残るだけです。機械的に検証された決定だけを
+適用する場合は `--skip-llm --apply --ledger ...` を使います。`--trust-llm` は LLM の
+一致判定にも変更権限を与える明示的な opt-in であり、品質確認なしの利用は推奨しません。
+
 ### Docker
 
 API の Docker イメージは GHCR で配布しています（`linux/amd64` / `linux/arm64` 対応、`genji.db` 内蔵）。
