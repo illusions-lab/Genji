@@ -274,27 +274,33 @@ def fetch_kotobank(entry: str, timeout: int) -> dict:
             page = payload.decode("utf-8", "replace")
         readings = parse_kotobank_readings(page, entry)
         return _web_result(
-            entry, "kotobank", TIER_AUTHORITATIVE, url,
+            # Kotobank is useful exact-headword evidence, but it is not an
+            # authoritative lexical corpus in this workflow.  It must agree
+            # with another independent general source before it can qualify.
+            entry, "kotobank", TIER_GENERAL, url,
             "matched" if readings else "no_reading", readings, payload,
         )
     except urllib.error.HTTPError as exc:
         payload = exc.read()
         if exc.code == 404:
             return _web_result(
-                entry, "kotobank", TIER_AUTHORITATIVE, url, "not_found", [], payload
+                entry, "kotobank", TIER_GENERAL, url, "not_found", [], payload
             )
         return _web_result(
-            entry, "kotobank", TIER_AUTHORITATIVE, url, f"http_{exc.code}", [], payload
+            entry, "kotobank", TIER_GENERAL, url, f"http_{exc.code}", [], payload
         )
     except OSError as exc:
         return _web_result(
-            entry, "kotobank", TIER_AUTHORITATIVE, url, "error", [], error=str(exc)
+            entry, "kotobank", TIER_GENERAL, url, "error", [], error=str(exc)
         )
 
 
-def populate_kotobank_cache(path: Path, entries: list[str], workers: int, timeout: int) -> dict[str, dict]:
+def populate_kotobank_cache(
+    path: Path, entries: list[str], workers: int, timeout: int, limit: int
+) -> dict[str, dict]:
     cache = load_kotobank_cache(path)
     missing = [entry for entry in entries if entry not in cache or cache[entry].get("status") == "error"]
+    missing = missing[:limit]
     if not missing:
         return cache
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -391,9 +397,12 @@ def fetch_weblio(entry: str, timeout: int) -> dict:
         return _web_result(entry, "weblio", TIER_GENERAL, url, "error", [], error=str(exc))
 
 
-def populate_weblio_cache(path: Path, entries: list[str], workers: int, timeout: int) -> dict[str, dict]:
+def populate_weblio_cache(
+    path: Path, entries: list[str], workers: int, timeout: int, limit: int
+) -> dict[str, dict]:
     cache = load_kotobank_cache(path)  # Same compact JSONL schema.
     missing = [entry for entry in entries if entry not in cache or cache[entry].get("status") == "error"]
+    missing = missing[:limit]
     if not missing:
         return cache
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -561,7 +570,8 @@ def adjudicate(args: argparse.Namespace) -> dict:
             if isinstance(item, dict) and isinstance(item.get("entry"), str)
         ]
         populate_kotobank_cache(
-            args.kotobank_cache, entries, args.kotobank_workers, args.web_timeout
+            args.kotobank_cache, entries, args.kotobank_workers, args.web_timeout,
+            args.web_limit,
         )
     if args.weblio_cache is not None:
         entries = [
@@ -569,7 +579,8 @@ def adjudicate(args: argparse.Namespace) -> dict:
             if isinstance(item, dict) and isinstance(item.get("entry"), str)
         ]
         populate_weblio_cache(
-            args.weblio_cache, entries, args.weblio_workers, args.web_timeout
+            args.weblio_cache, entries, args.weblio_workers, args.web_timeout,
+            args.web_limit,
         )
     machine, pending_rows, _ = build_report(
         args.data_dir, args.pending_dir, args.jmdict, args.jmnedict, args.aozora_dir,
@@ -805,6 +816,8 @@ def main(argv: list[str] | None = None) -> int:
                         help="enable a second resumable exact-headword lookup")
     parser.add_argument("--weblio-workers", type=int, default=4)
     parser.add_argument("--web-timeout", type=int, default=20)
+    parser.add_argument("--web-limit", type=int, default=50,
+                        help="maximum uncached exact-headword pages per source in one run")
     parser.add_argument("--checkpoint", type=Path, required=True)
     parser.add_argument("--report", type=Path, required=True)
     parser.add_argument("--review-queue", type=Path,
@@ -830,7 +843,7 @@ def main(argv: list[str] | None = None) -> int:
         if args.weblio_cache is None:
             args.weblio_cache = args.web_cache_dir / "weblio.jsonl"
     if (args.batch_size < 1 or args.llm_workers < 1 or args.candidate_cap < 1 or
-            args.llm_candidate_limit < 1):
+            args.llm_candidate_limit < 1 or args.web_limit < 1):
         parser.error("batch size and candidate limits must be positive")
     report = adjudicate(args)
     print(json.dumps(report["statistics"], ensure_ascii=False, sort_keys=True))
