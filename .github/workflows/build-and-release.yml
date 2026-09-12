@@ -3,6 +3,7 @@ name: Build SQLite & Release
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -12,8 +13,24 @@ permissions:
   packages: write
 
 jobs:
-  build_db:
+  preflight:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Require compression runner configuration
+        env:
+          COMPRESSION_RUNNER: ${{ vars.GENJI_COMPRESSION_RUNNER }}
+        run: |
+          if [[ -z "${COMPRESSION_RUNNER//[[:space:]]/}" ]]; then
+            echo "Set the GENJI_COMPRESSION_RUNNER repository variable to the dedicated runner label." >&2
+            exit 1
+          fi
+          echo "Compression runner label: $COMPRESSION_RUNNER"
+
+  build_db:
+    needs: preflight
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
     outputs:
       version: ${{ steps.version.outputs.version }}
     steps:
@@ -52,17 +69,21 @@ jobs:
           path: genji.db
           retention-days: 1
 
-  # Default is a GitHub larger runner. Set GENJI_COMPRESSION_RUNNER to an
-  # equivalent dedicated Ubuntu x64 runner (>=32 GB RAM, >=150 GB disk) if needed.
+  # GENJI_COMPRESSION_RUNNER must name a dedicated Ubuntu x64 runner with at
+  # least 32 GB RAM and 150 GB available disk.
   compress_gzip:
     needs: build_db
-    runs-on: ${{ vars.GENJI_COMPRESSION_RUNNER || 'ubuntu-22.04-32core' }}
+    runs-on: ${{ vars.GENJI_COMPRESSION_RUNNER }}
     timeout-minutes: 360
     steps:
       - uses: actions/checkout@v6
+      - name: Verify compression runner resources
+        run: .github/scripts/check-compression-runner.sh
       - uses: actions/setup-node@v4
         with:
           node-version: "24"
+      - name: Test Node streaming decompression
+        run: node --test tests/test_verify_decompression.mjs
       - uses: actions/download-artifact@v8
         with:
           name: genji-db
@@ -103,10 +124,12 @@ jobs:
 
   compress_zstd:
     needs: build_db
-    runs-on: ${{ vars.GENJI_COMPRESSION_RUNNER || 'ubuntu-22.04-32core' }}
+    runs-on: ${{ vars.GENJI_COMPRESSION_RUNNER }}
     timeout-minutes: 360
     steps:
       - uses: actions/checkout@v6
+      - name: Verify compression runner resources
+        run: .github/scripts/check-compression-runner.sh
       - uses: actions/setup-node@v4
         with:
           node-version: "24"
@@ -150,6 +173,7 @@ jobs:
   release:
     needs: [build_db, compress_gzip, compress_zstd]
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     outputs:
       version: ${{ needs.build_db.outputs.version }}
     steps:
@@ -176,6 +200,7 @@ jobs:
           sha256sum genji.db.gz genji.db.zst genji-manifest.json > SHA256SUMS
           cat genji-manifest.json
       - name: Create Release
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ needs.build_db.outputs.version }}
@@ -192,7 +217,9 @@ jobs:
 
   docker:
     needs: release
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v6
       - name: Download DB artifact

@@ -7,6 +7,7 @@ import argparse
 import hashlib
 import json
 import sqlite3
+from dataclasses import dataclass
 from pathlib import Path
 
 
@@ -18,50 +19,83 @@ def sha256(path: Path) -> str:
     return digest.hexdigest()
 
 
-def zstd_frame_info(path: Path) -> tuple[int, bool, bool]:
-    """Return ``(window_log, checksum, content_size)`` for one standard frame.
+@dataclass(frozen=True)
+class ZstdFrameInfo:
+    window_size: int
+    window_log: int
+    checksum: bool
+    content_size: int | None
+
+
+def zstd_frame_info(path: Path) -> ZstdFrameInfo:
+    """Parse the bounded header of one standard Zstandard frame.
 
     This deliberately reads only the frame header so CI does not depend on the
     presentation format of ``zstd --list``.
     """
-    header = path.read_bytes()[:18]
-    if len(header) < 6 or header[:4] != b"\x28\xb5\x2f\xfd":
+    with path.open("rb") as source:
+        header = source.read(18)
+    if len(header) < 5 or header[:4] != b"\x28\xb5\x2f\xfd":
         raise ValueError(f"{path} is not a standard Zstandard frame")
     descriptor = header[4]
     if descriptor & 0x08:
         raise ValueError("Zstandard frame has its reserved descriptor bit set")
+    if descriptor & 0x10:
+        raise ValueError("Zstandard frame has its unused descriptor bit set")
     single_segment = bool(descriptor & 0x20)
     checksum = bool(descriptor & 0x04)
     content_size_flag = descriptor >> 6
-    content_size = single_segment or content_size_flag != 0
-    if not content_size:
-        raise ValueError("Zstandard frame has no content size")
+    dictionary_id_size = (0, 1, 2, 4)[descriptor & 0x03]
+    content_size_size = (
+        1 if single_segment and content_size_flag == 0 else 1 << content_size_flag
+    ) if single_segment or content_size_flag else 0
+
+    offset = 5
     if single_segment:
-        # A single-segment frame has no Window_Descriptor.  Its FCS is also
-        # necessarily its (no larger) window, so its effective log is bounded.
-        fcs_size = (1, 2, 4, 8)[content_size_flag]
-        if len(header) < 5 + 1 + fcs_size:
+        window_size = None
+    else:
+        if len(header) <= offset:
             raise ValueError("truncated Zstandard frame header")
-        # Dictionary ID precedes FCS; account for its encoded size.
-        dict_id_size = (0, 1, 2, 4)[descriptor & 0x03]
-        offset = 5 + dict_id_size
-        value = int.from_bytes(header[offset : offset + fcs_size], "little")
-        return max(10, (max(value, 1) - 1).bit_length()), checksum, content_size
-    window_descriptor = header[5]
-    return 10 + (window_descriptor >> 3), checksum, content_size
+        window_descriptor = header[offset]
+        offset += 1
+        window_log = 10 + (window_descriptor >> 3)
+        window_base = 1 << window_log
+        window_size = window_base + (window_base >> 3) * (window_descriptor & 0x07)
+
+    offset += dictionary_id_size
+    required_size = offset + content_size_size
+    if len(header) < required_size:
+        raise ValueError("truncated Zstandard frame header")
+    content_size = None
+    if content_size_size:
+        content_size = int.from_bytes(header[offset:required_size], "little")
+        if content_size_size == 2:
+            content_size += 256
+    if single_segment:
+        assert content_size is not None
+        window_size = content_size
+    assert window_size is not None
+    effective_window_log = max(10, (max(window_size, 1) - 1).bit_length())
+    return ZstdFrameInfo(window_size, effective_window_log, checksum, content_size)
 
 
 def verify_zstd_frame(path: Path, maximum_window_log: int) -> None:
-    window_log, checksum, content_size = zstd_frame_info(path)
-    if window_log > maximum_window_log:
+    info = zstd_frame_info(path)
+    maximum_window_size = 1 << maximum_window_log
+    if info.window_size > maximum_window_size:
         raise ValueError(
-            f"Zstandard frame windowLog {window_log} exceeds {maximum_window_log}"
+            f"Zstandard frame window size {info.window_size} exceeds "
+            f"2^{maximum_window_log} bytes"
         )
-    if not checksum:
+    if not info.checksum:
         raise ValueError("Zstandard frame has no checksum")
-    if not content_size:
+    if info.content_size is None:
         raise ValueError("Zstandard frame has no content size")
-    print(f"Zstandard frame verified: windowLog={window_log}, checksum, content size")
+    print(
+        "Zstandard frame verified: "
+        f"windowSize={info.window_size}, windowLog={info.window_log}, "
+        "checksum, content size"
+    )
 
 
 def write_manifest(args: argparse.Namespace) -> None:
