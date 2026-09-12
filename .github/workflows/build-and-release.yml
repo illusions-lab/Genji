@@ -38,6 +38,9 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+      - uses: actions/setup-go@v6
+        with:
+          go-version-file: api/go.mod
       - name: Generate version tag
         id: version
         run: |
@@ -46,17 +49,15 @@ jobs:
           echo "Version: $VERSION"
       - name: Test consistency rules
         run: make test
+      - name: Test Go API against SQLite FTS5
+        working-directory: api
+        run: go test -count=1 -tags sqlite_fts5 ./...
       - name: Audit formal and pending dictionary data
         run: make quality
       - name: Build and validate SQLite database
         run: |
           python script/json_to_sqlite.py
-          python - <<'PY'
-          import sqlite3
-          conn = sqlite3.connect("genji.db")
-          assert conn.execute("PRAGMA integrity_check").fetchone()[0] == "ok"
-          assert conn.execute("PRAGMA foreign_key_check").fetchone() is None
-          PY
+          python script/check_sqlite_compatibility.py --validate-only genji.db
         env:
           GENJI_VERSION: ${{ steps.version.outputs.version }}
           GENJI_COMMIT: ${{ github.sha }}

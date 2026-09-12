@@ -3,6 +3,7 @@ package store
 import (
 	"database/sql"
 	"path/filepath"
+	"reflect"
 	"strings"
 	"testing"
 
@@ -24,8 +25,14 @@ const sampleRawJSON = `{
   "meta": {"version": "1.0.0", "source": "test", "updated_at": "2026-01-01T00:00:00Z"}
 }`
 
+const compactSampleRawJSON = `{"uuid":"11111111-1111-1111-1111-111111111111","entry":"雪","reading":{"primary":"ゆき","alternatives":[],"is_heteronym":false},"grammar":{"pos":["名詞"],"ctype":null,"inflections":null},"definitions":[{"index":1,"gloss":"snow","register":"standard","nuance":null,"scenarios":[],"sensory_tags":{"colors":[],"temperature":null,"sounds":[],"emotions":[]},"collocations":[],"examples":{"standard":[],"literary":[]}}],"relations":{"homophones":[],"synonyms":[],"antonyms":[],"related":[]},"meta":{"version":"1.0.0","source":"test","updated_at":"2026-01-01T00:00:00Z"}}`
+
 // buildTestDB は数件のエントリを持つ一時 DB を作り、パスを返す。
 func buildTestDB(t *testing.T) string {
+	return buildTestDBWithRawJSON(t, sampleRawJSON)
+}
+
+func buildTestDBWithRawJSON(t *testing.T, rawJSON string) string {
 	t.Helper()
 	dir := t.TempDir()
 	path := filepath.Join(dir, "test.db")
@@ -56,7 +63,7 @@ func buildTestDB(t *testing.T) string {
 
 	if _, err := db.Exec(
 		`INSERT INTO entries (uuid, entry, reading_primary, pos, raw_json) VALUES (?, ?, ?, ?, ?)`,
-		"11111111-1111-1111-1111-111111111111", "雪", "ゆき", `["名詞"]`, sampleRawJSON,
+		"11111111-1111-1111-1111-111111111111", "雪", "ゆき", `["名詞"]`, rawJSON,
 	); err != nil {
 		t.Fatalf("insert entry: %v", err)
 	}
@@ -69,6 +76,56 @@ func buildTestDB(t *testing.T) string {
 	db.Exec(`INSERT INTO _metadata (key, value) VALUES ('version', 'test-1'), ('entry_count', '1')`)
 
 	return path
+}
+
+func TestLegacyAndCompactJSONCompatibility(t *testing.T) {
+	legacy, err := Open(buildTestDBWithRawJSON(t, sampleRawJSON))
+	if err != nil {
+		t.Fatalf("open legacy store: %v", err)
+	}
+	defer legacy.Close()
+	compact, err := Open(buildTestDBWithRawJSON(t, compactSampleRawJSON))
+	if err != nil {
+		t.Fatalf("open compact store: %v", err)
+	}
+	defer compact.Close()
+
+	const uuid = "11111111-1111-1111-1111-111111111111"
+	legacyEntry, err := legacy.GetByUUID(uuid)
+	if err != nil {
+		t.Fatalf("legacy GetByUUID: %v", err)
+	}
+	compactEntry, err := compact.GetByUUID(uuid)
+	if err != nil {
+		t.Fatalf("compact GetByUUID: %v", err)
+	}
+	if !reflect.DeepEqual(legacyEntry, compactEntry) {
+		t.Errorf("decoded api.Entry differs:\nlegacy=%+v\ncompact=%+v", legacyEntry, compactEntry)
+	}
+
+	legacyEntries, err := legacy.SearchEntries("雪", 50)
+	if err != nil {
+		t.Fatalf("legacy SearchEntries: %v", err)
+	}
+	compactEntries, err := compact.SearchEntries("雪", 50)
+	if err != nil {
+		t.Fatalf("compact SearchEntries: %v", err)
+	}
+	if !reflect.DeepEqual(legacyEntries, compactEntries) {
+		t.Errorf("entry FTS snippet/highlight differs: %v != %v", legacyEntries, compactEntries)
+	}
+
+	legacyDefinitions, err := legacy.SearchDefinitions("snow", 50)
+	if err != nil {
+		t.Fatalf("legacy SearchDefinitions: %v", err)
+	}
+	compactDefinitions, err := compact.SearchDefinitions("snow", 50)
+	if err != nil {
+		t.Fatalf("compact SearchDefinitions: %v", err)
+	}
+	if !reflect.DeepEqual(legacyDefinitions, compactDefinitions) {
+		t.Errorf("definition FTS snippet/highlight differs: %v != %v", legacyDefinitions, compactDefinitions)
+	}
 }
 
 func openTestStore(t *testing.T) *Store {

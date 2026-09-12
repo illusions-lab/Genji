@@ -69,7 +69,13 @@ const sampleRawJSON = `{
   "meta": {"version": "1.0.0", "source": "test", "updated_at": "2026-01-01T00:00:00Z"}
 }`
 
+const compactSampleRawJSON = `{"uuid":"u1","entry":"雪","reading":{"primary":"ゆき","alternatives":[],"is_heteronym":false},"grammar":{"pos":["名詞"]},"definitions":[{"index":1,"gloss":"snow","register":"standard"}],"relations":{"homophones":[],"synonyms":[],"antonyms":[],"related":[]},"meta":{"version":"1.0.0","source":"test","updated_at":"2026-01-01T00:00:00Z"}}`
+
 func buildTestDB(t *testing.T) string {
+	return buildTestDBWithRawJSON(t, sampleRawJSON)
+}
+
+func buildTestDBWithRawJSON(t *testing.T, rawJSON string) string {
 	t.Helper()
 	path := filepath.Join(t.TempDir(), "test.db")
 	db, err := sql.Open("sqlite3", path)
@@ -92,7 +98,7 @@ func buildTestDB(t *testing.T) string {
 		t.Fatalf("schema: %v", err)
 	}
 	if _, err := db.Exec(`INSERT INTO entries (uuid, entry, reading_primary, pos, raw_json) VALUES (?,?,?,?,?)`,
-		"u1", "雪", "ゆき", `["名詞"]`, sampleRawJSON); err != nil {
+		"u1", "雪", "ゆき", `["名詞"]`, rawJSON); err != nil {
 		t.Fatalf("insert: %v", err)
 	}
 	db.Exec(`INSERT INTO definitions (entry_uuid, def_index, gloss) VALUES ('u1',1,'snow')`)
@@ -105,6 +111,20 @@ func buildTestDB(t *testing.T) string {
 // newTestServer はテスト用の gin router を返す（heat 無効）。
 func newTestServer(t *testing.T, c cache.Cache) *gin.Engine {
 	return newTestServerWithHeat(t, c, heat.Noop{})
+}
+
+func newTestServerWithRawJSON(t *testing.T, rawJSON string) *gin.Engine {
+	t.Helper()
+	gin.SetMode(gin.TestMode)
+	st, err := store.Open(buildTestDBWithRawJSON(t, rawJSON))
+	if err != nil {
+		t.Fatalf("store.Open: %v", err)
+	}
+	t.Cleanup(func() { st.Close() })
+	h := NewHandler(st, cache.NoopCache{}, heat.Noop{}, time.Minute)
+	r := gin.New()
+	api.RegisterHandlers(r, api.NewStrictHandler(h, nil))
+	return r
 }
 
 // newTestServerWithHeat は heat サービスを指定してテスト用 router を返す。
@@ -228,6 +248,25 @@ func TestGetEntryByUUIDEndpoint(t *testing.T) {
 	json.Unmarshal(w.Body.Bytes(), &e)
 	if e.Uuid != "u1" {
 		t.Errorf("uuid = %q, want u1", e.Uuid)
+	}
+}
+
+func TestLegacyAndCompactJSONEndpointResponsesMatch(t *testing.T) {
+	legacy := newTestServerWithRawJSON(t, sampleRawJSON)
+	compact := newTestServerWithRawJSON(t, compactSampleRawJSON)
+	for _, path := range []string{
+		"/v1/entries/u1",
+		"/v1/lookup/entry?word=雪",
+		"/v1/lookup/reading?reading=ゆき",
+		"/v1/search/entries?q=雪",
+		"/v1/search/definitions?q=snow",
+	} {
+		before := doGet(t, legacy, path)
+		after := doGet(t, compact, path)
+		if before.Code != after.Code || before.Body.String() != after.Body.String() {
+			t.Errorf("%s response differs:\nlegacy=%d %s\ncompact=%d %s",
+				path, before.Code, before.Body.String(), after.Code, after.Body.String())
+		}
 	}
 }
 
