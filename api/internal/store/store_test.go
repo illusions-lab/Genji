@@ -73,7 +73,7 @@ func buildTestDBWithRawJSON(t *testing.T, rawJSON string) string {
 		"11111111-1111-1111-1111-111111111111", "雪", "ゆき")
 	db.Exec(`INSERT INTO fts_definitions (entry_uuid, gloss) VALUES (?, ?)`,
 		"11111111-1111-1111-1111-111111111111", "snow")
-	db.Exec(`INSERT INTO _metadata (key, value) VALUES ('version', 'test-1'), ('entry_count', '1')`)
+	db.Exec(`INSERT INTO _metadata (key, value) VALUES ('version', 'test-1'), ('entry_count', '1'), ('schema_version', '3')`)
 
 	return path
 }
@@ -278,6 +278,9 @@ func TestMetadata(t *testing.T) {
 	}
 	if m.EntryCount == nil || *m.EntryCount != "1" {
 		t.Errorf("entry_count = %v, want 1", m.EntryCount)
+	}
+	if m.SchemaVersion == nil || *m.SchemaVersion != "3" {
+		t.Errorf("schema_version = %v, want 3", m.SchemaVersion)
 	}
 }
 

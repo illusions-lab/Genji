@@ -23,13 +23,18 @@ RUN apt-get update && apt-get install -y --no-install-recommends ca-certificates
     && rm -rf /var/lib/apt/lists/*
 RUN set -eux; \
     if [ "$GENJI_DB_VERSION" = "latest" ]; then \
-      URL="https://github.com/Iktahana/Genji/releases/latest/download/genji.db.gz"; \
+      BASE_URL="https://github.com/Iktahana/Genji/releases/latest/download"; \
     else \
-      URL="https://github.com/Iktahana/Genji/releases/download/${GENJI_DB_VERSION}/genji.db.gz"; \
+      BASE_URL="https://github.com/Iktahana/Genji/releases/download/${GENJI_DB_VERSION}"; \
     fi; \
-    curl -fSL "$URL" -o /tmp/genji.db.gz; \
+    curl -fSL "$BASE_URL/genji.db.gz" -o /tmp/genji.db.gz; \
+    curl -fSL "$BASE_URL/SHA256SUMS" -o /tmp/SHA256SUMS; \
+    grep '  genji.db.gz$' /tmp/SHA256SUMS > /tmp/genji.db.gz.sha256; \
+    test "$(wc -l < /tmp/genji.db.gz.sha256)" -eq 1; \
+    cd /tmp; \
+    sha256sum --check genji.db.gz.sha256; \
     gunzip -c /tmp/genji.db.gz > /genji.db; \
-    rm -f /tmp/genji.db.gz
+    rm -f /tmp/genji.db.gz /tmp/SHA256SUMS /tmp/genji.db.gz.sha256
 
 # --- DB: ローカルのコンテキストから ---
 FROM debian:bookworm-slim AS db-local

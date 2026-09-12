@@ -11,7 +11,7 @@ read-only な API で、単一の `genji.db`（SQLite + FTS5）を参照する�
 |---|---|---|
 | `GET /` | API トップ情報（辞書バージョン・収録語数・エンドポイント一覧） | — |
 | `GET /healthz` | ヘルスチェック（DB 疎通） | — |
-| `GET /v1/metadata` | ビルドメタデータ（version / commit / entry_count 等） | — |
+| `GET /v1/metadata` | ビルドメタデータ（version / commit / entry_count / schema_version 等） | — |
 | `GET /v1/entries/{uuid}` | UUID で1件取得 | path: `uuid` |
 | `GET /v1/lookup/entry` | 見出し語の完全一致 | query: `word`（必須） |
 | `GET /v1/lookup/reading` | 読み（かな）の完全一致 | query: `reading`（必須） |

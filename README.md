@@ -64,7 +64,23 @@ Electron 44 以降を含む新しいクライアントには、より小さい Z
 zstd -d genji.db.zst
 ```
 
-各 Release には `genji-manifest.json` と `SHA256SUMS` も含まれます。ダウンロード後は、これらを使って圧縮ファイルと解凍後の SQLite DB を検証できます。
+各 Release には、バージョン化された機械可読メタデータ `genji-manifest.json` と `SHA256SUMS` も含まれます。`SHA256SUMS` は gzip、Zstandard、manifest 自体を対象にしているため、ダウンロード後はまず圧縮ファイルを検証できます。
+
+```bash
+sha256sum --check SHA256SUMS
+```
+
+manifest の `database.sha256` と `database.size` は解凍後の `genji.db` に対する値です。たとえば gzip 版を解凍した後は次のように照合できます。
+
+```bash
+gunzip -c genji.db.gz > genji.db
+test "$(sha256sum genji.db | awk '{print $1}')" = "$(jq -r '.database.sha256' genji-manifest.json)"
+test "$(stat --format=%s genji.db)" = "$(jq -r '.database.size' genji-manifest.json)"
+```
+
+`manifestVersion` は manifest 契約のバージョンです。`release` は commit、branch、repository、ビルド日時を、`database.schema` は SQLite schema version、論理 `sqlite_schema` の SHA-256 指紋、テーブル/列/外部キー/索引の構造摘要を収録します。`database.counts` は entries、definitions、variants と各 FTS テーブルの実レコード数です。各 `assets` エントリには圧縮後のサイズ/ハッシュと `uncompressedSize` / `uncompressedSha256` が入り、Zstandard 版には frame の window、checksum、content size も記録されます。すべての size は byte 単位です。
+
+SHA-256 は転送時の完全性を検証するもので、リリース発行者の身元を認証する署名ではありません。
 
 #### クエリ例
 ```sql
@@ -93,7 +109,7 @@ ORDER BY freq ASC LIMIT 10;
 
 ```sql
 SELECT * FROM _metadata;
--- version, commit, branch, repository, build_date, entry_count
+-- version, commit, commit_short, branch, repository, build_date, entry_count, schema_version
 ```
 
 ## 🌸 青空文庫由来の語彙拡充（新語スケルトン・表記揺れ吸収）

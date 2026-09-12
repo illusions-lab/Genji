@@ -316,6 +316,8 @@ func (s *Store) Metadata() (api.Metadata, error) {
 			m.BuildDate = &val
 		case "entry_count":
 			m.EntryCount = &val
+		case "schema_version":
+			m.SchemaVersion = &val
 		}
 	}
 	return m, rows.Err()

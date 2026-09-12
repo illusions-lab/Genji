@@ -199,6 +199,8 @@ jobs:
           test "$(stat --format=%s genji.db.zst)" -lt "$(stat --format=%s genji.db.gz)"
           python3 ../script/release_assets.py manifest --version "${{ needs.build_db.outputs.version }}" --database genji.db --gzip genji.db.gz --zstd genji.db.zst --output genji-manifest.json
           sha256sum genji.db.gz genji.db.zst genji-manifest.json > SHA256SUMS
+          sha256sum --check SHA256SUMS
+          python3 ../script/release_assets.py verify --database genji.db --gzip genji.db.gz --zstd genji.db.zst --manifest genji-manifest.json --checksums SHA256SUMS
           cat genji-manifest.json
       - name: Create Release
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'

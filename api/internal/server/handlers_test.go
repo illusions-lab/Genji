@@ -104,7 +104,7 @@ func buildTestDBWithRawJSON(t *testing.T, rawJSON string) string {
 	db.Exec(`INSERT INTO definitions (entry_uuid, def_index, gloss) VALUES ('u1',1,'snow')`)
 	db.Exec(`INSERT INTO fts_entries (uuid, entry, reading_primary) VALUES ('u1','雪','ゆき')`)
 	db.Exec(`INSERT INTO fts_definitions (entry_uuid, gloss) VALUES ('u1','snow')`)
-	db.Exec(`INSERT INTO _metadata (key,value) VALUES ('version','e2e'),('entry_count','1')`)
+	db.Exec(`INSERT INTO _metadata (key,value) VALUES ('version','e2e'),('entry_count','1'),('schema_version','3')`)
 	return path
 }
 
@@ -306,6 +306,9 @@ func TestMetadataEndpoint(t *testing.T) {
 	json.Unmarshal(w.Body.Bytes(), &m)
 	if m.Version == nil || *m.Version != "e2e" {
 		t.Errorf("version = %v, want e2e", m.Version)
+	}
+	if m.SchemaVersion == nil || *m.SchemaVersion != "3" {
+		t.Errorf("schema_version = %v, want 3", m.SchemaVersion)
 	}
 }
 

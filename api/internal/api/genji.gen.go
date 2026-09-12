@@ -203,13 +203,14 @@ type Health struct {
 
 // Metadata _metadata テーブルの内容
 type Metadata struct {
-	Branch      *string `json:"branch,omitempty"`
-	BuildDate   *string `json:"build_date,omitempty"`
-	Commit      *string `json:"commit,omitempty"`
-	CommitShort *string `json:"commit_short,omitempty"`
-	EntryCount  *string `json:"entry_count,omitempty"`
-	Repository  *string `json:"repository,omitempty"`
-	Version     *string `json:"version,omitempty"`
+	Branch        *string `json:"branch,omitempty"`
+	BuildDate     *string `json:"build_date,omitempty"`
+	Commit        *string `json:"commit,omitempty"`
+	CommitShort   *string `json:"commit_short,omitempty"`
+	EntryCount    *string `json:"entry_count,omitempty"`
+	Repository    *string `json:"repository,omitempty"`
+	SchemaVersion *string `json:"schema_version,omitempty"`
+	Version       *string `json:"version,omitempty"`
 }
 
 // Reading defines model for Reading.

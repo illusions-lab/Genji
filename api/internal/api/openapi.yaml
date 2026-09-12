@@ -354,6 +354,8 @@ components:
           type: string
         entry_count:
           type: string
+        schema_version:
+          type: string
 
     Reading:
       type: object
