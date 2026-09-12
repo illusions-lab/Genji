@@ -70,8 +70,8 @@ jobs:
           path: genji.db
           retention-days: 1
 
-  # GENJI_COMPRESSION_RUNNER must name a dedicated Ubuntu x64 runner with at
-  # least 32 GB RAM and 150 GB available disk.
+  # GENJI_COMPRESSION_RUNNER must be warp-ubuntu-latest-x64-8x: an Ubuntu x64
+  # WarpBuild runner with at least 32 GB RAM and 100 GB available disk.
   compress_gzip:
     needs: build_db
     runs-on: ${{ vars.GENJI_COMPRESSION_RUNNER }}
