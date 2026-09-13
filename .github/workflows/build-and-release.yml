@@ -147,7 +147,8 @@ jobs:
           DB_SHA256=$(sha256sum genji.db | awk '{print $1}')
           DB_BYTES=$(stat --format=%s genji.db)
           /usr/bin/time -f '%e %M' -o zstd-ultra.time zstd --ultra -22 -T1 --long=27 --check --content-size --no-progress -f genji.db -o zstd-ultra.zst
-          /usr/bin/time -f '%e %M' -o zstd-max.time zstd --max -T1 --long=27 --check --content-size --no-progress -f genji.db -o zstd-max.zst
+          # --max defaults to windowLog 31, so override it explicitly for the 128 MiB decoder contract.
+          /usr/bin/time -f '%e %M' -o zstd-max.time zstd --max -T1 --zstd=wlog=27 --check --content-size --no-progress -f genji.db -o zstd-max.zst
           zstd -t zstd-ultra.zst
           zstd -t zstd-max.zst
           if [ "$(stat --format=%s zstd-max.zst)" -le "$(stat --format=%s zstd-ultra.zst)" ]; then cp zstd-max.zst genji.db.zst; SELECTED=max; else cp zstd-ultra.zst genji.db.zst; SELECTED=ultra-22; fi
