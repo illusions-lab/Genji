@@ -1,76 +1,96 @@
 # Genji Word Database
 
-https://幻辞.com
+**Genji Word Database** は、[幻辞.com](https://幻辞.com) で使用する語彙データを収録した、オープンソースの日本語語彙データベースです。
 
-幻辞.comで使用される全語彙データを収録した、オープンソースの日本語語彙データベースです。
+複数の辞書・コーパスと独自のクローリングシステムから収集したデータを統合・加工し、アプリケーションから利用しやすい **SQLite 形式** で提供しています。
 
-本リポジトリでは、複数の信頼できるソースと独自のクローリングシステムを統合・加工した語彙データを、扱いやすい **SQLite 形式** で提供しています。
+## 特徴
 
-## 📦 特徴
+- **導入が簡単**：データベースファイルをダウンロードするだけで、アプリケーションに組み込めます。
+- **継続的なデータ更新**：Genji の自動クローリングシステムを通じて語彙データを収集し、不定期にデータベースを更新します。
+- **高速な検索**：インデックスを最適化し、数十万件の語彙データを効率よく検索できます。
+- **REST API に対応**：SQLite を直接利用できない環境からも語彙を検索できます。
 
-- **SQLite 形式**: データベースファイルをダウンロードするだけで、すぐにアプリケーションに組み込み可能です。
-- **自動更新**: Genji の自動クローリングシステムにより、不定期にデータがビルドされ、常に最新の語彙が反映されます。
-- **軽量かつ高速**: インデックスが最適化されており、数十万件のデータから瞬時に検索が可能です。
+## データソース
 
-## 📂 データソース (Data Sources)
+以下のリソースから取得したデータを統合し、独自の加工を加えています。
 
-本データベースは、以下の優れたリソースを統合し、独自の加工を施したものです：
+1. **[JMdict（yomidevs/jmdict-yomitan）](https://github.com/yomidevs/jmdict-yomitan)**：辞書の語義や語彙データ。
+2. **[Japanese Word Frequency（hingston/japanese）](https://github.com/hingston/japanese)**：語彙の使用頻度と優先順位に関するデータ。
+3. **[青空文庫（aozorahack/aozorabunko_text）](https://github.com/aozorahack/aozorabunko_text)**：文学作品のコーパス。Sudachi による形態素解析を通じた未収録語の抽出、出典別の出現頻度の集計、用例（`examples.literary`）の追加に使用します。
+4. **Genji Crawler System**：独自のクローリングシステムで収集した新しい語彙や語法のデータ。
 
-1.  **[JMdict (yomidevs/jmdict-yomitan)](https://github.com/yomidevs/jmdict-yomitan)** - 広範な辞書定義および語彙データ。
-2.  **[Japanese Word Frequency (hingston/japanese)](https://github.com/hingston/japanese)** - 語彙の頻度・優先順位データ。
-3.  **[青空文庫 (aozorahack/aozorabunko_text)](https://github.com/aozorahack/aozorabunko_text)** - 文学作品コーパス。形態素解析（Sudachi）による未収録語の抽出・出典別出現頻度、および実例（`examples.literary`）の付与に使用。
-4.  **Genji Crawler System** - 独自のクローリングシステムによる最新のトレンド語彙および語法データ。
+## 利用方法
 
-## 🚀 使い方
+### REST API
 
-### API
+SQLite を直接使用できない環境向けに、**Go と Gin** で実装した OpenAPI-first の読み取り専用 REST API（`api/`）を提供しています。
 
-SQLite を直接使用できない環境向けに、Go + Gin 製の **OpenAPI-first** な REST API を提供しています（`api/`、read-only）。`genji.db` を内蔵した self-contained な Docker イメージで配布され、任意で Redis キャッシュを併用できます（未設定ならキャッシュ無効で動作）。
+API は `genji.db` を内蔵した Docker イメージとして配布しており、必要に応じて Redis によるキャッシュも利用できます。Redis を設定しない場合は、キャッシュを無効にした状態で動作します。
 
-**公開Endpoint: `https://dict-api.illusions.app`**
+~~**公開 API：** https://dict-api.illusions.app~~
+(公開APIは、2026年10月22日をもってサービスを終了しました)
 
-| メソッド・パス | 説明 |
-|---|---|
-| `GET /` | API トップ情報（バージョン・収録語数・エンドポイント一覧） |
-| `GET /v1/lookup/entry?word=雪` | 見出し語の完全一致 |
-| `GET /v1/lookup/reading?reading=ゆき` | 読みの完全一致 |
-| `GET /v1/search/entries?q=雪` | 見出し語・読みの全文検索（FTS5） |
-| `GET /v1/search/definitions?q=snow` | 語釈の全文検索（FTS5） |
-| `GET /v1/random?count=5` | ランダム取得 |
-| `GET /v1/entries/{uuid}` | UUID で取得 |
-| `GET /v1/sitemap?page=1&page_size=1000` | 対象品詞（名詞・動詞・形容詞系列）の語を熱度順にページング（sitemap 用） |
-| `GET /v1/metadata` ・ `GET /healthz` | メタデータ・ヘルスチェック |
-| `GET /docs` | API ドキュメント（Redoc） |
+#### エンドポイント
+
+| メソッド・パス | 機能 |
+| --- | --- |
+| `GET /` | API の基本情報（バージョン、収録語数、エンドポイント一覧）を取得 |
+| `GET /v1/lookup/entry?word=雪` | 見出し語で完全一致検索 |
+| `GET /v1/lookup/reading?reading=ゆき` | 読みで完全一致検索 |
+| `GET /v1/search/entries?q=雪` | 見出し語・読みを全文検索（FTS5） |
+| `GET /v1/search/definitions?q=snow` | 語義を全文検索（FTS5） |
+| `GET /v1/random?count=5` | 語彙をランダムに取得 |
+| `GET /v1/entries/{uuid}` | UUID を指定して語彙を取得 |
+| `GET /v1/sitemap?page=1&page_size=1000` | 対象品詞（名詞・動詞・形容詞系列）の語彙を熱度順にページ単位で取得（サイトマップ用） |
+| `GET /v1/metadata` | メタデータを取得 |
+| `GET /healthz` | ヘルスチェック |
+| `GET /docs` | API ドキュメント（Redoc）を表示 |
+
+#### Docker で起動する
+
+Docker イメージは GitHub Container Registry（GHCR）で公開しています。`linux/amd64` と `linux/arm64` に対応し、`genji.db` があらかじめ組み込まれています。
 
 ```bash
 docker pull ghcr.io/illusions-lab/genji-api:latest
 docker run -p 8080:8080 ghcr.io/illusions-lab/genji-api:latest
-# http://localhost:8080/docs で仕様を閲覧
 ```
 
-詳細は [`api/README.md`](./api/README.md) を参照してください。
+ローカルのソースコードからビルドして起動する場合は、次のコマンドを実行します。
 
-### SQLite を直接使用する
+```bash
+docker compose up -d --build
+```
 
-[Releases](/releases) ページから最新の `genji.db.gz` をダウンロードし、解凍して使用してください。既存のツールとの互換性が必要な場合は gzip 版を選んでください。
+起動後は `http://localhost:8080` で API にアクセスでき、`http://localhost:8080/docs` で API 仕様を確認できます。ビルドオプション（`GENJI_DB_SOURCE` など）や Redis の設定については、[`api/README.md`](./api/README.md) を参照してください。
+
+### SQLite データベース
+
+#### ダウンロードと解凍
+
+[Releases](/releases) ページから `genji.db.gz` をダウンロードし、解凍して使用してください。既存のツールとの互換性を重視する場合は、gzip 版を利用できます。
 
 ```bash
 gunzip genji.db.gz
 ```
 
-Electron 44 以降を含む新しいクライアントには、より小さい Zstandard 版の `genji.db.zst` を推奨します。
+Electron 44 以降を含む新しいクライアントには、ファイルサイズの小さい Zstandard 版（`genji.db.zst`）を推奨します。
 
 ```bash
 zstd -d genji.db.zst
 ```
 
-各 Release には、バージョン化された機械可読メタデータ `genji-manifest.json` と `SHA256SUMS` も含まれます。`SHA256SUMS` は gzip、Zstandard、manifest 自体を対象にしているため、ダウンロード後はまず圧縮ファイルを検証できます。
+#### ファイルの整合性確認
+
+各リリースには、機械可読なメタデータファイル `genji-manifest.json` とチェックサムファイル `SHA256SUMS` が含まれています。
+
+`SHA256SUMS` には gzip 版、Zstandard 版、および manifest 自体のチェックサムが記録されています。圧縮ファイルを解凍する前に、次のコマンドで確認できます。
 
 ```bash
 sha256sum --check SHA256SUMS
 ```
 
-manifest の `database.sha256` と `database.size` は解凍後の `genji.db` に対する値です。たとえば gzip 版を解凍した後は次のように照合できます。
+manifest に記録されている `database.sha256` と `database.size` は、解凍後の `genji.db` のハッシュ値とファイルサイズです。gzip 版では次のように照合できます。
 
 ```bash
 gunzip -c genji.db.gz > genji.db
@@ -78,11 +98,24 @@ test "$(sha256sum genji.db | awk '{print $1}')" = "$(jq -r '.database.sha256' ge
 test "$(stat --format=%s genji.db)" = "$(jq -r '.database.size' genji-manifest.json)"
 ```
 
-`manifestVersion` は manifest 契約のバージョンです。`release` は commit、branch、repository、ビルド日時を、`database.schema` は SQLite schema version、論理 `sqlite_schema` の SHA-256 指紋、テーブル/列/外部キー/索引の構造摘要を収録します。`database.counts` は entries、definitions、variants と各 FTS テーブルの実レコード数です。各 `assets` エントリには圧縮後のサイズ/ハッシュと `uncompressedSize` / `uncompressedSha256` が入り、Zstandard 版には frame の window、checksum、content size も記録されます。すべての size は byte 単位です。
+SHA-256 によって確認できるのはファイルの完全性です。リリースの発行元を認証する電子署名ではありません。
 
-SHA-256 は転送時の完全性を検証するもので、リリース発行者の身元を認証する署名ではありません。
+#### リリースメタデータ
 
-#### クエリ例
+`genji-manifest.json` には、次の情報が記録されています。
+
+| フィールド | 内容 |
+| --- | --- |
+| `manifestVersion` | manifest の仕様バージョン |
+| `release` | コミット、ブランチ、リポジトリ、ビルド日時 |
+| `database.schema` | SQLite のスキーマバージョン、論理 `sqlite_schema` の SHA-256 ハッシュ、テーブル・列・外部キー・インデックスの構造概要 |
+| `database.counts` | `entries`、`definitions`、`variants` および各 FTS テーブルの実際のレコード数 |
+| `assets` | 圧縮ファイルごとのサイズ・ハッシュ、および `uncompressedSize`・`uncompressedSha256` |
+
+Zstandard 版については、フレームのウィンドウサイズ、チェックサム、コンテンツサイズも記録されます。サイズの単位はすべてバイトです。
+
+#### SQL クエリの例
+
 ```sql
 -- 見出し語で検索
 SELECT raw_json FROM entries WHERE entry = '幻辞';
@@ -103,118 +136,126 @@ FROM entries WHERE freq IS NOT NULL
 ORDER BY freq ASC LIMIT 10;
 ```
 
-#### メタデータの確認
+#### ビルド情報の確認
 
-データベースにはビルド情報を格納する `_metadata` テーブルが含まれています。
+データベースには、ビルド情報を記録した `_metadata` テーブルがあります。
 
 ```sql
 SELECT * FROM _metadata;
 -- version, commit, commit_short, branch, repository, build_date, entry_count, schema_version
 ```
 
-## 🌸 青空文庫由来の語彙拡充（新語スケルトン・表記揺れ吸収）
+## 青空文庫コーパスによる語彙の拡充
 
-青空文庫コーパスを形態素解析（Sudachi）して未収録語を抽出し、語彙を継続的に拡充しています（`script/extract_new_words.py` → `script/create_entries.py`）。この過程で次のデータ・メタフィールドが追加されます。
+青空文庫のテキストを Sudachi で形態素解析し、未収録語を抽出して語彙データを拡充しています。処理には `script/extract_new_words.py` と `script/create_entries.py` を使用します。
 
-### 追加された `meta` フィールド
+この処理では、新しい語彙データとともに以下のメタデータを追加します。
 
-| フィールド | 型 | 意味 |
-|---|---|---|
-| `meta.frequencies` | `object` | 出典別の総出現回数。例: `{"aozora": 1234}`。 |
-| `meta.variant_writings` | `string[]` | 既存エントリへ吸収した**異表記**（旧字体・歴史的仮名遣い）。例: `亜` に `["亞"]`、`居る` に `["ゐる"]`、`来` に `["來"]`。検索のエイリアスとして利用できます。 |
-| `meta.needs_gloss` | `bool` | `true` の場合、語義（`definitions[*].gloss`）が**未生成のスケルトン**。読み・品詞・青空文庫実例（`examples.literary`）のみ確定済みで、語義は後続のバックフィルで埋められます。 |
-| `meta.needs_reading` | `bool` | `true` の場合、読み（`reading.primary`）が未確定。正式な `data/` には入れず、`pending/needs_reading/` で人工確認を待ちます。 |
+### 追加される `meta` フィールド
 
-> **⚠️ 注意:** `meta.needs_gloss = true` のエントリは `definitions[*].gloss` が空文字です。語義の有無で絞り込む場合は次のように除外してください。
->
-> ```sql
-> -- 語義が確定済みのエントリのみ
-> SELECT e.entry, d.gloss FROM entries e
-> JOIN definitions d ON d.entry_uuid = e.uuid
-> WHERE d.gloss <> '' AND json_extract(e.meta, '$.needs_gloss') IS NULL;
-> ```
+| フィールド | 型 | 説明 |
+| --- | --- | --- |
+| `meta.frequencies` | `object` | 出典別の出現回数。例：`{"aozora": 1234}` |
+| `meta.variant_writings` | `string[]` | 既存の見出し語に統合した異表記（旧字体・歴史的仮名遣い）。例：`亜` に `["亞"]`、`居る` に `["ゐる"]`、`来` に `["來"]`。検索時の別表記として利用可能 |
+| `meta.needs_gloss` | `bool` | `true` の場合、語義が未登録の暫定エントリ。読み・品詞・青空文庫の用例（`examples.literary`）は確定済みで、語義は後続の処理で補完 |
+| `meta.needs_reading` | `bool` | `true` の場合、読み（`reading.primary`）が未確定。正式な `data/` には保存せず、`pending/needs_reading/` に隔離して人手による確認を待つ |
 
-旧字体・歴史的仮名遣いの表記は、可能な限り現代表記の見出しへ正規化（`ゐる→居る`・`來→来`・`氣→気` 等）して吸収し、原表記は `meta.variant_writings` に保持します。
+> **注意：** `meta.needs_gloss = true` のエントリでは、`definitions[*].gloss` が空文字列になっています。語義が登録済みのエントリのみを取得するには、次のように絞り込んでください。
 
-## 🔤 活用型（ctype）の正規化・補完
+```sql
+-- 語義が登録済みのエントリのみ取得
+SELECT e.entry, d.gloss FROM entries e
+JOIN definitions d ON d.entry_uuid = e.uuid
+WHERE d.gloss <> '' AND json_extract(e.meta, '$.needs_gloss') IS NULL;
+```
 
-`grammar.ctype` には動詞・形容詞の活用型を格納します。活用型が設定されている
-場合は、次の任意フィールドで由来と信頼度も表現できます。
+旧字体や歴史的仮名遣いの表記は、可能な限り現代表記の見出し語へ正規化して統合します（例：`ゐる → 居る`、`來 → 来`、`氣 → 気`）。元の表記は `meta.variant_writings` に保持します。
 
-| フィールド | 値 | 意味 |
-|---|---|---|
-| `grammar.ctype_source` | `existing` / `pos-derived` / `manual` | 既存値、`grammar.pos` からの保守的な推導、または人工指定。 |
-| `grammar.ctype_confidence` | `high` / `medium` / `low` | 活用型の信頼度。自動補完は `high`、未知の既存値は保持した上で `medium`。`low` は将来の人工・他ソース用。 |
+## 活用型（`ctype`）の正規化と補完
 
-補完スクリプトは既存の非空 `ctype` を常に優先し、空値については POS が示す
-候補が一種類だけのときに限って補完します。複数候補の衝突や、汎用的な
-`動詞`・`助動詞`・`形容動詞` だけのエントリは変更しません。既定動作は
-読み取り専用の dry-run です。
+`grammar.ctype` には、動詞や形容詞の活用型を格納します。活用型が設定されている場合、次の任意フィールドに値の由来と信頼度を記録できます。
+
+| フィールド | 値 | 説明 |
+| --- | --- | --- |
+| `grammar.ctype_source` | `existing` / `pos-derived` / `manual` | 既存の値、`grammar.pos` に基づく限定的な推定、または手動指定 |
+| `grammar.ctype_confidence` | `high` / `medium` / `low` | 活用型の信頼度。自動補完した値は `high`、判定できない既存値は保持して `medium` とする。`low` は将来の手動確認や他のデータソースに備えた値 |
+
+補完スクリプトでは、既存の空でない `ctype` を常に優先します。値が空の場合も、品詞情報から活用型の候補が一つに絞れる場合に限り補完します。候補が複数ある場合や、品詞が単に `動詞`・`助動詞`・`形容動詞` とだけ記録されている場合は変更しません。
+
+標準の動作は、ファイルを変更しない **dry-run** です。
 
 ```bash
-# 全データを走査して集計だけ表示（JSON は変更しない）
+# 全データを走査して集計結果のみ表示（JSON は変更しない）
 python3 script/backfill_ctype.py
 
-# 衝突明細を含む機械可読レポートも保存
+# 衝突の詳細を含む機械可読レポートを保存
 python3 script/backfill_ctype.py --report ctype-report.json
 
-# 別のデータルートを検査
+# 別のデータディレクトリを検査
 python3 script/backfill_ctype.py --data-dir /path/to/data
 
-# 明示指定した場合のみ、各 JSON を同一ディレクトリ内で原子的に置換
+# 明示的に指定した場合のみ、各 JSON ファイルを同じディレクトリ内で原子的に置換
 python3 script/backfill_ctype.py --apply
 ```
 
-`--apply` 後は `ctype_source` と `ctype_confidence` を SQLite の `entries` 表へ
-反映するため、`make db` で `genji.db` を再構築してください。SQLite schema と
-`PRAGMA user_version` は version 3 です。
+`--apply` を実行した後は、`ctype_source` と `ctype_confidence` を SQLite の `entries` テーブルへ反映するため、`make db` で `genji.db` を再構築してください。
 
-## 🔎 詞条データ品質検査
+SQLite のスキーマバージョンと `PRAGMA user_version` は **3** です。
 
-`data/` は読音が確定した正式データ専用です。読音解析に失敗した候補（漢字が
-残る `阿輩だい`、漢字をそのまま読音にした `於蘭`、不正な濁点など）は
-`pending/needs_reading/` に隔離され、SQLite には収録されません。待審データは
-先頭文字の Unicode コードポイント範囲別に配置されます。
+## 語彙データの品質検査
 
-品質規則は Python 同梱の Unicode Character Database (UCD) を参照します。硬錯誤
-（終了碼 1）は SQLite 建置與 CI を阻擋し、內容上の疑点は警告（終了碼 0）として
-人工審査に回します。
+正式な語彙データは `data/` に格納します。読みが確定していない候補は `pending/needs_reading/` に隔離し、SQLite には収録しません。
 
-- UUIDv5 の形式、全域一意性、`entry:reading.primary` からの再現性
-- 読音（代替読音を含む）の Unicode、配列重複、歴史的仮名 `ゟ`、錯置濁点
-- definition の連続 index、gloss / `needs_gloss`、grammar、relations、meta、frequency の型と範囲
-- 例句 object と非空 text、および同一定義内の NFC＋trim 後の重複
-- パス NFC、255-byte component 制限、正規化／大小文字衝突、読音から計算した配置
-- 正式データの `needs_reading` 禁止と、待審データの同 marker 必須
+隔離の対象には、読みの中に漢字が残っているもの（例：`阿輩だい`）、漢字をそのまま読みとして登録したもの（例：`於蘭`）、不正な濁点を含むものなどがあります。確認待ちのデータは、先頭文字の Unicode コードポイント範囲ごとに保存します。
 
-未知詞性、異常に長い見出し／読音、標準例句なし、存在しない relation target は
-警告です。AI による意味判断や曖昧な類似例句の削除は行いません。
+品質検査には、Python に付属する Unicode Character Database（UCD）を使用します。重大なエラーが見つかった場合は終了コード `1` を返し、SQLite のビルドと CI を停止します。内容の確認が必要なものは警告として扱い、終了コード `0` のまま人手による確認に回します。
+
+### 主な検査項目
+
+- UUIDv5 の形式、データ全体での一意性、`entry:reading.primary` からの再現性
+- 読みと代替読みの Unicode 妥当性、配列内の重複、歴史的仮名 `ゟ`、不適切な濁点の位置
+- `definition` の連続した `index`、`gloss` と `needs_gloss`、`grammar`、`relations`、`meta`、`frequency` の型と値の範囲
+- 用例オブジェクトの形式と空でない `text`、同一定義内における NFC 正規化・前後の空白除去後の重複
+- ファイルパスの NFC 正規化、各パス構成要素の 255 バイト制限、正規化や大文字・小文字の違いによる名前の衝突、読みから算出した保存先との整合性
+- 正式データにおける `needs_reading` の禁止、および確認待ちデータにおける同フィールドの必須指定
+
+未知の品詞、極端に長い見出し語や読み、標準的な用例の欠落、参照先が存在しない `relation` は警告として扱います。AI による意味の判定や、類似しているだけの用例の削除は行いません。
+
+### 品質検査と修復
 
 ```bash
-# 読み取り専用の全件検査（問題があれば終了コード 1）
+# 全件検査（読み取り専用。重大なエラーがあれば終了コード 1）
 make quality
 
-# 安全で冪等な修復（隔離、待審 marker、配列、index、exact 例句、重複 record）
+# 安全で冪等な修復（隔離、確認待ちフラグ、配列、index、完全一致する用例、重複レコード）
 python3 script/check_data_quality.py --fix
 
-# severity → code → data/pending でグループ化した機械可読レポート
+# 重要度・エラーコード・data/pending の区分ごとに整理した機械可読レポート
 python3 script/check_data_quality.py --json > quality-report.json
 
-# UUIDv5 遷移は一般修復と分離。--apply 時は対照表の指定が必須
+# UUIDv5 への移行は一般の修復処理とは分けて実施。--apply には対応表が必要
 python3 script/migrate_uuids.py --map migrations/uuid-v5.json --apply
 
-# 読音を人工補完し needs_reading を削除、UUID 遷移後に正式領域へ昇格
+# 読みを手動で補完し、needs_reading を削除して UUID を移行した候補を正式データに昇格
 python3 script/promote_pending.py pending/needs_reading/U+4E00-U+4EFF/候補.json
 python3 script/promote_pending.py --apply pending/needs_reading/U+4E00-U+4EFF/候補.json
 ```
 
-待審讀音は、完整詞条に対する JMdict / JMnedict の一意な読音、または二つ以上の
-異なる青空文庫テキストで一致する明示 Ruby だけを自動解決できます。単字の音訓、
-部分語の組み合わせ、形態素解析器や生成 AI による推測は使用しません。曖昧・衝突・
-疑似語幹の候補は `pending/needs_reading/` に残ります。
+`script/json_to_sqlite.py` は、正式データが入った `data/` の重大なエラーのみをビルド前に検査します。一方、`make quality` と CI では確認待ちのデータも含めて検査します。
+
+通常の `--fix` では UUID を変更しません。UUID を移行する場合は、旧 UUID・新 UUID・見出し語・読み・元のファイルパスを必ず台帳に記録します。
+
+### 確認待ちの読みの解決
+
+確認待ちの読みは、次のいずれかの根拠がある場合に限り、自動的に確定できます。
+
+- JMdict または JMnedict に、見出し語全体と一致する一意な読みがある場合
+- 異なる二つ以上の青空文庫テキストで、見出し語全体に対して明示されたルビが一致する場合
+
+漢字一字ごとの音読み・訓読み、語の一部を組み合わせた読み、形態素解析器や生成 AI による推測は採用しません。読みが曖昧な候補、根拠が矛盾する候補、語幹の一部にすぎない可能性がある候補は `pending/needs_reading/` に残します。
 
 ```bash
-# 読み取り専用。JSON と CSV の審査レポートを生成
+# 読み取り専用。審査用の JSON と CSV レポートを生成
 python3 script/resolve_pending_readings.py \
   --jmdict /path/to/JMdict.gz \
   --jmnedict /path/to/JMnedict.xml.gz \
@@ -223,7 +264,7 @@ python3 script/resolve_pending_readings.py \
   --report /tmp/pending-readings.json \
   --decision-ledger migrations/pending-reading-decisions-YYYY-MM-DD.json
 
-# 承認済みの決定だけを適用。完全レポート、決定台帳、UUID 台帳が必須
+# 承認済みの判定のみを適用（完全なレポート・決定台帳・UUID 台帳が必要）
 python3 script/resolve_pending_readings.py --apply \
   --jmdict /path/to/JMdict.gz \
   --jmnedict /path/to/JMnedict.xml.gz \
@@ -234,23 +275,15 @@ python3 script/resolve_pending_readings.py --apply \
   --review-approvals /path/to/reviewer-approvals.json
 ```
 
-決定台帳は各 pending UUID と原パスに対して `promote`、`merge_fragment`、
-`reject_fragment`、`keep_pending`、`conflict` のいずれか一件を保持します。根拠 URL、
-source tier、取得時刻、内容 SHA-256 と evidence chain を併記し、同一入力の再実行では
-report と ledger を変更しません。一般 Web 情報による昇格と全ての fragment 変更は、
-対象 `decision_id`、action、reviewer を記した approval がなければ適用できません。
-rejected へ移す原 record は変更せず保存されるため、決定台帳から復元できます。
+決定台帳には、確認待ちの各 UUID と元のファイルパスに対して、`promote`、`merge_fragment`、`reject_fragment`、`keep_pending`、`conflict` のいずれか一つの判定を記録します。あわせて、根拠となる URL、情報源の区分（source tier）、取得時刻、内容の SHA-256、根拠の連鎖（evidence chain）も保持します。同じ入力で再実行しても、レポートと台帳は変更されません。
 
-`script/json_to_sqlite.py` は正式 `data/` の硬錯誤だけをビルド前に検査します。
-`make quality` と CI は待審領域も含めた完全検査を行います。一般 `--fix` は UUID を
-変更せず、UUID 遷移は必ず旧値・新値・見出し・読音・原パスを台帳に残します。
+一般の Web 情報を根拠とした正式データへの昇格や、断片的なエントリの変更には、対象の `decision_id`、`action`、`reviewer` を記録した承認が必要です。却下した元のレコードは変更せずに保存するため、決定台帳を使って復元できます。
 
-### ローカル LLM を使う残存読音の審査
+### ローカル LLM による読みの審査支援
 
-`resolve_pending_with_llm.py` は、機械で確定できる処理を先に行います。完全一致の
-辞書見出し、旧字体を正規化した既存見出し、KANJIDIC2 から組み立てた有限の読音候補
-を使い、OpenAI 互換のローカル API（既定は LM Studio）には残存候補の審査だけを
-依頼します。API の自由生成した読音は受理しません。
+`script/resolve_pending_with_llm.py` では、まず機械的に判定できる候補を処理します。辞書の見出し語との完全一致、旧字体を正規化した既存の見出し語、KANJIDIC2 から構成した有限個の読みの候補を使用します。
+
+OpenAI 互換のローカル API（標準設定では LM Studio）には、残った候補の審査のみを依頼します。LLM が自由生成した読みは採用しません。
 
 ```bash
 python3 script/resolve_pending_with_llm.py \
@@ -262,30 +295,11 @@ python3 script/resolve_pending_with_llm.py \
   --review-queue /tmp/genji-gemma-review.json
 ```
 
-長時間の呼出しは JSONL checkpoint から再開できます。二回の判定が一致しても、
-LLM の結果は常に独立した review queue の提案に留まり、読音や破棄を直接適用できません。
-`--trust-llm` と正式 `--apply` の併用は拒否されます。Web cache は検索摘要ではなく、
-完全見出しページの解析結果、URL、取得時刻、response SHA-256 を保存します。既存の
-確定 cache は一時的なサイト障害で上書きしません。
+長時間の処理は、JSONL 形式のチェックポイントから再開できます。二度の判定結果が一致した場合でも、LLM の出力は独立したレビューキューへの提案にとどまり、読みの確定やデータの破棄には直接反映されません。また、`--trust-llm` と正式データへの `--apply` は併用できません。
 
-### Docker
+Web キャッシュには検索結果の要約ではなく、見出し語全体のページを解析した結果、URL、取得時刻、レスポンスの SHA-256 を保存します。検証済みのキャッシュは、一時的なサイト障害によって上書きされません。
 
-API の Docker イメージは GHCR で配布しています（`linux/amd64` / `linux/arm64` 対応、`genji.db` 内蔵）。
-
-```bash
-docker pull ghcr.io/illusions-lab/genji-api:latest
-docker run -p 8080:8080 ghcr.io/illusions-lab/genji-api:latest
-```
-
-ローカルからビルドして起動する場合:
-
-```bash
-docker compose up -d --build
-```
-
-`http://localhost:8080` で API、`http://localhost:8080/docs` で仕様を閲覧できます。
-詳細なビルドオプション（`GENJI_DB_SOURCE` や Redis 併用）は [`api/README.md`](./api/README.md) を参照してください。
-
+---
 
 <div align="right">
   <a href="https://www.art.nihon-u.ac.jp/education/department/literature/">
